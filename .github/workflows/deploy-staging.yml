@@ -61,3 +61,19 @@ jobs:
 # What stays here is the check: the generator has to be able to build the
 # whole site from this archive, so content that would break the site is
 # caught in the repository that holds the content.
+  # Content changed, so the site is stale: tell the repository that publishes
+  # it. Gated on the tests above, so content the generator cannot build a
+  # whole site from never triggers a deploy. The token behind this dispatch
+  # (ARCHIVE_ACTION_WRITE_SECRET) can do one thing: start workflows on the
+  # website repository.
+  rebuild-site:
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tell the website to rebuild
+        env:
+          GH_TOKEN: ${{ secrets.ARCHIVE_ACTION_WRITE_SECRET }}
+        run: |
+          gh workflow run deploy-staging.yml -R ToolAssisted-run/website \
+            --ref main -f reason=archive-content
+          echo "asked the website to rebuild from this archive"
