@@ -65,6 +65,15 @@
    "by": "eien86",
    "date": "2026-08-18",
    "reason": "Seated by the Founder. He's steering committee"
+  },
+  {
+   "user": "GMP",
+   "role": "expert",
+   "scope": "site",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-08-18",
+   "reason": "He's steering committee"
   }
  ]
 }
