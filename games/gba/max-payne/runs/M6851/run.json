@@ -9,7 +9,11 @@
    "user": "toca"
   }
  ],
- "tools": [],
+ "tools": [
+  {
+   "name": "AdvancedBot"
+  }
+ ],
  "movie": {
   "file": "M6851.bk2",
   "format": "bk2",
