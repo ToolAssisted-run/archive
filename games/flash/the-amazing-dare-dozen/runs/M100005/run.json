@@ -29,7 +29,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -40,5 +40,11 @@
  ],
  "attachments": [],
  "submitted": "2026-08-18T16:31:27Z",
- "submittedBy": "GMP"
+ "submittedBy": "GMP",
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-08-18"
+  }
+ ]
 }
