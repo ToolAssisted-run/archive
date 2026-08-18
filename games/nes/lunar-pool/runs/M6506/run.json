@@ -1,0 +1,51 @@
+{
+ "id": "M6506",
+ "game": "nes/lunar-pool",
+ "category": {
+  "goal": "maximum-friction"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6506.bk2",
+  "format": "bk2",
+  "frames": 111031,
+  "rerecords": 6791,
+  "start": "power-on",
+  "sha1": "2f69a79dfc3232b8914aa87c6b6eb7a9edf682f5"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.10 (Core: QuickerNES)",
+  "rom": {
+   "name": "Lunar Ball (J) [!].nes",
+   "sha1": "aa5c574a4743991a3523dfd78a39d782bede262a"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6506M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Dltbm7qMmMM"
+  }
+ ],
+ "submitted": "2025-04-24T11:32:15.308039",
+ "attachments": [],
+ "forum": {
+  "topicId": 366,
+  "url": "https://forum.toolassisted.run/t/366"
+ }
+}

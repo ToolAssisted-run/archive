@@ -1,0 +1,49 @@
+{
+ "id": "M6700",
+ "game": "gc/yu-gi-oh-the-falsebound-kingdom",
+ "category": {
+  "goal": "challenge-mode"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6700.dtm",
+  "format": "dtm",
+  "frames": 66713,
+  "rerecords": 1717,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-20571",
+  "rom": {
+   "name": "Yu-Gi-Oh! The Falsebound Kingdom (USA).rvz"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6700M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=mp4uI1eyOek"
+  }
+ ],
+ "submitted": "2025-08-21T11:57:50.397865",
+ "attachments": [],
+ "forum": {
+  "topicId": 631,
+  "url": "https://forum.toolassisted.run/t/631"
+ }
+}

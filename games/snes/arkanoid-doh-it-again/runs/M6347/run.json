@@ -1,0 +1,51 @@
+{
+ "id": "M6347",
+ "game": "snes/arkanoid-doh-it-again",
+ "category": {
+  "goal": "warpless"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6347.bk2",
+  "format": "bk2",
+  "frames": 209665,
+  "rerecords": 1853,
+  "start": "power-on",
+  "sha1": "80b6d931e8ae68791edce3956d0f6212e097b323"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Arkanoid - Doh It Again (J) [!].smc",
+   "sha1": "03f839819a253eed9a928d8d7cc80fcc245ab23d"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6347M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=LgdodAMCQsw"
+  }
+ ],
+ "submitted": "2025-01-15T10:49:46.463862",
+ "attachments": [],
+ "forum": {
+  "topicId": 426,
+  "url": "https://forum.toolassisted.run/t/426"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M6538",
+ "game": "nes/the-goonies-ii",
+ "category": {
+  "goal": "no-super-jumps"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6538.fm2",
+  "format": "fm2",
+  "frames": 52488,
+  "rerecords": 5944,
+  "start": "power-on",
+  "sha1": "290330c522f545363b4940b106a084dbdb8a9e27"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Goonies II, The (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6538M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OLaK0XEydmY"
+  }
+ ],
+ "submitted": "2025-05-09T12:13:17.449245",
+ "attachments": [],
+ "forum": {
+  "topicId": 550,
+  "url": "https://forum.toolassisted.run/t/550"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M6737",
+ "game": "gba/crash-bandicoot-purple-riptos-rampage",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6737.bk2",
+  "format": "bk2",
+  "frames": 129812,
+  "rerecords": 21864,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen! (Japan).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6737M",
+  "importedBy": "toca",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=D7T01J1bpRk"
+  }
+ ],
+ "submitted": "2025-09-17T04:21:44.835094",
+ "attachments": [],
+ "forum": {
+  "topicId": 668,
+  "url": "https://forum.toolassisted.run/t/668"
+ }
+}

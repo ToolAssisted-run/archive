@@ -1,0 +1,50 @@
+{
+ "id": "M6345",
+ "game": "snes/bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen",
+ "category": {
+  "goal": "easiest-difficulty"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6345.bk2",
+  "format": "bk2",
+  "frames": 14397,
+  "rerecords": 8013,
+  "start": "power-on",
+  "sha1": "5c0bc344c31d56365ea38731e273d4f78204b929"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.9.1",
+  "rom": {
+   "name": "Bisyoujyo Senshi Sailor Moon S - Jougai Rantou (J).smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6345M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DTjVlEiboLk"
+  }
+ ],
+ "submitted": "2025-01-13T08:34:27.285309",
+ "attachments": [],
+ "forum": {
+  "topicId": 572,
+  "url": "https://forum.toolassisted.run/t/572"
+ }
+}

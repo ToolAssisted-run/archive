@@ -1,0 +1,35 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "baseline",
+     "label": "fastest completion",
+     "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "no-friction",
+     "label": "no friction",
+     "rule": "Imported from TASVideos as \"no friction\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "no-friction-minimum-strikes",
+     "label": "no friction, minimum strikes",
+     "rule": "Imported from TASVideos as \"no friction, minimum strikes\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "minimum-strikes",
+     "label": "minimum strikes",
+     "rule": "Imported from TASVideos as \"minimum strikes\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "maximum-friction",
+     "label": "maximum friction",
+     "rule": "Imported from TASVideos as \"maximum friction\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

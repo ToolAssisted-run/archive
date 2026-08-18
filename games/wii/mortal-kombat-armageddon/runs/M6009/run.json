@@ -1,0 +1,49 @@
+{
+ "id": "M6009",
+ "game": "wii/mortal-kombat-armageddon",
+ "category": {
+  "goal": "endurance"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6009.dtm",
+  "format": "dtm",
+  "frames": 21383,
+  "rerecords": 1683,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0 20571",
+  "rom": {
+   "name": "Dolphin 5.0 20571"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6009M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xURPoq6hPZA"
+  }
+ ],
+ "submitted": "2024-06-20T17:29:22.417641",
+ "attachments": [],
+ "forum": {
+  "topicId": 614,
+  "url": "https://forum.toolassisted.run/t/614"
+ }
+}

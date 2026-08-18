@@ -1,0 +1,51 @@
+{
+ "id": "M6928",
+ "game": "dos/druglord",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6928.bk2",
+  "format": "bk2",
+  "frames": 21473,
+  "rerecords": 7113,
+  "start": "power-on",
+  "sha1": "21bea4e9f314f50a2c4a7a7ff3ce6f541a41881e"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "TAS_CD.iso",
+   "sha1": "ec6af0b96bd2b3ad7d92c360335776901beef903"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6928M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=e3gvWltXD3k"
+  }
+ ],
+ "submitted": "2025-12-31T12:24:07.927662",
+ "attachments": [],
+ "forum": {
+  "topicId": 254,
+  "url": "https://forum.toolassisted.run/t/254"
+ }
+}

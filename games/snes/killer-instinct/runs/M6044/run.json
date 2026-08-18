@@ -1,0 +1,49 @@
+{
+ "id": "M6044",
+ "game": "snes/killer-instinct",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6044.bk2",
+  "format": "bk2",
+  "frames": 28482,
+  "rerecords": 4010,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Killer Instinct (USA) (Rev 1).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6044M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ycb_wgUUEEQ"
+  }
+ ],
+ "submitted": "2024-07-14T21:08:39.837806",
+ "attachments": [],
+ "forum": {
+  "topicId": 615,
+  "url": "https://forum.toolassisted.run/t/615"
+ }
+}

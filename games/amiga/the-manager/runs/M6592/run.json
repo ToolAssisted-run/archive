@@ -1,0 +1,51 @@
+{
+ "id": "M6592",
+ "game": "amiga/the-manager",
+ "category": {
+  "goal": "win-all-matches"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6592.bk2",
+  "format": "bk2",
+  "frames": 308980,
+  "rerecords": 348,
+  "start": "power-on",
+  "sha1": "1ded95710b109104dac621315b22ffa265be85b9"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Manager, The v2.0 (1992)(U.S. Gold)(Disk 1 of 3).adf",
+   "sha1": "5183e75ba7466f1d93f109678633e7bb763964be"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6592M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Yxskkn88EJc"
+  }
+ ],
+ "submitted": "2025-06-10T17:34:57.824486",
+ "attachments": [],
+ "forum": {
+  "topicId": 40,
+  "url": "https://forum.toolassisted.run/t/40"
+ }
+}

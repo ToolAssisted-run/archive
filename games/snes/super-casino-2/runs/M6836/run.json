@@ -1,0 +1,51 @@
+{
+ "id": "M6836",
+ "game": "snes/super-casino-2",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6836.bk2",
+  "format": "bk2",
+  "frames": 8872,
+  "rerecords": 2728,
+  "start": "power-on",
+  "sha1": "7d4476182ec0d228f92f3762f2f99db04911c2e0"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Super Casino 2 (J).smc",
+   "sha1": "7a5148cc2029ce786d9d4ae62be3a1f2784e6a46"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6836M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=pewh2kObNq4"
+  }
+ ],
+ "submitted": "2025-11-24T01:42:39.462698",
+ "attachments": [],
+ "forum": {
+  "topicId": 436,
+  "url": "https://forum.toolassisted.run/t/436"
+ }
+}

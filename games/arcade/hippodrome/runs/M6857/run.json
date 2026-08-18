@@ -1,0 +1,50 @@
+{
+ "id": "M6857",
+ "game": "arcade/hippodrome",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6857.bk2",
+  "format": "bk2",
+  "frames": 10789,
+  "rerecords": 2617,
+  "start": "power-on",
+  "sha1": "95223441f933171197a45b44ec7fa438c8e69a45"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "hippodrm.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6857M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=BoMTHRo25P4"
+  }
+ ],
+ "submitted": "2025-11-30T13:40:39.460366",
+ "attachments": [],
+ "forum": {
+  "topicId": 453,
+  "url": "https://forum.toolassisted.run/t/453"
+ }
+}

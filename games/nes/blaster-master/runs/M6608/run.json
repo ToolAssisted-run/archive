@@ -1,0 +1,50 @@
+{
+ "id": "M6608",
+ "game": "nes/blaster-master",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6608.fm2",
+  "format": "fm2",
+  "frames": 12763,
+  "rerecords": 4856,
+  "start": "power-on",
+  "sha1": "7179fd16eefc5c79a8b91b0f815d6d28d32f5ab1"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Blaster Master (E) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6608M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2DXrdWV98hg"
+  }
+ ],
+ "submitted": "2025-06-21T01:43:29.657214",
+ "attachments": [],
+ "forum": {
+  "topicId": 537,
+  "url": "https://forum.toolassisted.run/t/537"
+ }
+}

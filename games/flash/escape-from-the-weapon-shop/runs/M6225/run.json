@@ -1,0 +1,50 @@
+{
+ "id": "M6225",
+ "game": "flash/escape-from-the-weapon-shop",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6225.ltm",
+  "format": "ltm",
+  "frames": 235,
+  "rerecords": 81,
+  "start": "power-on",
+  "sha1": "0035de332f189aa244096c2802997159585aab3c"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "weaponshop_en_520x456.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6225M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-vmdD859lTM"
+  }
+ ],
+ "submitted": "2024-10-10T07:21:05.723052",
+ "attachments": [],
+ "forum": {
+  "topicId": 489,
+  "url": "https://forum.toolassisted.run/t/489"
+ }
+}

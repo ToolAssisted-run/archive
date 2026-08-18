@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "baseline",
+     "label": "fastest completion",
+     "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "demo-glitch",
+     "label": "demo glitch",
+     "rule": "Imported from TASVideos as \"demo glitch\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

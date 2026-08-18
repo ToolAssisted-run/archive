@@ -1,0 +1,49 @@
+{
+ "id": "M4638",
+ "game": "dos/prince-of-persia-2-the-shadow-and-the-flame",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4638.ltm",
+  "format": "ltm",
+  "frames": 88745,
+  "rerecords": 1068,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.3 + PCem v17+st-1",
+  "rom": {
+   "name": "pop2ir.iso"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4638M",
+  "importedBy": "GMP",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bVoebAC-6GQ"
+  }
+ ],
+ "submitted": "2022-04-24T10:45:41.505744",
+ "attachments": [],
+ "forum": {
+  "topicId": 472,
+  "url": "https://forum.toolassisted.run/t/472"
+ }
+}

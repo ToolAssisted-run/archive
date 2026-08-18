@@ -1,0 +1,50 @@
+{
+ "id": "M6683",
+ "game": "snes/batman",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6683.bk2",
+  "format": "bk2",
+  "frames": 3685,
+  "rerecords": 1924,
+  "start": "power-on",
+  "sha1": "18a283c8a3e5b1b29d29397b2077eeb73a947754"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Batman (USA) (Proto).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6683M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=vSBLGq3It04"
+  }
+ ],
+ "submitted": "2025-08-13T06:59:31.119353",
+ "attachments": [],
+ "forum": {
+  "topicId": 571,
+  "url": "https://forum.toolassisted.run/t/571"
+ }
+}

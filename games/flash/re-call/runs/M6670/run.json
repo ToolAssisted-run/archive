@@ -1,0 +1,50 @@
+{
+ "id": "M6670",
+ "game": "flash/re-call",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6670.ltm",
+  "format": "ltm",
+  "frames": 544,
+  "rerecords": 738,
+  "start": "power-on",
+  "sha1": "7b3bcc0a63d0407bf619a7b7dd068c17e96d5675"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "recall.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6670M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=r5_doK_t7fk"
+  }
+ ],
+ "submitted": "2025-08-06T15:34:55.253211",
+ "attachments": [],
+ "forum": {
+  "topicId": 504,
+  "url": "https://forum.toolassisted.run/t/504"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "championship-world-title",
+     "label": "Championship, World Title",
+     "rule": "Imported from TASVideos as \"Championship, World Title\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "M6579",
+ "game": "genesis/budokan-the-martial-spirit",
+ "category": {
+  "goal": "damageless"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6579.bk2",
+  "format": "bk2",
+  "frames": 16975,
+  "rerecords": 3227,
+  "start": "power-on",
+  "sha1": "395c7d17bbfdbb7bad3af68bd58ca28630ee357f"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Budokan - The Martial Spirit (U) [c][!].bin",
+   "sha1": "93bc8242106bc9b2e0a8a974a3f65b559dd2941d"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6579M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=_zu-OGmx-DY"
+  }
+ ],
+ "submitted": "2025-06-03T22:11:54.622124",
+ "attachments": [],
+ "forum": {
+  "topicId": 312,
+  "url": "https://forum.toolassisted.run/t/312"
+ }
+}

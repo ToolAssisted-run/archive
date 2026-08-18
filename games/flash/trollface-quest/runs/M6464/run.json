@@ -1,0 +1,50 @@
+{
+ "id": "M6464",
+ "game": "flash/trollface-quest",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6464.ltm",
+  "format": "ltm",
+  "frames": 5957,
+  "rerecords": 2474,
+  "start": "power-on",
+  "sha1": "44ce8a43c7ca8e244952262e181692be08366936"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "trollface-quest-1.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6464M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rIUOPW5R8EI"
+  }
+ ],
+ "submitted": "2025-03-27T03:16:46.454394",
+ "attachments": [],
+ "forum": {
+  "topicId": 512,
+  "url": "https://forum.toolassisted.run/t/512"
+ }
+}

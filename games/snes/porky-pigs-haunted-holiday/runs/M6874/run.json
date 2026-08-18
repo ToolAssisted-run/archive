@@ -1,0 +1,49 @@
+{
+ "id": "M6874",
+ "game": "snes/porky-pigs-haunted-holiday",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6874.bk2",
+  "format": "bk2",
+  "frames": 81243,
+  "rerecords": 285496,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Porky Pig's Haunted Holiday (USA).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6874M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WdNKFR2rtOg"
+  }
+ ],
+ "submitted": "2025-12-07T19:39:03.658477",
+ "attachments": [],
+ "forum": {
+  "topicId": 667,
+  "url": "https://forum.toolassisted.run/t/667"
+ }
+}

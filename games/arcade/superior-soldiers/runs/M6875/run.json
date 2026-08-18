@@ -1,0 +1,50 @@
+{
+ "id": "M6875",
+ "game": "arcade/superior-soldiers",
+ "category": {
+  "goal": "no-damage"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6875.bk2",
+  "format": "bk2",
+  "frames": 18551,
+  "rerecords": 16093,
+  "start": "power-on",
+  "sha1": "30878c7c8d86170a45aaa98743f7b53d09ae0656"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "psoldier.7z"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6875M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=TsErBSM2pXA"
+  }
+ ],
+ "submitted": "2025-12-09T08:43:29.369612",
+ "attachments": [],
+ "forum": {
+  "topicId": 465,
+  "url": "https://forum.toolassisted.run/t/465"
+ }
+}

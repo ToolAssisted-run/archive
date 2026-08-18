@@ -1,0 +1,50 @@
+{
+ "id": "M3296",
+ "game": "nes/adventure-island-iv",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3296.fm2",
+  "format": "fm2",
+  "frames": 59897,
+  "rerecords": 11971,
+  "start": "power-on",
+  "sha1": "a52a92db9c579b408d76d7b01a2a04e9b500ed3a"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "rom": {
+   "name": "Takahashi Meijin no Bouken Shima IV (J).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3296M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IazQNGxpjR0"
+  }
+ ],
+ "submitted": "2016-12-28T02:01:22",
+ "attachments": [],
+ "forum": {
+  "topicId": 533,
+  "url": "https://forum.toolassisted.run/t/533"
+ }
+}

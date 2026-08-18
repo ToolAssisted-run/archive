@@ -1,0 +1,49 @@
+{
+ "id": "M3353",
+ "game": "sms/wonder-boy-in-monster-land",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3353.bk2",
+  "format": "bk2",
+  "frames": 33209,
+  "rerecords": 30785,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.11.9",
+  "rom": {
+   "name": "Wonder Boy in Monster Land (UE) (V1.1) [!].sms"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3353M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Mr6kvqrIc28"
+  }
+ ],
+ "submitted": "2017-03-24T00:06:24",
+ "attachments": [],
+ "forum": {
+  "topicId": 653,
+  "url": "https://forum.toolassisted.run/t/653"
+ }
+}

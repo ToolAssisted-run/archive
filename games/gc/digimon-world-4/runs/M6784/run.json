@@ -1,0 +1,49 @@
+{
+ "id": "M6784",
+ "game": "gc/digimon-world-4",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6784.dtm",
+  "format": "dtm",
+  "frames": 418006,
+  "rerecords": 37709,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-20571",
+  "rom": {
+   "name": "Digimon World 4 (USA).rvz"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6784M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=uR66RVov9c4"
+  }
+ ],
+ "submitted": "2025-10-23T07:09:14.67393",
+ "attachments": [],
+ "forum": {
+  "topicId": 633,
+  "url": "https://forum.toolassisted.run/t/633"
+ }
+}

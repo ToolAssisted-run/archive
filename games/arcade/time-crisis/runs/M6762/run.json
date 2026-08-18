@@ -1,0 +1,54 @@
+{
+ "id": "M6762",
+ "game": "arcade/time-crisis",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6762.bk2",
+  "format": "bk2",
+  "frames": 33618,
+  "rerecords": 5221,
+  "start": "power-on",
+  "sha1": "d97cf516f74cde9977e142fc58ea0dfd192b38da"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "timecris.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6762M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=jVZRyAtR2es"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=K2dw4MlyeS0"
+  }
+ ],
+ "submitted": "2025-10-05T10:42:01.372069",
+ "attachments": [],
+ "forum": {
+  "topicId": 467,
+  "url": "https://forum.toolassisted.run/t/467"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "endurance-kreate-a-fighter",
+     "label": "Endurance, Kreate-a-Fighter",
+     "rule": "Imported from TASVideos as \"Endurance, Kreate-a-Fighter\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "arcade-kreate-a-fighter",
+     "label": "Arcade, Kreate-a-Fighter",
+     "rule": "Imported from TASVideos as \"Arcade, Kreate-a-Fighter\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "arcade",
+     "label": "Arcade",
+     "rule": "Imported from TASVideos as \"Arcade\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "endurance",
+     "label": "Endurance",
+     "rule": "Imported from TASVideos as \"Endurance\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

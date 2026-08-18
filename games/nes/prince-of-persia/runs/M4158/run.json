@@ -1,0 +1,49 @@
+{
+ "id": "M4158",
+ "game": "nes/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4158.bk2",
+  "format": "bk2",
+  "frames": 58660,
+  "rerecords": 37327,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.2.1",
+  "rom": {
+   "name": "Prince of Persia (USA).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4158M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=SBYANuJZT6o"
+  }
+ ],
+ "submitted": "2020-04-10T01:03:10",
+ "attachments": [],
+ "forum": {
+  "topicId": 663,
+  "url": "https://forum.toolassisted.run/t/663"
+ }
+}

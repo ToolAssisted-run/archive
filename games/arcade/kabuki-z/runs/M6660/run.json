@@ -1,0 +1,50 @@
+{
+ "id": "M6660",
+ "game": "arcade/kabuki-z",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6660.bk2",
+  "format": "bk2",
+  "frames": 21241,
+  "rerecords": 10521,
+  "start": "power-on",
+  "sha1": "3eba69eb79f07b73b1273fede5cf22fe3b917f46"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "kabukiz.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6660M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=sn9Mxfox264"
+  }
+ ],
+ "submitted": "2025-07-30T18:58:01.983294",
+ "attachments": [],
+ "forum": {
+  "topicId": 454,
+  "url": "https://forum.toolassisted.run/t/454"
+ }
+}

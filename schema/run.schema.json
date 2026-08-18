@@ -1,0 +1,657 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "tar:run",
+ "type": "object",
+ "required": [
+  "id",
+  "game",
+  "category",
+  "authors",
+  "movie",
+  "thumbnail",
+  "status"
+ ],
+ "properties": {
+  "id": {
+   "type": "string",
+   "pattern": "^M[0-9]+$"
+  },
+  "game": {
+   "type": "string"
+  },
+  "category": {
+   "type": "object",
+   "additionalProperties": {
+    "type": "string"
+   }
+  },
+  "authors": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "type": "object",
+    "required": [
+     "user"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "tools": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "name"
+    ],
+    "properties": {
+     "name": {
+      "type": "string"
+     },
+     "role": {
+      "type": "string"
+     },
+     "version": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "movie": {
+   "type": "object",
+   "required": [
+    "file",
+    "format",
+    "frames"
+   ],
+   "properties": {
+    "file": {
+     "type": "string"
+    },
+    "format": {
+     "type": "string"
+    },
+    "sha1": {
+     "type": "string",
+     "pattern": "^[0-9a-f]{40}$"
+    },
+    "frames": {
+     "type": "integer",
+     "minimum": 0
+    },
+    "fps": {
+     "type": "number"
+    },
+    "rerecords": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "start": {
+     "type": "string"
+    }
+   }
+  },
+  "thumbnail": {
+   "type": "string",
+   "pattern": "^thumb\\.(png|jpg|jpeg|webp)$"
+  },
+  "goalDescription": {
+   "type": "string",
+   "maxLength": 200
+  },
+  "contentWarnings": {
+   "type": "array",
+   "items": {
+    "enum": [
+     "mature-violence",
+     "sexual",
+     "photosensitivity",
+     "strong-language"
+    ]
+   }
+  },
+  "likes": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "date"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "contract": {
+   "type": "object",
+   "properties": {
+    "emulator": {
+     "type": "string"
+    },
+    "rom": {
+     "type": "object"
+    }
+   }
+  },
+  "status": {
+   "type": "object",
+   "required": [
+    "reproduced",
+    "verified",
+    "console"
+   ],
+   "properties": {
+    "reproduced": {
+     "enum": [
+      "none",
+      "community",
+      "imported"
+     ]
+    },
+    "verified": {
+     "enum": [
+      "none",
+      "provisional",
+      "full",
+      "imported"
+     ]
+    },
+    "console": {
+     "enum": [
+      "none",
+      "community",
+      "imported"
+     ]
+    }
+   }
+  },
+  "imported": {
+   "type": "object",
+   "required": [
+    "source"
+   ],
+   "properties": {
+    "source": {
+     "type": "string"
+    },
+    "importedBy": {
+     "type": "string"
+    },
+    "importedAt": {
+     "type": "string"
+    }
+   }
+  },
+  "encodes": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "url"
+    ],
+    "properties": {
+     "kind": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "forum": {
+   "type": "object",
+   "required": [
+    "topicId"
+   ],
+   "properties": {
+    "topicId": {
+     "type": "integer",
+     "minimum": 1
+    },
+    "url": {
+     "type": "string",
+     "pattern": "^https?://"
+    }
+   }
+  },
+  "reproductions": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "date",
+     "screenshot"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "screenshot": {
+      "type": "string",
+      "pattern": "^reproductions/[A-Za-z0-9._-]+\\.(png|jpg|jpeg|webp)$"
+     },
+     "emulator": {
+      "type": "string",
+      "maxLength": 120
+     },
+     "notes": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "invalidated": {
+      "type": "object",
+      "required": [
+       "by",
+       "date",
+       "reason"
+      ],
+      "properties": {
+       "by": {
+        "type": "string"
+       },
+       "date": {
+        "type": "string"
+       },
+       "reason": {
+        "type": "string",
+        "maxLength": 500
+       }
+      }
+     }
+    }
+   }
+  },
+  "verifications": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "date"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "notes": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "invalidated": {
+      "type": "object",
+      "required": [
+       "by",
+       "date",
+       "reason"
+      ],
+      "properties": {
+       "by": {
+        "type": "string"
+       },
+       "date": {
+        "type": "string"
+       },
+       "reason": {
+        "type": "string",
+        "maxLength": 500
+       }
+      }
+     }
+    }
+   }
+  },
+  "consoleVerifications": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "date",
+     "proof"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "proof": {
+      "type": "string",
+      "pattern": "^https?://"
+     },
+     "hardware": {
+      "type": "string",
+      "maxLength": 120
+     },
+     "screenshot": {
+      "type": "string",
+      "pattern": "^console/[A-Za-z0-9._-]+\\.(png|jpg|jpeg|webp)$"
+     },
+     "notes": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "invalidated": {
+      "type": "object",
+      "required": [
+       "by",
+       "date",
+       "reason"
+      ],
+      "properties": {
+       "by": {
+        "type": "string"
+       },
+       "date": {
+        "type": "string"
+       },
+       "reason": {
+        "type": "string",
+        "maxLength": 500
+       }
+      }
+     }
+    }
+   }
+  },
+  "reports": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "by",
+     "date",
+     "kind",
+     "status"
+    ],
+    "properties": {
+     "id": {
+      "type": "integer"
+     },
+     "by": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "kind": {
+      "enum": [
+       "missing-content-warnings",
+       "spam-malicious",
+       "miscredited",
+       "licensing",
+       "other"
+      ]
+     },
+     "details": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "status": {
+      "enum": [
+       "open",
+       "resolved",
+       "dismissed"
+      ]
+     },
+     "resolvedBy": {
+      "type": "string"
+     },
+     "resolvedAt": {
+      "type": "string"
+     },
+     "resolution": {
+      "type": "string",
+      "maxLength": 2000
+     }
+    }
+   }
+  },
+  "cases": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "openedBy",
+     "date",
+     "reason",
+     "verifiers",
+     "status"
+    ],
+    "properties": {
+     "id": {
+      "type": "integer"
+     },
+     "openedBy": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "reason": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "verifiers": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+       "type": "string"
+      }
+     },
+     "reaffirmations": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "required": [
+        "user",
+        "date",
+        "reaffirm"
+       ],
+       "properties": {
+        "user": {
+         "type": "string"
+        },
+        "date": {
+         "type": "string"
+        },
+        "reaffirm": {
+         "type": "boolean"
+        },
+        "notes": {
+         "type": "string",
+         "maxLength": 2000
+        }
+       }
+      }
+     },
+     "status": {
+      "enum": [
+       "open",
+       "closed",
+       "upheld"
+      ]
+     },
+     "resolvedAt": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "submitted": {
+   "type": "string"
+  },
+  "attachments": {
+   "type": "array",
+   "maxItems": 8,
+   "items": {
+    "type": "object",
+    "required": [
+     "file",
+     "role"
+    ],
+    "properties": {
+     "file": {
+      "type": "string",
+      "pattern": "^attachments/[A-Za-z0-9._-]+$"
+     },
+     "role": {
+      "type": "string",
+      "maxLength": 120
+     }
+    }
+   }
+  },
+  "roleNotes": {
+   "type": "object",
+   "properties": {
+    "reproducer": {
+     "type": "object",
+     "required": [
+      "text",
+      "editors"
+     ],
+     "properties": {
+      "text": {
+       "type": "string",
+       "maxLength": 4000
+      },
+      "editors": {
+       "type": "array",
+       "items": {
+        "type": "object",
+        "required": [
+         "user",
+         "date"
+        ],
+        "properties": {
+         "user": {
+          "type": "string"
+         },
+         "date": {
+          "type": "string"
+         }
+        }
+       }
+      }
+     }
+    },
+    "verifier": {
+     "type": "object",
+     "required": [
+      "text",
+      "editors"
+     ],
+     "properties": {
+      "text": {
+       "type": "string",
+       "maxLength": 4000
+      },
+      "editors": {
+       "type": "array",
+       "items": {
+        "type": "object",
+        "required": [
+         "user",
+         "date"
+        ],
+        "properties": {
+         "user": {
+          "type": "string"
+         },
+         "date": {
+          "type": "string"
+         }
+        }
+       }
+      }
+     }
+    },
+    "expert": {
+     "type": "object",
+     "required": [
+      "text",
+      "editors"
+     ],
+     "properties": {
+      "text": {
+       "type": "string",
+       "maxLength": 4000
+      },
+      "editors": {
+       "type": "array",
+       "items": {
+        "type": "object",
+        "required": [
+         "user",
+         "date"
+        ],
+        "properties": {
+         "user": {
+          "type": "string"
+         },
+         "date": {
+          "type": "string"
+         }
+        }
+       }
+      }
+     }
+    }
+   },
+   "additionalProperties": false
+  },
+  "withdrawn": {
+   "type": "object",
+   "required": [
+    "by",
+    "date",
+    "reason"
+   ],
+   "properties": {
+    "by": {
+     "type": "string"
+    },
+    "date": {
+     "type": "string"
+    },
+    "reason": {
+     "type": "string",
+     "maxLength": 2000
+    },
+    "role": {
+     "enum": [
+      "author",
+      "expert"
+     ]
+    },
+    "contentRemoved": {
+     "type": "boolean",
+     "description": "the movie, notes and thumbnail were taken down with the withdrawal, because publishing them was the problem (an import made without the authorization of every author). The record stays; the files are gone from the tree."
+    }
+   }
+  }
+ }
+}

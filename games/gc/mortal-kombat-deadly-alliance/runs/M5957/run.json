@@ -1,0 +1,49 @@
+{
+ "id": "M5957",
+ "game": "gc/mortal-kombat-deadly-alliance",
+ "category": {
+  "goal": "arcade-mode-savegame"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5957.dtm",
+  "format": "dtm",
+  "frames": 30372,
+  "rerecords": 4758,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-20571",
+  "rom": {
+   "name": "Mortal Kombat - Deadly Alliance (USA).rvz"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5957M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=B_qdLZzXZiA"
+  }
+ ],
+ "submitted": "2024-05-18T17:18:16.147183",
+ "attachments": [],
+ "forum": {
+  "topicId": 610,
+  "url": "https://forum.toolassisted.run/t/610"
+ }
+}

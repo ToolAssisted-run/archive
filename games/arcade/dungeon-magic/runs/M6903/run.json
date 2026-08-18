@@ -1,0 +1,50 @@
+{
+ "id": "M6903",
+ "game": "arcade/dungeon-magic",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6903.bk2",
+  "format": "bk2",
+  "frames": 37925,
+  "rerecords": 44099,
+  "start": "power-on",
+  "sha1": "9f5ae9d5b4f47634066558d5c6c2984f4c8e1c14"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "lightbr.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6903M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=MBtHr584MDA"
+  }
+ ],
+ "submitted": "2025-12-23T08:22:57.208226",
+ "attachments": [],
+ "forum": {
+  "topicId": 450,
+  "url": "https://forum.toolassisted.run/t/450"
+ }
+}

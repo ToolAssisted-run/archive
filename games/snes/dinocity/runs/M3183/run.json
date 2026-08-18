@@ -1,0 +1,49 @@
+{
+ "id": "M3183",
+ "game": "snes/dinocity",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3183.bk2",
+  "format": "bk2",
+  "frames": 64690,
+  "rerecords": 59592,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.11.4",
+  "rom": {
+   "name": "Dino City (USA).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3183M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Hy_OTBRSaiE"
+  }
+ ],
+ "submitted": "2016-07-25T20:29:28",
+ "attachments": [],
+ "forum": {
+  "topicId": 646,
+  "url": "https://forum.toolassisted.run/t/646"
+ }
+}

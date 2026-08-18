@@ -1,0 +1,51 @@
+{
+ "id": "M6486",
+ "game": "genesis/shove-it-the-warehouse-game",
+ "category": {
+  "goal": "all-rooms"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6486.bk2",
+  "format": "bk2",
+  "frames": 872065,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "2a23297abaeebdb52808a66d8756fa5aebc68c75"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Shove It! - The Warehouse Game (U) [!].bin",
+   "sha1": "e4094c5a575f8d7325e7ec7425ecf022a6bf434e"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6486M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=q1u4kFmB7Ng"
+  }
+ ],
+ "submitted": "2025-04-13T07:54:58.244793",
+ "attachments": [],
+ "forum": {
+  "topicId": 322,
+  "url": "https://forum.toolassisted.run/t/322"
+ }
+}

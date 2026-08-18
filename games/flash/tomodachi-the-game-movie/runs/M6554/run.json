@@ -1,0 +1,50 @@
+{
+ "id": "M6554",
+ "game": "flash/tomodachi-the-game-movie",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6554.ltm",
+  "format": "ltm",
+  "frames": 3482,
+  "rerecords": 46,
+  "start": "power-on",
+  "sha1": "fd219a8f3d1c8fbc69d8f3d44557d38eeaba64bf"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "tomodachi.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6554M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=u3AqDomA32k"
+  }
+ ],
+ "submitted": "2025-05-24T14:34:09.98651",
+ "attachments": [],
+ "forum": {
+  "topicId": 511,
+  "url": "https://forum.toolassisted.run/t/511"
+ }
+}

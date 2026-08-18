@@ -1,0 +1,57 @@
+{
+ "id": "M7202",
+ "game": "c64/football-manager",
+ "category": {
+  "goal": "all-wins"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [
+  {
+   "name": "jaffarPlus",
+   "role": "routing bot"
+  }
+ ],
+ "movie": {
+  "file": "M7202.bk2",
+  "format": "bk2",
+  "frames": 284320,
+  "fps": 50.1245421245421,
+  "rerecords": 3529,
+  "start": "power-on",
+  "sha1": "546c067e237121ee1b010df383d97ffac75ba9d0"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "sha1": "d97f0a9f4ffe84d6915c4811068af5582445d267",
+   "name": "Football Manager (Europe).D64"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7202M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gqXNlrpwzII"
+  }
+ ],
+ "submitted": "2026-06-17T13:02:56.704479",
+ "attachments": [],
+ "forum": {
+  "topicId": 44,
+  "url": "https://forum.toolassisted.run/t/44"
+ }
+}

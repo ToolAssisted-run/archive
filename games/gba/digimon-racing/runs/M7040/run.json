@@ -1,0 +1,49 @@
+{
+ "id": "M7040",
+ "game": "gba/digimon-racing",
+ "category": {
+  "goal": "all-stages-and-bosses"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7040.bk2",
+  "format": "bk2",
+  "frames": 84335,
+  "rerecords": 12899,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Digimon Racing (USA) (En,Fr,De,Es,It)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7040M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=F1o3BcfWK-w"
+  }
+ ],
+ "submitted": "2026-04-04T21:59:40.263897",
+ "attachments": [],
+ "forum": {
+  "topicId": 638,
+  "url": "https://forum.toolassisted.run/t/638"
+ }
+}

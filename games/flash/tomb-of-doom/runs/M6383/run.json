@@ -1,0 +1,50 @@
+{
+ "id": "M6383",
+ "game": "flash/tomb-of-doom",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6383.ltm",
+  "format": "ltm",
+  "frames": 1103,
+  "rerecords": 468,
+  "start": "power-on",
+  "sha1": "47266037d80cc913baa7ea90ec204c45bb545d8a"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS v1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "tod.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6383M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=g3f_P9d9Jtw"
+  }
+ ],
+ "submitted": "2025-02-13T07:13:01.661433",
+ "attachments": [],
+ "forum": {
+  "topicId": 510,
+  "url": "https://forum.toolassisted.run/t/510"
+ }
+}

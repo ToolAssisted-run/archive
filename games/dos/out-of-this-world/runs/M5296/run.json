@@ -1,0 +1,51 @@
+{
+ "id": "M5296",
+ "game": "dos/out-of-this-world",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5296.ltm",
+  "format": "ltm",
+  "frames": 59654,
+  "rerecords": 2660,
+  "start": "power-on",
+  "sha1": "9079ff3d20f27e57ff0fe2d30e44af23925ddf13"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "LibTAS 1.4.4 + PCem 17+st-1 + Late 90's Config",
+  "rom": {
+   "name": "http://www.goodolddays.net/diskimages/id%2C568/ Out of this World (ID: 567)",
+   "sha1": "1e04092ec17c671688b53ef392ba3e514b4bbd8e"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5296M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=f7dls26M4ck"
+  }
+ ],
+ "submitted": "2023-05-28T18:38:58.689842",
+ "attachments": [],
+ "forum": {
+  "topicId": 268,
+  "url": "https://forum.toolassisted.run/t/268"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "maximum-score",
+     "label": "maximum score",
+     "rule": "Imported from TASVideos as \"maximum score\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

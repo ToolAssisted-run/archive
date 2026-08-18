@@ -1,0 +1,49 @@
+{
+ "id": "M6431",
+ "game": "gc/capcom-vs-snk-2-eo",
+ "category": {
+  "goal": "survival-maximum-score"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6431.dtm",
+  "format": "dtm",
+  "frames": 88834,
+  "rerecords": 17941,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-20571",
+  "rom": {
+   "name": "Capcom vs. SNK 2 EO (USA).rvz"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6431M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=KtfJQG_5HS8"
+  }
+ ],
+ "submitted": "2025-03-13T20:07:47.736551",
+ "attachments": [],
+ "forum": {
+  "topicId": 626,
+  "url": "https://forum.toolassisted.run/t/626"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "M5299",
+ "game": "nes/superfast-mario-bros",
+ "category": {
+  "goal": "warpless"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5299.bk2",
+  "format": "bk2",
+  "frames": 14274,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "96b7b899aa3c6ede955874ef42bdae03f8b56d91"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "https://www.romhacking.net/hacks/7571/",
+   "sha1": "facee9c577a5262dbe33ac4930bb0b58c8c037f7"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5299M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=XhjiCmu_82o"
+  }
+ ],
+ "submitted": "2023-05-31T15:19:21.666985",
+ "attachments": [],
+ "forum": {
+  "topicId": 416,
+  "url": "https://forum.toolassisted.run/t/416"
+ }
+}

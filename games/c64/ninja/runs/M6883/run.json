@@ -1,0 +1,51 @@
+{
+ "id": "M6883",
+ "game": "c64/ninja",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6883.bk2",
+  "format": "bk2",
+  "frames": 18908,
+  "rerecords": 476,
+  "start": "power-on",
+  "sha1": "4e082e5c29ec576e10f595e81641cdd4ad85be1c"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Ninja (1986)(Mastertronic).tap",
+   "sha1": "074d3354d8e1e41800643a76bb5509aea67ca7ff"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6883M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=lVqFSs6vwOw"
+  }
+ ],
+ "submitted": "2025-12-13T16:06:01.957511",
+ "attachments": [],
+ "forum": {
+  "topicId": 46,
+  "url": "https://forum.toolassisted.run/t/46"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "M5385",
+ "game": "nes/nigel-mansells-world-championship-racing",
+ "category": {
+  "goal": "all-races"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5385.bk2",
+  "format": "bk2",
+  "frames": 296590,
+  "rerecords": 4157,
+  "start": "power-on",
+  "sha1": "5a0afdb37478e9613fccfc2dcad7d1846c85f731"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Nigel Mansell's World Championship Challenge (U) [!].nes",
+   "sha1": "d32ccafb8b336bfcb0666dbd60b1364cf226c3fc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5385M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=yWjEg-upFOc"
+  }
+ ],
+ "submitted": "2023-07-01T05:55:06.908937",
+ "attachments": [],
+ "forum": {
+  "topicId": 372,
+  "url": "https://forum.toolassisted.run/t/372"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M4221",
+ "game": "snes/mortal-kombat",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4221.lsmv",
+  "format": "lsmv",
+  "frames": 25010,
+  "rerecords": 15033,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr1-\u039418\u03b53",
+  "rom": {
+   "name": "Mortal Kombat (E).smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4221M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=5OGJE-nh34M"
+  }
+ ],
+ "submitted": "2020-06-29T08:25:13",
+ "attachments": [],
+ "forum": {
+  "topicId": 595,
+  "url": "https://forum.toolassisted.run/t/595"
+ }
+}

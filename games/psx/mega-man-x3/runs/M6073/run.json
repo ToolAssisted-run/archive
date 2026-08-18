@@ -1,0 +1,50 @@
+{
+ "id": "M6073",
+ "game": "psx/mega-man-x3",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6073.bk2",
+  "format": "bk2",
+  "frames": 69517,
+  "rerecords": 15950,
+  "start": "power-on",
+  "sha1": "6c98788b54e335a7bfc326afee6bc2540b91797e"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Rockman X3 (Japan).cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6073M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=l08YFXn7F-s"
+  }
+ ],
+ "submitted": "2024-08-05T21:35:41.056109",
+ "attachments": [],
+ "forum": {
+  "topicId": 565,
+  "url": "https://forum.toolassisted.run/t/565"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M2105",
+ "game": "nes/the-goonies-ii",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2105.fm2",
+  "format": "fm2",
+  "frames": 82883,
+  "rerecords": 2494,
+  "start": "power-on",
+  "sha1": "3040ca27255850bf0fc83551af253a7d45bb97d4"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.1.2",
+  "rom": {
+   "name": "Goonies 2 - Fratelli Saigo no Chousen  (J).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2105M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=TjcoHQL4bPg"
+  }
+ ],
+ "submitted": "2012-09-20T21:06:53",
+ "attachments": [],
+ "forum": {
+  "topicId": 547,
+  "url": "https://forum.toolassisted.run/t/547"
+ }
+}

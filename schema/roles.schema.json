@@ -1,0 +1,67 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "tar:roles",
+ "type": "object",
+ "required": [
+  "events"
+ ],
+ "properties": {
+  "comment": {
+   "type": "string"
+  },
+  "events": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "role",
+     "action",
+     "by",
+     "date",
+     "reason"
+    ],
+    "additionalProperties": false,
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "role": {
+      "enum": [
+       "expert",
+       "committee",
+       "moderator"
+      ]
+     },
+     "scope": {
+      "type": "string",
+      "description": "experts only: site, a system, sys/slug or group:<key>"
+     },
+     "action": {
+      "enum": [
+       "granted",
+       "revoked"
+      ]
+     },
+     "by": {
+      "type": "string",
+      "description": "who did it, or 'founder' for what the archive started with, or 'committee' for a vote"
+     },
+     "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+     },
+     "reason": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 500
+     },
+     "proof": {
+      "type": "string",
+      "description": "where the decision can be checked, e.g. the forum post carrying a Committee poll"
+     }
+    }
+   }
+  }
+ }
+}

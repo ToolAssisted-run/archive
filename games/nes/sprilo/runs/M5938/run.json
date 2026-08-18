@@ -1,0 +1,50 @@
+{
+ "id": "M5938",
+ "game": "nes/sprilo",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5938.bk2",
+  "format": "bk2",
+  "frames": 4559,
+  "rerecords": 718037452,
+  "start": "power-on",
+  "sha1": "2954920242eb6c32ac11a3632e2b3a7720c5d115"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "sprilo.nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5938M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=KSWZelAu13I"
+  }
+ ],
+ "submitted": "2024-05-05T11:43:56.474991",
+ "attachments": [],
+ "forum": {
+  "topicId": 412,
+  "url": "https://forum.toolassisted.run/t/412"
+ }
+}

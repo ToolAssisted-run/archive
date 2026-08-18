@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "damageless",
+     "label": "damageless",
+     "rule": "Imported from TASVideos as \"damageless\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

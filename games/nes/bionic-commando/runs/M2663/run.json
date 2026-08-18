@@ -1,0 +1,50 @@
+{
+ "id": "M2663",
+ "game": "nes/bionic-commando",
+ "category": {
+  "goal": "all-items"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2663.fm2",
+  "format": "fm2",
+  "frames": 70145,
+  "rerecords": 4744,
+  "start": "power-on",
+  "sha1": "c663c49c7fd9b464cc228608e20107822782a6cd"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.0",
+  "rom": {
+   "name": "Bionic Commando (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2663M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=D7tHy1d1glE"
+  }
+ ],
+ "submitted": "2014-08-13T15:01:15",
+ "attachments": [],
+ "forum": {
+  "topicId": 535,
+  "url": "https://forum.toolassisted.run/t/535"
+ }
+}

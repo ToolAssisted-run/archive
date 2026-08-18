@@ -1,0 +1,50 @@
+{
+ "id": "M6827",
+ "game": "dos/one-must-fall-2097",
+ "category": {
+  "goal": "tournament-play-heavy-metal-difficulty-all-opponents"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6827.bk2",
+  "format": "bk2",
+  "frames": 228074,
+  "rerecords": 31525,
+  "start": "power-on",
+  "sha1": "c20d885e4bc6968938c73359cb968f9730991c51"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "One Must Fall 2097 (USA).cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6827M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=lDb_edNJwI8"
+  }
+ ],
+ "submitted": "2025-11-22T09:30:30.252143",
+ "attachments": [],
+ "forum": {
+  "topicId": 266,
+  "url": "https://forum.toolassisted.run/t/266"
+ }
+}

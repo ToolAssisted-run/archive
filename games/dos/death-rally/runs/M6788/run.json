@@ -1,0 +1,50 @@
+{
+ "id": "M6788",
+ "game": "dos/death-rally",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6788.bk2",
+  "format": "bk2",
+  "frames": 48800,
+  "rerecords": 6202,
+  "start": "power-on",
+  "sha1": "fc4b58682a87c53e062344fde20092286467cf91"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Death Rally (USA).bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6788M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7lcQt1RlpmI"
+  }
+ ],
+ "submitted": "2025-10-25T08:23:17.50365",
+ "attachments": [],
+ "forum": {
+  "topicId": 54,
+  "url": "https://forum.toolassisted.run/t/54"
+ }
+}

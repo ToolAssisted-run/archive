@@ -1,0 +1,49 @@
+{
+ "id": "M6437",
+ "game": "genesis/the-death-and-return-of-superman",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6437.bk2",
+  "format": "bk2",
+  "frames": 120749,
+  "rerecords": 17568,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "death and return of superman USA"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6437M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Rr5MXlNIhpM"
+  }
+ ],
+ "submitted": "2025-03-16T21:54:17.803495",
+ "attachments": [],
+ "forum": {
+  "topicId": 627,
+  "url": "https://forum.toolassisted.run/t/627"
+ }
+}

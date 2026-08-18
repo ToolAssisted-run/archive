@@ -1,0 +1,50 @@
+{
+ "id": "M6794",
+ "game": "dos/one-must-fall-2097",
+ "category": {
+  "goal": "ultimate-difficulty-maximum-power-code"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6794.bk2",
+  "format": "bk2",
+  "frames": 25485,
+  "rerecords": 3989,
+  "start": "power-on",
+  "sha1": "aedcc71c567ee793a38cc5d847f7baaa5b7ba902"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "One Must Fall 2097 (USA).bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6794M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=HJLJpw6Ij6g"
+  }
+ ],
+ "submitted": "2025-10-30T08:19:14.669064",
+ "attachments": [],
+ "forum": {
+  "topicId": 264,
+  "url": "https://forum.toolassisted.run/t/264"
+ }
+}

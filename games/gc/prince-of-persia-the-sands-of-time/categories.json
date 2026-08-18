@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "glitchless",
+     "label": "glitchless",
+     "rule": "Imported from TASVideos as \"glitchless\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "zipless",
+     "label": "zipless",
+     "rule": "Imported from TASVideos as \"zipless\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

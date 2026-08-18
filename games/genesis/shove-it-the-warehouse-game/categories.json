@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "all-rooms",
+     "label": "all rooms",
+     "rule": "Imported from TASVideos as \"all rooms\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

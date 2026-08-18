@@ -1,0 +1,54 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "tar:categories",
+ "type": "object",
+ "required": [
+  "dimensions"
+ ],
+ "properties": {
+  "dimensions": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "key",
+     "name",
+     "options"
+    ],
+    "properties": {
+     "key": {
+      "type": "string"
+     },
+     "name": {
+      "type": "string"
+     },
+     "options": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "required": [
+        "key",
+        "label",
+        "rule"
+       ],
+       "properties": {
+        "key": {
+         "type": "string"
+        },
+        "label": {
+         "type": "string"
+        },
+        "rule": {
+         "type": "string"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "combos": {
+   "type": "object"
+  }
+ }
+}

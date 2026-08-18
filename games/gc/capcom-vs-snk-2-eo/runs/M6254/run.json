@@ -1,0 +1,49 @@
+{
+ "id": "M6254",
+ "game": "gc/capcom-vs-snk-2-eo",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6254.dtm",
+  "format": "dtm",
+  "frames": 75951,
+  "rerecords": 12124,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-20571",
+  "rom": {
+   "name": "Capcom vs. SNK 2 EO (USA).rvz"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6254M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WiipjsSViNk"
+  }
+ ],
+ "submitted": "2024-11-10T12:04:20.373397",
+ "attachments": [],
+ "forum": {
+  "topicId": 620,
+  "url": "https://forum.toolassisted.run/t/620"
+ }
+}

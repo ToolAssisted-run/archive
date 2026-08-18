@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "all-tracks",
+     "label": "all tracks",
+     "rule": "Imported from TASVideos as \"all tracks\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

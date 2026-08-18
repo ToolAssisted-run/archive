@@ -1,0 +1,50 @@
+{
+ "id": "M6195",
+ "game": "flash/3-tsu-no-e-no-heya-kara-no-dasshutsu",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6195.ltm",
+  "format": "ltm",
+  "frames": 128,
+  "rerecords": 45,
+  "start": "power-on",
+  "sha1": "0d5073c655f7f629526182e206c9942a7bb139ea"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "sakusei37.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6195M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=P9P65Vky7wQ"
+  }
+ ],
+ "submitted": "2024-09-27T20:25:44.067231",
+ "attachments": [],
+ "forum": {
+  "topicId": 477,
+  "url": "https://forum.toolassisted.run/t/477"
+ }
+}

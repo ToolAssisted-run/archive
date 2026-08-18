@@ -1,0 +1,49 @@
+{
+ "id": "M4565",
+ "game": "snes/prince-of-persia-2-the-shadow-and-the-flame",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4565.bk2",
+  "format": "bk2",
+  "frames": 28838,
+  "rerecords": 99925,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.4",
+  "rom": {
+   "name": "Prince of Persia 2 (USA).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4565M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=epkmBlaDyHY"
+  }
+ ],
+ "submitted": "2021-12-26T12:08:19",
+ "attachments": [],
+ "forum": {
+  "topicId": 666,
+  "url": "https://forum.toolassisted.run/t/666"
+ }
+}

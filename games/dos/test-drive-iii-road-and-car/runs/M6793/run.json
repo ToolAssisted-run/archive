@@ -1,0 +1,50 @@
+{
+ "id": "M6793",
+ "game": "dos/test-drive-iii-road-and-car",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6793.bk2",
+  "format": "bk2",
+  "frames": 23522,
+  "rerecords": 1286,
+  "start": "power-on",
+  "sha1": "7e7f193831ae35baa9d469f8d4dbc141a335a989"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "disk1.img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6793M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=cHmd9XI_L98"
+  }
+ ],
+ "submitted": "2025-10-29T20:25:45.423715",
+ "attachments": [],
+ "forum": {
+  "topicId": 288,
+  "url": "https://forum.toolassisted.run/t/288"
+ }
+}

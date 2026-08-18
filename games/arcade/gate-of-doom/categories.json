@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "1-player-ninja",
+     "label": "1 player, Ninja",
+     "rule": "Imported from TASVideos as \"1 player, Ninja\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

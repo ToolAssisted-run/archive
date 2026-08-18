@@ -1,0 +1,49 @@
+{
+ "id": "M6339",
+ "game": "snes/the-death-and-return-of-superman",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6339.bk2",
+  "format": "bk2",
+  "frames": 118258,
+  "rerecords": 34913,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Death and Return of Superman, The (USA).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6339M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Fu9bmofvfUQ"
+  }
+ ],
+ "submitted": "2025-01-09T06:38:31.596774",
+ "attachments": [],
+ "forum": {
+  "topicId": 625,
+  "url": "https://forum.toolassisted.run/t/625"
+ }
+}

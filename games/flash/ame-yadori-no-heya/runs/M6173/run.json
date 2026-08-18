@@ -1,0 +1,50 @@
+{
+ "id": "M6173",
+ "game": "flash/ame-yadori-no-heya",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6173.ltm",
+  "format": "ltm",
+  "frames": 76,
+  "rerecords": 64,
+  "start": "power-on",
+  "sha1": "44eddb4cf33335440f682cd278d879557c8291c6"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "no14.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6173M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gwfBe2m6fcI"
+  }
+ ],
+ "submitted": "2024-09-21T05:21:17.884237",
+ "attachments": [],
+ "forum": {
+  "topicId": 486,
+  "url": "https://forum.toolassisted.run/t/486"
+ }
+}

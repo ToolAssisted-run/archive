@@ -1,0 +1,50 @@
+{
+ "id": "M2274",
+ "game": "ds/castlevania-dawn-of-sorrow",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2274.dsm",
+  "format": "dsm",
+  "frames": 27745,
+  "rerecords": 5384,
+  "start": "power-on",
+  "sha1": "eee12d8a4804d9d291c4d8c8e00055cbf3b72f6d"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "DeSmuME 0.9.6",
+  "rom": {
+   "name": "Castlevania Dawn of Sorrow.nds"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2274M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bD1J_hhx0YM"
+  }
+ ],
+ "submitted": "2013-01-18T18:46:39",
+ "attachments": [],
+ "forum": {
+  "topicId": 474,
+  "url": "https://forum.toolassisted.run/t/474"
+ }
+}

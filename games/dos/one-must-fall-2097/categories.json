@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "ultimate-difficulty-maximum-power-code",
+     "label": "Ultimate difficulty, maximum power code",
+     "rule": "Imported from TASVideos as \"Ultimate difficulty, maximum power code\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "tournament-play-heavy-metal-difficulty-all-opponents",
+     "label": "Tournament Play, Heavy Metal difficulty, all opponents",
+     "rule": "Imported from TASVideos as \"Tournament Play, Heavy Metal difficulty, all opponents\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

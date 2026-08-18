@@ -1,0 +1,51 @@
+{
+ "id": "M4790",
+ "game": "genesis/out-of-this-world",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4790.bk2",
+  "format": "bk2",
+  "frames": 32566,
+  "rerecords": 4618,
+  "start": "power-on",
+  "sha1": "d590d3a3db5c377896fc778832648e6518d69f6f"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Another World (E) [!]",
+   "sha1": "9d98d6817b3e3651837bb2692f7a2a60a608c055"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4790M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gSPMTmrec98"
+  }
+ ],
+ "submitted": "2022-08-03T05:09:39.203782",
+ "attachments": [],
+ "forum": {
+  "topicId": 314,
+  "url": "https://forum.toolassisted.run/t/314"
+ }
+}

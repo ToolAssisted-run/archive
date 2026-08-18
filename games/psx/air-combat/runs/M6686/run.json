@@ -1,0 +1,50 @@
+{
+ "id": "M6686",
+ "game": "psx/air-combat",
+ "category": {
+  "goal": "hard"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6686.bk2",
+  "format": "bk2",
+  "frames": 67117,
+  "rerecords": 11783,
+  "start": "power-on",
+  "sha1": "4c6816c098779671e7941210722ae761cf606875"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Air Combat [NTSC-U] [SLUS-00001].cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6686M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=c9wGyPjV2hk"
+  }
+ ],
+ "submitted": "2025-08-14T10:18:09.568239",
+ "attachments": [],
+ "forum": {
+  "topicId": 563,
+  "url": "https://forum.toolassisted.run/t/563"
+ }
+}

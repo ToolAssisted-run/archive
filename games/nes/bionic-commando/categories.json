@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "all-items",
+     "label": "all items",
+     "rule": "Imported from TASVideos as \"all items\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

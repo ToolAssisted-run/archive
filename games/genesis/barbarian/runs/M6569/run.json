@@ -1,0 +1,51 @@
+{
+ "id": "M6569",
+ "game": "genesis/barbarian",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6569.bk2",
+  "format": "bk2",
+  "frames": 48825,
+  "rerecords": 1645,
+  "start": "power-on",
+  "sha1": "a82a5b3c53af84ce7b91210c295f8b10b7754bb0"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Barbarian rc.bin",
+   "sha1": "2aea0d18491d9ada43b00d3a1e28f55f717f5777"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6569M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Wpw44zZATj4"
+  }
+ ],
+ "submitted": "2025-05-31T07:45:08.996133",
+ "attachments": [],
+ "forum": {
+  "topicId": 308,
+  "url": "https://forum.toolassisted.run/t/308"
+ }
+}

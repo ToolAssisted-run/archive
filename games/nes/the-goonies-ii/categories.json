@@ -1,0 +1,25 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "baseline",
+     "label": "fastest completion",
+     "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "100",
+     "label": "100%",
+     "rule": "Imported from TASVideos as \"100%\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "no-super-jumps",
+     "label": "no super jumps",
+     "rule": "Imported from TASVideos as \"no super jumps\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

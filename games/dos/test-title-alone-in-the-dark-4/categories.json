@@ -1,0 +1,16 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "100",
+     "label": "100%",
+     "rule": "Beat the game 100%",
+     "provisional": true
+    }
+   ]
+  }
+ ]
+}

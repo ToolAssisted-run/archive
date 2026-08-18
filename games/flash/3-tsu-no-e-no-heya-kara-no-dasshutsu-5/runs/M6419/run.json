@@ -1,0 +1,50 @@
+{
+ "id": "M6419",
+ "game": "flash/3-tsu-no-e-no-heya-kara-no-dasshutsu-5",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6419.ltm",
+  "format": "ltm",
+  "frames": 40,
+  "rerecords": 21,
+  "start": "power-on",
+  "sha1": "a896a2120b68b248e322e20da6cfc3e7fa224a8c"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-01-16",
+  "rom": {
+   "name": "room40.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6419M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8jLVydq7LC0"
+  }
+ ],
+ "submitted": "2025-03-08T09:48:20.653648",
+ "attachments": [],
+ "forum": {
+  "topicId": 481,
+  "url": "https://forum.toolassisted.run/t/481"
+ }
+}

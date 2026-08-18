@@ -1,0 +1,30 @@
+{
+ "comment": "Every grant and every removal of a role, in order. Who holds what today is this list folded, never a second copy: that is what keeps a member's own page able to show the history rather than just the result. Experts also carry a scope. This file is the only record of a role. The forum's groups are printed from it by the archivist, so that Discourse can badge a role and enforce who may vote in a Committee poll; being added to one of those groups grants nothing and is undone by the next publish.",
+ "events": [
+  {
+   "user": "eien86",
+   "role": "expert",
+   "scope": "site",
+   "action": "granted",
+   "by": "founder",
+   "date": "2026-08-14",
+   "reason": "Founded the archive and wrote its governance; site-wide scope from the start."
+  },
+  {
+   "user": "eien86",
+   "role": "committee",
+   "action": "granted",
+   "by": "founder",
+   "date": "2026-08-14",
+   "reason": "Founding member of the Steering Committee (Principles 2.2, 2.3)."
+  },
+  {
+   "user": "eien86",
+   "role": "moderator",
+   "action": "granted",
+   "by": "founder",
+   "date": "2026-08-14",
+   "reason": "Administers the forum and the archive infrastructure."
+  }
+ ]
+}

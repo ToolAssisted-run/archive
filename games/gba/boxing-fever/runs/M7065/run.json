@@ -1,0 +1,49 @@
+{
+ "id": "M7065",
+ "game": "gba/boxing-fever",
+ "category": {
+  "goal": "championship-world-title"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7065.bk2",
+  "format": "bk2",
+  "frames": 35377,
+  "rerecords": 6794,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Boxing Fever (USA, Europe)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7065M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=12K7XCUu8GU"
+  }
+ ],
+ "submitted": "2026-04-13T23:05:58.94497",
+ "attachments": [],
+ "forum": {
+  "topicId": 640,
+  "url": "https://forum.toolassisted.run/t/640"
+ }
+}

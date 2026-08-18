@@ -1,0 +1,51 @@
+{
+ "id": "M6368",
+ "game": "nes/lunar-pool",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6368.bk2",
+  "format": "bk2",
+  "frames": 82553,
+  "rerecords": 6201,
+  "start": "power-on",
+  "sha1": "281fb249138bd59b93e44381682b18322003589f"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Lunar Ball (J) [!].nes",
+   "sha1": "aa5c574a4743991a3523dfd78a39d782bede262a"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6368M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WSPpKtAprB8"
+  }
+ ],
+ "submitted": "2025-02-02T04:16:55.218392",
+ "attachments": [],
+ "forum": {
+  "topicId": 358,
+  "url": "https://forum.toolassisted.run/t/358"
+ }
+}

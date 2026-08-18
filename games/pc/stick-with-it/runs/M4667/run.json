@@ -1,0 +1,49 @@
+{
+ "id": "M4667",
+ "game": "pc/stick-with-it",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4667.ltm",
+  "format": "ltm",
+  "frames": 28844,
+  "rerecords": 1631,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS v1.4.3",
+  "rom": {
+   "name": "SWI_linux0_1_2.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4667M",
+  "importedBy": "GMP",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gvLhSF_98R0"
+  }
+ ],
+ "submitted": "2022-05-07T11:24:28.474027",
+ "attachments": [],
+ "forum": {
+  "topicId": 559,
+  "url": "https://forum.toolassisted.run/t/559"
+ }
+}

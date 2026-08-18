@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "x-buster-only-no-upgrades",
+     "label": "X-Buster only, no upgrades",
+     "rule": "Imported from TASVideos as \"X-Buster only, no upgrades\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

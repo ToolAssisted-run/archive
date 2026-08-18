@@ -1,0 +1,50 @@
+{
+ "id": "M4456",
+ "game": "genesis/the-revenge-of-shinobi",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4456.bk2",
+  "format": "bk2",
+  "frames": 43080,
+  "rerecords": 78114,
+  "start": "power-on",
+  "sha1": "ed97e2a60fa658c4d3f8be7f70029ef0aa458df3"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "rom": {
+   "name": "Revenge of Shinobi, The (REV 01) (JUE) [R-USA][!]"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4456M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=px2qMcserH0"
+  }
+ ],
+ "submitted": "2021-05-23T14:11:17",
+ "attachments": [],
+ "forum": {
+  "topicId": 530,
+  "url": "https://forum.toolassisted.run/t/530"
+ }
+}

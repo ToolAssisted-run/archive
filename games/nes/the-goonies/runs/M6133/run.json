@@ -1,0 +1,50 @@
+{
+ "id": "M6133",
+ "game": "nes/the-goonies",
+ "category": {
+  "goal": "all-items"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6133.fm2",
+  "format": "fm2",
+  "frames": 15291,
+  "rerecords": 4514,
+  "start": "power-on",
+  "sha1": "8e14695eac4d5f46522f8160f840bf8cd20fb294"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Goonies, The (J) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6133M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=MeayakIMfH0"
+  }
+ ],
+ "submitted": "2024-08-27T17:48:47.464162",
+ "attachments": [],
+ "forum": {
+  "topicId": 545,
+  "url": "https://forum.toolassisted.run/t/545"
+ }
+}

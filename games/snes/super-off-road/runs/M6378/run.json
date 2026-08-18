@@ -1,0 +1,51 @@
+{
+ "id": "M6378",
+ "game": "snes/super-off-road",
+ "category": {
+  "goal": "all-tracks"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6378.bk2",
+  "format": "bk2",
+  "frames": 153372,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "0bbbc88b0f64607e366f156231c6c865882977ed"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Super Off Road (U) [!].smc",
+   "sha1": "1784c53c1b60047337109a5a9bf6a638d77b4219"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6378M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=MlvFaHJssro"
+  }
+ ],
+ "submitted": "2025-02-10T21:39:01.653624",
+ "attachments": [],
+ "forum": {
+  "topicId": 440,
+  "url": "https://forum.toolassisted.run/t/440"
+ }
+}

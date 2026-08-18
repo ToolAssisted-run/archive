@@ -1,0 +1,25 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "defeat-mewtwo-blue-board",
+     "label": "defeat Mewtwo, Blue board",
+     "rule": "Imported from TASVideos as \"defeat Mewtwo, Blue board\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "defeat-mewtwo-red-board",
+     "label": "defeat Mewtwo, Red board",
+     "rule": "Imported from TASVideos as \"defeat Mewtwo, Red board\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "complete-pok-dex",
+     "label": "complete Pok\u00e9dex",
+     "rule": "Imported from TASVideos as \"complete Pok\u00e9dex\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

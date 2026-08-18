@@ -1,0 +1,51 @@
+{
+ "id": "M6417",
+ "game": "amiga/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6417.bk2",
+  "format": "bk2",
+  "frames": 55742,
+  "rerecords": 2174,
+  "start": "power-on",
+  "sha1": "8cf3f037ae26bcf71dc6a23d4938ab3ce450f297"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Prince of Persia v1.0 (1991)(Softgold)(DE)[cr Flashtro].adf",
+   "sha1": "2e4e83df09ea4ab946283934e0ac58dfa1da7f62"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6417M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=O_8Rsz5BaCQ"
+  }
+ ],
+ "submitted": "2025-03-06T17:47:58.382158",
+ "attachments": [],
+ "forum": {
+  "topicId": 36,
+  "url": "https://forum.toolassisted.run/t/36"
+ }
+}

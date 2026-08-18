@@ -1,0 +1,50 @@
+{
+ "id": "M5530",
+ "game": "arcade/karnov",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5530.bk2",
+  "format": "bk2",
+  "frames": 22009,
+  "rerecords": 14130,
+  "start": "power-on",
+  "sha1": "dfa038ebcda41e27c7c4e904ccb9811a688b3945"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "karnov.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5530M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=1a7AOzWDp_Y"
+  }
+ ],
+ "submitted": "2023-08-31T20:23:47.129928",
+ "attachments": [],
+ "forum": {
+  "topicId": 455,
+  "url": "https://forum.toolassisted.run/t/455"
+ }
+}

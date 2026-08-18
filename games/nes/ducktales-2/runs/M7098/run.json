@@ -1,0 +1,50 @@
+{
+ "id": "M7098",
+ "game": "nes/ducktales-2",
+ "category": {
+  "goal": "best-ending"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7098.fm2",
+  "format": "fm2",
+  "frames": 48079,
+  "rerecords": 14088,
+  "start": "power-on",
+  "sha1": "73bf7f5d33c3c3745fd67a9ae8b0eef73521bf41"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Duck Tales 2 (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7098M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=fMB_5Wef3IQ"
+  }
+ ],
+ "submitted": "2026-04-26T16:58:16.54474",
+ "attachments": [],
+ "forum": {
+  "topicId": 541,
+  "url": "https://forum.toolassisted.run/t/541"
+ }
+}

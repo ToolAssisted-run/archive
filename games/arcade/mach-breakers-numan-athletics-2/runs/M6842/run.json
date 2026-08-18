@@ -1,0 +1,50 @@
+{
+ "id": "M6842",
+ "game": "arcade/mach-breakers-numan-athletics-2",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6842.bk2",
+  "format": "bk2",
+  "frames": 59363,
+  "rerecords": 4432,
+  "start": "power-on",
+  "sha1": "125f54e523a2dd00a2d157d6df7fdbe326574768"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "machbrkrj.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6842M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7u_AYcu6_BU"
+  }
+ ],
+ "submitted": "2025-11-24T19:03:09.186719",
+ "attachments": [],
+ "forum": {
+  "topicId": 457,
+  "url": "https://forum.toolassisted.run/t/457"
+ }
+}

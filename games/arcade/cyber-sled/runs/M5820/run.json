@@ -1,0 +1,50 @@
+{
+ "id": "M5820",
+ "game": "arcade/cyber-sled",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5820.bk2",
+  "format": "bk2",
+  "frames": 6587,
+  "rerecords": 3550,
+  "start": "power-on",
+  "sha1": "7b7df6b76a84a4a1694d9f22a27e5309a61ddf63"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "cybsled.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5820M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xfdlclHDIXE"
+  }
+ ],
+ "submitted": "2024-02-16T21:20:17.556874",
+ "attachments": [],
+ "forum": {
+  "topicId": 449,
+  "url": "https://forum.toolassisted.run/t/449"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "M4535",
+ "game": "genesis/prince-of-persia-2-the-shadow-and-the-flame",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4535.bk2",
+  "format": "bk2",
+  "frames": 70660,
+  "rerecords": 4570,
+  "start": "power-on",
+  "sha1": "ab97d44a175140308848df0a2f3ae4348469fdc4"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.6.2",
+  "rom": {
+   "name": "Prince of Persia 2 - The Shadow and The Flame (Beta)",
+   "sha1": "ba63dc1e521bee68b4121b626061ebb203ac63c6"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4535M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=hmQz6MVNyfw"
+  }
+ ],
+ "submitted": "2021-10-12T19:12:06",
+ "attachments": [],
+ "forum": {
+  "topicId": 318,
+  "url": "https://forum.toolassisted.run/t/318"
+ }
+}

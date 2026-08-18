@@ -1,0 +1,51 @@
+{
+ "id": "M5294",
+ "game": "nes/ivan-ironman-stewarts-super-off-road",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5294.bk2",
+  "format": "bk2",
+  "frames": 182180,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "7bc81d012878fa7169b7309fb3c39193345f979e"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "Ivan 'Ironman' Stewart's Super Off Road (USA).nes",
+   "sha1": "57919b685b55ee3ed3ad98fb1d25626b98be7d39"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5294M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=naZyTQADSiQ"
+  }
+ ],
+ "submitted": "2023-05-26T23:40:50.908557",
+ "attachments": [],
+ "forum": {
+  "topicId": 354,
+  "url": "https://forum.toolassisted.run/t/354"
+ }
+}

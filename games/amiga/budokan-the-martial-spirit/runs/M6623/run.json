@@ -1,0 +1,50 @@
+{
+ "id": "M6623",
+ "game": "amiga/budokan-the-martial-spirit",
+ "category": {
+  "goal": "damageless"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6623.bk2",
+  "format": "bk2",
+  "frames": 38618,
+  "rerecords": 2469,
+  "start": "power-on",
+  "sha1": "d523d118cf33210cf6a20a9b46731ae8240fa3c3"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Budokan - The Martial Spirit (1990)(Electronic Arts)(Disk 1 of 2)[cr OCL].adf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6623M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=fhZfCHt04QY"
+  }
+ ],
+ "submitted": "2025-07-05T08:04:04.458238",
+ "attachments": [],
+ "forum": {
+  "topicId": 28,
+  "url": "https://forum.toolassisted.run/t/28"
+ }
+}

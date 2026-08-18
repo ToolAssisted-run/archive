@@ -1,0 +1,51 @@
+{
+ "id": "M5441",
+ "game": "nes/ninja-gaiden-ii-the-dark-sword-of-chaos",
+ "category": {
+  "goal": "pacifist"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5441.bk2",
+  "format": "bk2",
+  "frames": 36584,
+  "rerecords": 1509,
+  "start": "power-on",
+  "sha1": "10b230173cc52ce583f208fcb4d884f0eb4a3667"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "EmuHawk 2.9.0 (Core: QuickNES)",
+  "rom": {
+   "name": "Ninja Gaiden II - The Dark Sword of Chaos (U) [!].nes",
+   "sha1": "b1796660e4a4cefc72181d4bf4f97999bc048a77"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5441M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=YJhweR6t2no"
+  }
+ ],
+ "submitted": "2023-07-24T17:03:33.049039",
+ "attachments": [],
+ "forum": {
+  "topicId": 380,
+  "url": "https://forum.toolassisted.run/t/380"
+ }
+}

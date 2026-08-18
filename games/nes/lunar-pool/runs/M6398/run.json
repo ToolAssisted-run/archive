@@ -1,0 +1,51 @@
+{
+ "id": "M6398",
+ "game": "nes/lunar-pool",
+ "category": {
+  "goal": "no-friction-minimum-strikes"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6398.bk2",
+  "format": "bk2",
+  "frames": 337736,
+  "rerecords": 3978,
+  "start": "power-on",
+  "sha1": "913a9d8bdca9e245285fa679bbf2bf1500f28e25"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Lunar Ball (J) [!].nes",
+   "sha1": "aa5c574a4743991a3523dfd78a39d782bede262a"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6398M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=I-EiVhA_-XQ"
+  }
+ ],
+ "submitted": "2025-02-23T03:08:40.314905",
+ "attachments": [],
+ "forum": {
+  "topicId": 362,
+  "url": "https://forum.toolassisted.run/t/362"
+ }
+}

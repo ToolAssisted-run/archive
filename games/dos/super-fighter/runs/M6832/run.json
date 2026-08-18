@@ -1,0 +1,50 @@
+{
+ "id": "M6832",
+ "game": "dos/super-fighter",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6832.bk2",
+  "format": "bk2",
+  "frames": 61835,
+  "rerecords": 3889,
+  "start": "power-on",
+  "sha1": "bb6522e8642ce9729208bb34bfc28f7ba767a698"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "FATALEN1.img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6832M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=mZ51GBJPhdI"
+  }
+ ],
+ "submitted": "2025-11-23T04:11:05.298147",
+ "attachments": [],
+ "forum": {
+  "topicId": 284,
+  "url": "https://forum.toolassisted.run/t/284"
+ }
+}

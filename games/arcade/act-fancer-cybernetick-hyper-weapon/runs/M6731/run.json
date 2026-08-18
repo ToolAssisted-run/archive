@@ -1,0 +1,50 @@
+{
+ "id": "M6731",
+ "game": "arcade/act-fancer-cybernetick-hyper-weapon",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6731.bk2",
+  "format": "bk2",
+  "frames": 16788,
+  "rerecords": 3659,
+  "start": "power-on",
+  "sha1": "4c0303a697049f19343553fdc2bd10decc393977"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "actfancr.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6731M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=78Y8aOuKUJU"
+  }
+ ],
+ "submitted": "2025-09-13T00:33:44.932716",
+ "attachments": [],
+ "forum": {
+  "topicId": 445,
+  "url": "https://forum.toolassisted.run/t/445"
+ }
+}

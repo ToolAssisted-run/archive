@@ -1,0 +1,50 @@
+{
+ "id": "M6796",
+ "game": "dos/budokan-the-martial-spirit",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6796.bk2",
+  "format": "bk2",
+  "frames": 27899,
+  "rerecords": 2078,
+  "start": "power-on",
+  "sha1": "89d182f72083c6716697a2cab55b84fe7d05beaa"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "disk01.img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6796M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-o3YjJbngcE"
+  }
+ ],
+ "submitted": "2025-10-31T07:36:54.532172",
+ "attachments": [],
+ "forum": {
+  "topicId": 52,
+  "url": "https://forum.toolassisted.run/t/52"
+ }
+}

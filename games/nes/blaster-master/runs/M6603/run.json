@@ -1,0 +1,50 @@
+{
+ "id": "M6603",
+ "game": "nes/blaster-master",
+ "category": {
+  "goal": "all-bosses"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6603.fm2",
+  "format": "fm2",
+  "frames": 92935,
+  "rerecords": 49820,
+  "start": "power-on",
+  "sha1": "a65a5018888348966333eb59e8709bca1f68fe69"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Chou-Wakusei Senki - MetaFight (J).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6603M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xkP0QWM8v28"
+  }
+ ],
+ "submitted": "2025-06-16T19:22:14.216672",
+ "attachments": [],
+ "forum": {
+  "topicId": 536,
+  "url": "https://forum.toolassisted.run/t/536"
+ }
+}

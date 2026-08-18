@@ -1,0 +1,49 @@
+{
+ "id": "M3749",
+ "game": "genesis/cadash",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3749.bk2",
+  "format": "bk2",
+  "frames": 56007,
+  "rerecords": 268100,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.2.1",
+  "rom": {
+   "name": "Cadash (U) [c][!].bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3749M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ccp3-RrC1zw"
+  }
+ ],
+ "submitted": "2018-07-25T16:50:22",
+ "attachments": [],
+ "forum": {
+  "topicId": 662,
+  "url": "https://forum.toolassisted.run/t/662"
+ }
+}

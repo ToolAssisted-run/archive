@@ -1,0 +1,50 @@
+{
+ "id": "M6891",
+ "game": "snes/mega-man-x2",
+ "category": {
+  "goal": "x-buster-only-no-upgrades"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6891.bk2",
+  "format": "bk2",
+  "frames": 130013,
+  "rerecords": 42470,
+  "start": "power-on",
+  "sha1": "4227a10470d3213a8dde46510cb8b402fba360b6"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Rockman X 2 (J).smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6891M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=m4y5yrLDcNM"
+  }
+ ],
+ "submitted": "2025-12-16T14:59:55.326957",
+ "attachments": [],
+ "forum": {
+  "topicId": 579,
+  "url": "https://forum.toolassisted.run/t/579"
+ }
+}

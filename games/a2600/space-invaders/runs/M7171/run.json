@@ -1,0 +1,57 @@
+{
+ "id": "M7171",
+ "game": "a2600/space-invaders",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [
+  {
+   "name": "jaffarPlus",
+   "role": "routing bot"
+  }
+ ],
+ "movie": {
+  "file": "M7171.bk2",
+  "format": "bk2",
+  "frames": 951,
+  "fps": 59.9227510135505,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "2ef490b9320b678be2c1ebe34843e99e9a88d6dc"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "sha1": "31d9668fe5812c3d2e076987ca327ac6b2e280bf",
+   "name": "Space Invaders (USA).a26"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7171M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Bo1s47C6pmo"
+  }
+ ],
+ "submitted": "2026-06-02T16:38:23.084799",
+ "attachments": [],
+ "forum": {
+  "topicId": 24,
+  "url": "https://forum.toolassisted.run/t/24"
+ }
+}

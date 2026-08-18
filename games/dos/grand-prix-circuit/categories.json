@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "all-races",
+     "label": "all races",
+     "rule": "Imported from TASVideos as \"all races\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

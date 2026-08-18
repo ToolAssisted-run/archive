@@ -1,0 +1,49 @@
+{
+ "id": "M3229",
+ "game": "sms/the-lucky-dime-caper-starring-donald-duck",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3229.bk2",
+  "format": "bk2",
+  "frames": 55318,
+  "rerecords": 19133,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.11.4",
+  "rom": {
+   "name": "Lucky Dime Caper, The - Starring Donald Duck (E) [!].sms"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3229M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=66oC8AcMCSM"
+  }
+ ],
+ "submitted": "2016-10-02T16:19:03",
+ "attachments": [],
+ "forum": {
+  "topicId": 648,
+  "url": "https://forum.toolassisted.run/t/648"
+ }
+}

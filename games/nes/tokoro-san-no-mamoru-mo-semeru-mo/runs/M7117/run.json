@@ -1,0 +1,50 @@
+{
+ "id": "M7117",
+ "game": "nes/tokoro-san-no-mamoru-mo-semeru-mo",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7117.fm2",
+  "format": "fm2",
+  "frames": 13737,
+  "rerecords": 2774,
+  "start": "power-on",
+  "sha1": "49297183bd001962dcdb28b31ae27352298e43da"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Tokoro San no Mamoru mo Semeru mo (J) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7117M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=BKF-r3bE_NE"
+  }
+ ],
+ "submitted": "2026-05-09T09:30:18.174118",
+ "attachments": [],
+ "forum": {
+  "topicId": 551,
+  "url": "https://forum.toolassisted.run/t/551"
+ }
+}

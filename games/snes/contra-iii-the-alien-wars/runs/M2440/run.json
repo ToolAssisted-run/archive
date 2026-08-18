@@ -1,0 +1,50 @@
+{
+ "id": "M2440",
+ "game": "snes/contra-iii-the-alien-wars",
+ "category": {
+  "goal": "pacifist"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2440.smv",
+  "format": "smv",
+  "frames": 50802,
+  "rerecords": 5864,
+  "start": "power-on",
+  "sha1": "bf9aae930b3728831995be457a5e812766590627"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Snes9x 1.51 v6",
+  "rom": {
+   "name": "Contra 3 - The Alien Wars (U).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2440M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-P7YU9gcXZk"
+  }
+ ],
+ "submitted": "2013-08-12T14:57:04",
+ "attachments": [],
+ "forum": {
+  "topicId": 575,
+  "url": "https://forum.toolassisted.run/t/575"
+ }
+}

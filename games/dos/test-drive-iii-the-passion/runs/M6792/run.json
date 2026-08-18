@@ -1,0 +1,50 @@
+{
+ "id": "M6792",
+ "game": "dos/test-drive-iii-the-passion",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6792.bk2",
+  "format": "bk2",
+  "frames": 23822,
+  "rerecords": 2140,
+  "start": "power-on",
+  "sha1": "ac134da001109941158a04023a2060c0d475e77c"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "disk1.img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6792M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=UjJ23qyw3AE"
+  }
+ ],
+ "submitted": "2025-10-29T06:16:36.329363",
+ "attachments": [],
+ "forum": {
+  "topicId": 290,
+  "url": "https://forum.toolassisted.run/t/290"
+ }
+}

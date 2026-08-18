@@ -1,0 +1,51 @@
+{
+ "id": "M5231",
+ "game": "nes/pac-man",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5231.bk2",
+  "format": "bk2",
+  "frames": 43443,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "3d40bcd57ab38466b1886ba9938ae12edd07e91a"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Pac-Man (USA) (Tengen).nes",
+   "sha1": "a34e68372082513209a795786c8eea493cc2cd14"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5231M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "http://www.youtube.com/watch?v=Co1NxYsubSY"
+  }
+ ],
+ "submitted": "2023-04-23T12:29:26.533487",
+ "attachments": [],
+ "forum": {
+  "topicId": 382,
+  "url": "https://forum.toolassisted.run/t/382"
+ }
+}

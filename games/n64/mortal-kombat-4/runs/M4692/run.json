@@ -1,0 +1,49 @@
+{
+ "id": "M4692",
+ "game": "n64/mortal-kombat-4",
+ "category": {
+  "goal": "endurance"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4692.bk2",
+  "format": "bk2",
+  "frames": 9241,
+  "rerecords": 6206,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.2",
+  "rom": {
+   "name": "Mortal Kombat 4 (U) [!]"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4692M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=py-MoDSb918"
+  }
+ ],
+ "submitted": "2022-06-01T14:14:14.147755",
+ "attachments": [],
+ "forum": {
+  "topicId": 598,
+  "url": "https://forum.toolassisted.run/t/598"
+ }
+}

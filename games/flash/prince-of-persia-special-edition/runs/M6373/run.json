@@ -1,0 +1,50 @@
+{
+ "id": "M6373",
+ "game": "flash/prince-of-persia-special-edition",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6373.ltm",
+  "format": "ltm",
+  "frames": 3068,
+  "rerecords": 1810,
+  "start": "power-on",
+  "sha1": "622d471582dfdb4269f146e7e05c8f06c698c35a"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "PoP_SE.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6373M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ChOYKUHTP5c"
+  }
+ ],
+ "submitted": "2025-02-08T09:50:02.641934",
+ "attachments": [],
+ "forum": {
+  "topicId": 500,
+  "url": "https://forum.toolassisted.run/t/500"
+ }
+}

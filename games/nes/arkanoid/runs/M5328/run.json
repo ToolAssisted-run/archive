@@ -1,0 +1,51 @@
+{
+ "id": "M5328",
+ "game": "nes/arkanoid",
+ "category": {
+  "goal": "warps-demo-glitch"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5328.bk2",
+  "format": "bk2",
+  "frames": 15807,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "8b92a4f32fdbd11eb875e338f9491587b76b0c03"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "Arkanoid (U) [!].nes",
+   "sha1": "230fc31d2c2eb20e78711c82574f29f28117eba3"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5328M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "http://www.youtube.com/watch?v=nw6Pv0KZWUk"
+  }
+ ],
+ "submitted": "2023-06-11T12:34:44.393494",
+ "attachments": [],
+ "forum": {
+  "topicId": 330,
+  "url": "https://forum.toolassisted.run/t/330"
+ }
+}

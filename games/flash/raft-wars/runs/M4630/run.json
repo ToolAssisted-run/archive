@@ -1,0 +1,49 @@
+{
+ "id": "M4630",
+ "game": "flash/raft-wars",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4630.ltm",
+  "format": "ltm",
+  "frames": 9992,
+  "rerecords": 1057,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.3",
+  "rom": {
+   "name": "raft-wars.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4630M",
+  "importedBy": "GMP",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=hsqJedSB3hw"
+  }
+ ],
+ "submitted": "2022-04-14T11:40:01.556781",
+ "attachments": [],
+ "forum": {
+  "topicId": 503,
+  "url": "https://forum.toolassisted.run/t/503"
+ }
+}

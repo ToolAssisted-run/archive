@@ -1,0 +1,50 @@
+{
+ "id": "M7094",
+ "game": "flash/tetsuo-in-the-room-3",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7094.ltm",
+  "format": "ltm",
+  "frames": 5880,
+  "rerecords": 586,
+  "start": "power-on",
+  "sha1": "8bfec293b5a4f6355e112acebd31b12bc4cf8651"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.7 // ruffle-nightly-2026-01-22",
+  "rom": {
+   "name": "tetsuo3-3.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7094M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=vZTD649bFLc"
+  }
+ ],
+ "submitted": "2026-04-25T19:53:40.45472",
+ "attachments": [],
+ "forum": {
+  "topicId": 507,
+  "url": "https://forum.toolassisted.run/t/507"
+ }
+}

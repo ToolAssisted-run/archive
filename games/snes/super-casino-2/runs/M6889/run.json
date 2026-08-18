@@ -1,0 +1,50 @@
+{
+ "id": "M6889",
+ "game": "snes/super-casino-2",
+ "category": {
+  "goal": "horse-racing-only"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6889.bk2",
+  "format": "bk2",
+  "frames": 16001,
+  "rerecords": 4792,
+  "start": "power-on",
+  "sha1": "2b433085a4c997ea06e8e2274624c3c4d7f11aed"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Super Casino 2 (J).smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6889M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Om7wHslrroU"
+  }
+ ],
+ "submitted": "2025-12-15T15:06:00.223218",
+ "attachments": [],
+ "forum": {
+  "topicId": 438,
+  "url": "https://forum.toolassisted.run/t/438"
+ }
+}

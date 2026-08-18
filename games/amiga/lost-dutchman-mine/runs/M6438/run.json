@@ -1,0 +1,51 @@
+{
+ "id": "M6438",
+ "game": "amiga/lost-dutchman-mine",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6438.bk2",
+  "format": "bk2",
+  "frames": 11572,
+  "rerecords": 227,
+  "start": "power-on",
+  "sha1": "729835e2c0bf9ef9c23ec7ffa59ca2ac554701c3"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Lost Dutchman Mine v1.0 (1989)(Magnetic Images).adf",
+   "sha1": "70a56d0859d9adec22613172e8690ec5ba5e3d6a"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6438M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=uSzzZ430x98"
+  }
+ ],
+ "submitted": "2025-03-17T10:02:37.763225",
+ "attachments": [],
+ "forum": {
+  "topicId": 30,
+  "url": "https://forum.toolassisted.run/t/30"
+ }
+}

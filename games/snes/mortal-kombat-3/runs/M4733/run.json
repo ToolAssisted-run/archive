@@ -1,0 +1,49 @@
+{
+ "id": "M4733",
+ "game": "snes/mortal-kombat-3",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4733.bk2",
+  "format": "bk2",
+  "frames": 17505,
+  "rerecords": 19640,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.2",
+  "rom": {
+   "name": "Mortal Kombat 3 (USA)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4733M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=hBqMJfTgP00"
+  }
+ ],
+ "submitted": "2022-06-23T00:16:03.423203",
+ "attachments": [],
+ "forum": {
+  "topicId": 599,
+  "url": "https://forum.toolassisted.run/t/599"
+ }
+}

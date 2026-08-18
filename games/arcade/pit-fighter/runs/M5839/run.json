@@ -1,0 +1,50 @@
+{
+ "id": "M5839",
+ "game": "arcade/pit-fighter",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5839.bk2",
+  "format": "bk2",
+  "frames": 13216,
+  "rerecords": 26754,
+  "start": "power-on",
+  "sha1": "27415edb46a047bbef85e9645be3c8ded4ee1a94"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "pitfight2.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5839M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ecUNrEtrbQU"
+  }
+ ],
+ "submitted": "2024-03-02T03:41:50.524405",
+ "attachments": [],
+ "forum": {
+  "topicId": 464,
+  "url": "https://forum.toolassisted.run/t/464"
+ }
+}

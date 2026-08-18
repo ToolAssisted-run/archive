@@ -1,0 +1,50 @@
+{
+ "id": "M6865",
+ "game": "ds/emma-at-the-farm",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6865.bk2",
+  "format": "bk2",
+  "frames": 42427,
+  "rerecords": 12217,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Emma at the Farm (Europe) (En,Fr,De,Es,It,Nl,Pt).nds",
+   "sha1": "ede9add041614eaa232059c63d8613b83fe4e954"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6865M",
+  "importedBy": "toca",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3cVvlswQYys"
+  }
+ ],
+ "submitted": "2025-12-05T07:08:01.28989",
+ "attachments": [],
+ "forum": {
+  "topicId": 670,
+  "url": "https://forum.toolassisted.run/t/670"
+ }
+}

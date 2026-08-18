@@ -1,0 +1,49 @@
+{
+ "id": "M3462",
+ "game": "gg/sonic-blast",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3462.bk2",
+  "format": "bk2",
+  "frames": 41404,
+  "rerecords": 31519,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.0",
+  "rom": {
+   "name": "Sonic Blast (U) [!].gg"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3462M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ulPHJ8OP5EY"
+  }
+ ],
+ "submitted": "2017-07-08T12:25:52",
+ "attachments": [],
+ "forum": {
+  "topicId": 656,
+  "url": "https://forum.toolassisted.run/t/656"
+ }
+}

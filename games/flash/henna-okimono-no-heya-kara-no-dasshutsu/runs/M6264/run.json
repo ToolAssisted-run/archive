@@ -1,0 +1,50 @@
+{
+ "id": "M6264",
+ "game": "flash/henna-okimono-no-heya-kara-no-dasshutsu",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6264.ltm",
+  "format": "ltm",
+  "frames": 35,
+  "rerecords": 3,
+  "start": "power-on",
+  "sha1": "c32022ea9f3608d7057a617696381521cdfa2b2b"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "sakusei18.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6264M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2BkTDGQVn6c"
+  }
+ ],
+ "submitted": "2024-11-16T09:32:19.274159",
+ "attachments": [],
+ "forum": {
+  "topicId": 491,
+  "url": "https://forum.toolassisted.run/t/491"
+ }
+}

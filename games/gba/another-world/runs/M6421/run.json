@@ -1,0 +1,51 @@
+{
+ "id": "M6421",
+ "game": "gba/another-world",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6421.bk2",
+  "format": "bk2",
+  "frames": 29366,
+  "rerecords": 6294,
+  "start": "power-on",
+  "sha1": "c4a09c0acb443421dd190de45cb748c341b3ae22"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Another_world.gba",
+   "sha1": "41d39a0c34f72469dd3fbcc90190605b8ada93e6"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6421M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=p2vxQZQL18o"
+  }
+ ],
+ "submitted": "2025-03-08T22:00:23.962842",
+ "attachments": [],
+ "forum": {
+  "topicId": 302,
+  "url": "https://forum.toolassisted.run/t/302"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M2281",
+ "game": "gba/tekken-advance",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2281.vbm",
+  "format": "vbm",
+  "frames": 12922,
+  "rerecords": 2754,
+  "start": "power-on",
+  "sha1": "0510b7e235b14dd42dba07f6c29b698071f1e4f8"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr",
+  "rom": {
+   "name": "Tekken Advance (U) [-].gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2281M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gZFjeVkn8uE"
+  }
+ ],
+ "submitted": "2013-01-23T15:48:59",
+ "attachments": [],
+ "forum": {
+  "topicId": 521,
+  "url": "https://forum.toolassisted.run/t/521"
+ }
+}

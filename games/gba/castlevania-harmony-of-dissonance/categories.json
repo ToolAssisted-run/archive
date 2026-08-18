@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "all-furniture-best-ending",
+     "label": "all furniture, best ending",
+     "rule": "Imported from TASVideos as \"all furniture, best ending\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "maxim-mode-all-bosses",
+     "label": "Maxim mode, all bosses",
+     "rule": "Imported from TASVideos as \"Maxim mode, all bosses\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

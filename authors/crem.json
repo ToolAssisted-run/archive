@@ -1,0 +1,9 @@
+{
+ "username": "CREM",
+ "claimed": true,
+ "claimedBy": "crem",
+ "claimedAt": "2026-08-17",
+ "claimMethod": "attested",
+ "attestedBy": "eien86",
+ "attestation": "Verified out of band by eien86: CREM is a known TASVideos author whose account could not edit its wiki homepage, so the challenge-token route was impossible. The reserved name was released and the forum account crem_tmp renamed to crem on 2026-08-17."
+}

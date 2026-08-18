@@ -1,0 +1,51 @@
+{
+ "id": "M5438",
+ "game": "nes/saint-seiya-ougon-densetsu-kanketsu-hen",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5438.bk2",
+  "format": "bk2",
+  "frames": 86170,
+  "rerecords": 4268,
+  "start": "power-on",
+  "sha1": "0a3286833c7df60720b4bb728f4d970df59e4aca"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Saint Seiya - Ougon Densetsu Kanketsu Hen (J) [!].nes",
+   "sha1": "f871d9b3dafddcdad5f2acd71044292e5169064e"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5438M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=JrB1ERn9lG4"
+  }
+ ],
+ "submitted": "2023-07-23T21:06:23.763011",
+ "attachments": [],
+ "forum": {
+  "topicId": 408,
+  "url": "https://forum.toolassisted.run/t/408"
+ }
+}

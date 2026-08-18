@@ -1,0 +1,49 @@
+{
+ "id": "M3438",
+ "game": "sms/ninja-gaiden",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3438.bk2",
+  "format": "bk2",
+  "frames": 51377,
+  "rerecords": 78140,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.12.2",
+  "rom": {
+   "name": "Ninja Gaiden (E) [!].sms"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3438M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=j6OgOaa5iD4"
+  }
+ ],
+ "submitted": "2017-06-19T04:10:05",
+ "attachments": [],
+ "forum": {
+  "topicId": 655,
+  "url": "https://forum.toolassisted.run/t/655"
+ }
+}

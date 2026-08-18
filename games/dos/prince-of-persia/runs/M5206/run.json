@@ -1,0 +1,56 @@
+{
+ "id": "M5206",
+ "game": "dos/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5206.ltm",
+  "format": "ltm",
+  "frames": 83915,
+  "rerecords": 455,
+  "start": "power-on",
+  "sha1": "33251288409fb5632d0222bf101e7de3f8b6b3d5"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "LibTAS 1.4.4 + PCem 17+st-1 + Late 90's Config",
+  "rom": {
+   "name": "Prince of Persia Collection: Limited Edition (7f185559f694140312bc84fba0558d9a)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5206M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=a9cFrIkpg58"
+  }
+ ],
+ "submitted": "2023-04-02T18:38:53.876483",
+ "attachments": [],
+ "forum": {
+  "topicId": 272,
+  "url": "https://forum.toolassisted.run/t/272"
+ },
+ "likes": [
+  {
+   "user": "GMP",
+   "date": "2026-08-18"
+  }
+ ]
+}

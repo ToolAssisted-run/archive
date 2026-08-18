@@ -1,0 +1,51 @@
+{
+ "id": "M5327",
+ "game": "nes/arkanoid",
+ "category": {
+  "goal": "warpless"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5327.bk2",
+  "format": "bk2",
+  "frames": 39432,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "484965550be85aab314d6cd77b46786704500a1c"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "Arkanoid (U) [!].nes",
+   "sha1": "230fc31d2c2eb20e78711c82574f29f28117eba3"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5327M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bUSIQ9YwKpw"
+  }
+ ],
+ "submitted": "2023-06-11T08:07:50.032432",
+ "attachments": [],
+ "forum": {
+  "topicId": 328,
+  "url": "https://forum.toolassisted.run/t/328"
+ }
+}

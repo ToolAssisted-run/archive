@@ -1,0 +1,50 @@
+{
+ "id": "M6000",
+ "game": "n64/aerofighters-assault",
+ "category": {
+  "goal": "all-levels"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6000.bk2",
+  "format": "bk2",
+  "frames": 45440,
+  "rerecords": 24835,
+  "start": "power-on",
+  "sha1": "4bedd799e9f78dcd63ca01b5f3eae8d65f8b9367"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "AeroFighters Assault (USA).zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6000M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0DJxwlLYWxI"
+  }
+ ],
+ "submitted": "2024-06-15T08:32:53.416893",
+ "attachments": [],
+ "forum": {
+  "topicId": 531,
+  "url": "https://forum.toolassisted.run/t/531"
+ }
+}

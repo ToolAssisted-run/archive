@@ -1,0 +1,49 @@
+{
+ "id": "M5887",
+ "game": "gba/sonic-battle",
+ "category": {
+  "goal": "challenge-mode"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5887.bk2",
+  "format": "bk2",
+  "frames": 16688,
+  "rerecords": 7969,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "Sonic Battle (USA) (En,Ja,Fr,De,Es,It).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5887M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=U0JbGLvf_nA"
+  }
+ ],
+ "submitted": "2024-04-01T06:23:24.569657",
+ "attachments": [],
+ "forum": {
+  "topicId": 606,
+  "url": "https://forum.toolassisted.run/t/606"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "M6923",
+ "game": "amiga/risky-woods",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6923.bk2",
+  "format": "bk2",
+  "frames": 54510,
+  "rerecords": 18510,
+  "start": "power-on",
+  "sha1": "e3fadef5e330615830b7b506911479c4797a3509"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Risky Woods (1992)(Electronic Arts)(Disk 1 of 2)[cr].adf",
+   "sha1": "bfec214dbdeee9c151a419302d302d1d79af4b1a"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6923M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=UO2cuIZjq3o"
+  }
+ ],
+ "submitted": "2025-12-30T08:50:52.976477",
+ "attachments": [],
+ "forum": {
+  "topicId": 38,
+  "url": "https://forum.toolassisted.run/t/38"
+ }
+}

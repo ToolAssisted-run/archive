@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "challenge-mode",
+     "label": "Challenge Mode",
+     "rule": "Imported from TASVideos as \"Challenge Mode\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "story-mode",
+     "label": "Story Mode",
+     "rule": "Imported from TASVideos as \"Story Mode\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

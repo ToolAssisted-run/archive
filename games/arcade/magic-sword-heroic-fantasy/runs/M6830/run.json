@@ -1,0 +1,50 @@
+{
+ "id": "M6830",
+ "game": "arcade/magic-sword-heroic-fantasy",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6830.bk2",
+  "format": "bk2",
+  "frames": 10437,
+  "rerecords": 18708,
+  "start": "power-on",
+  "sha1": "01af9db9365875de7b0dfd5a39f82f4c940fac27"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.11",
+  "rom": {
+   "name": "msword.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6830M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=UkXBWJYJM5M"
+  }
+ ],
+ "submitted": "2025-11-22T23:06:07.774205",
+ "attachments": [],
+ "forum": {
+  "topicId": 458,
+  "url": "https://forum.toolassisted.run/t/458"
+ }
+}

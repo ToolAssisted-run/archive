@@ -1,0 +1,49 @@
+{
+ "id": "M3313",
+ "game": "genesis/3-ninjas-kick-back",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3313.bk2",
+  "format": "bk2",
+  "frames": 39387,
+  "rerecords": 16531,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.11.9",
+  "rom": {
+   "name": "3 Ninjas Kick Back (U) [!].bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3313M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=mL1xb5dUhMA"
+  }
+ ],
+ "submitted": "2017-01-22T16:01:45",
+ "attachments": [],
+ "forum": {
+  "topicId": 650,
+  "url": "https://forum.toolassisted.run/t/650"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M2548",
+ "game": "gba/castlevania-harmony-of-dissonance",
+ "category": {
+  "goal": "maxim-mode-all-bosses"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2548.vbm",
+  "format": "vbm",
+  "frames": 26922,
+  "rerecords": 39684,
+  "start": "power-on",
+  "sha1": "ef21c8739517a1cca7dea034b7b6a88073269b8a"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v23.5",
+  "rom": {
+   "name": "Castlevania - Harmony Of Dissonance (U).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2548M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bkgp6b505BQ"
+  }
+ ],
+ "submitted": "2014-03-11T00:45:12",
+ "attachments": [],
+ "forum": {
+  "topicId": 517,
+  "url": "https://forum.toolassisted.run/t/517"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "M6626",
+ "game": "genesis/the-duel-test-drive-ii",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6626.bk2",
+  "format": "bk2",
+  "frames": 152947,
+  "rerecords": 1996,
+  "start": "power-on",
+  "sha1": "c205c903b31abb4f3c5d0124625b4822b3a9c329"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Test Drive II - The Duel (U) [!].bin",
+   "sha1": "cb70e5de149521f20723413cd11c5e661ec63c3e"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6626M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7TyndEqlkfE"
+  }
+ ],
+ "submitted": "2025-07-06T13:21:22.432599",
+ "attachments": [],
+ "forum": {
+  "topicId": 324,
+  "url": "https://forum.toolassisted.run/t/324"
+ }
+}

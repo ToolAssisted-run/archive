@@ -1,0 +1,50 @@
+{
+ "id": "M6186",
+ "game": "flash/6-tsu-no-hoshi-no-heya-kara-no-dasshutsu",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6186.ltm",
+  "format": "ltm",
+  "frames": 36,
+  "rerecords": 30,
+  "start": "power-on",
+  "sha1": "73d60e8cfed1c019b8eb0e514ba6133d6c8f2a3d"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "sakusei28.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6186M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=fz8qSowX56I"
+  }
+ ],
+ "submitted": "2024-09-24T05:25:35.717202",
+ "attachments": [],
+ "forum": {
+  "topicId": 485,
+  "url": "https://forum.toolassisted.run/t/485"
+ }
+}

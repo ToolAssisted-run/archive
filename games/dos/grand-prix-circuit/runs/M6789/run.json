@@ -1,0 +1,50 @@
+{
+ "id": "M6789",
+ "game": "dos/grand-prix-circuit",
+ "category": {
+  "goal": "all-races"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6789.bk2",
+  "format": "bk2",
+  "frames": 102575,
+  "rerecords": 3734,
+  "start": "power-on",
+  "sha1": "77c6b9962155e1dd2c7720d05dfa7cb51e67ea9e"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "disk1.img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6789M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Oga6xrd2pmQ"
+  }
+ ],
+ "submitted": "2025-10-26T10:33:55.857513",
+ "attachments": [],
+ "forum": {
+  "topicId": 256,
+  "url": "https://forum.toolassisted.run/t/256"
+ }
+}

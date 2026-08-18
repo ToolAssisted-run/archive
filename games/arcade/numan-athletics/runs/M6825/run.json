@@ -1,0 +1,50 @@
+{
+ "id": "M6825",
+ "game": "arcade/numan-athletics",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6825.bk2",
+  "format": "bk2",
+  "frames": 27840,
+  "rerecords": 6439,
+  "start": "power-on",
+  "sha1": "4101e78d8e49e8f429c864ca24ba843e636236bb"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "numanth.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6825M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=o_bKHicBiys"
+  }
+ ],
+ "submitted": "2025-11-21T07:14:49.114859",
+ "attachments": [],
+ "forum": {
+  "topicId": 463,
+  "url": "https://forum.toolassisted.run/t/463"
+ }
+}

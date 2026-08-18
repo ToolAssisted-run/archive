@@ -1,0 +1,49 @@
+{
+ "id": "M3523",
+ "game": "pcecd/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3523.bk2",
+  "format": "bk2",
+  "frames": 18804,
+  "rerecords": 25638,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.2.0",
+  "rom": {
+   "name": "Prince of Persia [U][SCD][TGXCD1027][Broderbund][1992][PCE][thx-1138-darkwater].cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3523M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=TP7KhaSHats"
+  }
+ ],
+ "submitted": "2017-09-23T12:51:50",
+ "attachments": [],
+ "forum": {
+  "topicId": 659,
+  "url": "https://forum.toolassisted.run/t/659"
+ }
+}

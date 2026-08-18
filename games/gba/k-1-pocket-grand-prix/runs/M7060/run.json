@@ -1,0 +1,49 @@
+{
+ "id": "M7060",
+ "game": "gba/k-1-pocket-grand-prix",
+ "category": {
+  "goal": "grand-prix"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7060.bk2",
+  "format": "bk2",
+  "frames": 9689,
+  "rerecords": 1408,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "K-1 Pocket Grand Prix (Japan).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7060M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8uOZN0cbOEU"
+  }
+ ],
+ "submitted": "2026-04-12T19:48:31.736767",
+ "attachments": [],
+ "forum": {
+  "topicId": 639,
+  "url": "https://forum.toolassisted.run/t/639"
+ }
+}
