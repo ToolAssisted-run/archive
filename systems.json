@@ -1,0 +1,122 @@
+{
+ "a2600": {
+  "name": "Atari 2600",
+  "fps": 59.9227510135505
+ },
+ "nes": {
+  "name": "Nintendo Entertainment System",
+  "fps": 60.0988138974405
+ },
+ "c64": {
+  "name": "Commodore 64",
+  "fps": 50.1245421245421,
+  "hardToReproduce": true
+ },
+ "dos": {
+  "name": "DOS",
+  "fps": 60.0,
+  "hardToReproduce": true
+ },
+ "genesis": {
+  "name": "Sega Genesis",
+  "fps": 59.922751013551
+ },
+ "snes": {
+  "name": "Super Nintendo Entertainment System",
+  "fps": 60.0988118623484
+ },
+ "amiga": {
+  "name": "Amiga",
+  "fps": 49.92041015625,
+  "hardToReproduce": true
+ },
+ "gbc": {
+  "name": "Game Boy Color",
+  "fps": 59.7275005696058
+ },
+ "gg": {
+  "name": "Sega Game Gear",
+  "fps": 59.922751013551
+ },
+ "gba": {
+  "name": "Game Boy Advance",
+  "fps": 59.7275005696058
+ },
+ "psx": {
+  "name": "PlayStation",
+  "fps": 59.29286256195557,
+  "hardToReproduce": true
+ },
+ "3do": {
+  "name": "3DO",
+  "fps": 60.0,
+  "hardToReproduce": true
+ },
+ "pc": {
+  "name": "PC",
+  "fps": 1000.0,
+  "hardToReproduce": true
+ },
+ "pce": {
+  "name": "PC Engine / TurboGrafx-16",
+  "fps": 59.8261054534819
+ },
+ "arcade": {
+  "name": "Arcade",
+  "fps": 59.63740458015267,
+  "hardToReproduce": true
+ },
+ "n64": {
+  "name": "Nintendo 64",
+  "fps": 60.0
+ },
+ "tic80": {
+  "name": "TIC80",
+  "fps": 60.0
+ },
+ "zxs": {
+  "name": "ZX Spectrum",
+  "fps": 50.080128205,
+  "hardToReproduce": true
+ },
+ "flash": {
+  "name": "Flash",
+  "fps": 24.0
+ },
+ "ds": {
+  "name": "Nintendo DS",
+  "fps": 59.82609828808082
+ },
+ "gb": {
+  "name": "Game Boy",
+  "fps": 59.7275005696058
+ },
+ "3ds": {
+  "name": "3DS",
+  "fps": 59.83122493939037
+ },
+ "gc": {
+  "name": "GameCube",
+  "fps": 60.0,
+  "hardToReproduce": true
+ },
+ "wii": {
+  "name": "Wii",
+  "fps": 60.0,
+  "hardToReproduce": true
+ },
+ "sms": {
+  "name": "Sega Master System",
+  "fps": 59.922751013551
+ },
+ "segacd": {
+  "name": "Sega CD",
+  "fps": 59.922751013550524,
+  "hardToReproduce": true
+ },
+ "pcecd": {
+  "name": "PC Engine CD",
+  "fps": 59.8261054534819,
+  "hardToReproduce": true
+ }
+}

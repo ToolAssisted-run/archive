@@ -1,0 +1,130 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "tar:game",
+ "type": "object",
+ "required": [
+  "title",
+  "system"
+ ],
+ "properties": {
+  "title": {
+   "type": "string"
+  },
+  "system": {
+   "type": "string"
+  },
+  "established": {
+   "type": "boolean"
+  },
+  "tasvideosGameId": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "ratifiedBy": {
+   "type": "string",
+   "description": "the expert who ratified this game, if one did"
+  },
+  "ratifiedAt": {
+   "type": "string",
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+  },
+  "rejected": {
+   "type": "object",
+   "required": [
+    "by",
+    "date",
+    "reason"
+   ],
+   "additionalProperties": false,
+   "description": "an expert refused this as not a real, distinct thing",
+   "properties": {
+    "by": {
+     "type": "string"
+    },
+    "date": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "reason": {
+     "type": "string",
+     "minLength": 8,
+     "maxLength": 500
+    }
+   }
+  },
+  "removalRequests": {
+   "type": "array",
+   "description": "removal requests, newest last; at most one open",
+   "items": {
+    "type": "object",
+    "required": [
+     "by",
+     "date",
+     "reason",
+     "status"
+    ],
+    "additionalProperties": false,
+    "properties": {
+     "by": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+     },
+     "reason": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 500
+     },
+     "status": {
+      "enum": [
+       "open",
+       "granted",
+       "declined"
+      ]
+     },
+     "decidedBy": {
+      "type": "string"
+     },
+     "decidedAt": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+     },
+     "note": {
+      "type": "string",
+      "maxLength": 500
+     }
+    }
+   }
+  },
+  "removed": {
+   "type": "object",
+   "required": [
+    "by",
+    "date",
+    "reason"
+   ],
+   "additionalProperties": false,
+   "description": "a granted removal: out of the index, page kept",
+   "properties": {
+    "by": {
+     "type": "string"
+    },
+    "date": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "reason": {
+     "type": "string",
+     "maxLength": 500
+    },
+    "requestedBy": {
+     "type": "string"
+    }
+   }
+  }
+ }
+}

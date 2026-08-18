@@ -1,0 +1,48 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "tar:author",
+ "type": "object",
+ "required": [
+  "username",
+  "claimed"
+ ],
+ "properties": {
+  "username": {
+   "type": "string"
+  },
+  "claimed": {
+   "type": "boolean"
+  },
+  "country": {
+   "type": "string"
+  },
+  "tasvideosProfile": {
+   "type": "string"
+  },
+  "claimedBy": {
+   "type": "string"
+  },
+  "claimedAt": {
+   "type": "string"
+  },
+  "claimProof": {
+   "type": "string"
+  },
+  "claimMethod": {
+   "enum": [
+    "attested",
+    "committee"
+   ],
+   "description": "how the identity was established: \"attested\" (a site-wide expert vouched for it on the record) or \"committee\" (the Steering Committee answered a claim the member filed). The old challenge-token route was removed because it required permissions at TASVideos that an inactive or banned account does not have."
+  },
+  "attestedBy": {
+   "type": "string",
+   "description": "the expert who made the call"
+  },
+  "attestation": {
+   "type": "string",
+   "maxLength": 1000,
+   "description": "how they verified it, publicly stated"
+  }
+ }
+}
