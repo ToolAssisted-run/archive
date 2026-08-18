@@ -1,0 +1,43 @@
+{
+ "id": "M100006",
+ "game": "gba/crash-bandicoot-purple-riptos-rampage",
+ "category": {
+  "goal": "104"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100006.bk2",
+  "format": "bk2",
+  "sha1": "b0ce67b764dc4d496ee662ce6b5c4a49818c37f3",
+  "frames": 193818,
+  "rerecords": 33282,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk v.1.12.2 (VBA-Next)",
+  "rom": {
+   "name": "Crash Bandicoot - Fusion.GBA",
+   "sha1": "e29cb4309d2e94974c34dcea42c8ab7e90134b55"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=mkvhEEf1rj8"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-08-18T21:02:23Z",
+ "submittedBy": "toca"
+}
