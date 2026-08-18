@@ -30,7 +30,8 @@
       "enum": [
        "expert",
        "committee",
-       "moderator"
+       "moderator",
+       "founder"
       ]
      },
      "scope": {

@@ -517,6 +517,10 @@ if (ROOT / 'groups.json').exists():
 # an expert event carries a scope and it has to point at something real; a
 # committee or moderator event must not carry one, since neither is scoped
 for ev in role_events:
+    if ev['role'] == 'founder' and ev['action'] == 'revoked':
+        err(f"roles.json: a founder role cannot be revoked; the Founder's role is "
+            f"permanent (Principles 2.2.2). Succession is 2.3.12 and it is a new "
+            f"grant, never a revocation of the record.")
     scope = ev.get('scope', '')
     if ev['role'] != 'expert':
         if scope:

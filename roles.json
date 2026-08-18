@@ -3,6 +3,14 @@
  "events": [
   {
    "user": "eien86",
+   "role": "founder",
+   "action": "granted",
+   "by": "founder",
+   "date": "2026-08-14",
+   "reason": "Founded the site and carries its legal, technical and financial responsibility (Principles 2.2)."
+  },
+  {
+   "user": "eien86",
    "role": "expert",
    "scope": "site",
    "action": "granted",
