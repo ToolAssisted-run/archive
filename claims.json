@@ -1,0 +1,12 @@
+{
+ "comment": "Requests to be handed a held name, and how each was answered. No email address is ever written here: the archive is public and a request is not a reason to publish somebody's address.",
+ "requests": [
+  {
+   "member": "p0008874-test",
+   "identity": "p0008874",
+   "evidence": "https://tasvideos.org/Subs-List?user=p0008874",
+   "date": "2026-08-18",
+   "status": "open"
+  }
+ ]
+}
