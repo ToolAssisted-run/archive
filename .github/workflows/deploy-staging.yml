@@ -1,4 +1,4 @@
-name: Build and deploy
+name: Validate and test the archive
 
 on:
   push:
@@ -51,66 +51,13 @@ jobs:
       - name: Movie parser tests
         run: python3 website/tests/test_movieparse.py
 
-  deploy:
-    needs: test
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout archive (branch tip, not trigger SHA)
-        uses: actions/checkout@v4
-        with:
-          path: archive
-          ref: staging   # BETA: the live site builds the staging archive branch
-          fetch-depth: 0   # the generator reads arrival times from git history
-
-      - name: Checkout website (generator)
-        uses: actions/checkout@v4
-        with:
-          repository: ToolAssisted-run/website
-          path: website
-
-      - name: Build site from archive
-        env:
-          ARCHIVE_REF: staging
-        run: python3 website/generator/build.py archive site-build
-
-      - name: Refuse to deploy an incomplete build
-        # --delete below makes the host match the build exactly, so a partial
-        # build must never reach it: every run in the archive has to have a
-        # page, and the site's own entry points have to exist.
-        run: |
-          test -f site-build/index.html
-          test -f site-build/assets/app.js
-          test -f site-build/assets/style.css
-          test -f site-build/.htaccess
-          runs=$(find archive/games -name run.json | wc -l)
-          built=$(find site-build/runs -mindepth 1 -maxdepth 1 -type d | wc -l)
-          pages=$(find site-build -name index.html | wc -l)
-          echo "archive runs=$runs · run pages=$built · pages total=$pages"
-          test "$runs" -gt 0
-          test "$built" -eq "$runs"
-          test "$pages" -ge 20
-
-      - name: Deploy to production root via FTP
-        env:
-          FTP_HOST: ${{ secrets.FTP_HOST }}
-          FTP_USER: ${{ secrets.FTP_USER }}
-          FTP_PASS: ${{ secrets.FTP_PASS }}
-        run: |
-          sudo apt-get install -y -qq lftp > /dev/null
-          # --delete keeps the host identical to the build; the exclusions are
-          # paths the HOST owns (quota bookkeeping, ACME challenges) which it
-          # refuses to let us remove
-          lftp -u "$FTP_USER,$FTP_PASS" "ftp://$FTP_HOST" -e "
-            set ftp:ssl-allow no;
-            mirror -R --delete --parallel=8 --only-newer -X .ftpquota -X .well-known/ -X cgi-bin/ site-build /;
-            quit"
-          echo "mirrored site-build -> /"
-
-      - name: Verify
-        run: |
-          # the shared host can briefly refuse connections right after a big
-          # mirror — retry before declaring the deploy broken
-          code=$(curl -s -o /dev/null -m 20 --retry 8 --retry-all-errors --retry-delay 15 \
-                 -w "%{http_code}" https://toolassisted.run/)
-          echo "https://toolassisted.run/ -> $code"
-          test "$code" = "200"
+# The deploy job that lived here mirrored the built site to Infomaniak over
+# FTP. The site moved to GitHub Pages on 2026-08-17 and Pages can only be
+# published from the repository that owns it, so this job could not do its
+# work any more: it failed on the old host's 10 MB quota on every push, which
+# is the very limit that caused the move. The website repository publishes
+# now, and polls this branch on a schedule until it can be told directly.
+#
+# What stays here is the check: the generator has to be able to build the
+# whole site from this archive, so content that would break the site is
+# caught in the repository that holds the content.
