@@ -83,6 +83,15 @@
    "by": "eien86",
    "date": "2026-08-18",
    "reason": "He's steering committee"
+  },
+  {
+   "user": "toca",
+   "role": "expert",
+   "scope": "group:prince-of-persia",
+   "action": "granted",
+   "by": "GMP",
+   "date": "2026-08-18",
+   "reason": "Series mod for the same group in speedrun.com, trusted member of the PoP community who also has extensive TAS knowledge."
   }
  ]
 }
