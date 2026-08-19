@@ -133,6 +133,12 @@ if (ROOT / 'claims.json').exists():
             err(f'claims.json: the claim for {_r["identity"]!r} looks like it carries '
                 f'an email address; addresses never go in the archive')
 
+# edits.json: every expert modification of the record, field by field, with
+# who and why. Git history carries the diffs; this log carries the account.
+if (ROOT / 'edits.json').exists():
+    check_schema('edits', json.loads((ROOT / 'edits.json').read_text()),
+                 ROOT / 'edits.json')
+
 # deletions.json: what was deleted outright, by whom, and why. The thing is
 # gone, so this log is the only place the act remains readable; every entry
 # says who and why, or the deletion happened to nobody's name.
