@@ -15,6 +15,12 @@
      "label": "Residental, all missions",
      "rule": "complete all gang missions, including the last one, and exit the area",
      "provisional": true
+    },
+    {
+     "key": "industrial-all-missions",
+     "label": "Industrial, all missions",
+     "rule": "complete all gang missions, including the last one, and exit the area",
+     "provisional": true
     }
    ]
   }
