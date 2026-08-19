@@ -1,0 +1,53 @@
+{
+ "id": "M100007",
+ "game": "arcade/time-travelers",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [
+  {
+   "name": "libTAS"
+  }
+ ],
+ "movie": {
+  "file": "M100007.ltm",
+  "format": "ltm",
+  "sha1": "4badbef68d440dce0bea0e7d29066f29eaddd2ae",
+  "frames": 29352,
+  "rerecords": 3182,
+  "start": "power-on",
+  "fps": 59.94005892620202
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.8",
+  "rom": {
+   "name": "timetrv.zip",
+   "sha1": "d1e87421da62df750bb28d14bffbee1e58f8da9a"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=GBwmN3cC3h8"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/timetrvComplete29351Credits.ltm",
+   "role": "submitted attachment"
+  }
+ ],
+ "submitted": "2026-08-19T03:34:15Z",
+ "submittedBy": "CoolHandMike"
+}
