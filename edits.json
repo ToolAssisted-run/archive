@@ -60,6 +60,36 @@
    "by": "CloakTheLurker",
    "date": "2026-08-19",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100006",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "toca",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100006",
+   "field": "emulator",
+   "from": "BizHawk v.1.12.2 (VBA-Next)",
+   "to": "BizHawk v.1.12.2 (VBA-Next)",
+   "by": "toca",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100006",
+   "field": "completed",
+   "from": "",
+   "to": "2017-06-26",
+   "by": "toca",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
   }
  ]
 }
