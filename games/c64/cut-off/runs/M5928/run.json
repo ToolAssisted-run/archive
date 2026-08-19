@@ -1,0 +1,52 @@
+{
+ "id": "M5928",
+ "game": "c64/cut-off",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5928.bk2",
+  "format": "bk2",
+  "frames": 7279,
+  "rerecords": 4009,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "1984-03.d64"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5928M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wA25_e5xCyo"
+  }
+ ],
+ "submitted": "2024-05-01T09:42:18.802113",
+ "attachments": [],
+ "forum": {
+  "topicId": 697,
+  "url": "https://forum.toolassisted.run/t/697"
+ }
+}

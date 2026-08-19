@@ -1,0 +1,53 @@
+{
+ "id": "M4909",
+ "game": "nes/r-c-pro-am-ii",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "FatRatKnight"
+  },
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4909.bk2",
+  "format": "bk2",
+  "frames": 104434,
+  "rerecords": 15615,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "R.C. Pro-Am II (U) [!].nes",
+   "sha1": "fa189fc0f9277d5765e5de19274afbd28660f076"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4909M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=tkjzC2WDSGM"
+  }
+ ],
+ "submitted": "2022-11-13T23:52:43.320778",
+ "attachments": [],
+ "forum": {
+  "topicId": 692,
+  "url": "https://forum.toolassisted.run/t/692"
+ }
+}

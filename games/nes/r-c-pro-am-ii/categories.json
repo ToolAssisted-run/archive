@@ -5,11 +5,6 @@
    "name": "Goal",
    "options": [
     {
-     "key": "training-mode",
-     "label": "Training mode",
-     "rule": "Imported from TASVideos as \"Training mode\"; rules to be formalized by the game's experts."
-    },
-    {
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."

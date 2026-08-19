@@ -1,0 +1,53 @@
+{
+ "id": "M5744",
+ "game": "snes/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  },
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5744.bk2",
+  "format": "bk2",
+  "frames": 117427,
+  "rerecords": 69291,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "Prince of Persia (Japan).sfc",
+   "sha1": "de1d327f90ee57c8b20e2489109638b8632f18f5"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5744M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=UoMci7r0E40"
+  }
+ ],
+ "submitted": "2023-12-29T12:15:01.521682",
+ "attachments": [],
+ "forum": {
+  "topicId": 696,
+  "url": "https://forum.toolassisted.run/t/696"
+ }
+}
