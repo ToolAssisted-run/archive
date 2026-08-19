@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "maximum-score-normal",
+     "label": "maximum score, Normal",
+     "rule": "Imported as \"maximum score, Normal\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "maximum-score-extra",
+     "label": "maximum score, Extra",
+     "rule": "Imported as \"maximum score, Extra\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

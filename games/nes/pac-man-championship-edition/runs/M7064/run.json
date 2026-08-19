@@ -1,0 +1,56 @@
+{
+ "id": "M7064",
+ "game": "nes/pac-man-championship-edition",
+ "category": {
+  "goal": "maximum-score-extra"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "WarHippy"
+  },
+  {
+   "user": "Twisted_Eye"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7064.bk2",
+  "format": "bk2",
+  "frames": 11332,
+  "rerecords": 1073,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Pac-Man - Championship Edition (USA, Europe) (Namco Museum Archives Vol 1).nes",
+   "sha1": "4cbad49930253086fbaf4d082288df74c76d1abc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7064M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Bf6QWKS1W-g"
+  }
+ ],
+ "submitted": "2026-04-13T19:58:07.358034",
+ "attachments": [],
+ "forum": {
+  "topicId": 708,
+  "url": "https://forum.toolassisted.run/t/708"
+ }
+}

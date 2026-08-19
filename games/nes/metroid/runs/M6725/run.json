@@ -1,0 +1,56 @@
+{
+ "id": "M6725",
+ "game": "nes/metroid",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Alyosha"
+  },
+  {
+   "user": "The8bitbeast"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6725.bk2",
+  "format": "bk2",
+  "frames": 28408,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Metroid (U) (PRG0) [!].nes",
+   "sha1": "ecf39ec5a33e6a6f832f03e8ffc61c5d53f4f90b"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6725M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=NRC6GLxslCU"
+  }
+ ],
+ "submitted": "2025-09-06T15:57:08.770016",
+ "attachments": [],
+ "forum": {
+  "topicId": 704,
+  "url": "https://forum.toolassisted.run/t/704"
+ }
+}
