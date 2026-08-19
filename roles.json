@@ -100,6 +100,14 @@
    "by": "eien86",
    "date": "2026-08-19",
    "reason": "Seated by the Founder. He's steering committee"
+  },
+  {
+   "user": "demibop720",
+   "role": "committee",
+   "action": "revoked",
+   "by": "eien86",
+   "date": "2026-08-19",
+   "reason": "Unseated by the Founder. Was a test alias"
   }
  ]
 }
