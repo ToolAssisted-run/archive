@@ -16,7 +16,10 @@
    "identity": "CloakTheLurker",
    "evidence": "TASVideos account: https://tasvideos.org/Users/Profile/CloakTheLurker\r\nOne of my encodes published by TASVideos: https://www.youtube.com/watch?v=VUiIK8Mhxws",
    "date": "2026-08-18",
-   "status": "open"
+   "status": "approved",
+   "decidedBy": "GMP",
+   "decidedAt": "2026-08-19",
+   "note": ""
   }
  ]
 }
