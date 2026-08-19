@@ -1,0 +1,65 @@
+{
+ "id": "M100009",
+ "game": "arcade/killer-instinct",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100009.ltm",
+  "format": "ltm",
+  "sha1": "e1b3bb87d59047f33dc12d2a5a8a916c50284c19",
+  "frames": 12032,
+  "rerecords": 3530,
+  "start": "power-on",
+  "fps": 58.9811830053799
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.8",
+  "rom": {
+   "name": "kinst.zip",
+   "sha1": "3b88e7531714d4cca73bdc4953c1521eaa6990be"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gNwPu3uxt-0"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/readme.txt",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/kinst.cfg",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/default.cfg",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/kinstNewDIffCreation.ltm",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/mame-framerate.lua",
+   "role": "submitted attachment"
+  }
+ ],
+ "submitted": "2026-08-19T04:21:08Z",
+ "submittedBy": "CoolHandMike"
+}
