@@ -67,9 +67,18 @@ jobs:
   # (ARCHIVE_ACTION_WRITE_SECRET) can do one thing: start workflows on the
   # website repository.
   rebuild-site:
-    needs: test
+    # Deliberately NOT gated on the heavy test job: that cost four to six
+    # minutes of latency between a member's act and the site showing it, and
+    # the website deploy refuses a build that fails or comes out incomplete
+    # anyway. What gates the dispatch is the fast content check below, so an
+    # archive the validator rejects still never triggers a deploy.
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - name: Validate the content first
+        run: |
+          pip install --quiet jsonschema
+          python3 validate.py
       - name: Tell the website to rebuild
         env:
           GH_TOKEN: ${{ secrets.ARCHIVE_ACTION_WRITE_SECRET }}
