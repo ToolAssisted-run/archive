@@ -13,6 +13,16 @@
      "key": "maximum-score-extra",
      "label": "maximum score, Extra",
      "rule": "Imported as \"maximum score, Extra\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "pacifist-maximum-score-normal",
+     "label": "pacifist, maximum score, Normal",
+     "rule": "Imported as \"pacifist, maximum score, Normal\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "pacifist-maximum-score-extra",
+     "label": "pacifist, maximum score, Extra",
+     "rule": "Imported as \"pacifist, maximum score, Extra\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }
