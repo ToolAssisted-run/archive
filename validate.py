@@ -230,6 +230,17 @@ for gjson in ROOT.glob('games/*/*/game.json'):
     if gdoc.get('rejected') and gdoc.get('established'):
         err(f'{gjson}: refused by {gdoc["rejected"]["by"]!r} and established at once')
     check_removals(gdoc, str(gjson))
+    if gdoc.get('thumbnail'):
+        tp = gdir / gdoc['thumbnail']
+        if not tp.is_file():
+            err(f'{gjson}: declared thumbnail {gdoc["thumbnail"]!r} missing')
+        else:
+            if tp.stat().st_size > THUMB_MAX:
+                err(f'{gjson}: thumbnail exceeds {THUMB_MAX>>10} KB')
+            magics = IMAGE_MAGIC.get(tp.suffix.lower(), [])
+            if not any(tp.read_bytes()[:12].startswith(m) for m in magics):
+                err(f'{gjson}: thumbnail {gdoc["thumbnail"]!r} is not a real '
+                    f'image of its declared kind')
     cjson = gdir / 'categories.json'
     if not cjson.exists():
         err(f'{gdir}: missing categories.json')

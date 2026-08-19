@@ -142,6 +142,11 @@
      "pattern": "^https?://"
     }
    }
+  },
+  "thumbnail": {
+   "type": "string",
+   "pattern": "^thumb\\.(png|jpg|webp)$",
+   "description": "an expert-set face for the game's page and card"
   }
  }
 }

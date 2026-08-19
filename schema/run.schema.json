@@ -666,6 +666,11 @@
    "type": "number",
    "exclusiveMinimum": 0,
    "description": "video-only runs: the run time in seconds, stated by the submitter"
+  },
+  "completed": {
+   "type": "string",
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+   "description": "when the author finished the run, if they said; submission has its own date"
   }
  },
  "allOf": [

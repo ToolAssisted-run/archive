@@ -27,6 +27,7 @@
       "enum": [
        "run",
        "game",
+       "category",
        "group"
       ]
      },
