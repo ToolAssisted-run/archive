@@ -2,5 +2,9 @@
  "title": "Need for Speed: Porsche Unleashed",
  "system": "psx",
  "established": true,
- "tasvideosGameId": 3166
+ "tasvideosGameId": 3166,
+ "forum": {
+  "topicId": 963,
+  "url": "https://forum.toolassisted.run/t/963"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Micro Machines",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 3620
+ "tasvideosGameId": 3620,
+ "forum": {
+  "topicId": 931,
+  "url": "https://forum.toolassisted.run/t/931"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "The Goonies",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 79
+ "tasvideosGameId": 79,
+ "forum": {
+  "topicId": 949,
+  "url": "https://forum.toolassisted.run/t/949"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Prince of Persia",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 43
+ "tasvideosGameId": 43,
+ "forum": {
+  "topicId": 940,
+  "url": "https://forum.toolassisted.run/t/940"
+ }
 }

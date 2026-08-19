@@ -2,5 +2,9 @@
  "title": "Grand Prix Circuit",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 4902
+ "tasvideosGameId": 4902,
+ "forum": {
+  "topicId": 791,
+  "url": "https://forum.toolassisted.run/t/791"
+ }
 }

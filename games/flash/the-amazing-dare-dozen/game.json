@@ -3,5 +3,9 @@
  "system": "flash",
  "established": true,
  "ratifiedBy": "GMP",
- "ratifiedAt": "2026-08-18"
+ "ratifiedAt": "2026-08-18",
+ "forum": {
+  "topicId": 847,
+  "url": "https://forum.toolassisted.run/t/847"
+ }
 }

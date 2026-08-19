@@ -2,5 +2,9 @@
  "title": "Sonic Battle",
  "system": "gba",
  "established": true,
- "tasvideosGameId": 1126
+ "tasvideosGameId": 1126,
+ "forum": {
+  "topicId": 869,
+  "url": "https://forum.toolassisted.run/t/869"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Castlevania: Aria of Sorrow",
  "system": "gba",
  "established": true,
- "tasvideosGameId": 253
+ "tasvideosGameId": 253,
+ "forum": {
+  "topicId": 858,
+  "url": "https://forum.toolassisted.run/t/858"
+ }
 }

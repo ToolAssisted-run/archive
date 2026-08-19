@@ -2,5 +2,9 @@
  "title": "Castlevania: Dracula X",
  "system": "snes",
  "established": true,
- "tasvideosGameId": 264
+ "tasvideosGameId": 264,
+ "forum": {
+  "topicId": 978,
+  "url": "https://forum.toolassisted.run/t/978"
+ }
 }

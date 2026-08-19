@@ -2,5 +2,9 @@
  "title": "Disney's The Little Mermaid",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 137
+ "tasvideosGameId": 137,
+ "forum": {
+  "topicId": 921,
+  "url": "https://forum.toolassisted.run/t/921"
+ }
 }

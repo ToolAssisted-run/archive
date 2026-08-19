@@ -2,5 +2,9 @@
  "title": "Panic Restaurant",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 423
+ "tasvideosGameId": 423,
+ "forum": {
+  "topicId": 937,
+  "url": "https://forum.toolassisted.run/t/937"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Superfast Mario Bros.",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 894
+ "tasvideosGameId": 894,
+ "forum": {
+  "topicId": 947,
+  "url": "https://forum.toolassisted.run/t/947"
+ }
 }

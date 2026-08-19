@@ -2,5 +2,9 @@
  "title": "Another World",
  "system": "amiga",
  "established": true,
- "tasvideosGameId": 4674
+ "tasvideosGameId": 4674,
+ "forum": {
+  "topicId": 744,
+  "url": "https://forum.toolassisted.run/t/744"
+ }
 }

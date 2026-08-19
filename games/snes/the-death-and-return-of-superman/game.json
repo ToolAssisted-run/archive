@@ -2,5 +2,9 @@
  "title": "The Death and Return of Superman",
  "system": "snes",
  "established": true,
- "tasvideosGameId": 4156
+ "tasvideosGameId": 4156,
+ "forum": {
+  "topicId": 998,
+  "url": "https://forum.toolassisted.run/t/998"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Stick With It",
  "system": "pc",
  "established": true,
- "tasvideosGameId": 2628
+ "tasvideosGameId": 2628,
+ "forum": {
+  "topicId": 956,
+  "url": "https://forum.toolassisted.run/t/956"
+ }
 }

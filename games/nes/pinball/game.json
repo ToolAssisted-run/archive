@@ -2,5 +2,9 @@
  "title": "Pinball",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 4992
+ "tasvideosGameId": 4992,
+ "forum": {
+  "topicId": 938,
+  "url": "https://forum.toolassisted.run/t/938"
+ }
 }

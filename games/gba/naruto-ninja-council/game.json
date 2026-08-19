@@ -2,5 +2,9 @@
  "title": "Naruto: Ninja Council",
  "system": "gba",
  "established": true,
- "tasvideosGameId": 464
+ "tasvideosGameId": 464,
+ "forum": {
+  "topicId": 867,
+  "url": "https://forum.toolassisted.run/t/867"
+ }
 }

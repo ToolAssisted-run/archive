@@ -2,5 +2,9 @@
  "title": "Crash Bandicoot Purple: Ripto's Rampage",
  "system": "gba",
  "established": true,
- "tasvideosGameId": 4864
+ "tasvideosGameId": 4864,
+ "forum": {
+  "topicId": 861,
+  "url": "https://forum.toolassisted.run/t/861"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Prince of Persia",
  "system": "gg",
  "established": true,
- "tasvideosGameId": 4686
+ "tasvideosGameId": 4686,
+ "forum": {
+  "topicId": 900,
+  "url": "https://forum.toolassisted.run/t/900"
+ }
 }

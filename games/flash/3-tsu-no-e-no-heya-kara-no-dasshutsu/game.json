@@ -2,5 +2,9 @@
  "title": "3-tsu no E no Heya Kara no Dasshutsu",
  "system": "flash",
  "established": true,
- "tasvideosGameId": 4536
+ "tasvideosGameId": 4536,
+ "forum": {
+  "topicId": 816,
+  "url": "https://forum.toolassisted.run/t/816"
+ }
 }

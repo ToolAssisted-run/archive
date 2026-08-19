@@ -2,5 +2,9 @@
  "title": "Prince of Persia: Special Edition",
  "system": "flash",
  "established": true,
- "tasvideosGameId": 4666
+ "tasvideosGameId": 4666,
+ "forum": {
+  "topicId": 840,
+  "url": "https://forum.toolassisted.run/t/840"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Yu-Gi-Oh! The Falsebound Kingdom",
  "system": "gc",
  "established": true,
- "tasvideosGameId": 4791
+ "tasvideosGameId": 4791,
+ "forum": {
+  "topicId": 883,
+  "url": "https://forum.toolassisted.run/t/883"
+ }
 }

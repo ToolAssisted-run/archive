@@ -2,5 +2,9 @@
  "title": "Ironsword: Wizards & Warriors II",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 185
+ "tasvideosGameId": 185,
+ "forum": {
+  "topicId": 926,
+  "url": "https://forum.toolassisted.run/t/926"
+ }
 }

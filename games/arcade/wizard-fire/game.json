@@ -2,5 +2,9 @@
  "title": "Wizard Fire",
  "system": "arcade",
  "established": true,
- "tasvideosGameId": 4963
+ "tasvideosGameId": 4963,
+ "forum": {
+  "topicId": 781,
+  "url": "https://forum.toolassisted.run/t/781"
+ }
 }

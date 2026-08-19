@@ -2,5 +2,9 @@
  "title": "Castlevania",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 7
+ "tasvideosGameId": 7,
+ "forum": {
+  "topicId": 917,
+  "url": "https://forum.toolassisted.run/t/917"
+ }
 }

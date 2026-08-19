@@ -2,5 +2,9 @@
  "title": "Saint Seiya: Ougon Densetsu",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 1073
+ "tasvideosGameId": 1073,
+ "forum": {
+  "topicId": 942,
+  "url": "https://forum.toolassisted.run/t/942"
+ }
 }

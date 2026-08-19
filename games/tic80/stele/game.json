@@ -2,5 +2,9 @@
  "title": "Stele",
  "system": "tic80",
  "established": true,
- "tasvideosGameId": 4323
+ "tasvideosGameId": 4323,
+ "forum": {
+  "topicId": 1000,
+  "url": "https://forum.toolassisted.run/t/1000"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "The King of Fighters '94",
  "system": "arcade",
  "established": true,
- "tasvideosGameId": 4612
+ "tasvideosGameId": 4612,
+ "forum": {
+  "topicId": 775,
+  "url": "https://forum.toolassisted.run/t/775"
+ }
 }

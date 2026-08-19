@@ -2,5 +2,9 @@
  "title": "Barbarian",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 2672
+ "tasvideosGameId": 2672,
+ "forum": {
+  "topicId": 787,
+  "url": "https://forum.toolassisted.run/t/787"
+ }
 }

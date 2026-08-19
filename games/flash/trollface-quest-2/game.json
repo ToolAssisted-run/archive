@@ -2,5 +2,9 @@
  "title": "Trollface Quest 2",
  "system": "flash",
  "established": true,
- "tasvideosGameId": 4769
+ "tasvideosGameId": 4769,
+ "forum": {
+  "topicId": 853,
+  "url": "https://forum.toolassisted.run/t/853"
+ }
 }

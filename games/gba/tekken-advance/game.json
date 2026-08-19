@@ -2,5 +2,9 @@
  "title": "Tekken Advance",
  "system": "gba",
  "established": true,
- "tasvideosGameId": 1244
+ "tasvideosGameId": 1244,
+ "forum": {
+  "topicId": 870,
+  "url": "https://forum.toolassisted.run/t/870"
+ }
 }

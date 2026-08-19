@@ -2,5 +2,9 @@
  "title": "Contra III: The Alien Wars",
  "system": "snes",
  "established": true,
- "tasvideosGameId": 94
+ "tasvideosGameId": 94,
+ "forum": {
+  "topicId": 979,
+  "url": "https://forum.toolassisted.run/t/979"
+ }
 }

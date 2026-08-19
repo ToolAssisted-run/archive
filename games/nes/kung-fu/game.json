@@ -2,5 +2,9 @@
  "title": "Kung Fu",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 45
+ "tasvideosGameId": 45,
+ "forum": {
+  "topicId": 928,
+  "url": "https://forum.toolassisted.run/t/928"
+ }
 }

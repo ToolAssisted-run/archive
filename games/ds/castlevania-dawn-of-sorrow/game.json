@@ -2,5 +2,9 @@
  "title": "Castlevania: Dawn of Sorrow",
  "system": "ds",
  "established": true,
- "tasvideosGameId": 562
+ "tasvideosGameId": 562,
+ "forum": {
+  "topicId": 811,
+  "url": "https://forum.toolassisted.run/t/811"
+ }
 }

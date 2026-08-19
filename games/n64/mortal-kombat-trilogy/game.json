@@ -2,5 +2,9 @@
  "title": "Mortal Kombat Trilogy",
  "system": "n64",
  "established": true,
- "tasvideosGameId": 802
+ "tasvideosGameId": 802,
+ "forum": {
+  "topicId": 906,
+  "url": "https://forum.toolassisted.run/t/906"
+ }
 }

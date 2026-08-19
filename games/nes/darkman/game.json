@@ -2,5 +2,9 @@
  "title": "Darkman",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 1648
+ "tasvideosGameId": 1648,
+ "forum": {
+  "topicId": 920,
+  "url": "https://forum.toolassisted.run/t/920"
+ }
 }

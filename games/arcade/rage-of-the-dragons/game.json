@@ -2,5 +2,9 @@
  "title": "Rage of the Dragons",
  "system": "arcade",
  "established": true,
- "tasvideosGameId": 2935
+ "tasvideosGameId": 2935,
+ "forum": {
+  "topicId": 773,
+  "url": "https://forum.toolassisted.run/t/773"
+ }
 }

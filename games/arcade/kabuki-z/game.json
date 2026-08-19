@@ -2,5 +2,9 @@
  "title": "Kabuki Z",
  "system": "arcade",
  "established": true,
- "tasvideosGameId": 4817
+ "tasvideosGameId": 4817,
+ "forum": {
+  "topicId": 763,
+  "url": "https://forum.toolassisted.run/t/763"
+ }
 }

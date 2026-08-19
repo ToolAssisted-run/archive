@@ -2,5 +2,9 @@
  "title": "Marvel vs. Capcom: Clash of Super Heroes",
  "system": "psx",
  "established": true,
- "tasvideosGameId": 4247
+ "tasvideosGameId": 4247,
+ "forum": {
+  "topicId": 961,
+  "url": "https://forum.toolassisted.run/t/961"
+ }
 }

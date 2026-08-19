@@ -2,5 +2,9 @@
  "title": "The Death and Return of Superman",
  "system": "genesis",
  "established": true,
- "tasvideosGameId": 4671
+ "tasvideosGameId": 4671,
+ "forum": {
+  "topicId": 896,
+  "url": "https://forum.toolassisted.run/t/896"
+ }
 }

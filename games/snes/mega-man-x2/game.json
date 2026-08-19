@@ -2,5 +2,9 @@
  "title": "Mega Man X2",
  "system": "snes",
  "established": true,
- "tasvideosGameId": 129
+ "tasvideosGameId": 129,
+ "forum": {
+  "topicId": 987,
+  "url": "https://forum.toolassisted.run/t/987"
+ }
 }

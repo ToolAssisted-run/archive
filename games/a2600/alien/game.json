@@ -2,5 +2,9 @@
  "title": "Alien",
  "system": "a2600",
  "established": true,
- "tasvideosGameId": 4966
+ "tasvideosGameId": 4966,
+ "forum": {
+  "topicId": 740,
+  "url": "https://forum.toolassisted.run/t/740"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Cloak of Darkness (The Quill)",
  "system": "zxs",
  "established": true,
- "tasvideosGameId": 4270
+ "tasvideosGameId": 4270,
+ "forum": {
+  "topicId": 1007,
+  "url": "https://forum.toolassisted.run/t/1007"
+ }
 }

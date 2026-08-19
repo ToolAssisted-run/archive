@@ -2,5 +2,9 @@
  "title": "Fatal Fury 3: Road to the Final Victory",
  "system": "arcade",
  "established": true,
- "tasvideosGameId": 4219
+ "tasvideosGameId": 4219,
+ "forum": {
+  "topicId": 759,
+  "url": "https://forum.toolassisted.run/t/759"
+ }
 }

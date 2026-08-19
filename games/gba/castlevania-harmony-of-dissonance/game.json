@@ -2,5 +2,9 @@
  "title": "Castlevania: Harmony of Dissonance",
  "system": "gba",
  "established": true,
- "tasvideosGameId": 327
+ "tasvideosGameId": 327,
+ "forum": {
+  "topicId": 859,
+  "url": "https://forum.toolassisted.run/t/859"
+ }
 }

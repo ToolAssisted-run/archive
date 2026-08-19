@@ -3,5 +3,9 @@
  "system": "snes",
  "established": true,
  "ratifiedBy": "eien86",
- "ratifiedAt": "2026-08-19"
+ "ratifiedAt": "2026-08-19",
+ "forum": {
+  "topicId": 986,
+  "url": "https://forum.toolassisted.run/t/986"
+ }
 }

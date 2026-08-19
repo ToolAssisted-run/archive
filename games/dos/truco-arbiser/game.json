@@ -2,5 +2,9 @@
  "title": "Truco Arbiser",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 4929
+ "tasvideosGameId": 4929,
+ "forum": {
+  "topicId": 810,
+  "url": "https://forum.toolassisted.run/t/810"
+ }
 }

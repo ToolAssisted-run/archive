@@ -2,5 +2,9 @@
  "title": "Home Sweet Home 3",
  "system": "flash",
  "established": true,
- "tasvideosGameId": 4683
+ "tasvideosGameId": 4683,
+ "forum": {
+  "topicId": 834,
+  "url": "https://forum.toolassisted.run/t/834"
+ }
 }

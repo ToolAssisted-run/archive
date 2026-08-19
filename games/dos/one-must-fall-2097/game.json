@@ -2,5 +2,9 @@
  "title": "One Must Fall 2097",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 4873
+ "tasvideosGameId": 4873,
+ "forum": {
+  "topicId": 796,
+  "url": "https://forum.toolassisted.run/t/796"
+ }
 }

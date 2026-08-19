@@ -2,5 +2,9 @@
  "title": "Digimon Rumble Arena 2",
  "system": "gc",
  "established": true,
- "tasvideosGameId": 4329
+ "tasvideosGameId": 4329,
+ "forum": {
+  "topicId": 875,
+  "url": "https://forum.toolassisted.run/t/875"
+ }
 }

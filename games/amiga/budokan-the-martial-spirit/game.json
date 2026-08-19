@@ -2,5 +2,9 @@
  "title": "Budokan: The Martial Spirit",
  "system": "amiga",
  "established": true,
- "tasvideosGameId": 4795
+ "tasvideosGameId": 4795,
+ "forum": {
+  "topicId": 745,
+  "url": "https://forum.toolassisted.run/t/745"
+ }
 }

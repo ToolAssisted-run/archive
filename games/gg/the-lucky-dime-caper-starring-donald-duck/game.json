@@ -2,5 +2,9 @@
  "title": "The Lucky Dime Caper Starring Donald Duck",
  "system": "gg",
  "established": true,
- "tasvideosGameId": 1852
+ "tasvideosGameId": 1852,
+ "forum": {
+  "topicId": 902,
+  "url": "https://forum.toolassisted.run/t/902"
+ }
 }

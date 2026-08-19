@@ -2,5 +2,9 @@
  "title": "Street Rod",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 4977
+ "tasvideosGameId": 4977,
+ "forum": {
+  "topicId": 801,
+  "url": "https://forum.toolassisted.run/t/801"
+ }
 }

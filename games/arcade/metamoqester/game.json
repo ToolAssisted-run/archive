@@ -2,5 +2,9 @@
  "title": "Metamoqester",
  "system": "arcade",
  "established": true,
- "tasvideosGameId": 4158
+ "tasvideosGameId": 4158,
+ "forum": {
+  "topicId": 770,
+  "url": "https://forum.toolassisted.run/t/770"
+ }
 }

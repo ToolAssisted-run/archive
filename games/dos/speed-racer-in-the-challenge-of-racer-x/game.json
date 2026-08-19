@@ -2,5 +2,9 @@
  "title": "Speed Racer in The Challenge of Racer X",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 4915
+ "tasvideosGameId": 4915,
+ "forum": {
+  "topicId": 800,
+  "url": "https://forum.toolassisted.run/t/800"
+ }
 }

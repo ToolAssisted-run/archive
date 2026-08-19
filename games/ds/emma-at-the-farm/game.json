@@ -2,5 +2,9 @@
  "title": "Emma at the Farm",
  "system": "ds",
  "established": true,
- "tasvideosGameId": 4949
+ "tasvideosGameId": 4949,
+ "forum": {
+  "topicId": 812,
+  "url": "https://forum.toolassisted.run/t/812"
+ }
 }

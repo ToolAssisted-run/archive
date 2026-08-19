@@ -2,5 +2,9 @@
  "title": "Pok\u00e9mon Snap",
  "system": "n64",
  "established": true,
- "tasvideosGameId": 4697
+ "tasvideosGameId": 4697,
+ "forum": {
+  "topicId": 907,
+  "url": "https://forum.toolassisted.run/t/907"
+ }
 }

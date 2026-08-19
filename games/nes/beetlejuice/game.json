@@ -2,5 +2,9 @@
  "title": "Beetlejuice",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 1825
+ "tasvideosGameId": 1825,
+ "forum": {
+  "topicId": 912,
+  "url": "https://forum.toolassisted.run/t/912"
+ }
 }

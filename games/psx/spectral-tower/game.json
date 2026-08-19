@@ -2,5 +2,9 @@
  "title": "Spectral Tower",
  "system": "psx",
  "established": true,
- "tasvideosGameId": 4163
+ "tasvideosGameId": 4163,
+ "forum": {
+  "topicId": 964,
+  "url": "https://forum.toolassisted.run/t/964"
+ }
 }

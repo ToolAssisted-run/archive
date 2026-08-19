@@ -2,5 +2,9 @@
  "title": "Death Rally",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 4874
+ "tasvideosGameId": 4874,
+ "forum": {
+  "topicId": 789,
+  "url": "https://forum.toolassisted.run/t/789"
+ }
 }

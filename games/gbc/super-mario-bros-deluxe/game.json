@@ -2,5 +2,9 @@
  "title": "Super Mario Bros. Deluxe",
  "system": "gbc",
  "established": true,
- "tasvideosGameId": 967
+ "tasvideosGameId": 967,
+ "forum": {
+  "topicId": 873,
+  "url": "https://forum.toolassisted.run/t/873"
+ }
 }

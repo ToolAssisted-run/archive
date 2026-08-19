@@ -2,5 +2,9 @@
  "title": "Disney's Magical Quest 3 Starring Mickey & Donald",
  "system": "snes",
  "established": true,
- "tasvideosGameId": 2125
+ "tasvideosGameId": 2125,
+ "forum": {
+  "topicId": 982,
+  "url": "https://forum.toolassisted.run/t/982"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "The Revenge of Shinobi",
  "system": "genesis",
  "established": true,
- "tasvideosGameId": 435
+ "tasvideosGameId": 435,
+ "forum": {
+  "topicId": 899,
+  "url": "https://forum.toolassisted.run/t/899"
+ }
 }

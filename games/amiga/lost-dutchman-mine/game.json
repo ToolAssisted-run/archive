@@ -2,5 +2,9 @@
  "title": "Lost Dutchman Mine",
  "system": "amiga",
  "established": true,
- "tasvideosGameId": 4695
+ "tasvideosGameId": 4695,
+ "forum": {
+  "topicId": 746,
+  "url": "https://forum.toolassisted.run/t/746"
+ }
 }

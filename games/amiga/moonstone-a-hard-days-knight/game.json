@@ -2,5 +2,9 @@
  "title": "Moonstone: A Hard Days Knight",
  "system": "amiga",
  "established": true,
- "tasvideosGameId": 4654
+ "tasvideosGameId": 4654,
+ "forum": {
+  "topicId": 747,
+  "url": "https://forum.toolassisted.run/t/747"
+ }
 }

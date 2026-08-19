@@ -2,5 +2,9 @@
  "title": "Kings of the Beach",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 4876
+ "tasvideosGameId": 4876,
+ "forum": {
+  "topicId": 792,
+  "url": "https://forum.toolassisted.run/t/792"
+ }
 }

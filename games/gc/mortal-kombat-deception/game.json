@@ -2,5 +2,9 @@
  "title": "Mortal Kombat: Deception",
  "system": "gc",
  "established": true,
- "tasvideosGameId": 1406
+ "tasvideosGameId": 1406,
+ "forum": {
+  "topicId": 878,
+  "url": "https://forum.toolassisted.run/t/878"
+ }
 }

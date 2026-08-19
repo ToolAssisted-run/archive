@@ -2,5 +2,9 @@
  "title": "Boxing Fever",
  "system": "gba",
  "established": true,
- "tasvideosGameId": 5066
+ "tasvideosGameId": 5066,
+ "forum": {
+  "topicId": 857,
+  "url": "https://forum.toolassisted.run/t/857"
+ }
 }

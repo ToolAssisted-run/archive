@@ -2,5 +2,9 @@
  "title": "Capcom vs. SNK 2: EO",
  "system": "gc",
  "established": true,
- "tasvideosGameId": 2925
+ "tasvideosGameId": 2925,
+ "forum": {
+  "topicId": 874,
+  "url": "https://forum.toolassisted.run/t/874"
+ }
 }

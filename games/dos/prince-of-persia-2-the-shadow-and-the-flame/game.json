@@ -2,5 +2,9 @@
  "title": "Prince of Persia 2: The Shadow and the Flame",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 2345
+ "tasvideosGameId": 2345,
+ "forum": {
+  "topicId": 799,
+  "url": "https://forum.toolassisted.run/t/799"
+ }
 }

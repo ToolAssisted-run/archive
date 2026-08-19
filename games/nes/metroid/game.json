@@ -2,5 +2,9 @@
  "title": "Metroid",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 20
+ "tasvideosGameId": 20,
+ "forum": {
+  "topicId": 930,
+  "url": "https://forum.toolassisted.run/t/930"
+ }
 }

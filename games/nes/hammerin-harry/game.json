@@ -2,5 +2,9 @@
  "title": "Hammerin' Harry",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 382
+ "tasvideosGameId": 382,
+ "forum": {
+  "topicId": 925,
+  "url": "https://forum.toolassisted.run/t/925"
+ }
 }

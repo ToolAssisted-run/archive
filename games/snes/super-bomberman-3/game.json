@@ -2,5 +2,9 @@
  "title": "Super Bomberman 3",
  "system": "snes",
  "established": true,
- "tasvideosGameId": 1146
+ "tasvideosGameId": 1146,
+ "forum": {
+  "topicId": 995,
+  "url": "https://forum.toolassisted.run/t/995"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Hippodrome",
  "system": "arcade",
  "established": true,
- "tasvideosGameId": 4944
+ "tasvideosGameId": 4944,
+ "forum": {
+  "topicId": 762,
+  "url": "https://forum.toolassisted.run/t/762"
+ }
 }

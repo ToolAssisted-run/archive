@@ -2,5 +2,9 @@
  "title": "Grand Theft Auto",
  "system": "pc",
  "established": true,
- "tasvideosGameId": 5122
+ "tasvideosGameId": 5122,
+ "forum": {
+  "topicId": 953,
+  "url": "https://forum.toolassisted.run/t/953"
+ }
 }

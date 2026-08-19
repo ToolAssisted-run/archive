@@ -2,5 +2,9 @@
  "title": "Monty Python's Flying Circus",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 4940
+ "tasvideosGameId": 4940,
+ "forum": {
+  "topicId": 794,
+  "url": "https://forum.toolassisted.run/t/794"
+ }
 }

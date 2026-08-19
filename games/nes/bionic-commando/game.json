@@ -2,5 +2,9 @@
  "title": "Bionic Commando",
  "system": "nes",
  "established": true,
- "tasvideosGameId": 32
+ "tasvideosGameId": 32,
+ "forum": {
+  "topicId": 914,
+  "url": "https://forum.toolassisted.run/t/914"
+ }
 }

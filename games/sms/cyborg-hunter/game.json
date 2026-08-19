@@ -2,5 +2,9 @@
  "title": "Cyborg Hunter",
  "system": "sms",
  "established": true,
- "tasvideosGameId": 459
+ "tasvideosGameId": 459,
+ "forum": {
+  "topicId": 969,
+  "url": "https://forum.toolassisted.run/t/969"
+ }
 }

@@ -2,5 +2,9 @@
  "title": "Prince of Persia: The Sands of Time",
  "system": "gba",
  "established": true,
- "tasvideosGameId": 425
+ "tasvideosGameId": 425,
+ "forum": {
+  "topicId": 868,
+  "url": "https://forum.toolassisted.run/t/868"
+ }
 }

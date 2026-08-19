@@ -2,5 +2,9 @@
  "title": "Prince of Persia: The Fallen King",
  "system": "ds",
  "established": true,
- "tasvideosGameId": 2371
+ "tasvideosGameId": 2371,
+ "forum": {
+  "topicId": 814,
+  "url": "https://forum.toolassisted.run/t/814"
+ }
 }

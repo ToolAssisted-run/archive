@@ -2,5 +2,9 @@
  "title": "Mortal Kombat 4",
  "system": "n64",
  "established": true,
- "tasvideosGameId": 343
+ "tasvideosGameId": 343,
+ "forum": {
+  "topicId": 905,
+  "url": "https://forum.toolassisted.run/t/905"
+ }
 }

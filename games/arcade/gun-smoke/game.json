@@ -2,5 +2,9 @@
  "title": "Gun.Smoke",
  "system": "arcade",
  "established": true,
- "tasvideosGameId": 4853
+ "tasvideosGameId": 4853,
+ "forum": {
+  "topicId": 761,
+  "url": "https://forum.toolassisted.run/t/761"
+ }
 }

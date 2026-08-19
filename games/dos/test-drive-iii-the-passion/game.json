@@ -2,5 +2,9 @@
  "title": "Test Drive III: The Passion",
  "system": "dos",
  "established": true,
- "tasvideosGameId": 4886
+ "tasvideosGameId": 4886,
+ "forum": {
+  "topicId": 806,
+  "url": "https://forum.toolassisted.run/t/806"
+ }
 }

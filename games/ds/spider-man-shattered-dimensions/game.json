@@ -2,5 +2,9 @@
  "title": "Spider-Man: Shattered Dimensions",
  "system": "ds",
  "established": true,
- "tasvideosGameId": 1726
+ "tasvideosGameId": 1726,
+ "forum": {
+  "topicId": 815,
+  "url": "https://forum.toolassisted.run/t/815"
+ }
 }

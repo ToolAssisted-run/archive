@@ -2,5 +2,9 @@
  "title": "X-Men vs. Street Fighter",
  "system": "arcade",
  "established": true,
- "tasvideosGameId": 551
+ "tasvideosGameId": 551,
+ "forum": {
+  "topicId": 782,
+  "url": "https://forum.toolassisted.run/t/782"
+ }
 }

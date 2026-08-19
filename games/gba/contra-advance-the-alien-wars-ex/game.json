@@ -2,5 +2,9 @@
  "title": "Contra Advance: The Alien Wars EX",
  "system": "gba",
  "established": true,
- "tasvideosGameId": 2740
+ "tasvideosGameId": 2740,
+ "forum": {
+  "topicId": 860,
+  "url": "https://forum.toolassisted.run/t/860"
+ }
 }

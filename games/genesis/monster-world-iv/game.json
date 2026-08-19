@@ -2,5 +2,9 @@
  "title": "Monster World IV",
  "system": "genesis",
  "established": true,
- "tasvideosGameId": 2178
+ "tasvideosGameId": 2178,
+ "forum": {
+  "topicId": 890,
+  "url": "https://forum.toolassisted.run/t/890"
+ }
 }

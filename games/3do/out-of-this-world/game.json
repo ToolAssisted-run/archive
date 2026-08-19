@@ -2,5 +2,9 @@
  "title": "Out of This World",
  "system": "3do",
  "established": true,
- "tasvideosGameId": 4962
+ "tasvideosGameId": 4962,
+ "forum": {
+  "topicId": 737,
+  "url": "https://forum.toolassisted.run/t/737"
+ }
 }
