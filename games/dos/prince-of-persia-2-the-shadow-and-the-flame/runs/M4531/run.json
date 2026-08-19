@@ -1,0 +1,55 @@
+{
+ "id": "M4531",
+ "game": "dos/prince-of-persia-2-the-shadow-and-the-flame",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "GMP"
+  },
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4531.jrsr",
+  "format": "jrsr",
+  "frames": 51999,
+  "rerecords": 1883,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "JPC-rr 11.8 rc2",
+  "rom": {
+   "name": "pop2.img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4531M",
+  "importedBy": "GMP",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=5ihYRMHbU5U"
+  }
+ ],
+ "submitted": "2021-10-03T12:31:36",
+ "attachments": [],
+ "forum": {
+  "topicId": 685,
+  "url": "https://forum.toolassisted.run/t/685"
+ }
+}
