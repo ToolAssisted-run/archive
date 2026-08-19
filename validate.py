@@ -133,6 +133,17 @@ if (ROOT / 'claims.json').exists():
             err(f'claims.json: the claim for {_r["identity"]!r} looks like it carries '
                 f'an email address; addresses never go in the archive')
 
+# deletions.json: what was deleted outright, by whom, and why. The thing is
+# gone, so this log is the only place the act remains readable; every entry
+# says who and why, or the deletion happened to nobody's name.
+if (ROOT / 'deletions.json').exists():
+    _dl = json.loads((ROOT / 'deletions.json').read_text())
+    check_schema('deletions', _dl, ROOT / 'deletions.json')
+    for _e in _dl.get('events', []):
+        if _e['kind'] == 'game' and not _e.get('movedTo'):
+            err(f'deletions.json: the deleted game {_e["key"]!r} does not say where '
+                f'its runs went; runs survive a game deletion')
+
 # roles.json holds the events; who holds what is the fold, and nothing stores
 # that separately, so the two can never disagree.
 role_events = []
@@ -514,8 +525,9 @@ if (ROOT / 'groups.json').exists():
                     f'{grp.get("key")!r}; a game belongs to one series')
             placed[gk] = grp.get('key')
 
-# an expert event carries a scope and it has to point at something real; a
-# committee or moderator event must not carry one, since neither is scoped
+# an expert event carries a scope; a committee or moderator event must not,
+# since neither is scoped. These shape rules hold for every event, past ones
+# included.
 for ev in role_events:
     if ev['role'] == 'founder' and ev['action'] == 'revoked':
         err(f"roles.json: a founder role cannot be revoked; the Founder's role is "
@@ -526,16 +538,21 @@ for ev in role_events:
         if scope:
             err(f'roles.json: {ev["user"]!r} has a {ev["role"]} event with a scope; '
                 f'only expert roles are scoped')
-        continue
-    if not scope:
+    elif not scope:
         err(f'roles.json: expert event for {ev["user"]!r} has no scope')
+
+# a scope has to point at something real only while it is HELD: history may
+# name a game or group that was later deleted, because history records what
+# was true then, but nobody may currently hold authority over a ghost
+for (u, role, scope), ev in current_roles(role_events).items():
+    if role != 'expert' or not scope:
         continue
     if scope.startswith('group:') and scope[6:] not in group_keys:
-        err(f'roles.json: {ev["user"]!r} has scope {scope!r}, but no such '
+        err(f'roles.json: {ev["user"]!r} holds scope {scope!r}, but no such '
             f'group exists in groups.json')
     elif scope not in ('site',) and not scope.startswith('group:'):
         if '/' in scope and scope not in known_games:
-            err(f'roles.json: {ev["user"]!r} has scope {scope!r}, which is '
+            err(f'roles.json: {ev["user"]!r} holds scope {scope!r}, which is '
                 f'not a game in this archive')
         elif '/' not in scope and scope not in systems:
             err(f'roles.json: {ev["user"]!r} has scope {scope!r}, which is '
