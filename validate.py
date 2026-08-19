@@ -229,8 +229,12 @@ for gjson in ROOT.glob('games/*/*/game.json'):
         except json.JSONDecodeError as e:
             err(f'{rj}: not valid JSON ({e})'); continue
         check_schema('run', r, rj)
-        if not isinstance(r.get('movie'), dict) or not r['movie'].get('file'):
+        if not r.get('videoOnly') and (
+                not isinstance(r.get('movie'), dict) or not r['movie'].get('file')):
             err(f'{rdir}: run.json has no movie.file'); continue
+        if r.get('videoOnly') and r.get('movie'):
+            err(f'{rdir}: video-only and carrying a movie is a contradiction; '
+                f'pick one')
         if r.get('id') != rdir.name:
             err(f'{rdir}: id {r.get("id")!r} != folder name')
         # 'unclassified' is a special category available on every game: no
@@ -246,23 +250,26 @@ for gjson in ROOT.glob('games/*/*/game.json'):
             if not (r.get('goalDescription') or '').strip():
                 err(f'{rdir}: Unclassified runs must describe their goal '
                     f'(goalDescription)')
-            if r.get('verifications'):
-                err(f'{rdir}: Unclassified runs cannot be verified — no goal '
-                    f'is defined')
+            # a goal-less run cannot carry a LIVE verification: there is
+            # nothing to verify. Invalidated ones are history (a game deletion
+            # voids the goal its verifications were bound to) and stay.
+            if any(not v.get('invalidated') for v in r.get('verifications', [])):
+                err(f'{rdir}: Unclassified runs cannot hold a live verification '
+                    f'— no goal is defined')
         # A withdrawal whose reason IS the publication takes the files down
         # with it: the record stays so the id is never reused and the history
         # stays legible, but the movie, the notes and the thumbnail are gone.
         gone = bool((r.get('withdrawn') or {}).get('contentRemoved'))
-        movie = rdir / r['movie']['file']
+        movie = rdir / r['movie']['file'] if r.get('movie') else None
         if gone:
-            if movie.exists():
+            if movie and movie.exists():
                 err(f'{rdir}: withdrawn with contentRemoved, but the movie '
                     f'{r["movie"]["file"]!r} is still here')
             if (rdir / 'notes.md').exists():
                 err(f'{rdir}: withdrawn with contentRemoved, but notes.md is still here')
-        elif not movie.exists():
+        elif movie and not movie.exists():
             err(f'{rdir}: declared movie {r["movie"]["file"]!r} missing')
-        elif movie.stat().st_size > MOVIE_MAX:
+        elif movie and movie.stat().st_size > MOVIE_MAX:
             err(f'{rdir}: movie exceeds {MOVIE_MAX>>20} MB')
         notes = rdir / 'notes.md'
         if notes.exists() and notes.stat().st_size > NOTES_MAX:
@@ -435,7 +442,11 @@ for gjson in ROOT.glob('games/*/*/game.json'):
         st = r.get('status', {})
         # the third signal: community when somebody here played it back on
         # hardware, imported when TASVideos had already console-verified it
-        if st.get('console') != 'imported':
+        if r.get('videoOnly'):
+            pass                       # console is 'not-applicable', checked above
+        elif st.get('console') == 'not-applicable':
+            err(f'{rdir}: only a video-only run marks console not-applicable')
+        elif st.get('console') != 'imported':
             live_c = [a for a in r.get('consoleVerifications', []) if not a.get('invalidated')]
             want_console = 'community' if live_c else 'none'
             if st.get('console') != want_console:
@@ -443,23 +454,39 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                     f'roster derives {want_console!r}')
         elif not r.get('imported'):
             err(f'{rdir}: status.console is "imported" but the run was not imported')
-        if st.get('reproduced') != 'imported':
+        if r.get('videoOnly'):
+            # the encode is the run: nothing exists to reproduce or replay
+            if r.get('reproductions') or r.get('consoleVerifications'):
+                err(f'{rdir}: a video-only run cannot carry reproductions or '
+                    f'console verifications; there is no input movie to replay')
+            if st.get('reproduced') != 'not-applicable' or \
+                    st.get('console') != 'not-applicable':
+                err(f'{rdir}: a video-only run marks reproduced and console '
+                    f'as not-applicable')
+            if not r.get('encodes'):
+                err(f'{rdir}: a video-only run IS its encode; it must link one')
+        if not r.get('videoOnly') and st.get('reproduced') == 'not-applicable':
+            err(f'{rdir}: only a video-only run marks reproduced not-applicable')
+        if st.get('reproduced') not in ('imported', 'not-applicable'):
             live_r = [a for a in r.get('reproductions', []) if not a.get('invalidated')]
-            live_v = [a for a in r.get('verifications', []) if not a.get('invalidated')]
             want_repro = 'community' if live_r else 'none'
+            if st.get('reproduced') != want_repro:
+                err(f'{rdir}: status.reproduced is {st.get("reproduced")!r} but the '
+                    f'roster derives {want_repro!r}')
+        if st.get('verified') != 'imported':
+            live_v = [a for a in r.get('verifications', []) if not a.get('invalidated')]
             # verification gates ranking (2026-08-19): community = provisional
             # (ranked), a covering expert's = confirmed (permanent)
             want_ver = ('confirmed' if any(a.get('expert') for a in live_v) else
                         'provisional' if live_v else 'none')
-            if st.get('reproduced') != want_repro:
-                err(f'{rdir}: status.reproduced is {st.get("reproduced")!r} but the '
-                    f'roster derives {want_repro!r}')
             if st.get('verified') != want_ver:
                 err(f'{rdir}: status.verified is {st.get("verified")!r} but the '
                     f'roster derives {want_ver!r}')
 
         # no stray files: everything must be accounted for
-        allowed = {'run.json', 'notes.md', r['movie']['file']} | declared | shots
+        allowed = {'run.json', 'notes.md'} | declared | shots
+        if r.get('movie'):
+            allowed.add(r['movie']['file'])
         if r.get('thumbnail'):
             allowed.add(r['thumbnail'])
         for f in rdir.rglob('*'):

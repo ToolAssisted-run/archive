@@ -7,7 +7,6 @@
   "game",
   "category",
   "authors",
-  "movie",
   "thumbnail",
   "status"
  ],
@@ -156,7 +155,8 @@
      "enum": [
       "none",
       "community",
-      "imported"
+      "imported",
+      "not-applicable"
      ]
     },
     "verified": {
@@ -171,7 +171,8 @@
      "enum": [
       "none",
       "community",
-      "imported"
+      "imported",
+      "not-applicable"
      ]
     }
    }
@@ -656,6 +657,34 @@
      "description": "the movie, notes and thumbnail were taken down with the withdrawal, because publishing them was the problem (an import made without the authorization of every author). The record stays; the files are gone from the tree."
     }
    }
+  },
+  "videoOnly": {
+   "const": true,
+   "description": "no input movie exists: the encode is the run. Nothing to reproduce, in emulator or on console; verification still gates ranking as for any run."
+  },
+  "duration": {
+   "type": "number",
+   "exclusiveMinimum": 0,
+   "description": "video-only runs: the run time in seconds, stated by the submitter"
   }
- }
+ },
+ "allOf": [
+  {
+   "if": {
+    "required": [
+     "videoOnly"
+    ]
+   },
+   "then": {
+    "required": [
+     "duration"
+    ]
+   },
+   "else": {
+    "required": [
+     "movie"
+    ]
+   }
+  }
+ ]
 }
