@@ -1,0 +1,56 @@
+{
+ "id": "M6387",
+ "game": "gbc/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "TimmyAkmed"
+  },
+  {
+   "user": "NintendoHardGamer"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6387.bk2",
+  "format": "bk2",
+  "frames": 15470,
+  "rerecords": 1702,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Prince of Persia (USA, Europe).gbc",
+   "sha1": "ef2f6402e8ef367273200e3b07f310ebd80ccdc2"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6387M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=oA2IdxjVgtA"
+  }
+ ],
+ "submitted": "2025-02-16T00:40:57.365776",
+ "attachments": [],
+ "forum": {
+  "topicId": 700,
+  "url": "https://forum.toolassisted.run/t/700"
+ }
+}

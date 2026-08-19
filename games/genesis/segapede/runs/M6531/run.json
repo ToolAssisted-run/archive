@@ -1,0 +1,60 @@
+{
+ "id": "M6531",
+ "game": "genesis/segapede",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Induviel"
+  },
+  {
+   "user": "Spikestuff"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6531.bk2",
+  "format": "bk2",
+  "frames": 679,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.9.1 (Core: GPGX)",
+  "rom": {
+   "name": "Segapede (Prototype).md",
+   "sha1": "3452959175fa7631af01e8821cb8b8410f5fbb79"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6531M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=58vUqb7As-w"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=QX_qBIELOfk"
+  }
+ ],
+ "submitted": "2025-05-04T16:36:21.800139",
+ "attachments": [],
+ "forum": {
+  "topicId": 702,
+  "url": "https://forum.toolassisted.run/t/702"
+ }
+}

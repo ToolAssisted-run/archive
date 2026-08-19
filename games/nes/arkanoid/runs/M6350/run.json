@@ -1,0 +1,53 @@
+{
+ "id": "M6350",
+ "game": "nes/arkanoid",
+ "category": {
+  "goal": "warpless"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Chef_Stef"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6350.bk2",
+  "format": "bk2",
+  "frames": 37298,
+  "rerecords": 891,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Arkanoid (U) [!].nes",
+   "sha1": "230fc31d2c2eb20e78711c82574f29f28117eba3"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6350M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=TamOa6xmZ_E"
+  }
+ ],
+ "submitted": "2025-01-16T16:43:46.612169",
+ "attachments": [],
+ "forum": {
+  "topicId": 699,
+  "url": "https://forum.toolassisted.run/t/699"
+ }
+}

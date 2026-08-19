@@ -1,0 +1,53 @@
+{
+ "id": "M6690",
+ "game": "nes/beetlejuice",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  },
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6690.bk2",
+  "format": "bk2",
+  "frames": 25582,
+  "rerecords": 28082,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Beetlejuice (USA)",
+   "sha1": "e62a1eeb5b88c4b812858c741907f6fe51765e56"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6690M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DGcj6JDyo_k"
+  }
+ ],
+ "submitted": "2025-08-16T17:45:31.373498",
+ "attachments": [],
+ "forum": {
+  "topicId": 703,
+  "url": "https://forum.toolassisted.run/t/703"
+ }
+}
