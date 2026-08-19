@@ -447,7 +447,10 @@ for gjson in ROOT.glob('games/*/*/game.json'):
             live_r = [a for a in r.get('reproductions', []) if not a.get('invalidated')]
             live_v = [a for a in r.get('verifications', []) if not a.get('invalidated')]
             want_repro = 'community' if live_r else 'none'
-            want_ver = 'full' if len(live_v) >= 2 else 'provisional' if live_v else 'none'
+            # verification gates ranking (2026-08-19): community = provisional
+            # (ranked), a covering expert's = confirmed (permanent)
+            want_ver = ('confirmed' if any(a.get('expert') for a in live_v) else
+                        'provisional' if live_v else 'none')
             if st.get('reproduced') != want_repro:
                 err(f'{rdir}: status.reproduced is {st.get("reproduced")!r} but the '
                     f'roster derives {want_repro!r}')

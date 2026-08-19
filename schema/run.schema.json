@@ -163,7 +163,7 @@
      "enum": [
       "none",
       "provisional",
-      "full",
+      "confirmed",
       "imported"
      ]
     },
@@ -315,6 +315,10 @@
         "maxLength": 500
        }
       }
+     },
+     "expert": {
+      "type": "boolean",
+      "description": "the verifier covered this game when they verified: this verification confirms the run"
      }
     }
    }
