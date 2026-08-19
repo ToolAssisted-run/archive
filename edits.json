@@ -30,6 +30,36 @@
    "by": "CloakTheLurker",
    "date": "2026-08-19",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CloakTheLurker",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "emulator",
+   "from": "BizHawk 2.9.1",
+   "to": "BizHawk 2.9.1",
+   "by": "CloakTheLurker",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "tools",
+   "from": "",
+   "to": "",
+   "by": "CloakTheLurker",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
   }
  ]
 }
