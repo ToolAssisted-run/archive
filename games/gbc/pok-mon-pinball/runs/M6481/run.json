@@ -15,7 +15,8 @@
   "format": "bk2",
   "frames": 13037,
   "rerecords": 9193,
-  "start": "power-on"
+  "start": "power-on",
+  "fps": 59.84493232986173
  },
  "thumbnail": "thumb.jpg",
  "contract": {

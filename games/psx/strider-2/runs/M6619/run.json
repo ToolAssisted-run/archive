@@ -16,7 +16,8 @@
   "frames": 50861,
   "rerecords": 29590,
   "start": "savestate",
-  "sha1": "275c02c37ebd50e46a5b0ef739e68461b5c6932e"
+  "sha1": "275c02c37ebd50e46a5b0ef739e68461b5c6932e",
+  "fps": 59.82797333301943
  },
  "thumbnail": "thumb.jpg",
  "contract": {

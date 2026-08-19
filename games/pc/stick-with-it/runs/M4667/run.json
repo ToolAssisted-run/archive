@@ -15,7 +15,8 @@
   "format": "ltm",
   "frames": 28844,
   "rerecords": 1631,
-  "start": "power-on"
+  "start": "power-on",
+  "fps": 60.0
  },
  "thumbnail": "thumb.jpg",
  "contract": {

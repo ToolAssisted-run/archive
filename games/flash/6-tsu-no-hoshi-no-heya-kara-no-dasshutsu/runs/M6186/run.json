@@ -16,7 +16,8 @@
   "frames": 36,
   "rerecords": 30,
   "start": "power-on",
-  "sha1": "73d60e8cfed1c019b8eb0e514ba6133d6c8f2a3d"
+  "sha1": "73d60e8cfed1c019b8eb0e514ba6133d6c8f2a3d",
+  "fps": 12.0
  },
  "thumbnail": "thumb.jpg",
  "contract": {
