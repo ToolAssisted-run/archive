@@ -1,0 +1,53 @@
+{
+ "id": "M4751",
+ "game": "nes/ninja-gaiden",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Scumtron"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4751.bk2",
+  "format": "bk2",
+  "frames": 39084,
+  "rerecords": 693,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Ninja Gaiden (U).nes",
+   "sha1": "ca513f841d75efeb33bb8099fb02beeb39f6bb9c"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4751M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=z1AnlaNmCyI"
+  }
+ ],
+ "submitted": "2022-07-06T02:32:58.142446",
+ "attachments": [],
+ "forum": {
+  "topicId": 686,
+  "url": "https://forum.toolassisted.run/t/686"
+ }
+}

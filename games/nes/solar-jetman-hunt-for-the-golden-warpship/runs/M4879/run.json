@@ -1,0 +1,53 @@
+{
+ "id": "M4879",
+ "game": "nes/solar-jetman-hunt-for-the-golden-warpship",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  },
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4879.bk2",
+  "format": "bk2",
+  "frames": 45985,
+  "rerecords": 72875,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Solar Jetman - Hunt for the Golden Warpship (U).nes",
+   "sha1": "caa4d1ab710bd766f8505ef24f5702dac6e988af"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4879M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bIle4tJ3_rk"
+  }
+ ],
+ "submitted": "2022-10-28T02:35:43.171689",
+ "attachments": [],
+ "forum": {
+  "topicId": 690,
+  "url": "https://forum.toolassisted.run/t/690"
+ }
+}

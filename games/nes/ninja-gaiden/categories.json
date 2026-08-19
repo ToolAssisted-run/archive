@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "baseline",
+     "label": "fastest completion",
+     "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "pacifist",
+     "label": "pacifist",
+     "rule": "Imported as \"pacifist\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

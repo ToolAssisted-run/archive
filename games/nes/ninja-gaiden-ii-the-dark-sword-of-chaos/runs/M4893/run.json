@@ -1,0 +1,56 @@
+{
+ "id": "M4893",
+ "game": "nes/ninja-gaiden-ii-the-dark-sword-of-chaos",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "aiqiyou"
+  },
+  {
+   "user": "J.Y"
+  },
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4893.bk2",
+  "format": "bk2",
+  "frames": 33083,
+  "rerecords": 878,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Ninja Gaiden II - The Dark Sword of Chaos (U) [!].nes",
+   "sha1": "951a19474a1d9c2984f3d966fbc41c0f0360105e"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4893M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=9IwPRmgfiWQ"
+  }
+ ],
+ "submitted": "2022-11-06T18:08:45.051375",
+ "attachments": [],
+ "forum": {
+  "topicId": 691,
+  "url": "https://forum.toolassisted.run/t/691"
+ }
+}
