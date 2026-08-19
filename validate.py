@@ -36,7 +36,7 @@ except ImportError:
 
 ROOT = pathlib.Path(__file__).parent
 ALLOWED_ATTACH_EXT = {'.txt', '.md', '.ini', '.cfg', '.conf', '.toml', '.json',
-                      '.yaml', '.yml', '.lua', '.sync', '.properties'}
+                      '.yaml', '.yml', '.xml', '.lua', '.sync', '.properties'}
 MOVIE_ATTACH_EXT = {'.3ct', '.bk2', '.ctas', '.ctm', '.dft', '.dsm', '.dtm', '.fbm', '.fm2', '.fm3', '.gbmv', '.gmv', '.gzm', '.jrsr', '.lmp', '.lsmv', '.ltm', '.m64', '.mar', '.omr', '.p2m2', '.tas', '.tasproj', '.vbm', '.wtf'}
 # What a git host will actually hold, not what we invite: intake stops at
 # 32 MB (archivist and selfimport), so anything larger is here because a person
@@ -111,6 +111,25 @@ for f in (ROOT / 'authors').glob('*.json'):
     if rec.get('claimMethod') == 'committee' and not rec.get('attestedBy'):
         err(f'{f}: a committee-approved claim names nobody who approved it')
     members.add(rec.get('username', '').lower())
+
+# A claim supersedes the name the person registered under: the record that
+# name wrote at first login is deleted when the claim is approved. Whatever
+# was recorded under the old name (credits, acts) still belongs to the member
+# it became, so every check resolves names through this map.
+alias = {}
+for f in (ROOT / 'authors').glob('*.json'):
+    rec = json.loads(f.read_text())
+    by = (rec.get('claimedBy') or '').lower()
+    if by and by != rec.get('username', '').lower():
+        alias[by] = rec.get('username', '').lower()
+for _old, _new in sorted(alias.items()):
+    if _old in members:
+        err(f'authors/: {_old!r} is both a member record and a name superseded by '
+            f'{_new!r} — approving a claim deletes the record it replaces')
+
+def canon(name):
+    n = name.lower()
+    return alias.get(n, n)
 
 # claims.json: who asked for a held name and how it was answered. No email
 # address may ever appear here; the archive is public and a request to be given
@@ -330,15 +349,15 @@ for gjson in ROOT.glob('games/*/*/game.json'):
             err(f'{rdir}: text attachments exceed {ATTACH_MAX_TOTAL>>10} KB total')
 
         # community rosters: self-acts, duplicates, screenshots, status honesty
-        author_names = {a['user'].lower() for a in r.get('authors', [])}
+        author_names = {canon(a['user']) for a in r.get('authors', [])}
         shots = set()
         shot_total = 0
         for kind in ('reproductions', 'verifications', 'consoleVerifications'):
             seen_users = set()
             for act in r.get(kind, []):
-                u = act['user'].lower()
+                u = canon(act['user'])
                 act_actors.append((rdir, act['user'], kind))
-                if u in author_names:
+                if u in author_names and not act.get('invalidated'):
                     err(f'{rdir}: {kind[:-1]} by {act["user"]!r} — authors cannot '
                         f'act on their own run')
                 if u in seen_users:
@@ -390,11 +409,11 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                 err(f'{rdir}: withdrawn without naming who did it')
 
         # likes: one per member, never the run's own authors
-        author_names_l = {a['user'].lower() for a in r.get('authors', [])}
+        author_names_l = {canon(a['user']) for a in r.get('authors', [])}
         seen_likes = set()
         for like in r.get('likes', []):
             lu = like['user']
-            ll = lu.lower()
+            ll = canon(lu)
             act_actors.append((rdir, lu, 'likes'))
             if ll in author_names_l:
                 err(f'{rdir}: like by {lu!r} — authors cannot like their own run')
@@ -507,7 +526,7 @@ for gjson in ROOT.glob('games/*/*/game.json'):
 # through the archivist, which means they have an account here. A missing
 # record would silently cost them their profile, their stats and their points.
 for rdir, actor, roster in act_actors:
-    if actor.lower() not in members:
+    if canon(actor) not in members:
         err(f'{rdir}: {roster} by {actor!r}, who has no member record in authors/ '
             f'(every act here is performed by a member)')
 
