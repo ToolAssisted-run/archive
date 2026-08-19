@@ -1,0 +1,49 @@
+{
+ "id": "M4640",
+ "game": "uzebox/2048",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "p0008874"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4640.bk2",
+  "format": "bk2",
+  "frames": 2778,
+  "rerecords": 1947,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "2048.uze"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4640M",
+  "importedBy": "p0008874",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8Fv6dTJkRW4"
+  }
+ ],
+ "submitted": "2022-04-25T22:20:03.661092",
+ "attachments": [],
+ "forum": {
+  "topicId": 724,
+  "url": "https://forum.toolassisted.run/t/724"
+ }
+}

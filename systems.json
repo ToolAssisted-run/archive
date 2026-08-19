@@ -122,5 +122,9 @@
  "wswan": {
   "name": "WonderSwan",
   "fps": 75.4716981132075
+ },
+ "uzebox": {
+  "name": "Uzebox",
+  "fps": 60.01631993960238
  }
 }

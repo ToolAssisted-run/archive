@@ -1,0 +1,49 @@
+{
+ "id": "M4902",
+ "game": "flash/murder",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "p0008874"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4902.ltm",
+  "format": "ltm",
+  "frames": 2299,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.3 + Ruffle nightly 2022-09-29",
+  "rom": {
+   "name": "648589_mord-019.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4902M",
+  "importedBy": "p0008874",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=1rNycRSOlC8"
+  }
+ ],
+ "submitted": "2022-11-11T22:52:04.370581",
+ "attachments": [],
+ "forum": {
+  "topicId": 726,
+  "url": "https://forum.toolassisted.run/t/726"
+ }
+}
