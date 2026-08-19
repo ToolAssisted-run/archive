@@ -26,7 +26,10 @@
    "identity": "Dimon12321",
    "evidence": "Guard, open up!",
    "date": "2026-08-19",
-   "status": "open"
+   "status": "approved",
+   "decidedBy": "GMP",
+   "decidedAt": "2026-08-19",
+   "note": ""
   }
  ]
 }
