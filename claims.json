@@ -36,7 +36,10 @@
    "identity": "TASeditor",
    "evidence": "https://tasvideos.org/Users/Profile/TASeditor",
    "date": "2026-08-19",
-   "status": "open"
+   "status": "approved",
+   "decidedBy": "eien86",
+   "decidedAt": "2026-08-19",
+   "note": ""
   }
  ]
 }
