@@ -1,0 +1,51 @@
+{
+ "id": "M100013",
+ "game": "pc/grand-theft-auto-2",
+ "category": {
+  "goal": "residental-all-missions"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Molotok"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100013.bk2",
+  "format": "bk2",
+  "sha1": "9fda5c615649bb1709323722efd207f1fab36398",
+  "frames": 2412583,
+  "rerecords": 35812,
+  "start": "power-on",
+  "fps": 1000.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence",
+  "strong-language"
+ ],
+ "contract": {
+  "emulator": "BizHawk 2.11 (DOSBox-X)",
+  "rom": {
+   "name": "GTA2.exe",
+   "sha1": "8c10c0d20f15912a9450b6fbe028f31928b29893"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=c1a7BDy3yUE"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-08-19T16:36:28Z",
+ "submittedBy": "eien86"
+}
