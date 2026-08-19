@@ -126,5 +126,10 @@
  "uzebox": {
   "name": "Uzebox",
   "fps": 60.01631993960238
+ },
+ "msx": {
+  "name": "MSX",
+  "fps": 59.9227510135505,
+  "hardToReproduce": true
  }
 }

@@ -1,0 +1,49 @@
+{
+ "id": "M5915",
+ "game": "zxs/circus-digital-fantasia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CloakTheLurker"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5915.bk2",
+  "format": "bk2",
+  "frames": 12741,
+  "rerecords": 321,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Circus (1983)(Digital Fantasia)[a].tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5915M",
+  "importedBy": "CloakTheLurker",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gCbO1DAs6tA"
+  }
+ ],
+ "submitted": "2024-04-20T13:05:07.085098",
+ "attachments": [],
+ "forum": {
+  "topicId": 729,
+  "url": "https://forum.toolassisted.run/t/729"
+ }
+}

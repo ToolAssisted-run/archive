@@ -1,0 +1,49 @@
+{
+ "id": "M5845",
+ "game": "msx/c-c-r-anexo-1-el-algoritmo",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CloakTheLurker"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5845.bk2",
+  "format": "bk2",
+  "frames": 8786,
+  "rerecords": 668,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "anexo01_6.rom"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5845M",
+  "importedBy": "CloakTheLurker",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=aZRxRW-Zt_A"
+  }
+ ],
+ "submitted": "2024-03-03T19:41:39.665585",
+ "attachments": [],
+ "forum": {
+  "topicId": 728,
+  "url": "https://forum.toolassisted.run/t/728"
+ }
+}
