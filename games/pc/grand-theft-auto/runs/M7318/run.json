@@ -1,0 +1,52 @@
+{
+ "id": "M7318",
+ "game": "pc/grand-theft-auto",
+ "category": {
+  "goal": "san-andreas-chapter-2-tequila-slammer-100"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Tarakan3000"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7318.bk2",
+  "format": "bk2",
+  "frames": 1642700,
+  "rerecords": 67602,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: DOSBox-X)",
+  "rom": {
+   "name": "Grand Theft Auto (USA) (En,Fr,De,It).cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7318M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=kYkX7DsvAoU"
+  }
+ ],
+ "submitted": "2026-08-14T12:20:23.819703",
+ "attachments": [],
+ "forum": {
+  "topicId": 718,
+  "url": "https://forum.toolassisted.run/t/718"
+ }
+}

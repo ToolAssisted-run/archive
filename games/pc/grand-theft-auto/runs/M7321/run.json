@@ -1,0 +1,52 @@
+{
+ "id": "M7321",
+ "game": "pc/grand-theft-auto",
+ "category": {
+  "goal": "vice-city-chapter-2-rasta-blasta-100"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Tarakan3000"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7321.bk2",
+  "format": "bk2",
+  "frames": 1522583,
+  "rerecords": 108707,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: DOSBox-X)",
+  "rom": {
+   "name": "Grand Theft Auto (USA) (En,Fr,De,It).cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7321M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=i-1HD7HGS2w"
+  }
+ ],
+ "submitted": "2026-08-15T13:34:37.551832",
+ "attachments": [],
+ "forum": {
+  "topicId": 720,
+  "url": "https://forum.toolassisted.run/t/720"
+ }
+}

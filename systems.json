@@ -118,5 +118,9 @@
   "name": "PC Engine CD",
   "fps": 59.8261054534819,
   "hardToReproduce": true
+ },
+ "wswan": {
+  "name": "WonderSwan",
+  "fps": 75.4716981132075
  }
 }
