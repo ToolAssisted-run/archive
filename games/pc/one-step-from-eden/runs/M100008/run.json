@@ -1,0 +1,44 @@
+{
+ "id": "M100008",
+ "game": "pc/one-step-from-eden",
+ "category": {
+  "goal": "seeded-pacifist-ending"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100008.ltm",
+  "format": "ltm",
+  "sha1": "ec4f20e7986e3e4406722057ac221b2351ce2436",
+  "frames": 32277,
+  "rerecords": 10965,
+  "start": "power-on",
+  "fps": 60.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6",
+  "rom": {
+   "name": "OSFE.x86_64",
+   "sha1": "e2f85db3bc78923a0f2cf9e7ed59d29a69c51606"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=dskwFUn8-RM"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-08-19T03:59:15Z",
+ "submittedBy": "CoolHandMike"
+}
