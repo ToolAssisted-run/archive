@@ -74,11 +74,11 @@ jobs:
     # archive the validator rejects still never triggers a deploy.
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Validate the content first
-        run: |
-          pip install --quiet jsonschema
-          python3 validate.py
+      # The dispatch fires FIRST, before any checkout: every second here
+      # is a second between a member's act and the site showing it. The
+      # website deploy refuses a build that fails or comes out incomplete,
+      # and validation still runs below in this same job, so an invalid
+      # archive still turns this job red on the very push that broke it.
       - name: Tell the website to rebuild
         env:
           GH_TOKEN: ${{ secrets.ARCHIVE_ACTION_WRITE_SECRET }}
@@ -86,3 +86,8 @@ jobs:
           gh workflow run deploy.yml -R ToolAssisted-run/website \
             --ref main -f reason=archive-content
           echo "asked the website to rebuild from this archive"
+      - uses: actions/checkout@v4
+      - name: Validate the content
+        run: |
+          pip install --quiet jsonschema
+          python3 validate.py
