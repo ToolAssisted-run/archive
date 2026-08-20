@@ -7,8 +7,7 @@
     {
      "key": "any",
      "label": "Any%",
-     "rule": "Complete the game as fast as possible",
-     "provisional": true
+     "rule": "Complete the game as fast as possible"
     }
    ]
   }

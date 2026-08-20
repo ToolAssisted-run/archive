@@ -224,11 +224,8 @@ for gjson in ROOT.glob('games/*/*/game.json'):
     # never ratified here and carry neither, which is the honest record.
     if bool(gdoc.get('ratifiedBy')) != bool(gdoc.get('ratifiedAt')):
         err(f'{gjson}: ratifiedBy and ratifiedAt go together, or neither')
-    if gdoc.get('ratifiedBy') and not gdoc.get('established'):
-        err(f'{gjson}: ratified by {gdoc["ratifiedBy"]!r} but not established')
-    # ratified and refused are the two ends of one decision, never both
-    if gdoc.get('rejected') and gdoc.get('established'):
-        err(f'{gjson}: refused by {gdoc["rejected"]["by"]!r} and established at once')
+    # ratification is retired as a mechanism (2026-08-20): creations are
+    # real on arrival, and ratified*/established survive only as history.
     check_removals(gdoc, str(gjson))
     if gdoc.get('thumbnail'):
         tp = gdir / gdoc['thumbnail']
@@ -566,8 +563,6 @@ if (ROOT / 'groups.json').exists():
         if bool(grp.get('ratifiedBy')) != bool(grp.get('ratifiedAt')):
             err(f'groups.json: group {key!r} has ratifiedBy and ratifiedAt out of step; '
                 f'both or neither')
-        if grp.get('rejected') and grp.get('established'):
-            err(f'groups.json: group {key!r} is refused and established at once')
         check_removals(grp, f'groups.json: group {key!r}')
         if grp.get('removed') and grp.get('games'):
             err(f'groups.json: group {key!r} was removed but still holds games; a '
@@ -575,9 +570,6 @@ if (ROOT / 'groups.json').exists():
         if grp.get('rejected') and grp.get('games'):
             err(f'groups.json: group {key!r} was refused but still holds games; a '
                 f'refused series is dissolved and its games are ungrouped')
-        if grp.get('ratifiedBy') and not grp.get('established'):
-            err(f'groups.json: group {key!r} is ratified by {grp["ratifiedBy"]!r} but '
-                f'not established')
         if bool(grp.get('createdBy')) != bool(grp.get('createdAt')):
             err(f'groups.json: group {key!r} has createdBy and createdAt out of step; '
                 f'both or neither')

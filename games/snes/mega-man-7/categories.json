@@ -7,8 +7,7 @@
     {
      "key": "100",
      "label": "100%",
-     "rule": "100% completion",
-     "provisional": true
+     "rule": "100% completion"
     }
    ]
   }
