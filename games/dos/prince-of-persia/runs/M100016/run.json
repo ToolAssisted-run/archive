@@ -1,0 +1,49 @@
+{
+ "id": "M100016",
+ "game": "dos/prince-of-persia",
+ "category": {
+  "goal": "any-no-major-glitches"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100016.jrsr",
+  "format": "jrsr",
+  "sha1": "cada8b8cda6934637c5717386f9b8f2b1aceba62",
+  "frames": 67849,
+  "rerecords": 1339,
+  "start": "power-on",
+  "fps": 59.99970861915149
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "",
+  "rom": {
+   "name": "prince.img",
+   "sha1": "16603431422ae0dad327b1a26b64d6cafe970eff"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qEUwTODtHLk"
+  }
+ ],
+ "attachments": [],
+ "completed": "2021-04-12",
+ "submitted": "2026-08-20T16:11:11Z",
+ "submittedBy": "GMP",
+ "forum": {
+  "topicId": 1104,
+  "url": "https://forum.toolassisted.run/t/1104"
+ }
+}
