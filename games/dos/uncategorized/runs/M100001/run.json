@@ -1,8 +1,8 @@
 {
  "id": "M100001",
- "game": "dos/test-title-alone-in-the-dark-4",
+ "game": "dos/uncategorized",
  "category": {
-  "goal": "100"
+  "goal": "unclassified"
  },
  "authors": [
   {
@@ -49,5 +49,6 @@
  "forum": {
   "topicId": 473,
   "url": "https://forum.toolassisted.run/t/473"
- }
+ },
+ "goalDescription": "Archived as \"100\" in Test title: Alone in the Dark 4, a game record that was deleted; awaiting a new home."
 }
