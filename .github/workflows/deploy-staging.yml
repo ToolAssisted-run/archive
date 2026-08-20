@@ -2,7 +2,7 @@ name: Validate and test the archive
 
 on:
   push:
-    branches: [main, staging]
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: '17 4 * * *'   # daily self-healing rebuild
@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: archive
-          ref: staging   # BETA: the live site builds the staging archive branch
+          ref: main
           fetch-depth: 0   # the generator reads arrival times from git history
 
       - name: Checkout website (generator)
