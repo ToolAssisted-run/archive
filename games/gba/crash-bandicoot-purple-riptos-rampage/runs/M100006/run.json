@@ -28,7 +28,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -44,5 +44,13 @@
   "topicId": 678,
   "url": "https://forum.toolassisted.run/t/678"
  },
- "completed": "2017-06-26"
+ "completed": "2017-06-26",
+ "verifications": [
+  {
+   "user": "GMP",
+   "date": "2026-08-20",
+   "at": "2026-08-20T14:26:02Z",
+   "expert": true
+  }
+ ]
 }
