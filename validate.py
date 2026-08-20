@@ -498,6 +498,27 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                     f'as not-applicable')
             if not r.get('encodes'):
                 err(f'{rdir}: a video-only run IS its encode; it must link one')
+            # whether a stated duration exists depends on the category: it is
+            # required iff the category's metrics include the derived time
+            # (absent metrics = the classic time metric)
+            goal_key = (r.get('category') or {}).get('goal')
+            mdefs = None
+            for d in cats.get('dimensions', []):
+                for o in d['options']:
+                    if o['key'] == goal_key:
+                        mdefs = o.get('metrics')
+            wants_time = (mdefs is None
+                          or any(m['key'] == 'time' for m in mdefs))
+            if wants_time and goal_key != 'unclassified' and not r.get('duration'):
+                err(f'{rdir}: video-only in a time-ranked category must state '
+                    f'its duration')
+            if not wants_time and r.get('duration'):
+                err(f'{rdir}: this category defines no time metric; a stated '
+                    f'duration would rank nothing and is not stored')
+        # stated metric values must be numbers for keys the category defines
+        # or once defined (values persist after a metric is removed)
+        if r.get('metrics') is not None and not isinstance(r.get('metrics'), dict):
+            err(f'{rdir}: metrics must be an object of numeric values')
         if not r.get('videoOnly') and st.get('reproduced') == 'not-applicable':
             err(f'{rdir}: only a video-only run marks reproduced not-applicable')
         if st.get('reproduced') not in ('imported', 'not-applicable'):

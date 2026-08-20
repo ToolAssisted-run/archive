@@ -741,6 +741,14 @@
    "type": "string",
    "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
    "description": "when the author finished the run, if they said; submission has its own date"
+  },
+  "metrics": {
+   "type": "object",
+   "description": "stated values for the category's metrics, by key; times as seconds. 0 means not yet stated and ranks last.",
+   "additionalProperties": {
+    "type": "number",
+    "minimum": 0
+   }
   }
  },
  "allOf": [
@@ -750,11 +758,7 @@
      "videoOnly"
     ]
    },
-   "then": {
-    "required": [
-     "duration"
-    ]
-   },
+   "then": {},
    "else": {
     "required": [
      "movie"
