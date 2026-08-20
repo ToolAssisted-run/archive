@@ -220,6 +220,16 @@
    "by": "GMP",
    "date": "2026-08-20",
    "reason": "It's clean and looks good"
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia-2-the-shadow-and-the-flame:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "To be consistent with RTA Leaderboards"
   }
  ]
 }
