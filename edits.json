@@ -368,6 +368,17 @@
    "date": "2026-08-20",
    "at": "2026-08-20T11:48:59Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "amiga/prince-of-persia:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "at": "2026-08-20T12:50:20Z",
+   "reason": "To be consistent with RTA Leaderboards"
   }
  ]
 }
