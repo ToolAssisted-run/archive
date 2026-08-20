@@ -118,6 +118,15 @@
    "date": "2026-08-19",
    "reason": "Unseated by the Founder. Was a test alias",
    "at": "2026-08-19T08:44:37Z"
+  },
+  {
+   "user": "CloakTheLurker",
+   "role": "editor",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-08-20",
+   "at": "2026-08-20T18:52:00Z",
+   "reason": "A trusted community member with proven expertise at managing game collections"
   }
  ]
 }
