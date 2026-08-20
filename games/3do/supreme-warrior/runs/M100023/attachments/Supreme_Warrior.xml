@@ -1,0 +1,6 @@
+<BizHawk-XMLGame System="3DO" Name="Supreme Warrior">
+  <LoadAssets>
+    <Asset FileName="./Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth).cue" />
+    <Asset FileName="./Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).cue" />
+  </LoadAssets>
+</BizHawk-XMLGame>

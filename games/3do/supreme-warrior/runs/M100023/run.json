@@ -1,0 +1,56 @@
+{
+ "id": "M100023",
+ "game": "3do/supreme-warrior",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100023.bk2",
+  "format": "bk2",
+  "sha1": "aa96a2c73cb2b6102a4909f623127168212a55a9",
+  "frames": 98496,
+  "rerecords": 11395,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "BizHawk 2.11.2 (Core: Opera)",
+  "rom": {
+   "name": "Supreme Warrior (USA) (Disc 1) (Fire & Earth).bin",
+   "sha1": "67b6a18eaef5f07860eeb258d7c301bf9bc8507d"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=1IhgphVfD0E"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/Supreme_Warrior.xml",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-05-14",
+ "submitted": "2026-08-20T19:21:11Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1118,
+  "url": "https://forum.toolassisted.run/t/1118"
+ }
+}
