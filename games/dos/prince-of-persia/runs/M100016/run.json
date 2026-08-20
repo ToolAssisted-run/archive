@@ -21,7 +21,7 @@
  },
  "thumbnail": "thumb.jpg",
  "contract": {
-  "emulator": "",
+  "emulator": "JPC-rr r11.8 rc2",
   "rom": {
    "name": "prince.img",
    "sha1": "16603431422ae0dad327b1a26b64d6cafe970eff"
