@@ -51,6 +51,11 @@
      "type": "string",
      "minLength": 8,
      "maxLength": 500
+    },
+    "at": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+     "description": "arrival moment, seconds, UTC; date stays the day people read"
     }
    }
   },
@@ -96,6 +101,11 @@
      "note": {
       "type": "string",
       "maxLength": 500
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
      }
     }
    }
@@ -123,6 +133,11 @@
     },
     "requestedBy": {
      "type": "string"
+    },
+    "at": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+     "description": "arrival moment, seconds, UTC; date stays the day people read"
     }
    }
   },
@@ -147,6 +162,11 @@
    "type": "string",
    "pattern": "^thumb\\.(png|jpg|webp)$",
    "description": "an expert-set face for the game's page and card"
+  },
+  "ratifiedAtTime": {
+   "type": "string",
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+   "description": "arrival moment, seconds, UTC; date stays the day people read"
   }
  }
 }

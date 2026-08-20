@@ -80,12 +80,14 @@
  "verifications": [
   {
    "user": "CloakTheLurker",
-   "date": "2026-08-20"
+   "date": "2026-08-20",
+   "at": "2026-08-20T00:42:55Z"
   },
   {
    "user": "Dimon12321",
    "date": "2026-08-20",
-   "notes": "The author finishes all missions and leaves the location, which triggers the statistics screen"
+   "notes": "The author finishes all missions and leaves the location, which triggers the statistics screen",
+   "at": "2026-08-20T06:26:42Z"
   }
  ],
  "likes": [

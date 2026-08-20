@@ -69,7 +69,8 @@
    "to": "(see the run)",
    "by": "toca",
    "date": "2026-08-19",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-19T21:29:52Z"
   },
   {
    "kind": "run",
@@ -79,7 +80,8 @@
    "to": "BizHawk v.1.12.2 (VBA-Next)",
    "by": "toca",
    "date": "2026-08-19",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-19T21:29:52Z"
   },
   {
    "kind": "run",
@@ -89,7 +91,8 @@
    "to": "2017-06-26",
    "by": "toca",
    "date": "2026-08-19",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-19T21:29:52Z"
   },
   {
    "kind": "run",
@@ -99,7 +102,8 @@
    "to": "(see the run)",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-20T00:32:28Z"
   },
   {
    "kind": "run",
@@ -109,7 +113,8 @@
    "to": "JPC-RR 11.8",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-20T00:32:28Z"
   },
   {
    "kind": "run",
@@ -119,7 +124,8 @@
    "to": "2021-10-26",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-20T00:32:28Z"
   },
   {
    "kind": "run",
@@ -129,7 +135,8 @@
    "to": "(see the run)",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-20T00:32:28Z"
   },
   {
    "kind": "run",
@@ -139,7 +146,8 @@
    "to": "JPC-RR 11.8",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-20T00:32:28Z"
   },
   {
    "kind": "run",
@@ -149,7 +157,8 @@
    "to": "2021-10-26",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-20T00:32:28Z"
   },
   {
    "kind": "run",
@@ -159,7 +168,8 @@
    "to": "(see the run)",
    "by": "CloakTheLurker",
    "date": "2026-08-20",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-20T02:12:24Z"
   },
   {
    "kind": "run",
@@ -169,7 +179,8 @@
    "to": "BizHawk 2.9.1",
    "by": "CloakTheLurker",
    "date": "2026-08-20",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-20T02:12:24Z"
   },
   {
    "kind": "run",
@@ -179,7 +190,8 @@
    "to": "",
    "by": "CloakTheLurker",
    "date": "2026-08-20",
-   "reason": "The author's own revision."
+   "reason": "The author's own revision.",
+   "at": "2026-08-20T02:12:24Z"
   },
   {
    "kind": "category",
@@ -189,7 +201,8 @@
    "to": "No Major Glitches",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "To be consistent with RTA Leaderboards"
+   "reason": "To be consistent with RTA Leaderboards",
+   "at": "2026-08-20T09:36:10Z"
   },
   {
    "kind": "category",
@@ -199,7 +212,8 @@
    "to": "Any% (No Major Glitches)",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "Adding the top level category as well for posterity"
+   "reason": "Adding the top level category as well for posterity",
+   "at": "2026-08-20T09:37:34Z"
   },
   {
    "kind": "category",
@@ -209,7 +223,8 @@
    "to": "Any% (Zipless)",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "To be consistent with RTA Leaderboards"
+   "reason": "To be consistent with RTA Leaderboards",
+   "at": "2026-08-20T09:37:58Z"
   },
   {
    "kind": "game",
@@ -219,7 +234,8 @@
    "to": "thumb.png",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "It's clean and looks good"
+   "reason": "It's clean and looks good",
+   "at": "2026-08-20T09:40:25Z"
   },
   {
    "kind": "category",
@@ -229,7 +245,8 @@
    "to": "Any%",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "To be consistent with RTA Leaderboards"
+   "reason": "To be consistent with RTA Leaderboards",
+   "at": "2026-08-20T09:49:40Z"
   },
   {
    "kind": "category",
@@ -239,7 +256,8 @@
    "to": "Any%",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "To be consistent with RTA Leaderboards"
+   "reason": "To be consistent with RTA Leaderboards",
+   "at": "2026-08-20T09:50:10Z"
   },
   {
    "kind": "category",
@@ -249,7 +267,8 @@
    "to": "Any% (Standard)",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "To be consistent with RTA Leaderboards"
+   "reason": "To be consistent with RTA Leaderboards",
+   "at": "2026-08-20T09:51:05Z"
   },
   {
    "kind": "category",
@@ -259,7 +278,8 @@
    "to": "Any%",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "To be consistent with RTA Leaderboards"
+   "reason": "To be consistent with RTA Leaderboards",
+   "at": "2026-08-20T09:51:49Z"
   },
   {
    "kind": "category",
@@ -269,7 +289,8 @@
    "to": "Any% (Impossible Mode)",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "To be consistent with RTA Leaderboards"
+   "reason": "To be consistent with RTA Leaderboards",
+   "at": "2026-08-20T09:53:25Z"
   },
   {
    "kind": "category",
@@ -279,7 +300,8 @@
    "to": "Any% (Zipless)",
    "by": "GMP",
    "date": "2026-08-20",
-   "reason": "To be consistent with RTA Leaderboards"
+   "reason": "To be consistent with RTA Leaderboards",
+   "at": "2026-08-20T09:54:44Z"
   }
  ]
 }

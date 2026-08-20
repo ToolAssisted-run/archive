@@ -128,6 +128,11 @@
      },
      "date": {
       "type": "string"
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
      }
     }
    }
@@ -272,8 +277,18 @@
        "reason": {
         "type": "string",
         "maxLength": 500
+       },
+       "at": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+        "description": "arrival moment, seconds, UTC; date stays the day people read"
        }
       }
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
      }
     }
    }
@@ -314,12 +329,22 @@
        "reason": {
         "type": "string",
         "maxLength": 500
+       },
+       "at": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+        "description": "arrival moment, seconds, UTC; date stays the day people read"
        }
       }
      },
      "expert": {
       "type": "boolean",
       "description": "the verifier covered this game when they verified: this verification confirms the run"
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
      }
     }
    }
@@ -373,8 +398,18 @@
        "reason": {
         "type": "string",
         "maxLength": 500
+       },
+       "at": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+        "description": "arrival moment, seconds, UTC; date stays the day people read"
        }
       }
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
      }
     }
    }
@@ -429,6 +464,11 @@
      "resolution": {
       "type": "string",
       "maxLength": 2000
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
      }
     }
    }
@@ -488,6 +528,11 @@
         "notes": {
          "type": "string",
          "maxLength": 2000
+        },
+        "at": {
+         "type": "string",
+         "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+         "description": "arrival moment, seconds, UTC; date stays the day people read"
         }
        }
       }
@@ -501,6 +546,11 @@
      },
      "resolvedAt": {
       "type": "string"
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
      }
     }
    }
@@ -557,6 +607,11 @@
          },
          "date": {
           "type": "string"
+         },
+         "at": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+          "description": "arrival moment, seconds, UTC; date stays the day people read"
          }
         }
        }
@@ -588,6 +643,11 @@
          },
          "date": {
           "type": "string"
+         },
+         "at": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+          "description": "arrival moment, seconds, UTC; date stays the day people read"
          }
         }
        }
@@ -619,6 +679,11 @@
          },
          "date": {
           "type": "string"
+         },
+         "at": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+          "description": "arrival moment, seconds, UTC; date stays the day people read"
          }
         }
        }
@@ -655,6 +720,11 @@
     "contentRemoved": {
      "type": "boolean",
      "description": "the movie, notes and thumbnail were taken down with the withdrawal, because publishing them was the problem (an import made without the authorization of every author). The record stays; the files are gone from the tree."
+    },
+    "at": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+     "description": "arrival moment, seconds, UTC; date stays the day people read"
     }
    }
   },

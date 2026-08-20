@@ -47,7 +47,8 @@
    "invalidated": {
     "by": "eien86",
     "date": "2026-08-19",
-    "reason": "Self-verification: the run is authored by McBobX and this verification was recorded by the same person under their pre-claim name McBobX1. Authors cannot verify their own run. Invalidated on the founder's instruction; the run returns to pending and anyone else may verify it."
+    "reason": "Self-verification: the run is authored by McBobX and this verification was recorded by the same person under their pre-claim name McBobX1. Authors cannot verify their own run. Invalidated on the founder's instruction; the run returns to pending and anyone else may verify it.",
+    "at": "2026-08-19T16:25:35Z"
    }
   }
  ],

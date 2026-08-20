@@ -7,7 +7,8 @@
    "action": "granted",
    "by": "founder",
    "date": "2026-08-14",
-   "reason": "Founded the site and carries its legal, technical and financial responsibility (Principles 2.2)."
+   "reason": "Founded the site and carries its legal, technical and financial responsibility (Principles 2.2).",
+   "at": "2026-08-18T17:16:42Z"
   },
   {
    "user": "eien86",
@@ -40,7 +41,8 @@
    "action": "granted",
    "by": "eien86",
    "date": "2026-08-18",
-   "reason": "Seated by the Founder. He's steering committee"
+   "reason": "Seated by the Founder. He's steering committee",
+   "at": "2026-08-18T17:22:00Z"
   },
   {
    "user": "CoolHandMike",
@@ -48,7 +50,8 @@
    "action": "granted",
    "by": "eien86",
    "date": "2026-08-18",
-   "reason": "Seated by the Founder. He's steering committee"
+   "reason": "Seated by the Founder. He's steering committee",
+   "at": "2026-08-18T17:22:24Z"
   },
   {
    "user": "Challenger",
@@ -56,7 +59,8 @@
    "action": "granted",
    "by": "eien86",
    "date": "2026-08-18",
-   "reason": "Seated by the Founder. He's steering committee"
+   "reason": "Seated by the Founder. He's steering committee",
+   "at": "2026-08-18T17:25:16Z"
   },
   {
    "user": "demibop720",
@@ -64,7 +68,8 @@
    "action": "granted",
    "by": "eien86",
    "date": "2026-08-18",
-   "reason": "Seated by the Founder. He's steering committee"
+   "reason": "Seated by the Founder. He's steering committee",
+   "at": "2026-08-18T17:27:19Z"
   },
   {
    "user": "GMP",
@@ -73,7 +78,8 @@
    "action": "granted",
    "by": "eien86",
    "date": "2026-08-18",
-   "reason": "He's steering committee"
+   "reason": "He's steering committee",
+   "at": "2026-08-18T17:49:27Z"
   },
   {
    "user": "CoolHandMike",
@@ -82,7 +88,8 @@
    "action": "granted",
    "by": "eien86",
    "date": "2026-08-18",
-   "reason": "He's steering committee"
+   "reason": "He's steering committee",
+   "at": "2026-08-18T17:49:52Z"
   },
   {
    "user": "toca",
@@ -91,7 +98,8 @@
    "action": "granted",
    "by": "GMP",
    "date": "2026-08-18",
-   "reason": "Series mod for the same group in speedrun.com, trusted member of the PoP community who also has extensive TAS knowledge."
+   "reason": "Series mod for the same group in speedrun.com, trusted member of the PoP community who also has extensive TAS knowledge.",
+   "at": "2026-08-18T18:07:55Z"
   },
   {
    "user": "Dimon12321",
@@ -99,7 +107,8 @@
    "action": "granted",
    "by": "eien86",
    "date": "2026-08-19",
-   "reason": "Seated by the Founder. He's steering committee"
+   "reason": "Seated by the Founder. He's steering committee",
+   "at": "2026-08-19T08:44:13Z"
   },
   {
    "user": "demibop720",
@@ -107,7 +116,8 @@
    "action": "revoked",
    "by": "eien86",
    "date": "2026-08-19",
-   "reason": "Unseated by the Founder. Was a test alias"
+   "reason": "Unseated by the Founder. Was a test alias",
+   "at": "2026-08-19T08:44:37Z"
   }
  ]
 }
