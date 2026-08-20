@@ -6,7 +6,7 @@
    "options": [
     {
      "key": "any",
-     "label": "any%",
+     "label": "cutscene%",
      "rule": "Complete the game as fast as possible",
      "metrics": [
       {
