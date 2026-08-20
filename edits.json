@@ -489,6 +489,17 @@
    "date": "2026-08-20",
    "at": "2026-08-20T19:11:56Z",
    "reason": "forgot this was cutscene%"
+  },
+  {
+   "kind": "category",
+   "key": "3do/supreme-warrior:any",
+   "field": "rule",
+   "from": "Complete the game as fast as possible",
+   "to": "Complete the game as fast as possible without skipping cutscenes",
+   "by": "eien86",
+   "date": "2026-08-20",
+   "at": "2026-08-20T19:11:59Z",
+   "reason": "forgot this was cutscene%"
   }
  ]
 }

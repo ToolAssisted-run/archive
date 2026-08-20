@@ -7,7 +7,7 @@
     {
      "key": "any",
      "label": "cutscene%",
-     "rule": "Complete the game as fast as possible",
+     "rule": "Complete the game as fast as possible without skipping cutscenes",
      "metrics": [
       {
        "key": "time",
