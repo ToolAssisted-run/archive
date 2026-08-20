@@ -27,7 +27,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -51,6 +51,16 @@
    "date": "2026-08-20",
    "at": "2026-08-20T14:26:02Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-20",
+   "at": "2026-08-20T23:24:42Z",
+   "screenshot": "reproductions/1-CloakTheLurker.png",
+   "emulator": "BizHawk 1.12.2",
+   "notes": "After movie finishes, hard reset and manually go to Load Save Game screen to confirm goal was achieved."
   }
  ]
 }
