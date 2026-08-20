@@ -14,3 +14,6 @@ Strats by Merl_: https://docs.google.com/spreadsheets/d/1LoHdWfq2WnR32wxR_Qo0oo5
 4) Load the .ahk script I linked above.
 5) Open the game in full screen.
 6) Press play, and in the level select menu, press "P" on your keyboard.
+
+! Warning
+Running the script could make your system unresponsive if there is some mismatch and the script is stuck in infinite loop.
