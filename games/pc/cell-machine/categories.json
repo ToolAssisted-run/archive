@@ -1,0 +1,16 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "all-levels",
+     "label": "All Levels",
+     "rule": "Complete all 17 levels as soon as possible",
+     "provisional": true
+    }
+   ]
+  }
+ ]
+}
