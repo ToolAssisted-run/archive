@@ -240,6 +240,16 @@
    "by": "GMP",
    "date": "2026-08-20",
    "reason": "To be consistent with RTA Leaderboards"
+  },
+  {
+   "kind": "category",
+   "key": "gba/prince-of-persia-the-sands-of-time:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any% (Standard)",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "To be consistent with RTA Leaderboards"
   }
  ]
 }
