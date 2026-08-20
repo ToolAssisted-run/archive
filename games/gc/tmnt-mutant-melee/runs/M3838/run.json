@@ -1,0 +1,50 @@
+{
+ "id": "M3838",
+ "game": "gc/tmnt-mutant-melee",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3838.dtm",
+  "format": "dtm",
+  "frames": 1754721,
+  "fps": 179.82046452705387,
+  "rerecords": 36451,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 4.0-9390",
+  "rom": {
+   "name": "GE5EA4.iso"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3838M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=_pxDALdrkzA"
+  }
+ ],
+ "submitted": "2018-12-07T23:57:44",
+ "attachments": [],
+ "forum": {
+  "topicId": 1027,
+  "url": "https://forum.toolassisted.run/t/1027"
+ }
+}

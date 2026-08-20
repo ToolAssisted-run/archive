@@ -1,0 +1,50 @@
+{
+ "id": "M3892",
+ "game": "nes/little-red-hood",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3892.bk2",
+  "format": "bk2",
+  "frames": 20083,
+  "rerecords": 6429,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3",
+  "rom": {
+   "name": "Little Red Hood (Unl) (HES) [!].nes",
+   "sha1": "7f4c3071ba94c3abf6a44f9b54b22141737fb0dc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3892M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtube.com/watch?v=IXgIsW-PxDw"
+  }
+ ],
+ "submitted": "2019-01-26T23:01:49",
+ "attachments": [],
+ "forum": {
+  "topicId": 1029,
+  "url": "https://forum.toolassisted.run/t/1029"
+ }
+}

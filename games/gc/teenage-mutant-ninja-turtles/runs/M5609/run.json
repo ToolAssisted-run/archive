@@ -1,0 +1,49 @@
+{
+ "id": "M5609",
+ "game": "gc/teenage-mutant-ninja-turtles",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5609.dtm",
+  "format": "dtm",
+  "frames": 206743,
+  "rerecords": 35560,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-16426",
+  "rom": {
+   "name": "Teenage Mutant Ninja Turtles (USA).iso"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5609M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=n2tpi01J1TA"
+  }
+ ],
+ "submitted": "2023-10-03T17:16:51.102493",
+ "attachments": [],
+ "forum": {
+  "topicId": 1035,
+  "url": "https://forum.toolassisted.run/t/1035"
+ }
+}

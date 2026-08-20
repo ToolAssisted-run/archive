@@ -1,0 +1,49 @@
+{
+ "id": "M5204",
+ "game": "nes/teenage-mutant-ninja-turtles-tournament-fighters",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5204.bk2",
+  "format": "bk2",
+  "frames": 19670,
+  "rerecords": 3661,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5204M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DZLGJ_hTZeE"
+  }
+ ],
+ "submitted": "2023-04-02T06:37:00.499285",
+ "attachments": [],
+ "forum": {
+  "topicId": 1033,
+  "url": "https://forum.toolassisted.run/t/1033"
+ }
+}

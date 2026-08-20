@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "the-joker-a-fete-worse-than-death",
+     "label": "The Joker: A Fete Worse than Death",
+     "rule": "Imported as \"The Joker: A Fete Worse than Death\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

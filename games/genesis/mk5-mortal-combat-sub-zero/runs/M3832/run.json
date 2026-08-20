@@ -1,0 +1,52 @@
+{
+ "id": "M3832",
+ "game": "genesis/mk5-mortal-combat-sub-zero",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  },
+  {
+   "user": "zoboner"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3832.bk2",
+  "format": "bk2",
+  "frames": 46421,
+  "rerecords": 26514,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3",
+  "rom": {
+   "name": "Mortal Kombat 5 (Unl) [c][!].bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3832M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=A3G-397yor0"
+  }
+ ],
+ "submitted": "2018-12-01T17:13:30",
+ "attachments": [],
+ "forum": {
+  "topicId": 1025,
+  "url": "https://forum.toolassisted.run/t/1025"
+ }
+}
