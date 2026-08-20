@@ -35,3 +35,8 @@ Full license text: https://creativecommons.org/licenses/by/2.0/legalcode
 ## No warranty
 
 The archive is provided as-is, without warranty of any kind.
+
+## Questions and complaints
+
+Licensing questions, attribution problems, or claims of infringement, from
+anyone: **contact@toolassisted.run**.
