@@ -423,6 +423,17 @@
    "date": "2026-08-20",
    "at": "2026-08-20T13:23:47Z",
    "reason": "To be consistent with RTA Leaderboards"
+  },
+  {
+   "kind": "category",
+   "key": "genesis/prince-of-persia:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "at": "2026-08-20T13:24:07Z",
+   "reason": "To be consistent with RTA Leaderboards"
   }
  ]
 }
