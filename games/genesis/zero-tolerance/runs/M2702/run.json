@@ -1,0 +1,49 @@
+{
+ "id": "M2702",
+ "game": "genesis/zero-tolerance",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2702.gmv",
+  "format": "gmv",
+  "frames": 71467,
+  "rerecords": 5496,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 11a",
+  "rom": {
+   "name": "Zero Tolerance (JUE) [!].bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2702M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qIYX_W-roKQ"
+  }
+ ],
+ "submitted": "2014-10-16T00:40:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 1017,
+  "url": "https://forum.toolassisted.run/t/1017"
+ }
+}

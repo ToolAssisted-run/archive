@@ -1,0 +1,49 @@
+{
+ "id": "M2700",
+ "game": "genesis/duke-nukem-3d",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2700.gmv",
+  "format": "gmv",
+  "frames": 72132,
+  "rerecords": 7483,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 11a",
+  "rom": {
+   "name": "Duke Nukem 3D (B) [!].gen or Duke Nukem 3D.bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2700M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3LyE9ken71o"
+  }
+ ],
+ "submitted": "2014-10-11T21:18:06",
+ "attachments": [],
+ "forum": {
+  "topicId": 1015,
+  "url": "https://forum.toolassisted.run/t/1015"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M2714",
+ "game": "genesis/james-bond-007-the-duel",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2714.gmv",
+  "format": "gmv",
+  "frames": 42329,
+  "rerecords": 4920,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 11a",
+  "rom": {
+   "name": "James Bond - The Duel (UEJ) (Tengen).bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2714M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-eK91Fr-gJo"
+  }
+ ],
+ "submitted": "2014-11-16T18:46:01",
+ "attachments": [],
+ "forum": {
+  "topicId": 1021,
+  "url": "https://forum.toolassisted.run/t/1021"
+ }
+}

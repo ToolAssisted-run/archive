@@ -1,0 +1,49 @@
+{
+ "id": "M2846",
+ "game": "nes/robocop",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2846.fm2",
+  "format": "fm2",
+  "frames": 35439,
+  "rerecords": 424,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "rom": {
+   "name": "RoboCop (U).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2846M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WsBOTzr0jmw"
+  }
+ ],
+ "submitted": "2015-05-15T12:58:27",
+ "attachments": [],
+ "forum": {
+  "topicId": 1023,
+  "url": "https://forum.toolassisted.run/t/1023"
+ }
+}

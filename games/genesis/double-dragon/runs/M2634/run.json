@@ -1,0 +1,49 @@
+{
+ "id": "M2634",
+ "game": "genesis/double-dragon",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2634.gmv",
+  "format": "gmv",
+  "frames": 11833,
+  "rerecords": 1850,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 11a",
+  "rom": {
+   "name": "Double Dragon (U) [!].bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2634M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IIzlS9PMUbk"
+  }
+ ],
+ "submitted": "2014-07-10T03:15:28",
+ "attachments": [],
+ "forum": {
+  "topicId": 1013,
+  "url": "https://forum.toolassisted.run/t/1013"
+ }
+}

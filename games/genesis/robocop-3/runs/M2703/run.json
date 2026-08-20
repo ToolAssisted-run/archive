@@ -1,0 +1,49 @@
+{
+ "id": "M2703",
+ "game": "genesis/robocop-3",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2703.gmv",
+  "format": "gmv",
+  "frames": 31215,
+  "rerecords": 5184,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 11a",
+  "rom": {
+   "name": "Robocop 3 (UE) [!].bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2703M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=drpOPlvlts4"
+  }
+ ],
+ "submitted": "2014-10-24T13:05:56",
+ "attachments": [],
+ "forum": {
+  "topicId": 1019,
+  "url": "https://forum.toolassisted.run/t/1019"
+ }
+}
