@@ -1,0 +1,49 @@
+{
+ "id": "M2672",
+ "game": "gbc/the-adventures-of-elmo-in-grouchland",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2672.lsmv",
+  "format": "lsmv",
+  "frames": 10790,
+  "rerecords": 5638,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr2-\u00df20",
+  "rom": {
+   "name": "Adventures of Elmo in Grouchland, The (USA).gbc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2672M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=E5l50uHqcLA"
+  }
+ ],
+ "submitted": "2014-08-22T18:47:35",
+ "attachments": [],
+ "forum": {
+  "topicId": 1077,
+  "url": "https://forum.toolassisted.run/t/1077"
+ }
+}

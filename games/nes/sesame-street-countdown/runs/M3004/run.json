@@ -1,0 +1,49 @@
+{
+ "id": "M3004",
+ "game": "nes/sesame-street-countdown",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3004.fm2",
+  "format": "fm2",
+  "frames": 11333,
+  "rerecords": 6364,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "rom": {
+   "name": "Sesame Street Countdown (U).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3004M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=68Ea_3GCvPc"
+  }
+ ],
+ "submitted": "2015-11-20T09:41:14",
+ "attachments": [],
+ "forum": {
+  "topicId": 1085,
+  "url": "https://forum.toolassisted.run/t/1085"
+ }
+}

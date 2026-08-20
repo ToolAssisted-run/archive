@@ -1,0 +1,49 @@
+{
+ "id": "M2659",
+ "game": "nes/titenic",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2659.fm2",
+  "format": "fm2",
+  "frames": 14080,
+  "rerecords": 43850,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "rom": {
+   "name": "Titenic (Unl) (As) [f1].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2659M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=yZu8FdLgbkA"
+  }
+ ],
+ "submitted": "2014-08-07T14:37:16",
+ "attachments": [],
+ "forum": {
+  "topicId": 1075,
+  "url": "https://forum.toolassisted.run/t/1075"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M2756",
+ "game": "nes/the-adventures-of-rocky-and-bullwinkle-and-friends",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2756.fm2",
+  "format": "fm2",
+  "frames": 14073,
+  "rerecords": 22015,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "rom": {
+   "name": "Adventures of Rocky and Bullwinkle and Friends, The (U).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2756M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=zTzSvPP04y0"
+  }
+ ],
+ "submitted": "2014-12-31T12:31:16",
+ "attachments": [],
+ "forum": {
+  "topicId": 1079,
+  "url": "https://forum.toolassisted.run/t/1079"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M2910",
+ "game": "appleii/apple-cider-spider",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2910.bk2",
+  "format": "bk2",
+  "frames": 6252,
+  "rerecords": 8740,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.11.1",
+  "rom": {
+   "name": "Apple Cider Spider (1983)(Sierra).dsk"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2910M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IVb7sxr_1n4"
+  }
+ ],
+ "submitted": "2015-08-04T19:05:02",
+ "attachments": [],
+ "forum": {
+  "topicId": 1081,
+  "url": "https://forum.toolassisted.run/t/1081"
+ }
+}

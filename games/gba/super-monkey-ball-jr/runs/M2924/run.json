@@ -1,0 +1,49 @@
+{
+ "id": "M2924",
+ "game": "gba/super-monkey-ball-jr",
+ "category": {
+  "goal": "master"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2924.bk2",
+  "format": "bk2",
+  "frames": 6529,
+  "rerecords": 103020,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.11.1",
+  "rom": {
+   "name": "Super Monkey Ball Jr (U) [!].gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2924M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bcyl-RkVfb8"
+  }
+ ],
+ "submitted": "2015-08-16T15:01:30",
+ "attachments": [],
+ "forum": {
+  "topicId": 1083,
+  "url": "https://forum.toolassisted.run/t/1083"
+ }
+}
