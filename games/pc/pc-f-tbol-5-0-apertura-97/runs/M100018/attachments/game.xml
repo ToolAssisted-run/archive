@@ -1,0 +1,6 @@
+<BizHawk-XMLGame System="DOS" Name="game">
+  <LoadAssets>
+	<Asset FileName=".\install.hdd" />
+	<Asset FileName=".\PC Futbol 5.0 - Liga Argentina Apertura 97.iso" /> 
+  </LoadAssets>
+</BizHawk-XMLGame>

@@ -1,0 +1,62 @@
+{
+ "id": "M100018",
+ "game": "pc/pc-f-tbol-5-0-apertura-97",
+ "category": {
+  "goal": "all-wins-1-season"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100018.bk2",
+  "format": "bk2",
+  "sha1": "c7b4100295f5b1618d6ee3c45be8d8f941a9f4b9",
+  "frames": 945378,
+  "rerecords": 2148,
+  "start": "power-on",
+  "fps": 1000.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: DOSBox-X)",
+  "rom": {
+   "name": "PC Futbol 5.0 - Liga Argentina Apertura 97.iso",
+   "sha1": "3c826b15507b2fd71e342e31071ea818cdddafe1"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=75MMBnsy738"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/game.xml",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/install.bk2",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/install.xml",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-06-05",
+ "submitted": "2026-08-20T17:58:16Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1108,
+  "url": "https://forum.toolassisted.run/t/1108"
+ }
+}
