@@ -1,0 +1,23 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "minardi",
+     "label": "Minardi%",
+     "rule": "Win the driver and constructor tournaments using Minardi",
+     "metrics": [
+      {
+       "key": "time",
+       "label": "Time",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
