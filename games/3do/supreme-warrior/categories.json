@@ -1,0 +1,23 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "any",
+     "label": "any%",
+     "rule": "Complete the game as fast as possible",
+     "metrics": [
+      {
+       "key": "time",
+       "label": "Time",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
