@@ -1,0 +1,48 @@
+{
+ "id": "M100020",
+ "game": "nes/bomberman",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100020.bk2",
+  "format": "bk2",
+  "sha1": "f062e295e7a2c4772c425b7ce9c785310bf583ac",
+  "frames": 106530,
+  "rerecords": 656,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: QuickerNES)",
+  "rom": {
+   "name": "Bomberman (USA).nes",
+   "sha1": "12531701e633d2196c9a15f944b101a8205248e4"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=oFopoc2WiN8"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-08-03",
+ "submitted": "2026-08-20T18:57:22Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1112,
+  "url": "https://forum.toolassisted.run/t/1112"
+ }
+}
