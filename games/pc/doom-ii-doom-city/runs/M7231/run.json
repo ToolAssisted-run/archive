@@ -1,0 +1,54 @@
+{
+ "id": "M7231",
+ "game": "pc/doom-ii-doom-city",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7231.lmp",
+  "format": "lmp",
+  "frames": 2820,
+  "fps": 35.0029869215506,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "XDRE 2.21",
+  "rom": {
+   "name": "DOOMCITY.wad"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7231M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bp_jisaD1MI"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=6BQS1vywdno"
+  }
+ ],
+ "submitted": "2026-06-29T06:34:13.48459",
+ "attachments": [],
+ "forum": {
+  "topicId": 1051,
+  "url": "https://forum.toolassisted.run/t/1051"
+ }
+}

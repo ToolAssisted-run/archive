@@ -1,0 +1,54 @@
+{
+ "id": "M7235",
+ "game": "pc/doom-ii-crud",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7235.lmp",
+  "format": "lmp",
+  "frames": 4201,
+  "fps": 35.0029869215506,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "XDRE 2.20",
+  "rom": {
+   "name": "crud.wad"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7235M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=velVV6Q3WKc"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=o3jqTBve_6A"
+  }
+ ],
+ "submitted": "2026-06-30T03:05:32.087079",
+ "attachments": [],
+ "forum": {
+  "topicId": 1053,
+  "url": "https://forum.toolassisted.run/t/1053"
+ }
+}

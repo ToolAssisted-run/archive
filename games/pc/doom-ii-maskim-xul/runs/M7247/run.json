@@ -1,0 +1,54 @@
+{
+ "id": "M7247",
+ "game": "pc/doom-ii-maskim-xul",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7247.lmp",
+  "format": "lmp",
+  "frames": 40387,
+  "fps": 35.0029869215506,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "XDRE 2.20",
+  "rom": {
+   "name": "MaskimXul.wad"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7247M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=D_tyI6L5N4Q"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2SXQTuTIiu4"
+  }
+ ],
+ "submitted": "2026-07-08T03:58:08.950302",
+ "attachments": [],
+ "forum": {
+  "topicId": 1059,
+  "url": "https://forum.toolassisted.run/t/1059"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "M7221",
+ "game": "pc/doom-ii-cold-front",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7221.lmp",
+  "format": "lmp",
+  "frames": 8655,
+  "fps": 35.0029869215506,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "XDRE 2.22",
+  "rom": {
+   "name": "CLDFRNT.wad"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7221M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=uVTqvu_y1sk"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=u6BJKZBwGzI"
+  }
+ ],
+ "submitted": "2026-06-25T05:04:01.759547",
+ "attachments": [],
+ "forum": {
+  "topicId": 1049,
+  "url": "https://forum.toolassisted.run/t/1049"
+ }
+}

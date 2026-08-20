@@ -1,0 +1,49 @@
+{
+ "id": "M7236",
+ "game": "genesis/columns-iii-revenge-of-columns",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7236.bk2",
+  "format": "bk2",
+  "frames": 44502,
+  "rerecords": 8195,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Columns 3 - Revenge of Columns (U) [!].bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7236M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=6kqkkEyNzG8"
+  }
+ ],
+ "submitted": "2026-07-01T13:02:58.535825",
+ "attachments": [],
+ "forum": {
+  "topicId": 1055,
+  "url": "https://forum.toolassisted.run/t/1055"
+ }
+}

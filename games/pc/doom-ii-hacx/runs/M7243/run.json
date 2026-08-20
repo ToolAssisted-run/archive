@@ -1,0 +1,54 @@
+{
+ "id": "M7243",
+ "game": "pc/doom-ii-hacx",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7243.lmp",
+  "format": "lmp",
+  "frames": 46301,
+  "fps": 35.0029869215506,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "XDRE 2.20",
+  "rom": {
+   "name": "HACX12.WAD"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7243M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=yjemnb-Qdws"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=HxXo0_BqPZs"
+  }
+ ],
+ "submitted": "2026-07-05T10:47:51.967642",
+ "attachments": [],
+ "forum": {
+  "topicId": 1057,
+  "url": "https://forum.toolassisted.run/t/1057"
+ }
+}
