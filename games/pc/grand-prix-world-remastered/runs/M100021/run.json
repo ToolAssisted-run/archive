@@ -29,7 +29,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -64,6 +64,13 @@
    "user": "CoolHandMike",
    "date": "2026-08-20",
    "at": "2026-08-20T19:38:10Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-20",
+   "at": "2026-08-20T20:42:38Z"
   }
  ]
 }
