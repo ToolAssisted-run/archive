@@ -29,7 +29,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -44,5 +44,12 @@
  "forum": {
   "topicId": 681,
   "url": "https://forum.toolassisted.run/t/681"
- }
+ },
+ "verifications": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-20",
+   "at": "2026-08-20T19:27:44Z"
+  }
+ ]
 }
