@@ -9,6 +9,14 @@
    "date": "2026-08-20",
    "reason": "this was a test game",
    "movedTo": "dos/uncategorized"
+  },
+  {
+   "kind": "run",
+   "key": "M100001",
+   "title": "dos/uncategorized (unclassified)",
+   "by": "eien86",
+   "date": "2026-08-20",
+   "reason": "this was a test movie"
   }
  ]
 }
