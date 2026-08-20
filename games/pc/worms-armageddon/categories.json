@@ -1,0 +1,23 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "all-missions-all-gold",
+     "label": "all missions, all gold",
+     "rule": "complete all missions, achieving a gold (first attempt) in all of them",
+     "metrics": [
+      {
+       "key": "time",
+       "label": "Time",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
