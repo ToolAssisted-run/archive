@@ -83,6 +83,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.ARCHIVE_ACTION_WRITE_SECRET }}
         run: |
-          gh workflow run deploy-staging.yml -R ToolAssisted-run/website \
+          gh workflow run deploy.yml -R ToolAssisted-run/website \
             --ref main -f reason=archive-content
           echo "asked the website to rebuild from this archive"
