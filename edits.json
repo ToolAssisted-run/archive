@@ -180,6 +180,16 @@
    "by": "CloakTheLurker",
    "date": "2026-08-20",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-sands-of-time:glitchless",
+   "field": "label",
+   "from": "glitchless",
+   "to": "No Major Glitches",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "To be consistent with RTA Leaderboards"
   }
  ]
 }

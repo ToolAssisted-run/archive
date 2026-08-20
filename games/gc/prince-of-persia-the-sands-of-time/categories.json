@@ -6,7 +6,7 @@
    "options": [
     {
      "key": "glitchless",
-     "label": "glitchless",
+     "label": "No Major Glitches",
      "rule": "Imported from TASVideos as \"glitchless\"; rules to be formalized by the game's experts."
     },
     {
