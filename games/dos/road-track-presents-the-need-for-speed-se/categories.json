@@ -1,0 +1,23 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "all-tracks",
+     "label": "all tracks",
+     "rule": "Complete all tracks (including bonus ones) as fast as possible",
+     "metrics": [
+      {
+       "key": "time",
+       "label": "Time",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
