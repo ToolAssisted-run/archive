@@ -1,0 +1,49 @@
+{
+ "id": "M6246",
+ "game": "segacd/bram-stokers-dracula",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6246.bk2",
+  "format": "bk2",
+  "frames": 103287,
+  "rerecords": 13059,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Bram Stoker's Dracula (1.0) (U).bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6246M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ifm2zKElkjo"
+  }
+ ],
+ "submitted": "2024-10-30T14:24:56.811256",
+ "attachments": [],
+ "forum": {
+  "topicId": 1043,
+  "url": "https://forum.toolassisted.run/t/1043"
+ }
+}

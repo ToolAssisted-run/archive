@@ -1,0 +1,50 @@
+{
+ "id": "M6843",
+ "game": "dos/dangerous-dave-in-the-haunted-mansion",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6843.bk2",
+  "format": "bk2",
+  "frames": 15803,
+  "fps": 70.08634950483193,
+  "rerecords": 3455,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "dave.exe"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6843M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wjzWf2wL7NI"
+  }
+ ],
+ "submitted": "2025-11-25T06:10:53.02279",
+ "attachments": [],
+ "forum": {
+  "topicId": 1045,
+  "url": "https://forum.toolassisted.run/t/1045"
+ }
+}

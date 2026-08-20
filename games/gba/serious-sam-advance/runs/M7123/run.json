@@ -1,0 +1,49 @@
+{
+ "id": "M7123",
+ "game": "gba/serious-sam-advance",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7123.gbmv",
+  "format": "gbmv",
+  "frames": 73290,
+  "rerecords": 22233,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "GBAHawk 2.3.2",
+  "rom": {
+   "name": "1465 - Serious Sam Advance (U)(Rising Sun).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7123M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rD6I7ITVJnc"
+  }
+ ],
+ "submitted": "2026-05-11T03:54:31.000932",
+ "attachments": [],
+ "forum": {
+  "topicId": 1047,
+  "url": "https://forum.toolassisted.run/t/1047"
+ }
+}

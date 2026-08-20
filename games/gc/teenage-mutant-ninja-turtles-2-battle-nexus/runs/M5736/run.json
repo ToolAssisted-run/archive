@@ -1,0 +1,50 @@
+{
+ "id": "M5736",
+ "game": "gc/teenage-mutant-ninja-turtles-2-battle-nexus",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5736.dtm",
+  "format": "dtm",
+  "frames": 181325,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-16426",
+  "rom": {
+   "name": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).rvz",
+   "sha1": "ea373ed9ce433f46eb783f93ed81798ed652bf45"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5736M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=a6pyTgaxJG0"
+  }
+ ],
+ "submitted": "2023-12-27T11:12:10.796038",
+ "attachments": [],
+ "forum": {
+  "topicId": 1039,
+  "url": "https://forum.toolassisted.run/t/1039"
+ }
+}

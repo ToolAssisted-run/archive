@@ -1,0 +1,55 @@
+{
+ "id": "M6036",
+ "game": "nes/chip-n-dale-rescue-rangers",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  },
+  {
+   "user": "Aglar"
+  },
+  {
+   "user": "dragonxyk"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6036.bk2",
+  "format": "bk2",
+  "frames": 31460,
+  "rerecords": 26246,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Chip 'n Dale Rescue Rangers (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6036M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2pJKBcx9x_Y"
+  }
+ ],
+ "submitted": "2024-07-06T18:16:49.460169",
+ "attachments": [],
+ "forum": {
+  "topicId": 1041,
+  "url": "https://forum.toolassisted.run/t/1041"
+ }
+}
