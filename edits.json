@@ -90,6 +90,36 @@
    "by": "toca",
    "date": "2026-08-19",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "emulator",
+   "from": "JPC-RR 11.8",
+   "to": "JPC-RR 11.8",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "completed",
+   "from": "",
+   "to": "2021-10-26",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
   }
  ]
 }
