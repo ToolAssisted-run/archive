@@ -604,8 +604,8 @@ if (ROOT / 'groups.json').exists():
                     f'{grp.get("key")!r}; a game belongs to one series')
             placed[gk] = grp.get('key')
 
-# an expert event carries a scope; a committee or moderator event must not,
-# since neither is scoped. These shape rules hold for every event, past ones
+# an expert event carries a scope; a committee, moderator or editor event
+# must not, since none of those are scoped. These shape rules hold for every event, past ones
 # included.
 for ev in role_events:
     if ev['role'] == 'founder' and ev['action'] == 'revoked':
