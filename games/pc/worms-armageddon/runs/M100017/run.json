@@ -1,0 +1,49 @@
+{
+ "id": "M100017",
+ "game": "pc/worms-armageddon",
+ "category": {
+  "goal": "all-missions-all-gold"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100017.bk2",
+  "format": "bk2",
+  "sha1": "8afc5afc7d86e8a4f985646fa78ce57a10346f77",
+  "frames": 3310833,
+  "rerecords": 32476,
+  "start": "power-on",
+  "fps": 1000.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: DOSBox-X)",
+  "rom": {
+   "name": "Worms Armageddon (USA).bin",
+   "sha1": "7fea4ac3c1aa8efd680d5e1c51c8daf57d4bcba0"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8eA_qRwi5Yk"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-05-17",
+ "submitted": "2026-08-20T17:43:24Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1106,
+  "url": "https://forum.toolassisted.run/t/1106"
+ }
+}
