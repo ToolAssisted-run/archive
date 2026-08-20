@@ -1,0 +1,49 @@
+{
+ "id": "M100022",
+ "game": "dos/road-track-presents-the-need-for-speed-se",
+ "category": {
+  "goal": "all-tracks"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100022.bk2",
+  "format": "bk2",
+  "sha1": "961a95bb28cef5df17519f1251fde4c34b606f3f",
+  "frames": 4408377,
+  "rerecords": 2425,
+  "start": "power-on",
+  "fps": 1000.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: DOSBox-X)",
+  "rom": {
+   "name": "NeedForSpeed2SE.iso",
+   "sha1": "8fd9ffd857f7db7ba13f9b1232501dac68ae0836"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=oklZhs3oO-Y"
+  }
+ ],
+ "attachments": [],
+ "completed": "2025-10-13",
+ "submitted": "2026-08-20T19:09:59Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1117,
+  "url": "https://forum.toolassisted.run/t/1117"
+ }
+}
