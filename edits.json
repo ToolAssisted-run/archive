@@ -467,6 +467,17 @@
    "date": "2026-08-20",
    "at": "2026-08-20T16:26:51Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "arcade/cyber-sled:alan-striker",
+   "field": "added",
+   "from": "",
+   "to": "Alan Striker",
+   "by": "CoolHandMike",
+   "date": "2026-08-20",
+   "at": "2026-08-20T18:59:10Z",
+   "reason": "Created it."
   }
  ]
 }

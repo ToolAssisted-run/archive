@@ -8,6 +8,19 @@
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "alan-striker",
+     "label": "Alan Striker",
+     "rule": "fastest completion with Alan Striker character",
+     "metrics": [
+      {
+       "key": "time",
+       "label": "Time",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
     }
    ]
   }
