@@ -6,7 +6,7 @@
    "options": [
     {
      "key": "baseline",
-     "label": "fastest completion",
+     "label": "Any% (Standard)",
      "rule": "Complete the game as fast as possible."
     },
     {
