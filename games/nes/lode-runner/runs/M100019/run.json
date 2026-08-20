@@ -1,0 +1,51 @@
+{
+ "id": "M100019",
+ "game": "nes/lode-runner",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "adelikat"
+  },
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100019.bk2",
+  "format": "bk2",
+  "sha1": "b44612413acfdd86d13e25ff1255adef9521c3cb",
+  "frames": 49296,
+  "rerecords": 261472,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: QuickerNES)",
+  "rom": {
+   "name": "Lode Runner (U) [!].nes",
+   "sha1": "ea09aec11efc4b42ebc644ea243c2284001fe34f"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/5dIapZg3kIM"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-08-03",
+ "submitted": "2026-08-20T18:46:52Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1111,
+  "url": "https://forum.toolassisted.run/t/1111"
+ }
+}
