@@ -1,0 +1,50 @@
+{
+ "id": "M3540",
+ "game": "nes/super-aladdin",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3540.fm2",
+  "format": "fm2",
+  "frames": 16815,
+  "fps": 50.0069789081886,
+  "rerecords": 75342,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Aladdin (Super Game)(Unl)[!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3540M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=4VoPVS4R2mQ"
+  }
+ ],
+ "submitted": "2017-11-01T11:41:46",
+ "attachments": [],
+ "forum": {
+  "topicId": 1099,
+  "url": "https://forum.toolassisted.run/t/1099"
+ }
+}

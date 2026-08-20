@@ -1,0 +1,49 @@
+{
+ "id": "M4688",
+ "game": "snes/beethoven-the-ultimate-canine-caper",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4688.bk2",
+  "format": "bk2",
+  "frames": 15866,
+  "rerecords": 85636,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Beethoven - The Ultimate Canine Caper! (USA).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4688M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=k8Sxo7Ga9Sk"
+  }
+ ],
+ "submitted": "2022-05-28T02:55:49.251976",
+ "attachments": [],
+ "forum": {
+  "topicId": 1101,
+  "url": "https://forum.toolassisted.run/t/1101"
+ }
+}
