@@ -1,0 +1,92 @@
+{
+ "id": "M100012",
+ "game": "pc/grand-theft-auto-2",
+ "category": {
+  "goal": "downtown-all-missions"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Molotok"
+  }
+ ],
+ "tools": [
+  {
+   "name": "jaffarPlus"
+  }
+ ],
+ "movie": {
+  "file": "M100012.bk2",
+  "format": "bk2",
+  "sha1": "b8e2069128d281da473d1be6435df78bdad2e774",
+  "frames": 1891616,
+  "rerecords": 12678,
+  "start": "power-on",
+  "fps": 1000.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence",
+  "strong-language"
+ ],
+ "contract": {
+  "emulator": "BizHawk 2.11 (DOSBox-X)",
+  "rom": {
+   "name": "GTA2.exe",
+   "sha1": "8c10c0d20f15912a9450b6fbe028f31928b29893"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "provisional",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=X7oXnw7X0kQ"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/gta2_dosbox.conf",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/gta2.xml",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/gta2_installation.xml",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/gta2_installation.conf",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/gta2_installation.bk2",
+   "role": "submitted attachment"
+  }
+ ],
+ "submitted": "2026-08-19T16:29:43Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 734,
+  "url": "https://forum.toolassisted.run/t/734"
+ },
+ "verifications": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-20"
+  }
+ ],
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-20"
+  }
+ ]
+}

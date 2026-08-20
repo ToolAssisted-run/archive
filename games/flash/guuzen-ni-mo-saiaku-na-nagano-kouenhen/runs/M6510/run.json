@@ -1,0 +1,51 @@
+{
+ "id": "M6510",
+ "game": "flash/guuzen-ni-mo-saiaku-na-nagano-kouenhen",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6510.ltm",
+  "format": "ltm",
+  "frames": 467,
+  "rerecords": 24,
+  "start": "power-on",
+  "sha1": "3c607cba7ff4e675d93330956261c5cee2895846",
+  "fps": 12.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "nagano.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6510M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=jfmnmT32dxo"
+  }
+ ],
+ "submitted": "2025-04-26T10:56:59.244997",
+ "attachments": [],
+ "forum": {
+  "topicId": 490,
+  "url": "https://forum.toolassisted.run/t/490"
+ }
+}

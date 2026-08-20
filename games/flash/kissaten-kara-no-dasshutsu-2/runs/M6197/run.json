@@ -1,0 +1,50 @@
+{
+ "id": "M6197",
+ "game": "flash/kissaten-kara-no-dasshutsu-2",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6197.ltm",
+  "format": "ltm",
+  "frames": 75,
+  "rerecords": 12,
+  "start": "power-on",
+  "sha1": "be93ed28020c049d2dba296a18b4e60a3c303024"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "no44.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6197M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Kn6egwfbH5Y"
+  }
+ ],
+ "submitted": "2024-09-28T05:59:30.255523",
+ "attachments": [],
+ "forum": {
+  "topicId": 498,
+  "url": "https://forum.toolassisted.run/t/498"
+ }
+}

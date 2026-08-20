@@ -1,0 +1,51 @@
+{
+ "id": "M6885",
+ "game": "amiga/ninja-mission",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6885.bk2",
+  "format": "bk2",
+  "frames": 16338,
+  "rerecords": 721,
+  "start": "power-on",
+  "sha1": "357d35f9f12886d2075d31476c151d25aade6450"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Ninja Mission (1987)(Mastertronic).adf",
+   "sha1": "2ddfa71ea5c6bdae2727a5cf062129cb1b253f39"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6885M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=4RiX3w_Kbjo"
+  }
+ ],
+ "submitted": "2025-12-14T08:08:38.670975",
+ "attachments": [],
+ "forum": {
+  "topicId": 34,
+  "url": "https://forum.toolassisted.run/t/34"
+ }
+}

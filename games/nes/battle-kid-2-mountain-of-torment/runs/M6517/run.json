@@ -1,0 +1,50 @@
+{
+ "id": "M6517",
+ "game": "nes/battle-kid-2-mountain-of-torment",
+ "category": {
+  "goal": "opposition"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6517.fm2",
+  "format": "fm2",
+  "frames": 16845,
+  "rerecords": 7840,
+  "start": "power-on",
+  "sha1": "d1f4f3013a51d6fbdaeaf6b8225c49f892401581"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Battle Kid 2 - Mountain of Torment (U).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6517M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WTg4Ymhqs5Y"
+  }
+ ],
+ "submitted": "2025-04-29T04:31:39.779996",
+ "attachments": [],
+ "forum": {
+  "topicId": 534,
+  "url": "https://forum.toolassisted.run/t/534"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "id": "M7192",
+ "game": "nes/pac-man-championship-edition",
+ "category": {
+  "goal": "pacifist-maximum-score-extra"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "WarHippy"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7192.bk2",
+  "format": "bk2",
+  "frames": 11341,
+  "rerecords": 1527,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "rom": {
+   "name": "Pac-Man - Championship Edition (USA, Europe) (Namco Museum Archives Vol 1).nes",
+   "sha1": "4cbad49930253086fbaf4d082288df74c76d1abc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7192M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xiWmy43t_Pc"
+  }
+ ],
+ "submitted": "2026-06-10T21:07:31.478094",
+ "attachments": [],
+ "forum": {
+  "topicId": 712,
+  "url": "https://forum.toolassisted.run/t/712"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "all-levels",
+     "label": "all levels",
+     "rule": "Imported from TASVideos as \"all levels\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

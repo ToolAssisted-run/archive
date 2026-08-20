@@ -1,0 +1,50 @@
+{
+ "id": "M2448",
+ "game": "gba/castlevania-harmony-of-dissonance",
+ "category": {
+  "goal": "all-furniture-best-ending"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2448.vbm",
+  "format": "vbm",
+  "frames": 72858,
+  "rerecords": 89294,
+  "start": "power-on",
+  "sha1": "7f00f264f74d9de81058a28cf70eeca3b4ee7625"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v23.5",
+  "rom": {
+   "name": "Castlevania Harmony of Dissonance.gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2448M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DazxXauGp5E"
+  }
+ ],
+ "submitted": "2013-08-23T14:43:55",
+ "attachments": [],
+ "forum": {
+  "topicId": 516,
+  "url": "https://forum.toolassisted.run/t/516"
+ }
+}

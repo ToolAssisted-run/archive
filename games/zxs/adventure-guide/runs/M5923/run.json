@@ -1,0 +1,49 @@
+{
+ "id": "M5923",
+ "game": "zxs/adventure-guide",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CloakTheLurker"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5923.bk2",
+  "format": "bk2",
+  "frames": 13862,
+  "rerecords": 264,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "6 in 1 - Open Door + White Door - Crisis at Christmas (1987)(Tartan)(Side A)[aka Six-in-One].tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5923M",
+  "importedBy": "CloakTheLurker",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qfw6OHhr16M"
+  }
+ ],
+ "submitted": "2024-04-27T14:02:31.602218",
+ "attachments": [],
+ "forum": {
+  "topicId": 730,
+  "url": "https://forum.toolassisted.run/t/730"
+ }
+}

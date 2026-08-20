@@ -1,0 +1,49 @@
+{
+ "id": "M6077",
+ "game": "gc/digimon-rumble-arena-2",
+ "category": {
+  "goal": "hardest-path-savegame"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6077.dtm",
+  "format": "dtm",
+  "frames": 29038,
+  "rerecords": 1446,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5 20571",
+  "rom": {
+   "name": "Digimon Rumble Arena 2 (USA).rvz"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6077M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=E9ZdrBGAKVQ"
+  }
+ ],
+ "submitted": "2024-08-11T08:57:40.814267",
+ "attachments": [],
+ "forum": {
+  "topicId": 616,
+  "url": "https://forum.toolassisted.run/t/616"
+ }
+}

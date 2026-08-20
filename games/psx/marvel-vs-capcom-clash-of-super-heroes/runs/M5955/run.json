@@ -1,0 +1,50 @@
+{
+ "id": "M5955",
+ "game": "psx/marvel-vs-capcom-clash-of-super-heroes",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5955.bk2",
+  "format": "bk2",
+  "frames": 21791,
+  "rerecords": 3553,
+  "start": "power-on",
+  "fps": 59.82896868099337
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "Marvel vs. Capcom - Clash of Super Heroes (USA).cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5955M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=15LnQhNEu7c"
+  }
+ ],
+ "submitted": "2024-05-17T01:55:14.184023",
+ "attachments": [],
+ "forum": {
+  "topicId": 609,
+  "url": "https://forum.toolassisted.run/t/609"
+ }
+}

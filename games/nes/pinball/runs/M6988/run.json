@@ -1,0 +1,57 @@
+{
+ "id": "M6988",
+ "game": "nes/pinball",
+ "category": {
+  "goal": "game-b"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6988.bk2",
+  "format": "bk2",
+  "frames": 867,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "2658d03466c36351a8977ba711df61e3b3e12949"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Pinball (JU) [!].nes",
+   "sha1": "d2f25a027e390a0337bed7e0dc98d2d1d187d230"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6988M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xceublq2YVE"
+  }
+ ],
+ "submitted": "2026-02-22T02:48:00.794116",
+ "attachments": [],
+ "forum": {
+  "topicId": 394,
+  "url": "https://forum.toolassisted.run/t/394"
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-19"
+  }
+ ]
+}

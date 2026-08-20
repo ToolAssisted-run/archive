@@ -1,0 +1,50 @@
+{
+ "id": "M6870",
+ "game": "arcade/the-king-of-fighters-96",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6870.bk2",
+  "format": "bk2",
+  "frames": 32452,
+  "rerecords": 9201,
+  "start": "power-on",
+  "fps": 59.1856060608428
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "kof96.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6870M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Pzeg1aGNnhE"
+  }
+ ],
+ "submitted": "2025-12-06T14:04:25.059747",
+ "attachments": [],
+ "forum": {
+  "topicId": 636,
+  "url": "https://forum.toolassisted.run/t/636"
+ }
+}

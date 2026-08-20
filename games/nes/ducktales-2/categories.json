@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "best-ending",
+     "label": "best ending",
+     "rule": "Imported from TASVideos as \"best ending\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M3472",
+ "game": "nes/hammerin-harry",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3472.fm2",
+  "format": "fm2",
+  "frames": 25170,
+  "rerecords": 3880,
+  "start": "power-on",
+  "sha1": "e9c5f2ded0aac47d4567a7583e764c5867d48e70"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "rom": {
+   "name": "Daiku no Gen San (J).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3472M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ti63lPB--u0"
+  }
+ ],
+ "submitted": "2017-07-18T17:35:59",
+ "attachments": [],
+ "forum": {
+  "topicId": 542,
+  "url": "https://forum.toolassisted.run/t/542"
+ }
+}

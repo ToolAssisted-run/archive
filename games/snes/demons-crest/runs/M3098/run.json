@@ -1,0 +1,50 @@
+{
+ "id": "M3098",
+ "game": "snes/demons-crest",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3098.smv",
+  "format": "smv",
+  "frames": 37975,
+  "rerecords": 2584,
+  "start": "power-on",
+  "sha1": "0f33f33de90e83d60376db5bc3467c7bfb937c46"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Snes9x 1.51",
+  "rom": {
+   "name": "Demon's Crest (J) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3098M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=PyCTikQagU8"
+  }
+ ],
+ "submitted": "2016-03-18T14:03:08",
+ "attachments": [],
+ "forum": {
+  "topicId": 576,
+  "url": "https://forum.toolassisted.run/t/576"
+ }
+}

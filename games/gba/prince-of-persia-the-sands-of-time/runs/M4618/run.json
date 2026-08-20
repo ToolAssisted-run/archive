@@ -1,0 +1,55 @@
+{
+ "id": "M4618",
+ "game": "gba/prince-of-persia-the-sands-of-time",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4618.bk2",
+  "format": "bk2",
+  "frames": 102575,
+  "rerecords": 13668,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.7",
+  "rom": {
+   "name": "Prince of Persia - The Sands of Time (U) (M3).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4618M",
+  "importedBy": "GMP",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=vrlG0V6Migg"
+  }
+ ],
+ "submitted": "2022-04-07T14:30:22.184322",
+ "attachments": [],
+ "forum": {
+  "topicId": 520,
+  "url": "https://forum.toolassisted.run/t/520"
+ },
+ "likes": [
+  {
+   "user": "toca",
+   "date": "2026-08-18"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M5255",
+ "game": "arcade/x-men-vs-street-fighter",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5255.fbm",
+  "format": "fbm",
+  "frames": 14228,
+  "rerecords": 2007,
+  "start": "power-on",
+  "fps": 60.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FBA-rr 0.0.7",
+  "rom": {
+   "name": "xmvsf.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5255M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3pfnld7DTzw"
+  }
+ ],
+ "submitted": "2023-05-06T13:29:20.18982",
+ "attachments": [],
+ "forum": {
+  "topicId": 602,
+  "url": "https://forum.toolassisted.run/t/602"
+ }
+}

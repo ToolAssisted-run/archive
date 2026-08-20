@@ -1,0 +1,211 @@
+{
+ "comment": "Game groups (series). A group gathers a game family across systems; experts may hold a group-wide scope over one (experts.json scope 'group:<key>'). A game may belong to more than one group. Seeded from the groups TASVideos maintains, and edited here through git.",
+ "groups": [
+  {
+   "key": "another-world",
+   "title": "Another World",
+   "games": [
+    "3do/out-of-this-world",
+    "amiga/another-world",
+    "dos/out-of-this-world",
+    "gba/another-world",
+    "genesis/out-of-this-world",
+    "snes/out-of-this-world"
+   ]
+  },
+  {
+   "key": "best-of-the-best-championship-karate",
+   "title": "Best of the Best: Championship Karate",
+   "games": [
+    "genesis/best-of-the-best-championship-karate",
+    "nes/best-of-the-best-championship-karate",
+    "snes/best-of-the-best-championship-karate"
+   ]
+  },
+  {
+   "key": "blaster-master",
+   "title": "Blaster Master",
+   "games": [
+    "3ds/blaster-master-zero",
+    "nes/blaster-master"
+   ]
+  },
+  {
+   "key": "bram-stoker-s-dracula",
+   "title": "Bram Stoker's Dracula",
+   "games": [
+    "gb/bram-stokers-dracula",
+    "nes/bram-stokers-dracula"
+   ]
+  },
+  {
+   "key": "breakout",
+   "title": "Breakout",
+   "games": [
+    "nes/arkanoid",
+    "nes/arkanoid-ii",
+    "snes/arkanoid-doh-it-again"
+   ]
+  },
+  {
+   "key": "budokan-the-martial-spirit",
+   "title": "Budokan: The Martial Spirit",
+   "games": [
+    "amiga/budokan-the-martial-spirit",
+    "dos/budokan-the-martial-spirit",
+    "genesis/budokan-the-martial-spirit"
+   ]
+  },
+  {
+   "key": "castlevania",
+   "title": "Castlevania",
+   "games": [
+    "ds/castlevania-dawn-of-sorrow",
+    "gba/castlevania-aria-of-sorrow",
+    "gba/castlevania-harmony-of-dissonance",
+    "snes/castlevania-dracula-x"
+   ]
+  },
+  {
+   "key": "contra",
+   "title": "Contra",
+   "games": [
+    "gba/contra-advance-the-alien-wars-ex",
+    "nes/super-c",
+    "snes/contra-iii-the-alien-wars"
+   ]
+  },
+  {
+   "key": "galaxian",
+   "title": "Galaxian",
+   "games": [
+    "nes/galaga-demons-of-death"
+   ]
+  },
+  {
+   "key": "grand-theft-auto",
+   "title": "Grand Theft Auto",
+   "games": [
+    "pc/grand-theft-auto",
+    "pc/grand-theft-auto-2"
+   ],
+   "established": true,
+   "createdBy": "eien86",
+   "createdAt": "2026-08-19",
+   "ratifiedBy": "eien86",
+   "ratifiedAt": "2026-08-19"
+  },
+  {
+   "key": "home-sweet-home",
+   "title": "Home Sweet Home",
+   "games": [
+    "flash/home-sweet-home",
+    "flash/home-sweet-home-2",
+    "flash/home-sweet-home-3",
+    "flash/home-sweet-home-ex"
+   ]
+  },
+  {
+   "key": "mega-man",
+   "title": "Mega Man",
+   "games": [
+    "arcade/mega-man-2-the-power-fighters",
+    "psx/mega-man-x3",
+    "psx/super-adventure-rockman",
+    "snes/mega-man-x2"
+   ]
+  },
+  {
+   "key": "ninja-gaiden",
+   "title": "Ninja Gaiden",
+   "games": [
+    "nes/ninja-gaiden-ii-the-dark-sword-of-chaos"
+   ]
+  },
+  {
+   "key": "ninja-mission",
+   "title": "Ninja Mission",
+   "games": [
+    "amiga/ninja-mission",
+    "c64/ninja",
+    "dos/ninja-mastertronic"
+   ]
+  },
+  {
+   "key": "off-road",
+   "title": "Off Road",
+   "games": [
+    "nes/ivan-ironman-stewarts-super-off-road",
+    "snes/super-off-road"
+   ]
+  },
+  {
+   "key": "pac-man",
+   "title": "Pac-Man",
+   "games": [
+    "nes/pac-man"
+   ]
+  },
+  {
+   "key": "prince-of-persia",
+   "title": "Prince of Persia",
+   "games": [
+    "amiga/prince-of-persia",
+    "dos/mini-prince",
+    "dos/prince-of-persia",
+    "dos/prince-of-persia-2-the-shadow-and-the-flame",
+    "ds/prince-of-persia-the-fallen-king",
+    "flash/prince-of-persia-special-edition",
+    "gba/prince-of-persia-the-sands-of-time",
+    "gbc/prince-of-persia",
+    "gc/prince-of-persia-the-sands-of-time",
+    "gc/prince-of-persia-warrior-within",
+    "genesis/prince-of-persia",
+    "genesis/prince-of-persia-2-the-shadow-and-the-flame",
+    "nes/prince-of-persia",
+    "wii/prince-of-persia-the-forgotten-sands"
+   ]
+  },
+  {
+   "key": "saint-seiya",
+   "title": "Saint Seiya",
+   "games": [
+    "nes/saint-seiya-ougon-densetsu-kanketsu-hen"
+   ]
+  },
+  {
+   "key": "shinobi",
+   "title": "Shinobi",
+   "games": [
+    "genesis/the-revenge-of-shinobi"
+   ]
+  },
+  {
+   "key": "the-goonies",
+   "title": "The Goonies",
+   "games": [
+    "nes/the-goonies",
+    "nes/the-goonies-ii"
+   ]
+  },
+  {
+   "key": "yomino-kagura-puzzle-games",
+   "title": "Yomino Kagura Puzzle Games",
+   "games": [
+    "flash/3-tsu-no-e-no-heya-kara-no-dasshutsu",
+    "flash/3-tsu-no-e-no-heya-kara-no-dasshutsu-2",
+    "flash/3-tsu-no-e-no-heya-kara-no-dasshutsu-3",
+    "flash/3-tsu-no-e-no-heya-kara-no-dasshutsu-4",
+    "flash/3-tsu-no-e-no-heya-kara-no-dasshutsu-5",
+    "flash/3-tsu-no-e-no-heya-kara-no-dasshutsu-6",
+    "flash/3-tsu-no-hako-no-heya-kara-no-dasshutsu",
+    "flash/3-tsu-no-kagi-no-heya-kara-no-dasshutsu",
+    "flash/6-tsu-no-hoshi-no-heya-kara-no-dasshutsu",
+    "flash/henna-okimono-no-heya-kara-no-dasshutsu",
+    "flash/igai-na-basho-kara-no-dasshutsu",
+    "flash/kissaten-kara-no-dasshutsu-2",
+    "flash/simple-room-3"
+   ]
+  }
+ ]
+}

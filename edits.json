@@ -1,0 +1,185 @@
+{
+ "comment": "Every expert modification of the record, field by field. Git history carries the diffs; this carries the account.",
+ "events": [
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CloakTheLurker",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "emulator",
+   "from": "BizHawk 2.9.1",
+   "to": "BizHawk 2.9.1",
+   "by": "CloakTheLurker",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "tools",
+   "from": "",
+   "to": "",
+   "by": "CloakTheLurker",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CloakTheLurker",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "emulator",
+   "from": "BizHawk 2.9.1",
+   "to": "BizHawk 2.9.1",
+   "by": "CloakTheLurker",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "tools",
+   "from": "",
+   "to": "",
+   "by": "CloakTheLurker",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100006",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "toca",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100006",
+   "field": "emulator",
+   "from": "BizHawk v.1.12.2 (VBA-Next)",
+   "to": "BizHawk v.1.12.2 (VBA-Next)",
+   "by": "toca",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100006",
+   "field": "completed",
+   "from": "",
+   "to": "2017-06-26",
+   "by": "toca",
+   "date": "2026-08-19",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "emulator",
+   "from": "JPC-RR 11.8",
+   "to": "JPC-RR 11.8",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "completed",
+   "from": "",
+   "to": "2021-10-26",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "emulator",
+   "from": "JPC-RR 11.8",
+   "to": "JPC-RR 11.8",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "completed",
+   "from": "2021-10-26",
+   "to": "2021-10-26",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CloakTheLurker",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "emulator",
+   "from": "BizHawk 2.9.1",
+   "to": "BizHawk 2.9.1",
+   "by": "CloakTheLurker",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "completed",
+   "from": "",
+   "to": "",
+   "by": "CloakTheLurker",
+   "date": "2026-08-20",
+   "reason": "The author's own revision."
+  }
+ ]
+}

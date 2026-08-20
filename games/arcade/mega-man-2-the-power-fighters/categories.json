@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "rescue-roll-2-players",
+     "label": "Rescue Roll!, 2 players",
+     "rule": "Imported from TASVideos as \"Rescue Roll!, 2 players\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

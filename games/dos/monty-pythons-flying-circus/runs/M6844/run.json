@@ -1,0 +1,51 @@
+{
+ "id": "M6844",
+ "game": "dos/monty-pythons-flying-circus",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6844.bk2",
+  "format": "bk2",
+  "frames": 26643,
+  "rerecords": 10746,
+  "start": "power-on",
+  "sha1": "8cf85d9456724048076384274cd7d18e57d9704d",
+  "fps": 70.08641439450736
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Monty Python's Flying Circus (Virgin Games)(1991)(3,5'').img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6844M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WXS_WLjm5_c"
+  }
+ ],
+ "submitted": "2025-11-25T11:20:51.262253",
+ "attachments": [],
+ "forum": {
+  "topicId": 471,
+  "url": "https://forum.toolassisted.run/t/471"
+ }
+}

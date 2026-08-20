@@ -1,0 +1,30 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "max-score-a",
+     "label": "maximum score, Game A",
+     "rule": "Reach the maximum achievable score in Game A mode."
+    },
+    {
+     "key": "100k-glitched",
+     "label": "100000 points, glitched",
+     "rule": "Reach 100,000 points; score-register glitches allowed."
+    },
+    {
+     "key": "game-a",
+     "label": "Game A",
+     "rule": "Imported from TASVideos as \"Game A\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "game-b",
+     "label": "Game B",
+     "rule": "Imported from TASVideos as \"Game B\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

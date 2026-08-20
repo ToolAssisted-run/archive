@@ -1,0 +1,55 @@
+{
+ "id": "M7102",
+ "game": "dos/mini-prince",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7102.bk2",
+  "format": "bk2",
+  "frames": 1358,
+  "rerecords": 805,
+  "start": "power-on",
+  "sha1": "0d561c7e597ae91406c95c2c26100c987ee9a08f",
+  "fps": 70.08670520231213
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "MiniPrince-DOS.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7102M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=1duqZxvXvN4"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8ROWk3l4FdI"
+  }
+ ],
+ "submitted": "2026-04-27T08:40:50.650618",
+ "attachments": [],
+ "forum": {
+  "topicId": 260,
+  "url": "https://forum.toolassisted.run/t/260"
+ }
+}

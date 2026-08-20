@@ -1,0 +1,50 @@
+{
+ "id": "M7325",
+ "game": "wswan/saint-seiya-ougon-densetsu-hen-perfect-edition",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7325.bk2",
+  "format": "bk2",
+  "frames": 118593,
+  "rerecords": 14253,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.11.1 (Core: Cygne/Mednafen)",
+  "rom": {
+   "name": "Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).wsc",
+   "sha1": "8542649963efe0976015759382c180b7c056be9a"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7325M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=95gBeWsr1Os"
+  }
+ ],
+ "submitted": "2026-08-17T04:04:30.187292",
+ "attachments": [],
+ "forum": {
+  "topicId": 721,
+  "url": "https://forum.toolassisted.run/t/721"
+ }
+}

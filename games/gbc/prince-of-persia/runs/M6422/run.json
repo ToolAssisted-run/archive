@@ -1,0 +1,52 @@
+{
+ "id": "M6422",
+ "game": "gbc/prince-of-persia",
+ "category": {
+  "goal": "training-mode"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6422.bk2",
+  "format": "bk2",
+  "frames": 3238,
+  "rerecords": 239,
+  "start": "power-on",
+  "sha1": "1c92e83c08d0d863b02af7358bd9c61e178c3e6a",
+  "fps": 59.77638472221049
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Prince of Persia (USA, Europe).gbc",
+   "sha1": "ef2f6402e8ef367273200e3b07f310ebd80ccdc2"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6422M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0xeWmoHV8nw"
+  }
+ ],
+ "submitted": "2025-03-09T07:13:21.714403",
+ "attachments": [],
+ "forum": {
+  "topicId": 306,
+  "url": "https://forum.toolassisted.run/t/306"
+ }
+}

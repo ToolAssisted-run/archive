@@ -1,0 +1,51 @@
+{
+ "id": "M6263",
+ "game": "flash/simple-room-3",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6263.ltm",
+  "format": "ltm",
+  "frames": 37,
+  "rerecords": 7,
+  "start": "power-on",
+  "sha1": "d83e9d0b8671aa00d9f9993b61a2a02310f70cf8",
+  "fps": 12.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "sakusei17.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6263M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WGNykgGzf3Q"
+  }
+ ],
+ "submitted": "2024-11-15T18:03:43.999948",
+ "attachments": [],
+ "forum": {
+  "topicId": 505,
+  "url": "https://forum.toolassisted.run/t/505"
+ }
+}

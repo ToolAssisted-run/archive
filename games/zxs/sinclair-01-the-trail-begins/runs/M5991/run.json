@@ -1,0 +1,49 @@
+{
+ "id": "M5991",
+ "game": "zxs/sinclair-01-the-trail-begins",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CloakTheLurker"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5991.bk2",
+  "format": "bk2",
+  "frames": 29565,
+  "rerecords": 217,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "SINCLAIR01_English_Deluxe Version 128K (Sequentia Soft).tap"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5991M",
+  "importedBy": "CloakTheLurker",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=tcbh4X1PHYc"
+  }
+ ],
+ "submitted": "2024-06-11T01:47:23.761783",
+ "attachments": [],
+ "forum": {
+  "topicId": 733,
+  "url": "https://forum.toolassisted.run/t/733"
+ }
+}

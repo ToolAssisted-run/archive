@@ -1,0 +1,50 @@
+{
+ "id": "M6605",
+ "game": "3ds/mighty-gunvolt",
+ "category": {
+  "goal": "beck"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6605.bk2",
+  "format": "bk2",
+  "frames": 24315,
+  "rerecords": 6640,
+  "start": "power-on",
+  "sha1": "f42b775b78081253f27b8e8a20b7fa18ffd5ed34"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Mighty Gunvolt (USA).cci"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6605M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=NsN6ceGRlt4"
+  }
+ ],
+ "submitted": "2025-06-20T13:22:55.315013",
+ "attachments": [],
+ "forum": {
+  "topicId": 444,
+  "url": "https://forum.toolassisted.run/t/444"
+ }
+}

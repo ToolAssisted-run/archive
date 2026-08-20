@@ -1,0 +1,25 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "hardest-path-savegame",
+     "label": "hardest path, savegame",
+     "rule": "Imported from TASVideos as \"hardest path, savegame\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "hard",
+     "label": "Hard",
+     "rule": "Imported from TASVideos as \"Hard\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "hardest-path",
+     "label": "hardest path",
+     "rule": "Imported from TASVideos as \"hardest path\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "2-players",
+     "label": "2 players",
+     "rule": "Imported from TASVideos as \"2 players\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

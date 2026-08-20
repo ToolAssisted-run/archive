@@ -1,0 +1,51 @@
+{
+ "id": "M6619",
+ "game": "psx/strider-2",
+ "category": {
+  "goal": "hien-mode"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6619.bk2",
+  "format": "bk2",
+  "frames": 50861,
+  "rerecords": 29590,
+  "start": "savestate",
+  "sha1": "275c02c37ebd50e46a5b0ef739e68461b5c6932e",
+  "fps": 59.82797333301943
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Strider 2 (USA).bin"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6619M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=UANRsi4WgKk"
+  }
+ ],
+ "submitted": "2025-06-28T05:20:25.668515",
+ "attachments": [],
+ "forum": {
+  "topicId": 568,
+  "url": "https://forum.toolassisted.run/t/568"
+ }
+}

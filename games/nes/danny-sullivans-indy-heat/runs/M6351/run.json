@@ -1,0 +1,51 @@
+{
+ "id": "M6351",
+ "game": "nes/danny-sullivans-indy-heat",
+ "category": {
+  "goal": "all-tracks"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6351.bk2",
+  "format": "bk2",
+  "frames": 22748,
+  "rerecords": 1641,
+  "start": "power-on",
+  "sha1": "8d9251271e38e483c88ee1d039f65531aa68a109"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Danny Sullivan's Indy Heat (U) [!].nes",
+   "sha1": "238a5a46db79ac6e5252dc902f5bbda669fa4dd7"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6351M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=64A9t3tgxmA"
+  }
+ ],
+ "submitted": "2025-01-17T07:15:55.611447",
+ "attachments": [],
+ "forum": {
+  "topicId": 346,
+  "url": "https://forum.toolassisted.run/t/346"
+ }
+}

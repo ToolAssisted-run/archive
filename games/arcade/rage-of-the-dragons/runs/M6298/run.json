@@ -1,0 +1,50 @@
+{
+ "id": "M6298",
+ "game": "arcade/rage-of-the-dragons",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6298.bk2",
+  "format": "bk2",
+  "frames": 25301,
+  "rerecords": 1777,
+  "start": "power-on",
+  "fps": 59.1856060608428
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "rotd.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6298M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ejch6XTd37s"
+  }
+ ],
+ "submitted": "2024-12-22T02:55:52.117409",
+ "attachments": [],
+ "forum": {
+  "topicId": 623,
+  "url": "https://forum.toolassisted.run/t/623"
+ }
+}

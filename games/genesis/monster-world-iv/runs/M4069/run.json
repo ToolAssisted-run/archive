@@ -1,0 +1,50 @@
+{
+ "id": "M4069",
+ "game": "genesis/monster-world-iv",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4069.bk2",
+  "format": "bk2",
+  "frames": 234336,
+  "rerecords": 85797,
+  "start": "power-on",
+  "sha1": "37434536e10a9b202f76de97f10bb111708394e6"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "rom": {
+   "name": "Monster World IV (Japan).md"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4069M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=D_HaTCGSZpo"
+  }
+ ],
+ "submitted": "2019-11-21T10:17:23",
+ "attachments": [],
+ "forum": {
+  "topicId": 527,
+  "url": "https://forum.toolassisted.run/t/527"
+ }
+}

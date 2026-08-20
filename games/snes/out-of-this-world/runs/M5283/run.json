@@ -1,0 +1,51 @@
+{
+ "id": "M5283",
+ "game": "snes/out-of-this-world",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5283.bk2",
+  "format": "bk2",
+  "frames": 48204,
+  "rerecords": 972,
+  "start": "power-on",
+  "sha1": "157bbca943d1e05869bf7aeb12486570848b5f80"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "Out of this World (USA).sfc",
+   "sha1": "fa8382794b19f8b36753f33091ad3e8b3bda7018"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5283M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Pxj3QU7vYbI"
+  }
+ ],
+ "submitted": "2023-05-20T08:38:11.212704",
+ "attachments": [],
+ "forum": {
+  "topicId": 432,
+  "url": "https://forum.toolassisted.run/t/432"
+ }
+}

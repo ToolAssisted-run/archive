@@ -1,0 +1,50 @@
+{
+ "id": "M5427",
+ "game": "arcade/mega-man-2-the-power-fighters",
+ "category": {
+  "goal": "rescue-roll-2-players"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5427.bk2",
+  "format": "bk2",
+  "frames": 11293,
+  "rerecords": 15510,
+  "start": "power-on",
+  "sha1": "0d91631fdb988ee67857ae8042648fc6129a733f"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "megaman2.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5427M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WdwKge4eZsU"
+  }
+ ],
+ "submitted": "2023-07-19T14:52:06.396103",
+ "attachments": [],
+ "forum": {
+  "topicId": 459,
+  "url": "https://forum.toolassisted.run/t/459"
+ }
+}

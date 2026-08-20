@@ -1,0 +1,49 @@
+{
+ "id": "M6986",
+ "game": "gc/prince-of-persia-the-sands-of-time",
+ "category": {
+  "goal": "zipless"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6986.dtm",
+  "format": "dtm",
+  "frames": 207439,
+  "rerecords": 60737,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-16793",
+  "rom": {
+   "name": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (v1.01).iso"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6986M",
+  "importedBy": "GMP",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=t6rP0vbR33k"
+  }
+ ],
+ "submitted": "2026-02-21T15:02:39.674895",
+ "attachments": [],
+ "forum": {
+  "topicId": 524,
+  "url": "https://forum.toolassisted.run/t/524"
+ }
+}

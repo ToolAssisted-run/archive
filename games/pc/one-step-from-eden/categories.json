@@ -1,0 +1,16 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "seeded-pacifist-ending",
+     "label": "seeded, Pacifist ending",
+     "rule": "Timer ends on final input",
+     "provisional": true
+    }
+   ]
+  }
+ ]
+}

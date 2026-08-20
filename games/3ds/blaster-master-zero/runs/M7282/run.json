@@ -1,0 +1,50 @@
+{
+ "id": "M7282",
+ "game": "3ds/blaster-master-zero",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7282.bk2",
+  "format": "bk2",
+  "frames": 146970,
+  "rerecords": 25496,
+  "start": "power-on",
+  "sha1": "b86ac0acefbd16ec1ab17e13dbda7838f428e2a8"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Blaster Master Zero (USA) (En,Ja)  (eShop).cci"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7282M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-oDq0Se1T9k"
+  }
+ ],
+ "submitted": "2026-07-29T08:20:03.939549",
+ "attachments": [],
+ "forum": {
+  "topicId": 443,
+  "url": "https://forum.toolassisted.run/t/443"
+ }
+}

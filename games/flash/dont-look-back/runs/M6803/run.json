@@ -1,0 +1,51 @@
+{
+ "id": "M6803",
+ "game": "flash/dont-look-back",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6803.ltm",
+  "format": "ltm",
+  "frames": 7827,
+  "rerecords": 28718,
+  "start": "power-on",
+  "sha1": "2b53fcbff3d0f0802faaa71a7b7db81dcf5513e8",
+  "fps": 30.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "dont-look-back.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6803M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=VYPH29RDTkU"
+  }
+ ],
+ "submitted": "2025-11-02T11:45:35.759838",
+ "attachments": [],
+ "forum": {
+  "topicId": 488,
+  "url": "https://forum.toolassisted.run/t/488"
+ }
+}

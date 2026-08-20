@@ -1,0 +1,51 @@
+{
+ "id": "M6537",
+ "game": "flash/mei-tantei-suwaa",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6537.ltm",
+  "format": "ltm",
+  "frames": 1071,
+  "rerecords": 32,
+  "start": "power-on",
+  "sha1": "81177c8ce30f8d65ce80b9fbb954e98842b3f206",
+  "fps": 12.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "suwa-.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6537M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=pnvRL9BJCp0"
+  }
+ ],
+ "submitted": "2025-05-08T16:54:12.922436",
+ "attachments": [],
+ "forum": {
+  "topicId": 499,
+  "url": "https://forum.toolassisted.run/t/499"
+ }
+}

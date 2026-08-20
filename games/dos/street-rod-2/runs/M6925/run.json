@@ -1,0 +1,51 @@
+{
+ "id": "M6925",
+ "game": "dos/street-rod-2",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6925.bk2",
+  "format": "bk2",
+  "frames": 76857,
+  "rerecords": 5652,
+  "start": "power-on",
+  "sha1": "7ca0b7246e0a779d58fd2517a1af4fab42342952",
+  "fps": 70.08631184428303
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "disk1.img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6925M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ki2UoClpQpo"
+  }
+ ],
+ "submitted": "2025-12-30T14:29:14.993831",
+ "attachments": [],
+ "forum": {
+  "topicId": 282,
+  "url": "https://forum.toolassisted.run/t/282"
+ }
+}

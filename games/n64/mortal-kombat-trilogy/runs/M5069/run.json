@@ -1,0 +1,49 @@
+{
+ "id": "M5069",
+ "game": "n64/mortal-kombat-trilogy",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5069.bk2",
+  "format": "bk2",
+  "frames": 17968,
+  "rerecords": 13611,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.2",
+  "rom": {
+   "name": "Mortal Kombat Trilogy (U) (V1.2) [!]"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5069M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=v7dGjhZJ8UM"
+  }
+ ],
+ "submitted": "2023-02-03T00:26:58.476492",
+ "attachments": [],
+ "forum": {
+  "topicId": 601,
+  "url": "https://forum.toolassisted.run/t/601"
+ }
+}

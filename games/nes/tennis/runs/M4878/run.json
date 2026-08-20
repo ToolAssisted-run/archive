@@ -1,0 +1,51 @@
+{
+ "id": "M4878",
+ "game": "nes/tennis",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4878.bk2",
+  "format": "bk2",
+  "frames": 40627,
+  "rerecords": 1275,
+  "start": "power-on",
+  "sha1": "8824962ce17a4dc4cf8fb4fcd067054f166cf783"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Tennis (JU) [!].nes",
+   "sha1": "80d99c035e6a5ab9718e413ec25cbe094f085962"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4878M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=87LGsolKOX0"
+  }
+ ],
+ "submitted": "2022-10-27T19:05:33.155015",
+ "attachments": [],
+ "forum": {
+  "topicId": 418,
+  "url": "https://forum.toolassisted.run/t/418"
+ }
+}

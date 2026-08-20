@@ -1,0 +1,51 @@
+{
+ "id": "M6257",
+ "game": "flash/igai-na-basho-kara-no-dasshutsu",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6257.ltm",
+  "format": "ltm",
+  "frames": 116,
+  "rerecords": 29,
+  "start": "power-on",
+  "sha1": "97832b4448fdf8a08c339961d8ed764c37faafeb",
+  "fps": 12.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "sakusei12.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6257M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=a1VuGkvrM18"
+  }
+ ],
+ "submitted": "2024-11-12T07:18:26.501536",
+ "attachments": [],
+ "forum": {
+  "topicId": 497,
+  "url": "https://forum.toolassisted.run/t/497"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "id": "M3670",
+ "game": "snes/prince-of-persia",
+ "category": {
+  "goal": "training-mode"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3670.bk2",
+  "format": "bk2",
+  "frames": 12687,
+  "rerecords": 8225,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.2.1",
+  "rom": {
+   "name": "Prince of Persia (Japan).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3670M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=b5udoaxymGI"
+  }
+ ],
+ "submitted": "2018-04-10T20:07:30",
+ "attachments": [],
+ "forum": {
+  "topicId": 661,
+  "url": "https://forum.toolassisted.run/t/661"
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-19"
+  }
+ ]
+}

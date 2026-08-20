@@ -1,0 +1,50 @@
+{
+ "id": "M6481",
+ "game": "gbc/pok-mon-pinball",
+ "category": {
+  "goal": "defeat-mewtwo-red-board"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6481.bk2",
+  "format": "bk2",
+  "frames": 13037,
+  "rerecords": 9193,
+  "start": "power-on",
+  "fps": 59.84493232986173
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible).gbc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6481M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=c5qiHhLep0s"
+  }
+ ],
+ "submitted": "2025-04-07T19:39:17.665144",
+ "attachments": [],
+ "forum": {
+  "topicId": 629,
+  "url": "https://forum.toolassisted.run/t/629"
+ }
+}

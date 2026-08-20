@@ -1,0 +1,49 @@
+{
+ "id": "M5979",
+ "game": "gc/mortal-kombat-deception",
+ "category": {
+  "goal": "arcade-mode-savegame"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5979.dtm",
+  "format": "dtm",
+  "frames": 26126,
+  "rerecords": 4374,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "dolphin 20571",
+  "rom": {
+   "name": "Mortal Kombat - Deception (USA).rvz"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5979M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=nZW6JHZMAQ4"
+  }
+ ],
+ "submitted": "2024-06-05T18:11:45.031494",
+ "attachments": [],
+ "forum": {
+  "topicId": 612,
+  "url": "https://forum.toolassisted.run/t/612"
+ }
+}

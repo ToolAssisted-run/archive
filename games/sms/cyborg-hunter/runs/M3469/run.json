@@ -1,0 +1,49 @@
+{
+ "id": "M3469",
+ "game": "sms/cyborg-hunter",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3469.bk2",
+  "format": "bk2",
+  "frames": 33180,
+  "rerecords": 20616,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.0",
+  "rom": {
+   "name": "Cyborg Hunter (UE) [!].sms"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3469M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=mXYEMtjQ3HM"
+  }
+ ],
+ "submitted": "2017-07-16T16:50:47",
+ "attachments": [],
+ "forum": {
+  "topicId": 657,
+  "url": "https://forum.toolassisted.run/t/657"
+ }
+}

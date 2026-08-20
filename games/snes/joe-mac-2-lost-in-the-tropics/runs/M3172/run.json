@@ -1,0 +1,49 @@
+{
+ "id": "M3172",
+ "game": "snes/joe-mac-2-lost-in-the-tropics",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3172.bk2",
+  "format": "bk2",
+  "frames": 70389,
+  "rerecords": 21143,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.11.4",
+  "rom": {
+   "name": "Joe & Mac 2 - Lost in the Tropics (USA).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3172M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ti6LcHH1nXM"
+  }
+ ],
+ "submitted": "2016-07-08T17:11:55",
+ "attachments": [],
+ "forum": {
+  "topicId": 645,
+  "url": "https://forum.toolassisted.run/t/645"
+ }
+}

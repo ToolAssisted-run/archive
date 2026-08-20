@@ -1,0 +1,51 @@
+{
+ "id": "M7003",
+ "game": "flash/pursuit",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7003.ltm",
+  "format": "ltm",
+  "frames": 3499,
+  "rerecords": 2957,
+  "start": "power-on",
+  "sha1": "cf362f33c477b10a4a1180b76edcd30847e0760a",
+  "fps": 30.00000000008574
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.7 // ruffle-nightly-2025-09-22",
+  "rom": {
+   "name": "346781_pursuit.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7003M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=90Atwo6D1zQ"
+  }
+ ],
+ "submitted": "2026-03-13T10:38:03.919103",
+ "attachments": [],
+ "forum": {
+  "topicId": 502,
+  "url": "https://forum.toolassisted.run/t/502"
+ }
+}

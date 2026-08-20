@@ -1,0 +1,49 @@
+{
+ "id": "M7197",
+ "game": "gb/honoo-no-toukyuuji-dodge-danpei",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7197.bk2",
+  "format": "bk2",
+  "frames": 156251,
+  "rerecords": 2223,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Honoo no Toukyuuji - Dodge Danpei (Japan)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7197M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ZoQUbE4cS30"
+  }
+ ],
+ "submitted": "2026-06-14T07:44:27.344514",
+ "attachments": [],
+ "forum": {
+  "topicId": 642,
+  "url": "https://forum.toolassisted.run/t/642"
+ }
+}

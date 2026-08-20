@@ -1,0 +1,51 @@
+{
+ "id": "M6219",
+ "game": "arcade/air-combat-22",
+ "category": {
+  "goal": "beginner"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6219.bk2",
+  "format": "bk2",
+  "frames": 5908,
+  "rerecords": 6764,
+  "start": "power-on",
+  "sha1": "262ea2da372876b6149b2ddc383d2fc45ae54e80",
+  "fps": 59.904059904059906
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "airco22b.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6219M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gF0IGu2DIfw"
+  }
+ ],
+ "submitted": "2024-10-08T08:03:57.552306",
+ "attachments": [],
+ "forum": {
+  "topicId": 446,
+  "url": "https://forum.toolassisted.run/t/446"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M2658",
+ "game": "gba/castlevania-aria-of-sorrow",
+ "category": {
+  "goal": "julius-mode-all-bosses"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2658.vbm",
+  "format": "vbm",
+  "frames": 41593,
+  "rerecords": 18807,
+  "start": "power-on",
+  "sha1": "52fde069ebdda16042ae47c428cb8eef652c127f"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v23.5",
+  "rom": {
+   "name": "Castlevania - Aria of Sorrow (U).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2658M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=uClP4-xtsas"
+  }
+ ],
+ "submitted": "2014-08-06T15:42:37",
+ "attachments": [],
+ "forum": {
+  "topicId": 515,
+  "url": "https://forum.toolassisted.run/t/515"
+ }
+}

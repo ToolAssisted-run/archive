@@ -1,0 +1,45 @@
+{
+ "comment": "Requests to be handed a held name, and how each was answered. No email address is ever written here: the archive is public and a request is not a reason to publish somebody's address.",
+ "requests": [
+  {
+   "member": "p0008874-test",
+   "identity": "p0008874",
+   "evidence": "https://tasvideos.org/Subs-List?user=p0008874",
+   "date": "2026-08-18",
+   "status": "approved",
+   "decidedBy": "GMP",
+   "decidedAt": "2026-08-19",
+   "note": ""
+  },
+  {
+   "member": "CloakTheLurker00",
+   "identity": "CloakTheLurker",
+   "evidence": "TASVideos account: https://tasvideos.org/Users/Profile/CloakTheLurker\r\nOne of my encodes published by TASVideos: https://www.youtube.com/watch?v=VUiIK8Mhxws",
+   "date": "2026-08-18",
+   "status": "approved",
+   "decidedBy": "GMP",
+   "decidedAt": "2026-08-19",
+   "note": ""
+  },
+  {
+   "member": "Dimon12321_YT",
+   "identity": "Dimon12321",
+   "evidence": "Guard, open up!",
+   "date": "2026-08-19",
+   "status": "approved",
+   "decidedBy": "GMP",
+   "decidedAt": "2026-08-19",
+   "note": ""
+  },
+  {
+   "member": "TASeditor1",
+   "identity": "TASeditor",
+   "evidence": "https://tasvideos.org/Users/Profile/TASeditor",
+   "date": "2026-08-19",
+   "status": "approved",
+   "decidedBy": "eien86",
+   "decidedAt": "2026-08-19",
+   "note": ""
+  }
+ ]
+}

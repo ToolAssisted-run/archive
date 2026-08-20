@@ -1,0 +1,50 @@
+{
+ "id": "M6135",
+ "game": "gb/bram-stokers-dracula",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6135.bk2",
+  "format": "bk2",
+  "frames": 11720,
+  "rerecords": 2264,
+  "start": "power-on",
+  "sha1": "38b6c4ee1590a13504ca17bceca6d9e016203ec0"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Bram Stoker's Dracula (UE) [!].gb"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6135M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=eSUzfpwadfM"
+  }
+ ],
+ "submitted": "2024-08-28T06:12:33.650523",
+ "attachments": [],
+ "forum": {
+  "topicId": 514,
+  "url": "https://forum.toolassisted.run/t/514"
+ }
+}

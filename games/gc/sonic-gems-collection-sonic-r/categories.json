@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "100",
+     "label": "100%",
+     "rule": "Imported from TASVideos as \"100%\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "baseline",
+     "label": "fastest completion",
+     "rule": "Complete the game as fast as possible."
+    }
+   ]
+  }
+ ]
+}

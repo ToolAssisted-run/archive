@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "win-all-matches",
+     "label": "win all matches",
+     "rule": "Imported from TASVideos as \"win all matches\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

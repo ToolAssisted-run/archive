@@ -1,0 +1,51 @@
+{
+ "id": "M6775",
+ "game": "arcade/the-outfoxies",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6775.bk2",
+  "format": "bk2",
+  "frames": 11651,
+  "rerecords": 10809,
+  "start": "power-on",
+  "sha1": "1230d820639f89ae385e07f42af17681e7155e32",
+  "fps": 59.65909090942118
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "outfxies.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6775M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Fi5gG7lNcO4"
+  }
+ ],
+ "submitted": "2025-10-16T03:43:01.565247",
+ "attachments": [],
+ "forum": {
+  "topicId": 466,
+  "url": "https://forum.toolassisted.run/t/466"
+ }
+}

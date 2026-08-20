@@ -1,0 +1,51 @@
+{
+ "id": "M6372",
+ "game": "nes/arkanoid-ii",
+ "category": {
+  "goal": "hard-warpless"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6372.bk2",
+  "format": "bk2",
+  "frames": 41387,
+  "rerecords": 940,
+  "start": "power-on",
+  "sha1": "2e017124ab64f1d6870b621d2241af624c9ca3c1"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Arkanoid II (Japan).nes",
+   "sha1": "9300ee2acfe7f43cbc72cae4e57fc5a60837c4b4"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6372M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=sPLqyi3Y_Z4"
+  }
+ ],
+ "submitted": "2025-02-06T20:41:23.615404",
+ "attachments": [],
+ "forum": {
+  "topicId": 334,
+  "url": "https://forum.toolassisted.run/t/334"
+ }
+}

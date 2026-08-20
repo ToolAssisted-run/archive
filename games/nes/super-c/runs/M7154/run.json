@@ -1,0 +1,50 @@
+{
+ "id": "M7154",
+ "game": "nes/super-c",
+ "category": {
+  "goal": "1-player-low"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7154.fm2",
+  "format": "fm2",
+  "frames": 46528,
+  "rerecords": 15448,
+  "start": "power-on",
+  "sha1": "0fdc435f4dea0d8ada823fd1e619ae015102300e"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Super C (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7154M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=pkNT2OYsihg"
+  }
+ ],
+ "submitted": "2026-05-25T13:58:20.602499",
+ "attachments": [],
+ "forum": {
+  "topicId": 544,
+  "url": "https://forum.toolassisted.run/t/544"
+ }
+}

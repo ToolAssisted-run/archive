@@ -1,0 +1,51 @@
+{
+ "id": "M100004",
+ "game": "dos/prince-of-persia-2-the-shadow-and-the-flame",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100004.jrsr",
+  "format": "jrsr",
+  "sha1": "3d68eb5f989c2bce1b956507d27903f8125aec0f",
+  "frames": 51087,
+  "rerecords": 722,
+  "start": "power-on",
+  "fps": 59.99988123356647
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "JPC-RR 11.8"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "provisional",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ouh3Jc2B4qU"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-08-16T14:45:40Z",
+ "submittedBy": "GMP",
+ "forum": {
+  "topicId": 582,
+  "url": "https://forum.toolassisted.run/t/582"
+ },
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-08-18"
+  }
+ ],
+ "completed": "2021-10-26"
+}

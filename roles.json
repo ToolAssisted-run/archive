@@ -1,0 +1,113 @@
+{
+ "comment": "Every grant and every removal of a role, in order. Who holds what today is this list folded, never a second copy: that is what keeps a member's own page able to show the history rather than just the result. Experts also carry a scope. This file is the only record of a role. The forum's groups are printed from it by the archivist, so that Discourse can badge a role and enforce who may vote in a Committee poll; being added to one of those groups grants nothing and is undone by the next publish.",
+ "events": [
+  {
+   "user": "eien86",
+   "role": "founder",
+   "action": "granted",
+   "by": "founder",
+   "date": "2026-08-14",
+   "reason": "Founded the site and carries its legal, technical and financial responsibility (Principles 2.2)."
+  },
+  {
+   "user": "eien86",
+   "role": "expert",
+   "scope": "site",
+   "action": "granted",
+   "by": "founder",
+   "date": "2026-08-14",
+   "reason": "Founded the archive and wrote its governance; site-wide scope from the start."
+  },
+  {
+   "user": "eien86",
+   "role": "committee",
+   "action": "granted",
+   "by": "founder",
+   "date": "2026-08-14",
+   "reason": "Founding member of the Steering Committee (Principles 2.2, 2.3)."
+  },
+  {
+   "user": "eien86",
+   "role": "moderator",
+   "action": "granted",
+   "by": "founder",
+   "date": "2026-08-14",
+   "reason": "Administers the forum and the archive infrastructure."
+  },
+  {
+   "user": "GMP",
+   "role": "committee",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-08-18",
+   "reason": "Seated by the Founder. He's steering committee"
+  },
+  {
+   "user": "CoolHandMike",
+   "role": "committee",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-08-18",
+   "reason": "Seated by the Founder. He's steering committee"
+  },
+  {
+   "user": "Challenger",
+   "role": "committee",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-08-18",
+   "reason": "Seated by the Founder. He's steering committee"
+  },
+  {
+   "user": "demibop720",
+   "role": "committee",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-08-18",
+   "reason": "Seated by the Founder. He's steering committee"
+  },
+  {
+   "user": "GMP",
+   "role": "expert",
+   "scope": "site",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-08-18",
+   "reason": "He's steering committee"
+  },
+  {
+   "user": "CoolHandMike",
+   "role": "expert",
+   "scope": "site",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-08-18",
+   "reason": "He's steering committee"
+  },
+  {
+   "user": "toca",
+   "role": "expert",
+   "scope": "group:prince-of-persia",
+   "action": "granted",
+   "by": "GMP",
+   "date": "2026-08-18",
+   "reason": "Series mod for the same group in speedrun.com, trusted member of the PoP community who also has extensive TAS knowledge."
+  },
+  {
+   "user": "Dimon12321",
+   "role": "committee",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-08-19",
+   "reason": "Seated by the Founder. He's steering committee"
+  },
+  {
+   "user": "demibop720",
+   "role": "committee",
+   "action": "revoked",
+   "by": "eien86",
+   "date": "2026-08-19",
+   "reason": "Unseated by the Founder. Was a test alias"
+  }
+ ]
+}

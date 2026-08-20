@@ -1,0 +1,51 @@
+{
+ "id": "M6754",
+ "game": "psx/the-masters-fighter",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6754.bk2",
+  "format": "bk2",
+  "frames": 21126,
+  "rerecords": 4806,
+  "start": "power-on",
+  "sha1": "cb282fc6a2e8fc8638ebe8c1abd1f74bee9edfa5",
+  "fps": 59.829222222196066
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.10",
+  "rom": {
+   "name": "Masters Fighter, The (Japan).cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6754M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=a0vg1deuLtQ"
+  }
+ ],
+ "submitted": "2025-09-29T15:08:23.061422",
+ "attachments": [],
+ "forum": {
+  "topicId": 570,
+  "url": "https://forum.toolassisted.run/t/570"
+ }
+}

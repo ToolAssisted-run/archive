@@ -1,0 +1,61 @@
+{
+ "id": "M100014",
+ "game": "pc/grand-theft-auto-2",
+ "category": {
+  "goal": "industrial-all-missions"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Molotok"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100014.bk2",
+  "format": "bk2",
+  "sha1": "f7be24d24365144e8174bef50badc2e578ec1fe4",
+  "frames": 3133099,
+  "rerecords": 38635,
+  "start": "power-on",
+  "fps": 1000.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence",
+  "strong-language"
+ ],
+ "contract": {
+  "emulator": "BizHawk 2.11 (DOSBox-X)",
+  "rom": {
+   "name": "GTA2.exe",
+   "sha1": "8c10c0d20f15912a9450b6fbe028f31928b29893"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "provisional",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ch0Lyewn-jw"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-08-19T16:38:03Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 736,
+  "url": "https://forum.toolassisted.run/t/736"
+ },
+ "verifications": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-20"
+  }
+ ]
+}

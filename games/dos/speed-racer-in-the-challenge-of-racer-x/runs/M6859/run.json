@@ -1,0 +1,51 @@
+{
+ "id": "M6859",
+ "game": "dos/speed-racer-in-the-challenge-of-racer-x",
+ "category": {
+  "goal": "level-1"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6859.bk2",
+  "format": "bk2",
+  "frames": 36620,
+  "rerecords": 1795,
+  "start": "power-on",
+  "sha1": "c528f512a73fbbc673d5cef0dea66919de9d121e",
+  "fps": 70.08639267518727
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "disk1.img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6859M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3Oeo42fBzuM"
+  }
+ ],
+ "submitted": "2025-12-01T02:40:57.787087",
+ "attachments": [],
+ "forum": {
+  "topicId": 278,
+  "url": "https://forum.toolassisted.run/t/278"
+ }
+}

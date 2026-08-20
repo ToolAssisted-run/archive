@@ -1,0 +1,52 @@
+{
+ "id": "M6705",
+ "game": "psx/need-for-speed-porsche-unleashed",
+ "category": {
+  "goal": "factory-driver"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6705.bk2",
+  "format": "bk2",
+  "frames": 61673,
+  "rerecords": 6646,
+  "start": "power-on",
+  "sha1": "9c8754b7e1e5643dc2b17da3095bae99fc2acc8f",
+  "fps": 59.82691241685144
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Need for Speed 5 - Porsche Unleashed [U] [SLUS-01104].bin",
+   "sha1": "dc90a24827403f72f607bc65911eb7c16066b39f"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6705M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-yRWxCQA2vw"
+  }
+ ],
+ "submitted": "2025-08-25T16:02:06.361586",
+ "attachments": [],
+ "forum": {
+  "topicId": 424,
+  "url": "https://forum.toolassisted.run/t/424"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M5976",
+ "game": "arcade/fatal-fury-3-road-to-the-final-victory",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5976.bk2",
+  "format": "bk2",
+  "frames": 35050,
+  "rerecords": 10057,
+  "start": "power-on",
+  "fps": 59.1856060608428
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "fatfury3.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5976M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=VLUe_HvcJtg"
+  }
+ ],
+ "submitted": "2024-06-04T20:03:54.273441",
+ "attachments": [],
+ "forum": {
+  "topicId": 611,
+  "url": "https://forum.toolassisted.run/t/611"
+ }
+}

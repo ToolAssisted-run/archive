@@ -1,0 +1,57 @@
+{
+ "id": "M5196",
+ "game": "a2600/frogger",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5196.bk2",
+  "format": "bk2",
+  "frames": 5076,
+  "rerecords": 257,
+  "start": "power-on",
+  "sha1": "c1309d8988cc8a29226a8543bcfe99621fbdec87"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Frogger (1982) (Parker Brothers, Ed English, David Lamkins) (PB5300).bin",
+   "sha1": "e859b935a36494f3c4b4bf5547392600fb9c96f0"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5196M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=W9qgatsq6VQ"
+  }
+ ],
+ "submitted": "2023-03-31T01:23:51.976404",
+ "attachments": [],
+ "forum": {
+  "topicId": 20,
+  "url": "https://forum.toolassisted.run/t/20"
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-19"
+  }
+ ]
+}

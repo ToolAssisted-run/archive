@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "konquest-door-glitch",
+     "label": "Konquest, door glitch",
+     "rule": "Imported from TASVideos as \"Konquest, door glitch\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "arcade-mode-savegame",
+     "label": "Arcade mode, savegame",
+     "rule": "Imported from TASVideos as \"Arcade mode, savegame\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

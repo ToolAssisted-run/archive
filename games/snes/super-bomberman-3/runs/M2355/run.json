@@ -1,0 +1,49 @@
+{
+ "id": "M2355",
+ "game": "snes/super-bomberman-3",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2355.lsmv",
+  "format": "lsmv",
+  "frames": 92911,
+  "rerecords": 4127,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr1-\u039418\u03b53",
+  "rom": {
+   "name": "Super Bomberman 3.smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2355M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=1WIGjgTlubU"
+  }
+ ],
+ "submitted": "2013-04-07T17:39:50",
+ "attachments": [],
+ "forum": {
+  "topicId": 591,
+  "url": "https://forum.toolassisted.run/t/591"
+ }
+}

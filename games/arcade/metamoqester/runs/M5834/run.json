@@ -1,0 +1,61 @@
+{
+ "id": "M5834",
+ "game": "arcade/metamoqester",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5834.bk2",
+  "format": "bk2",
+  "frames": 12174,
+  "rerecords": 9411,
+  "start": "power-on",
+  "sha1": "56fdcf90257418378c4ed8ae6df4428666eb8202",
+  "fps": 57.55064456721915
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.9.1",
+  "rom": {
+   "name": "metmqstr.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5834M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=F7lZCChP08c"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=09IOYXrDjDU"
+  }
+ ],
+ "submitted": "2024-02-28T21:07:55.101704",
+ "attachments": [],
+ "forum": {
+  "topicId": 461,
+  "url": "https://forum.toolassisted.run/t/461"
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-19"
+  }
+ ]
+}

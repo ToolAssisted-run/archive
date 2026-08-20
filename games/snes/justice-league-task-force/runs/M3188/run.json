@@ -1,0 +1,49 @@
+{
+ "id": "M3188",
+ "game": "snes/justice-league-task-force",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3188.lsmv",
+  "format": "lsmv",
+  "frames": 31229,
+  "rerecords": 3168,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr1-\u039418\u03b53",
+  "rom": {
+   "name": "Justice League Task Force (USA)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3188M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=tAXfsoie7aM"
+  }
+ ],
+ "submitted": "2016-07-30T15:54:09",
+ "attachments": [],
+ "forum": {
+  "topicId": 593,
+  "url": "https://forum.toolassisted.run/t/593"
+ }
+}

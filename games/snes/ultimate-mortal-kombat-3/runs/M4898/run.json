@@ -1,0 +1,49 @@
+{
+ "id": "M4898",
+ "game": "snes/ultimate-mortal-kombat-3",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4898.bk2",
+  "format": "bk2",
+  "frames": 17640,
+  "rerecords": 6031,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.2",
+  "rom": {
+   "name": "Ultimate Mortal Kombat 3 (USA)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4898M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gMeo0x6uT4s"
+  }
+ ],
+ "submitted": "2022-11-09T09:31:43.05567",
+ "attachments": [],
+ "forum": {
+  "topicId": 600,
+  "url": "https://forum.toolassisted.run/t/600"
+ }
+}

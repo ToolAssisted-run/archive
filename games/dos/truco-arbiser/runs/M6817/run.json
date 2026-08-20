@@ -1,0 +1,51 @@
+{
+ "id": "M6817",
+ "game": "dos/truco-arbiser",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6817.bk2",
+  "format": "bk2",
+  "frames": 86,
+  "rerecords": 303,
+  "start": "power-on",
+  "sha1": "13e00a406ad4817deb45152aa1aeee7067cd058d",
+  "fps": 70.0863028953229
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "TrucoArbiser.iso"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6817M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=E5iyTIFNGtw"
+  }
+ ],
+ "submitted": "2025-11-16T11:22:59.579325",
+ "attachments": [],
+ "forum": {
+  "topicId": 300,
+  "url": "https://forum.toolassisted.run/t/300"
+ }
+}

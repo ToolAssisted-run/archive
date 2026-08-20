@@ -1,0 +1,52 @@
+{
+ "id": "M7317",
+ "game": "pc/grand-theft-auto",
+ "category": {
+  "goal": "san-andreas-chapter-1-mandarin-mayhem-100"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Tarakan3000"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7317.bk2",
+  "format": "bk2",
+  "frames": 1782266,
+  "rerecords": 50087,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: DOSBox-X)",
+  "rom": {
+   "name": "Grand Theft Auto (USA) (En,Fr,De,It).cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7317M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=D-HiDVLQxak"
+  }
+ ],
+ "submitted": "2026-08-14T09:53:34.211785",
+ "attachments": [],
+ "forum": {
+  "topicId": 717,
+  "url": "https://forum.toolassisted.run/t/717"
+ }
+}

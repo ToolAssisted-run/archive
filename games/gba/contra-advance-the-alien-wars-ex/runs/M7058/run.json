@@ -1,0 +1,50 @@
+{
+ "id": "M7058",
+ "game": "gba/contra-advance-the-alien-wars-ex",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7058.bk2",
+  "format": "bk2",
+  "frames": 52543,
+  "rerecords": 12980,
+  "start": "power-on",
+  "sha1": "c50575cd9d99ad3c18d2cd9a886207a995284443"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Contra Advance - The Alien Wars EX (USA).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7058M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=grSmDMUCus0"
+  }
+ ],
+ "submitted": "2026-04-12T14:22:49.845016",
+ "attachments": [],
+ "forum": {
+  "topicId": 518,
+  "url": "https://forum.toolassisted.run/t/518"
+ }
+}

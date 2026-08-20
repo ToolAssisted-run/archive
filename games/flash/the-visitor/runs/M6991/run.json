@@ -1,0 +1,50 @@
+{
+ "id": "M6991",
+ "game": "flash/the-visitor",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6991.ltm",
+  "format": "ltm",
+  "frames": 1813,
+  "rerecords": 313,
+  "start": "power-on",
+  "sha1": "33a77a8ffd0fe6f859d593a6fe0a9231a82c5996"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2025-08-19",
+  "rom": {
+   "name": "the-visitor-915.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6991M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0I8XbnpL5yg"
+  }
+ ],
+ "submitted": "2026-02-27T02:47:07.942644",
+ "attachments": [],
+ "forum": {
+  "topicId": 509,
+  "url": "https://forum.toolassisted.run/t/509"
+ }
+}

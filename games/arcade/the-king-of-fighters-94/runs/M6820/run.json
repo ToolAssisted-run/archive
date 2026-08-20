@@ -1,0 +1,50 @@
+{
+ "id": "M6820",
+ "game": "arcade/the-king-of-fighters-94",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6820.bk2",
+  "format": "bk2",
+  "frames": 30283,
+  "rerecords": 5424,
+  "start": "power-on",
+  "fps": 59.1856060608428
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk-2.11-win-x64",
+  "rom": {
+   "name": "kof94.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6820M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=fuW4hLs-Gnk"
+  }
+ ],
+ "submitted": "2025-11-19T06:21:43.041562",
+ "attachments": [],
+ "forum": {
+  "topicId": 634,
+  "url": "https://forum.toolassisted.run/t/634"
+ }
+}

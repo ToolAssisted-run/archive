@@ -1,0 +1,49 @@
+{
+ "id": "M5771",
+ "game": "wii/mortal-kombat-armageddon",
+ "category": {
+  "goal": "endurance-kreate-a-fighter"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5771.dtm",
+  "format": "dtm",
+  "frames": 19139,
+  "rerecords": 388,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0 20571",
+  "rom": {
+   "name": "Mortal Kombat - Armageddon (USA)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5771M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=iCU7g8X6n2I"
+  }
+ ],
+ "submitted": "2024-01-22T18:23:33.076704",
+ "attachments": [],
+ "forum": {
+  "topicId": 604,
+  "url": "https://forum.toolassisted.run/t/604"
+ }
+}

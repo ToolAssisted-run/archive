@@ -1,0 +1,51 @@
+{
+ "id": "M6599",
+ "game": "snes/best-of-the-best-championship-karate",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6599.bk2",
+  "format": "bk2",
+  "frames": 12345,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "1a310506b728eb9a2a4182c49ce44f1640cd92c0"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Best of the Best - Championship Karate (U).smc",
+   "sha1": "01a1cb3e4ea1714c145ff06a0826d6df0ed36a06"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6599M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=EsguCt1rT4Q"
+  }
+ ],
+ "submitted": "2025-06-14T07:37:50.117756",
+ "attachments": [],
+ "forum": {
+  "topicId": 428,
+  "url": "https://forum.toolassisted.run/t/428"
+ }
+}

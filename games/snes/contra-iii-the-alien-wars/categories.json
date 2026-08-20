@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "pacifist",
+     "label": "pacifist",
+     "rule": "Imported from TASVideos as \"pacifist\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

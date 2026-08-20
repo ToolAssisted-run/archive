@@ -1,0 +1,51 @@
+{
+ "id": "M6311",
+ "game": "flash/the-legend-of-zelda-and-the-lampshade-of-no-real-significance",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6311.ltm",
+  "format": "ltm",
+  "frames": 756,
+  "rerecords": 127,
+  "start": "power-on",
+  "sha1": "ee715a128e3f26fd057cccc6e01b908971d1be43",
+  "fps": 18.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS v1.4.6 // ruffle-nightly-2024-09-06",
+  "rom": {
+   "name": "253819_zelda202c.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6311M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=y5iKa1TEf4M"
+  }
+ ],
+ "submitted": "2024-12-26T11:26:15.809345",
+ "attachments": [],
+ "forum": {
+  "topicId": 508,
+  "url": "https://forum.toolassisted.run/t/508"
+ }
+}

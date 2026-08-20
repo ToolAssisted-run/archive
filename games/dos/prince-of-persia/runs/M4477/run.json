@@ -1,0 +1,56 @@
+{
+ "id": "M4477",
+ "game": "dos/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4477.jrsr",
+  "format": "jrsr",
+  "frames": 47312,
+  "rerecords": 172,
+  "start": "power-on",
+  "sha1": "cab01cdd01a4f99f78ca368290493b8d69fb4cfc"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "JPC-rr 11.8 rc2",
+  "rom": {
+   "name": "Prince of Persia (disk img)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4477M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=hlScbQsZ46w"
+  }
+ ],
+ "submitted": "2021-06-28T17:00:02",
+ "attachments": [],
+ "forum": {
+  "topicId": 270,
+  "url": "https://forum.toolassisted.run/t/270"
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-19"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M5861",
+ "game": "gc/sonic-gems-collection-sonic-the-fighters",
+ "category": {
+  "goal": "arcade"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5861.dtm",
+  "format": "dtm",
+  "frames": 18843,
+  "rerecords": 3837,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-20571",
+  "rom": {
+   "name": "Sonic Gems Collection (USA).iso"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5861M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IZwky2zwfiI"
+  }
+ ],
+ "submitted": "2024-03-15T18:33:15.531252",
+ "attachments": [],
+ "forum": {
+  "topicId": 605,
+  "url": "https://forum.toolassisted.run/t/605"
+ }
+}

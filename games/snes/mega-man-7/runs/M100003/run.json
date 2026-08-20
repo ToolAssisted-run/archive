@@ -1,0 +1,49 @@
+{
+ "id": "M100003",
+ "game": "snes/mega-man-7",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100003.bk2",
+  "format": "bk2",
+  "frames": 148644,
+  "rerecords": 57964,
+  "start": "power-on",
+  "sha1": "c54a66d71daf4ba3b0509b9a23ee379c217c34b0"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Mega Man VII (U).smc",
+   "sha1": "6e7c9c9dd397f771303ee4aec29d106b9f86c832"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=PQKp82jVmU0"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-08-16T12:16:14Z",
+ "submittedBy": "McBobX1",
+ "withdrawn": {
+  "by": "eien86",
+  "date": "2026-08-16",
+  "role": "expert",
+  "reason": "Submitted twice by a double click on the submit button: this is the second copy of M100002. The submit button now disables itself and the archive refuses a movie it already holds."
+ }
+}

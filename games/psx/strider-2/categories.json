@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "hien-mode",
+     "label": "Hien Mode",
+     "rule": "Imported from TASVideos as \"Hien Mode\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "id": "M7070",
+ "game": "nes/gimmick",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "alexyweb"
+  },
+  {
+   "user": "negative_seven"
+  },
+  {
+   "user": "SBDWolf"
+  },
+  {
+   "user": "Aglar"
+  },
+  {
+   "user": "Hotarubi"
+  },
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7070.bk2",
+  "format": "bk2",
+  "frames": 14263,
+  "rerecords": 27,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Gimmick! (J).nes",
+   "sha1": "835fee060b15700163a1f8ad9716a163bf79c8fd"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7070M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=p2xPZxLIm9Q"
+  }
+ ],
+ "submitted": "2026-04-15T21:17:23.901788",
+ "attachments": [],
+ "forum": {
+  "topicId": 709,
+  "url": "https://forum.toolassisted.run/t/709"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M6826",
+ "game": "arcade/art-of-fighting-3-the-path-of-the-warrior",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6826.bk2",
+  "format": "bk2",
+  "frames": 10001,
+  "rerecords": 3001,
+  "start": "power-on",
+  "fps": 59.1856060608428
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "aof3.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6826M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=CUKPZgqTj9Y"
+  }
+ ],
+ "submitted": "2025-11-21T18:48:57.179418",
+ "attachments": [],
+ "forum": {
+  "topicId": 635,
+  "url": "https://forum.toolassisted.run/t/635"
+ }
+}

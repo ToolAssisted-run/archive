@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "baseline",
+     "label": "fastest completion",
+     "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "pacifist-minimalist",
+     "label": "pacifist, minimalist",
+     "rule": "Imported from TASVideos as \"pacifist, minimalist\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "opposition",
+     "label": "Opposition",
+     "rule": "Imported from TASVideos as \"Opposition\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "grand-prix",
+     "label": "Grand Prix",
+     "rule": "Imported from TASVideos as \"Grand Prix\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

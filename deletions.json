@@ -1,0 +1,22 @@
+{
+ "comment": "What was deleted outright, by whom, and why. The thing itself is gone; this is where the act stays readable.",
+ "events": [
+  {
+   "kind": "game",
+   "key": "dos/test-title-alone-in-the-dark-4",
+   "title": "Test title: Alone in the Dark 4",
+   "by": "eien86",
+   "date": "2026-08-20",
+   "reason": "this was a test game",
+   "movedTo": "dos/uncategorized"
+  },
+  {
+   "kind": "run",
+   "key": "M100001",
+   "title": "dos/uncategorized (unclassified)",
+   "by": "eien86",
+   "date": "2026-08-20",
+   "reason": "this was a test movie"
+  }
+ ]
+}

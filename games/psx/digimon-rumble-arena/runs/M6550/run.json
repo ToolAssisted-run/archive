@@ -1,0 +1,50 @@
+{
+ "id": "M6550",
+ "game": "psx/digimon-rumble-arena",
+ "category": {
+  "goal": "hard"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6550.bk2",
+  "format": "bk2",
+  "frames": 31962,
+  "rerecords": 7542,
+  "start": "power-on",
+  "fps": 59.82930541828843
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Digimon Rumble Arena (USA).cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6550M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=19Pd2TBjY4A"
+  }
+ ],
+ "submitted": "2025-05-23T07:14:39.562889",
+ "attachments": [],
+ "forum": {
+  "topicId": 630,
+  "url": "https://forum.toolassisted.run/t/630"
+ }
+}

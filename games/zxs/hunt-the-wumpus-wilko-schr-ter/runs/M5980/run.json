@@ -1,0 +1,49 @@
+{
+ "id": "M5980",
+ "game": "zxs/hunt-the-wumpus-wilko-schr-ter",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CloakTheLurker"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5980.bk2",
+  "format": "bk2",
+  "frames": 5080,
+  "rerecords": 22,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Hunt the Wumpus (2006)(Schroter, Wilko)(16K)(DE)(en).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5980M",
+  "importedBy": "CloakTheLurker",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=pRkO8wiHSo8"
+  }
+ ],
+ "submitted": "2024-06-06T02:39:30.771169",
+ "attachments": [],
+ "forum": {
+  "topicId": 731,
+  "url": "https://forum.toolassisted.run/t/731"
+ }
+}

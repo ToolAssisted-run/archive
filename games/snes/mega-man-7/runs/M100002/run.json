@@ -1,0 +1,64 @@
+{
+ "id": "M100002",
+ "game": "snes/mega-man-7",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100002.bk2",
+  "format": "bk2",
+  "frames": 148644,
+  "rerecords": 57964,
+  "start": "power-on",
+  "sha1": "c54a66d71daf4ba3b0509b9a23ee379c217c34b0"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Mega Man VII (U).smc",
+   "sha1": "6e7c9c9dd397f771303ee4aec29d106b9f86c832"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=PQKp82jVmU0"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-08-16T12:16:10Z",
+ "submittedBy": "McBobX1",
+ "verifications": [
+  {
+   "user": "McBobX1",
+   "date": "2026-08-16",
+   "invalidated": {
+    "by": "eien86",
+    "date": "2026-08-19",
+    "reason": "Self-verification: the run is authored by McBobX and this verification was recorded by the same person under their pre-claim name McBobX1. Authors cannot verify their own run. Invalidated on the founder's instruction; the run returns to pending and anyone else may verify it."
+   }
+  }
+ ],
+ "forum": {
+  "topicId": 577,
+  "url": "https://forum.toolassisted.run/t/577"
+ },
+ "withdrawn": {
+  "by": "McBobX",
+  "date": "2026-08-16",
+  "reason": "duplicate",
+  "role": "author"
+ }
+}

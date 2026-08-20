@@ -1,0 +1,49 @@
+{
+ "id": "M5984",
+ "game": "zxs/cloak-of-darkness-the-quill",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CloakTheLurker"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5984.bk2",
+  "format": "bk2",
+  "frames": 2690,
+  "rerecords": 88,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "CoD Quill.tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5984M",
+  "importedBy": "CloakTheLurker",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=fobGMOTXovI"
+  }
+ ],
+ "submitted": "2024-06-08T02:43:26.210744",
+ "attachments": [],
+ "forum": {
+  "topicId": 732,
+  "url": "https://forum.toolassisted.run/t/732"
+ }
+}

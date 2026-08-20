@@ -1,0 +1,28 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "downtown-all-missions",
+     "label": "Downtown, all missions",
+     "rule": "Complete all gang missions, plus the last one, and exit the area",
+     "provisional": true
+    },
+    {
+     "key": "residental-all-missions",
+     "label": "Residental, all missions",
+     "rule": "complete all gang missions, including the last one, and exit the area",
+     "provisional": true
+    },
+    {
+     "key": "industrial-all-missions",
+     "label": "Industrial, all missions",
+     "rule": "complete all gang missions, including the last one, and exit the area",
+     "provisional": true
+    }
+   ]
+  }
+ ]
+}

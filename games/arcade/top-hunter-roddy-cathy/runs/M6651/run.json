@@ -1,0 +1,51 @@
+{
+ "id": "M6651",
+ "game": "arcade/top-hunter-roddy-cathy",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6651.bk2",
+  "format": "bk2",
+  "frames": 43666,
+  "rerecords": 16310,
+  "start": "power-on",
+  "sha1": "23596811695147c75c45893132affb48a7b6f3ce",
+  "fps": 59.1856060608428
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "tophuntr.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6651M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=BjyZ0etCVOY"
+  }
+ ],
+ "submitted": "2025-07-24T00:09:22.711796",
+ "attachments": [],
+ "forum": {
+  "topicId": 468,
+  "url": "https://forum.toolassisted.run/t/468"
+ }
+}

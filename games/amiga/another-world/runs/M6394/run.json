@@ -1,0 +1,51 @@
+{
+ "id": "M6394",
+ "game": "amiga/another-world",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6394.bk2",
+  "format": "bk2",
+  "frames": 53718,
+  "rerecords": 3142,
+  "start": "power-on",
+  "sha1": "11d1f75e7dfe9519bfb564cc4c775155b2d72303"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Another World (1991)(Delphine)(FR)",
+   "sha1": "d5993c7b998cf764b484b9ed4f5845754b70c814"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6394M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=81C76bhQ8y4"
+  }
+ ],
+ "submitted": "2025-02-20T13:32:40.533664",
+ "attachments": [],
+ "forum": {
+  "topicId": 26,
+  "url": "https://forum.toolassisted.run/t/26"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "M6545",
+ "game": "flash/arise",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6545.ltm",
+  "format": "ltm",
+  "frames": 1875,
+  "rerecords": 1662,
+  "start": "power-on",
+  "sha1": "73c08292c2ef65227fa9649e4a3da1e5f4a4fd5b",
+  "fps": 45.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "Arise_public.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6545M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3mcbCZDr87w"
+  }
+ ],
+ "submitted": "2025-05-18T05:37:09.296059",
+ "attachments": [],
+ "forum": {
+  "topicId": 487,
+  "url": "https://forum.toolassisted.run/t/487"
+ }
+}

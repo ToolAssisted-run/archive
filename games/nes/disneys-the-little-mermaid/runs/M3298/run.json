@@ -1,0 +1,50 @@
+{
+ "id": "M3298",
+ "game": "nes/disneys-the-little-mermaid",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3298.fm2",
+  "format": "fm2",
+  "frames": 24119,
+  "rerecords": 5501,
+  "start": "power-on",
+  "sha1": "a3db21eb0e8c55002121cdd5afbc24aa734ae8c3"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "rom": {
+   "name": "Disney's The Little Mermaid (U).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3298M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=LlQNZEOqwik"
+  }
+ ],
+ "submitted": "2016-12-29T14:47:14",
+ "attachments": [],
+ "forum": {
+  "topicId": 540,
+  "url": "https://forum.toolassisted.run/t/540"
+ }
+}

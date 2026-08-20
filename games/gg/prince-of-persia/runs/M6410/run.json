@@ -1,0 +1,59 @@
+{
+ "id": "M6410",
+ "game": "gg/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "TascoDLX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6410.bk2",
+  "format": "bk2",
+  "frames": 49151,
+  "rerecords": 979,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Prince_of_Persia_(UE)_[!].sms",
+   "sha1": "7820699ee6b214f3f02f724f4d7891184caf93f8"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6410M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=E594q-_2hrM"
+  }
+ ],
+ "submitted": "2025-03-03T08:07:09.859504",
+ "attachments": [],
+ "forum": {
+  "topicId": 701,
+  "url": "https://forum.toolassisted.run/t/701"
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-19"
+  }
+ ]
+}

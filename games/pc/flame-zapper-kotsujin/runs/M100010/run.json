@@ -1,0 +1,61 @@
+{
+ "id": "M100010",
+ "game": "pc/flame-zapper-kotsujin",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100010.ltm",
+  "format": "ltm",
+  "sha1": "7546eb2477ea431ce979229f1a84d66f74f7e77c",
+  "frames": 67552,
+  "rerecords": 4066,
+  "start": "power-on",
+  "fps": 56.42313651024932
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.8",
+  "rom": {
+   "name": "CO2-Pro (Flame Zapper Kotsujin).hdi",
+   "sha1": "8e92e7b6ff87c1e45cb586149634a93740317a09"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=9ceAN-qDw6U"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/readme.txt",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/fzk67765CompleteInitials.ltm",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/np21kai.cfg",
+   "role": "submitted attachment"
+  }
+ ],
+ "submitted": "2026-08-19T04:33:25Z",
+ "submittedBy": "CoolHandMike",
+ "forum": {
+  "topicId": 683,
+  "url": "https://forum.toolassisted.run/t/683"
+ }
+}

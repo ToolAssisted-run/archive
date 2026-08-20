@@ -1,0 +1,49 @@
+{
+ "id": "M4536",
+ "game": "nes/panic-restaurant",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Riyan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4536.bk2",
+  "format": "bk2",
+  "frames": 46753,
+  "rerecords": 72334,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.6.2",
+  "rom": {
+   "name": "Wanpaku Kokkun no Gourmet World (Japan).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4536M",
+  "importedBy": "Riyan",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=YhsT_KTPnrw"
+  }
+ ],
+ "submitted": "2021-10-18T04:27:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 679,
+  "url": "https://forum.toolassisted.run/t/679"
+ }
+}

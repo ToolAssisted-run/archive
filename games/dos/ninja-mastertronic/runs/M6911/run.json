@@ -1,0 +1,52 @@
+{
+ "id": "M6911",
+ "game": "dos/ninja-mastertronic",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6911.bk2",
+  "format": "bk2",
+  "frames": 6349,
+  "rerecords": 471,
+  "start": "power-on",
+  "sha1": "32614797b076e487b93037023413a4171c256fa8",
+  "fps": 59.92336152219873
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Ninja (1986)(Mastertronic Group Ltd.) [Action].zip",
+   "sha1": "8b9edbb19148743ea1b24d1eaca9c596d1e6f616"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6911M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=sadfWvSYsAw"
+  }
+ ],
+ "submitted": "2025-12-27T09:29:25.717794",
+ "attachments": [],
+ "forum": {
+  "topicId": 262,
+  "url": "https://forum.toolassisted.run/t/262"
+ }
+}

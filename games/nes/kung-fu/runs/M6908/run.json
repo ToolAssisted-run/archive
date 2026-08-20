@@ -1,0 +1,53 @@
+{
+ "id": "M6908",
+ "game": "nes/kung-fu",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Phil"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6908.bk2",
+  "format": "bk2",
+  "frames": 13256,
+  "rerecords": 157,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Kung Fu (U) [!].nes",
+   "sha1": "c054a885fb9b00d3f6797a35ba5579f2896a254a"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6908M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8fyIiu5rShI"
+  }
+ ],
+ "submitted": "2025-12-25T16:33:49.798822",
+ "attachments": [],
+ "forum": {
+  "topicId": 706,
+  "url": "https://forum.toolassisted.run/t/706"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M6396",
+ "game": "genesis/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6396.bk2",
+  "format": "bk2",
+  "frames": 67607,
+  "rerecords": 1563,
+  "start": "power-on",
+  "sha1": "84d82adca9e46dc0f03e86f8287803ffa2c5addf",
+  "fps": 49.70146011994842
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Prince of Persia (E).bin",
+   "sha1": "6e645b791e6e2b84a206dca6cf47e8f955e60a72"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6396M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=1UXjysIMa3k"
+  }
+ ],
+ "submitted": "2025-02-21T18:01:31.407439",
+ "attachments": [],
+ "forum": {
+  "topicId": 316,
+  "url": "https://forum.toolassisted.run/t/316"
+ }
+}

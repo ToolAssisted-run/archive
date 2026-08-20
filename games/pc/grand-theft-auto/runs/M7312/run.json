@@ -1,0 +1,58 @@
+{
+ "id": "M7312",
+ "game": "pc/grand-theft-auto",
+ "category": {
+  "goal": "liberty-city-chapter-1-gangsta-bang-100"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Tarakan3000"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7312.bk2",
+  "format": "bk2",
+  "frames": 974199,
+  "rerecords": 13975,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "rom": {
+   "name": "Grand Theft Auto (USA) (En,Fr,De,It).cue"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7312M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xWs4vc2HWWQ"
+  }
+ ],
+ "submitted": "2026-08-11T09:01:02.333462",
+ "attachments": [],
+ "forum": {
+  "topicId": 715,
+  "url": "https://forum.toolassisted.run/t/715"
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-19"
+  }
+ ]
+}

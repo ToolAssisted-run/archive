@@ -1,0 +1,51 @@
+{
+ "id": "M6404",
+ "game": "flash/home-sweet-home-2",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6404.ltm",
+  "format": "ltm",
+  "frames": 103,
+  "rerecords": 33,
+  "start": "power-on",
+  "sha1": "0593af7863dfdf66256f72a414be71c892d5be55",
+  "fps": 60.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "hsh2-2.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6404M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Iag7vh70Nyo"
+  }
+ ],
+ "submitted": "2025-02-28T15:35:15.869204",
+ "attachments": [],
+ "forum": {
+  "topicId": 493,
+  "url": "https://forum.toolassisted.run/t/493"
+ }
+}

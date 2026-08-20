@@ -1,0 +1,59 @@
+{
+ "id": "M6851",
+ "game": "gba/max-payne",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [
+  {
+   "name": "AdvancedBot"
+  }
+ ],
+ "movie": {
+  "file": "M6851.bk2",
+  "format": "bk2",
+  "frames": 59647,
+  "rerecords": 807101,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Max Payne Advance (Europe) (En,Fr,De).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6851M",
+  "importedBy": "toca",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=FZCox5lTHms"
+  }
+ ],
+ "submitted": "2025-11-29T00:32:19.984324",
+ "attachments": [],
+ "forum": {
+  "topicId": 669,
+  "url": "https://forum.toolassisted.run/t/669"
+ },
+ "likes": [
+  {
+   "user": "GMP",
+   "date": "2026-08-18"
+  }
+ ]
+}

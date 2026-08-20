@@ -1,0 +1,50 @@
+{
+ "id": "M6284",
+ "game": "ds/spider-man-shattered-dimensions",
+ "category": {
+  "goal": "all-items"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6284.dsm",
+  "format": "dsm",
+  "frames": 101312,
+  "rerecords": 73496,
+  "start": "sram",
+  "sha1": "6ef74d58eeb1fe0abe72ccc09f00081c48e1173f"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "DeSmuME 0.9.13",
+  "rom": {
+   "name": "Spider-Man - Shattered Dimensions (USA) (En,Fr).nds"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6284M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=HWJ4wcWx9ck"
+  }
+ ],
+ "submitted": "2024-12-01T11:10:07.732716",
+ "attachments": [],
+ "forum": {
+  "topicId": 476,
+  "url": "https://forum.toolassisted.run/t/476"
+ }
+}

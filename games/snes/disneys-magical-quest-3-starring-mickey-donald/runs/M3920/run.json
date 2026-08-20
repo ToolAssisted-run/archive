@@ -1,0 +1,49 @@
+{
+ "id": "M3920",
+ "game": "snes/disneys-magical-quest-3-starring-mickey-donald",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3920.lsmv",
+  "format": "lsmv",
+  "frames": 88375,
+  "rerecords": 29624,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr2-\u00df23",
+  "rom": {
+   "name": "Mickey to Donald - Magical Adventure 3 (Japan).sfc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3920M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtube.com/watch?v=X41bhpM0ZOE"
+  }
+ ],
+ "submitted": "2019-03-15T03:46:14",
+ "attachments": [],
+ "forum": {
+  "topicId": 594,
+  "url": "https://forum.toolassisted.run/t/594"
+ }
+}

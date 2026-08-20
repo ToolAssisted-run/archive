@@ -1,0 +1,50 @@
+{
+ "id": "M6970",
+ "game": "ds/emma-in-the-mountains",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6970.bk2",
+  "format": "bk2",
+  "frames": 43686,
+  "rerecords": 62627,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "2336 - Emma in the Mountains (Europe) (En,Fr,De,Es,It,Nl,Pt).nds",
+   "sha1": "aecd3699740da27d9ad2347ae9d39d15412c217b"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6970M",
+  "importedBy": "toca",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=sz_OgIs2VRc"
+  }
+ ],
+ "submitted": "2026-02-09T11:02:18.749387",
+ "attachments": [],
+ "forum": {
+  "topicId": 671,
+  "url": "https://forum.toolassisted.run/t/671"
+ }
+}

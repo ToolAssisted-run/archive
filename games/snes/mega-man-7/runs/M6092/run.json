@@ -1,0 +1,50 @@
+{
+ "id": "M6092",
+ "game": "snes/mega-man-7",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6092.bk2",
+  "format": "bk2",
+  "frames": 148644,
+  "rerecords": 57964,
+  "start": "power-on",
+  "sha1": "c54a66d71daf4ba3b0509b9a23ee379c217c34b0"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Mega Man VII (U).smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6092M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OKV7e5SM3Fs"
+  }
+ ],
+ "submitted": "2024-08-17T14:14:09.489365",
+ "attachments": [],
+ "forum": {
+  "topicId": 578,
+  "url": "https://forum.toolassisted.run/t/578"
+ }
+}

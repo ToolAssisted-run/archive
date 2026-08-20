@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "factory-driver",
+     "label": "Factory Driver",
+     "rule": "Imported from TASVideos as \"Factory Driver\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

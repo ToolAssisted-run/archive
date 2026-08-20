@@ -1,0 +1,50 @@
+{
+ "id": "M6147",
+ "game": "gba/naruto-ninja-council",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6147.bk2",
+  "format": "bk2",
+  "frames": 36731,
+  "rerecords": 12788,
+  "start": "power-on",
+  "sha1": "bc1912d5ef64e730061f006f677e80dee4e03755"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Naruto - Ninja Council (USA).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6147M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wtc96KQvhK4"
+  }
+ ],
+ "submitted": "2024-09-02T03:04:25.893324",
+ "attachments": [],
+ "forum": {
+  "topicId": 519,
+  "url": "https://forum.toolassisted.run/t/519"
+ }
+}

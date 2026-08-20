@@ -1,0 +1,51 @@
+{
+ "id": "M6787",
+ "game": "dos/kings-of-the-beach",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6787.bk2",
+  "format": "bk2",
+  "frames": 205743,
+  "rerecords": 0,
+  "start": "power-on",
+  "sha1": "33673a72bda5bbc9e9d6b01cc7c77e800e02f817",
+  "fps": 70.0863028953229
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "kingsOfTheBeach.ima"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6787M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=N6eYmlHx2O4"
+  }
+ ],
+ "submitted": "2025-10-25T02:52:36.509442",
+ "attachments": [],
+ "forum": {
+  "topicId": 258,
+  "url": "https://forum.toolassisted.run/t/258"
+ }
+}

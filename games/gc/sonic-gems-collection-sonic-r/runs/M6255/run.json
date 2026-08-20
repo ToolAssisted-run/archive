@@ -1,0 +1,49 @@
+{
+ "id": "M6255",
+ "game": "gc/sonic-gems-collection-sonic-r",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6255.dtm",
+  "format": "dtm",
+  "frames": 39097,
+  "rerecords": 16728,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-20571",
+  "rom": {
+   "name": "Sonic Gems Collection (USA).iso"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6255M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8DbMqvu6s9E"
+  }
+ ],
+ "submitted": "2024-11-10T17:37:20.009164",
+ "attachments": [],
+ "forum": {
+  "topicId": 621,
+  "url": "https://forum.toolassisted.run/t/621"
+ }
+}

@@ -125,6 +125,28 @@
      "type": "string"
     }
    }
+  },
+  "forum": {
+   "type": "object",
+   "required": [
+    "topicId"
+   ],
+   "description": "the game's anchor topic; its tag page is the game's forum home",
+   "properties": {
+    "topicId": {
+     "type": "integer",
+     "minimum": 1
+    },
+    "url": {
+     "type": "string",
+     "pattern": "^https?://"
+    }
+   }
+  },
+  "thumbnail": {
+   "type": "string",
+   "pattern": "^thumb\\.(png|jpg|webp)$",
+   "description": "an expert-set face for the game's page and card"
   }
  }
 }

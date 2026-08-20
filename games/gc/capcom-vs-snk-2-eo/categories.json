@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "playaround",
+     "label": "playaround",
+     "rule": "Imported from TASVideos as \"playaround\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "survival-maximum-score",
+     "label": "survival, maximum score",
+     "rule": "Imported from TASVideos as \"survival, maximum score\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

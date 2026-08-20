@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "all-stages-and-bosses",
+     "label": "all stages and bosses",
+     "rule": "Imported from TASVideos as \"all stages and bosses\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

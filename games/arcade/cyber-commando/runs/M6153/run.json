@@ -1,0 +1,51 @@
+{
+ "id": "M6153",
+ "game": "arcade/cyber-commando",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6153.bk2",
+  "format": "bk2",
+  "frames": 10306,
+  "rerecords": 5141,
+  "start": "power-on",
+  "sha1": "288ceab1d7386ef054db95d1a3ba8ef910d055a2",
+  "fps": 59.904059904059906
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "cybrcomm.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6153M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=4k5jq5-0e6A"
+  }
+ ],
+ "submitted": "2024-09-04T07:36:40.700333",
+ "attachments": [],
+ "forum": {
+  "topicId": 448,
+  "url": "https://forum.toolassisted.run/t/448"
+ }
+}

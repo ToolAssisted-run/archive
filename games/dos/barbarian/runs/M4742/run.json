@@ -1,0 +1,52 @@
+{
+ "id": "M4742",
+ "game": "dos/barbarian",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4742.ltm",
+  "format": "ltm",
+  "frames": 43990,
+  "rerecords": 771,
+  "start": "power-on",
+  "sha1": "f92f1f830df5aac11f21639fdc433bb73ef9911b",
+  "fps": 100.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.3 + PCem 17+st-1 + Late '80s Package",
+  "rom": {
+   "name": "disk1.img",
+   "sha1": "e36ed1ac686460d104c23780d8b2231371f33de7"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4742M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=GHADm8fUDJs"
+  }
+ ],
+ "submitted": "2022-06-25T12:16:49.479538",
+ "attachments": [],
+ "forum": {
+  "topicId": 50,
+  "url": "https://forum.toolassisted.run/t/50"
+ }
+}

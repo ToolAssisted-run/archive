@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "very-difficult",
+     "label": "Very Difficult",
+     "rule": "Imported from TASVideos as \"Very Difficult\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

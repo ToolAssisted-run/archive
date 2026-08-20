@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "warpless",
+     "label": "warpless",
+     "rule": "Imported from TASVideos as \"warpless\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

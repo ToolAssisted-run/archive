@@ -1,0 +1,56 @@
+{
+ "id": "M5450",
+ "game": "gbc/super-mario-bros-deluxe",
+ "category": {
+  "goal": "warps"
+ },
+ "authors": [
+  {
+   "user": "Denial140"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5450.bk2",
+  "format": "bk2",
+  "frames": 17901,
+  "rerecords": 10383,
+  "start": "power-on",
+  "fps": 59.88894596054293
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Super Mario Bros. Deluxe (U) (V1.1) [C][!].gbc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5450M",
+  "importedBy": "Denial140",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ZJwkFImAmVs"
+  }
+ ],
+ "submitted": "2023-07-27T07:27:47.972146",
+ "attachments": [],
+ "forum": {
+  "topicId": 588,
+  "url": "https://forum.toolassisted.run/t/588"
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-19"
+  }
+ ]
+}

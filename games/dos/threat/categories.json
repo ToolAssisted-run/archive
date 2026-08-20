@@ -1,0 +1,25 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "episode-1-3-players",
+     "label": "Episode 1, 3 players",
+     "rule": "Imported from TASVideos as \"Episode 1, 3 players\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "episode-2-3-players",
+     "label": "Episode 2, 3 players",
+     "rule": "Imported from TASVideos as \"Episode 2, 3 players\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "episode-3-3-players",
+     "label": "Episode 3, 3 players",
+     "rule": "Imported from TASVideos as \"Episode 3, 3 players\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

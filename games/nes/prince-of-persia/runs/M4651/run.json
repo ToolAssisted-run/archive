@@ -1,0 +1,56 @@
+{
+ "id": "M4651",
+ "game": "nes/prince-of-persia",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4651.bk2",
+  "format": "bk2",
+  "frames": 55294,
+  "rerecords": 1091,
+  "start": "power-on",
+  "sha1": "00914fce844b0ad5bef11f65182b84a5e0a77c23"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.7",
+  "rom": {
+   "name": "Prince of Persia (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4651M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=dU3hOh2Rb8g"
+  }
+ ],
+ "submitted": "2022-05-02T15:26:48.421598",
+ "attachments": [],
+ "forum": {
+  "topicId": 402,
+  "url": "https://forum.toolassisted.run/t/402"
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-19"
+  }
+ ]
+}

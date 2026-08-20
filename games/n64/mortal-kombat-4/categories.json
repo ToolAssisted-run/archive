@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "endurance",
+     "label": "Endurance",
+     "rule": "Imported from TASVideos as \"Endurance\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

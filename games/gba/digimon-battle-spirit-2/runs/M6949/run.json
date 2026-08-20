@@ -1,0 +1,49 @@
+{
+ "id": "M6949",
+ "game": "gba/digimon-battle-spirit-2",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6949.bk2",
+  "format": "bk2",
+  "frames": 52543,
+  "rerecords": 6362,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6949M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=GYiV22Y42uA"
+  }
+ ],
+ "submitted": "2026-01-18T03:51:49.117683",
+ "attachments": [],
+ "forum": {
+  "topicId": 637,
+  "url": "https://forum.toolassisted.run/t/637"
+ }
+}

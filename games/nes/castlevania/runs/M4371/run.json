@@ -1,0 +1,49 @@
+{
+ "id": "M4371",
+ "game": "nes/castlevania",
+ "category": {
+  "goal": "pacifist-minimalist"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4371.bk2",
+  "format": "bk2",
+  "frames": 40117,
+  "rerecords": 62238,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.4",
+  "rom": {
+   "name": "Castlevania (U) (PRG0) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4371M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7MVT07tr_yU"
+  }
+ ],
+ "submitted": "2020-12-31T17:37:05",
+ "attachments": [],
+ "forum": {
+  "topicId": 665,
+  "url": "https://forum.toolassisted.run/t/665"
+ }
+}

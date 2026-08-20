@@ -1,0 +1,55 @@
+{
+ "id": "M7169",
+ "game": "a2600/galaxian",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "SelflessVanity"
+  },
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7169.bk2",
+  "format": "bk2",
+  "frames": 20821,
+  "rerecords": 589,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Galaxian (USA).a26"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7169M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=VV16sc0lCDI"
+  }
+ ],
+ "submitted": "2026-06-02T11:37:42.116157",
+ "attachments": [],
+ "forum": {
+  "topicId": 710,
+  "url": "https://forum.toolassisted.run/t/710"
+ }
+}

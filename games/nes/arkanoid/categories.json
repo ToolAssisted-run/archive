@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "warpless",
+     "label": "warpless",
+     "rule": "Imported from TASVideos as \"warpless\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "warps-demo-glitch",
+     "label": "warps, demo glitch",
+     "rule": "Imported from TASVideos as \"warps, demo glitch\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5473",
+ "game": "nes/saint-seiya-ougon-densetsu",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "TaoTao"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5473.bk2",
+  "format": "bk2",
+  "frames": 76724,
+  "rerecords": 19670,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "Saint Seiya - Ougon Densetsu (J) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5473M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=SQkh8P856U0"
+  }
+ ],
+ "submitted": "2023-08-04T11:49:01.461914",
+ "attachments": [],
+ "forum": {
+  "topicId": 695,
+  "url": "https://forum.toolassisted.run/t/695"
+ }
+}

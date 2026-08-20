@@ -1,0 +1,56 @@
+{
+ "id": "M4839",
+ "game": "nes/ironsword-wizards-warriors-ii",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  },
+  {
+   "user": "Aglar"
+  },
+  {
+   "user": "Randil"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4839.bk2",
+  "format": "bk2",
+  "frames": 25786,
+  "rerecords": 47,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Ironsword - Wizards and Warriors 2 (U).nes",
+   "sha1": "03130f8464b3f4418427bf124eb15fbaeb86e09d"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4839M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=EZymh-bETBc"
+  }
+ ],
+ "submitted": "2022-09-23T03:18:39.602836",
+ "attachments": [],
+ "forum": {
+  "topicId": 688,
+  "url": "https://forum.toolassisted.run/t/688"
+ }
+}

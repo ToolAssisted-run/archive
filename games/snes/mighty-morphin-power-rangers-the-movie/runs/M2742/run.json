@@ -1,0 +1,49 @@
+{
+ "id": "M2742",
+ "game": "snes/mighty-morphin-power-rangers-the-movie",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2742.lsmv",
+  "format": "lsmv",
+  "frames": 99088,
+  "rerecords": 15056,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Lsnes rr1-\u039418\u03b53",
+  "rom": {
+   "name": "Mighty Morphin Power Rangers - The Movie.smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2742M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=RoGfjPz6jyY"
+  }
+ ],
+ "submitted": "2014-12-17T03:44:40",
+ "attachments": [],
+ "forum": {
+  "topicId": 592,
+  "url": "https://forum.toolassisted.run/t/592"
+ }
+}

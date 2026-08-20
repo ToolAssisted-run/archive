@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "julius-mode-all-bosses",
+     "label": "Julius mode, all bosses",
+     "rule": "Imported from TASVideos as \"Julius mode, all bosses\"; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

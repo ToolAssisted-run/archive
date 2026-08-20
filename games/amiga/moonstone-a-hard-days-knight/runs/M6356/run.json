@@ -1,0 +1,51 @@
+{
+ "id": "M6356",
+ "game": "amiga/moonstone-a-hard-days-knight",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6356.bk2",
+  "format": "bk2",
+  "frames": 31759,
+  "rerecords": 3941,
+  "start": "power-on",
+  "sha1": "0aa3d5ebc25881aefcfa675303c5a6fec1b59bbd"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Moonstone - A Hard Days Knight (1991)(Mindscape)(Disk 1 of 3)[cr].adf",
+   "sha1": "a4f264122eb6808c8a31a4cfd6144e4aba39e3ef"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6356M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Yr4Orgg0pLY"
+  }
+ ],
+ "submitted": "2025-01-24T08:35:14.699385",
+ "attachments": [],
+ "forum": {
+  "topicId": 32,
+  "url": "https://forum.toolassisted.run/t/32"
+ }
+}

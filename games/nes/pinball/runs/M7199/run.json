@@ -1,0 +1,57 @@
+{
+ "id": "M7199",
+ "game": "nes/pinball",
+ "category": {
+  "goal": "100k-glitched"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [
+  {
+   "name": "jaffarPlus",
+   "role": "routing bot"
+  }
+ ],
+ "movie": {
+  "file": "M7199.bk2",
+  "format": "bk2",
+  "frames": 1783,
+  "fps": 60.0988138974405,
+  "rerecords": 14,
+  "start": "power-on",
+  "sha1": "fa719cc6a2a340fde902825b15135af28b90c8b0"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "sha1": "be348431a9c03d1a588a8363c0094b5a0722d9be",
+   "name": "Pinball (JU) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7199M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=VbGCbuiY-pQ"
+  }
+ ],
+ "submitted": "2026-06-14T14:41:17.868949",
+ "attachments": [],
+ "forum": {
+  "topicId": 396,
+  "url": "https://forum.toolassisted.run/t/396"
+ }
+}

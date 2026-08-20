@@ -36,7 +36,7 @@ except ImportError:
 
 ROOT = pathlib.Path(__file__).parent
 ALLOWED_ATTACH_EXT = {'.txt', '.md', '.ini', '.cfg', '.conf', '.toml', '.json',
-                      '.yaml', '.yml', '.lua', '.sync', '.properties'}
+                      '.yaml', '.yml', '.xml', '.lua', '.sync', '.properties'}
 MOVIE_ATTACH_EXT = {'.3ct', '.bk2', '.ctas', '.ctm', '.dft', '.dsm', '.dtm', '.fbm', '.fm2', '.fm3', '.gbmv', '.gmv', '.gzm', '.jrsr', '.lmp', '.lsmv', '.ltm', '.m64', '.mar', '.omr', '.p2m2', '.tas', '.tasproj', '.vbm', '.wtf'}
 # What a git host will actually hold, not what we invite: intake stops at
 # 32 MB (archivist and selfimport), so anything larger is here because a person
@@ -112,6 +112,25 @@ for f in (ROOT / 'authors').glob('*.json'):
         err(f'{f}: a committee-approved claim names nobody who approved it')
     members.add(rec.get('username', '').lower())
 
+# A claim supersedes the name the person registered under: the record that
+# name wrote at first login is deleted when the claim is approved. Whatever
+# was recorded under the old name (credits, acts) still belongs to the member
+# it became, so every check resolves names through this map.
+alias = {}
+for f in (ROOT / 'authors').glob('*.json'):
+    rec = json.loads(f.read_text())
+    by = (rec.get('claimedBy') or '').lower()
+    if by and by != rec.get('username', '').lower():
+        alias[by] = rec.get('username', '').lower()
+for _old, _new in sorted(alias.items()):
+    if _old in members:
+        err(f'authors/: {_old!r} is both a member record and a name superseded by '
+            f'{_new!r} — approving a claim deletes the record it replaces')
+
+def canon(name):
+    n = name.lower()
+    return alias.get(n, n)
+
 # claims.json: who asked for a held name and how it was answered. No email
 # address may ever appear here; the archive is public and a request to be given
 # your own name back is not a reason to publish where you can be reached.
@@ -132,6 +151,23 @@ if (ROOT / 'claims.json').exists():
         if '@' in json.dumps(_r):
             err(f'claims.json: the claim for {_r["identity"]!r} looks like it carries '
                 f'an email address; addresses never go in the archive')
+
+# edits.json: every expert modification of the record, field by field, with
+# who and why. Git history carries the diffs; this log carries the account.
+if (ROOT / 'edits.json').exists():
+    check_schema('edits', json.loads((ROOT / 'edits.json').read_text()),
+                 ROOT / 'edits.json')
+
+# deletions.json: what was deleted outright, by whom, and why. The thing is
+# gone, so this log is the only place the act remains readable; every entry
+# says who and why, or the deletion happened to nobody's name.
+if (ROOT / 'deletions.json').exists():
+    _dl = json.loads((ROOT / 'deletions.json').read_text())
+    check_schema('deletions', _dl, ROOT / 'deletions.json')
+    for _e in _dl.get('events', []):
+        if _e['kind'] == 'game' and not _e.get('movedTo'):
+            err(f'deletions.json: the deleted game {_e["key"]!r} does not say where '
+                f'its runs went; runs survive a game deletion')
 
 # roles.json holds the events; who holds what is the fold, and nothing stores
 # that separately, so the two can never disagree.
@@ -194,6 +230,17 @@ for gjson in ROOT.glob('games/*/*/game.json'):
     if gdoc.get('rejected') and gdoc.get('established'):
         err(f'{gjson}: refused by {gdoc["rejected"]["by"]!r} and established at once')
     check_removals(gdoc, str(gjson))
+    if gdoc.get('thumbnail'):
+        tp = gdir / gdoc['thumbnail']
+        if not tp.is_file():
+            err(f'{gjson}: declared thumbnail {gdoc["thumbnail"]!r} missing')
+        else:
+            if tp.stat().st_size > THUMB_MAX:
+                err(f'{gjson}: thumbnail exceeds {THUMB_MAX>>10} KB')
+            magics = IMAGE_MAGIC.get(tp.suffix.lower(), [])
+            if not any(tp.read_bytes()[:12].startswith(m) for m in magics):
+                err(f'{gjson}: thumbnail {gdoc["thumbnail"]!r} is not a real '
+                    f'image of its declared kind')
     cjson = gdir / 'categories.json'
     if not cjson.exists():
         err(f'{gdir}: missing categories.json')
@@ -218,8 +265,12 @@ for gjson in ROOT.glob('games/*/*/game.json'):
         except json.JSONDecodeError as e:
             err(f'{rj}: not valid JSON ({e})'); continue
         check_schema('run', r, rj)
-        if not isinstance(r.get('movie'), dict) or not r['movie'].get('file'):
+        if not r.get('videoOnly') and (
+                not isinstance(r.get('movie'), dict) or not r['movie'].get('file')):
             err(f'{rdir}: run.json has no movie.file'); continue
+        if r.get('videoOnly') and r.get('movie'):
+            err(f'{rdir}: video-only and carrying a movie is a contradiction; '
+                f'pick one')
         if r.get('id') != rdir.name:
             err(f'{rdir}: id {r.get("id")!r} != folder name')
         # 'unclassified' is a special category available on every game: no
@@ -235,23 +286,26 @@ for gjson in ROOT.glob('games/*/*/game.json'):
             if not (r.get('goalDescription') or '').strip():
                 err(f'{rdir}: Unclassified runs must describe their goal '
                     f'(goalDescription)')
-            if r.get('verifications'):
-                err(f'{rdir}: Unclassified runs cannot be verified — no goal '
-                    f'is defined')
+            # a goal-less run cannot carry a LIVE verification: there is
+            # nothing to verify. Invalidated ones are history (a game deletion
+            # voids the goal its verifications were bound to) and stay.
+            if any(not v.get('invalidated') for v in r.get('verifications', [])):
+                err(f'{rdir}: Unclassified runs cannot hold a live verification '
+                    f'— no goal is defined')
         # A withdrawal whose reason IS the publication takes the files down
         # with it: the record stays so the id is never reused and the history
         # stays legible, but the movie, the notes and the thumbnail are gone.
         gone = bool((r.get('withdrawn') or {}).get('contentRemoved'))
-        movie = rdir / r['movie']['file']
+        movie = rdir / r['movie']['file'] if r.get('movie') else None
         if gone:
-            if movie.exists():
+            if movie and movie.exists():
                 err(f'{rdir}: withdrawn with contentRemoved, but the movie '
                     f'{r["movie"]["file"]!r} is still here')
             if (rdir / 'notes.md').exists():
                 err(f'{rdir}: withdrawn with contentRemoved, but notes.md is still here')
-        elif not movie.exists():
+        elif movie and not movie.exists():
             err(f'{rdir}: declared movie {r["movie"]["file"]!r} missing')
-        elif movie.stat().st_size > MOVIE_MAX:
+        elif movie and movie.stat().st_size > MOVIE_MAX:
             err(f'{rdir}: movie exceeds {MOVIE_MAX>>20} MB')
         notes = rdir / 'notes.md'
         if notes.exists() and notes.stat().st_size > NOTES_MAX:
@@ -306,15 +360,15 @@ for gjson in ROOT.glob('games/*/*/game.json'):
             err(f'{rdir}: text attachments exceed {ATTACH_MAX_TOTAL>>10} KB total')
 
         # community rosters: self-acts, duplicates, screenshots, status honesty
-        author_names = {a['user'].lower() for a in r.get('authors', [])}
+        author_names = {canon(a['user']) for a in r.get('authors', [])}
         shots = set()
         shot_total = 0
         for kind in ('reproductions', 'verifications', 'consoleVerifications'):
             seen_users = set()
             for act in r.get(kind, []):
-                u = act['user'].lower()
+                u = canon(act['user'])
                 act_actors.append((rdir, act['user'], kind))
-                if u in author_names:
+                if u in author_names and not act.get('invalidated'):
                     err(f'{rdir}: {kind[:-1]} by {act["user"]!r} — authors cannot '
                         f'act on their own run')
                 if u in seen_users:
@@ -366,11 +420,11 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                 err(f'{rdir}: withdrawn without naming who did it')
 
         # likes: one per member, never the run's own authors
-        author_names_l = {a['user'].lower() for a in r.get('authors', [])}
+        author_names_l = {canon(a['user']) for a in r.get('authors', [])}
         seen_likes = set()
         for like in r.get('likes', []):
             lu = like['user']
-            ll = lu.lower()
+            ll = canon(lu)
             act_actors.append((rdir, lu, 'likes'))
             if ll in author_names_l:
                 err(f'{rdir}: like by {lu!r} — authors cannot like their own run')
@@ -424,7 +478,11 @@ for gjson in ROOT.glob('games/*/*/game.json'):
         st = r.get('status', {})
         # the third signal: community when somebody here played it back on
         # hardware, imported when TASVideos had already console-verified it
-        if st.get('console') != 'imported':
+        if r.get('videoOnly'):
+            pass                       # console is 'not-applicable', checked above
+        elif st.get('console') == 'not-applicable':
+            err(f'{rdir}: only a video-only run marks console not-applicable')
+        elif st.get('console') != 'imported':
             live_c = [a for a in r.get('consoleVerifications', []) if not a.get('invalidated')]
             want_console = 'community' if live_c else 'none'
             if st.get('console') != want_console:
@@ -432,20 +490,39 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                     f'roster derives {want_console!r}')
         elif not r.get('imported'):
             err(f'{rdir}: status.console is "imported" but the run was not imported')
-        if st.get('reproduced') != 'imported':
+        if r.get('videoOnly'):
+            # the encode is the run: nothing exists to reproduce or replay
+            if r.get('reproductions') or r.get('consoleVerifications'):
+                err(f'{rdir}: a video-only run cannot carry reproductions or '
+                    f'console verifications; there is no input movie to replay')
+            if st.get('reproduced') != 'not-applicable' or \
+                    st.get('console') != 'not-applicable':
+                err(f'{rdir}: a video-only run marks reproduced and console '
+                    f'as not-applicable')
+            if not r.get('encodes'):
+                err(f'{rdir}: a video-only run IS its encode; it must link one')
+        if not r.get('videoOnly') and st.get('reproduced') == 'not-applicable':
+            err(f'{rdir}: only a video-only run marks reproduced not-applicable')
+        if st.get('reproduced') not in ('imported', 'not-applicable'):
             live_r = [a for a in r.get('reproductions', []) if not a.get('invalidated')]
-            live_v = [a for a in r.get('verifications', []) if not a.get('invalidated')]
             want_repro = 'community' if live_r else 'none'
-            want_ver = 'full' if len(live_v) >= 2 else 'provisional' if live_v else 'none'
             if st.get('reproduced') != want_repro:
                 err(f'{rdir}: status.reproduced is {st.get("reproduced")!r} but the '
                     f'roster derives {want_repro!r}')
+        if st.get('verified') != 'imported':
+            live_v = [a for a in r.get('verifications', []) if not a.get('invalidated')]
+            # verification gates ranking (2026-08-19): community = provisional
+            # (ranked), a covering expert's = confirmed (permanent)
+            want_ver = ('confirmed' if any(a.get('expert') for a in live_v) else
+                        'provisional' if live_v else 'none')
             if st.get('verified') != want_ver:
                 err(f'{rdir}: status.verified is {st.get("verified")!r} but the '
                     f'roster derives {want_ver!r}')
 
         # no stray files: everything must be accounted for
-        allowed = {'run.json', 'notes.md', r['movie']['file']} | declared | shots
+        allowed = {'run.json', 'notes.md'} | declared | shots
+        if r.get('movie'):
+            allowed.add(r['movie']['file'])
         if r.get('thumbnail'):
             allowed.add(r['thumbnail'])
         for f in rdir.rglob('*'):
@@ -460,7 +537,7 @@ for gjson in ROOT.glob('games/*/*/game.json'):
 # through the archivist, which means they have an account here. A missing
 # record would silently cost them their profile, their stats and their points.
 for rdir, actor, roster in act_actors:
-    if actor.lower() not in members:
+    if canon(actor) not in members:
         err(f'{rdir}: {roster} by {actor!r}, who has no member record in authors/ '
             f'(every act here is performed by a member)')
 
@@ -514,24 +591,34 @@ if (ROOT / 'groups.json').exists():
                     f'{grp.get("key")!r}; a game belongs to one series')
             placed[gk] = grp.get('key')
 
-# an expert event carries a scope and it has to point at something real; a
-# committee or moderator event must not carry one, since neither is scoped
+# an expert event carries a scope; a committee or moderator event must not,
+# since neither is scoped. These shape rules hold for every event, past ones
+# included.
 for ev in role_events:
+    if ev['role'] == 'founder' and ev['action'] == 'revoked':
+        err(f"roles.json: a founder role cannot be revoked; the Founder's role is "
+            f"permanent (Principles 2.2.2). Succession is 2.3.12 and it is a new "
+            f"grant, never a revocation of the record.")
     scope = ev.get('scope', '')
     if ev['role'] != 'expert':
         if scope:
             err(f'roles.json: {ev["user"]!r} has a {ev["role"]} event with a scope; '
                 f'only expert roles are scoped')
-        continue
-    if not scope:
+    elif not scope:
         err(f'roles.json: expert event for {ev["user"]!r} has no scope')
+
+# a scope has to point at something real only while it is HELD: history may
+# name a game or group that was later deleted, because history records what
+# was true then, but nobody may currently hold authority over a ghost
+for (u, role, scope), ev in current_roles(role_events).items():
+    if role != 'expert' or not scope:
         continue
     if scope.startswith('group:') and scope[6:] not in group_keys:
-        err(f'roles.json: {ev["user"]!r} has scope {scope!r}, but no such '
+        err(f'roles.json: {ev["user"]!r} holds scope {scope!r}, but no such '
             f'group exists in groups.json')
     elif scope not in ('site',) and not scope.startswith('group:'):
         if '/' in scope and scope not in known_games:
-            err(f'roles.json: {ev["user"]!r} has scope {scope!r}, which is '
+            err(f'roles.json: {ev["user"]!r} holds scope {scope!r}, which is '
                 f'not a game in this archive')
         elif '/' not in scope and scope not in systems:
             err(f'roles.json: {ev["user"]!r} has scope {scope!r}, which is '

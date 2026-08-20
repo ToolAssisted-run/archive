@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Goal",
+   "options": [
+    {
+     "key": "all-wins",
+     "label": "all wins",
+     "rule": "Win every match of the season."
+    }
+   ]
+  }
+ ]
+}

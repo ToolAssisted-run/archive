@@ -1,0 +1,54 @@
+{
+ "id": "M100005",
+ "game": "flash/the-amazing-dare-dozen",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100005.ltm",
+  "format": "ltm",
+  "sha1": "06ad7ce9d52e3a2b3febb8d5415be22ae7a56277",
+  "frames": 3100,
+  "rerecords": 39,
+  "start": "power-on",
+  "fps": 20.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.3 + Ruffle 0.1.0-nightly (b645c01 2022-02-24)",
+  "rom": {
+   "name": "AmazingDozen.swf",
+   "sha1": "67ab1d518663b08a784cdb59c925984bfd1b9b7f"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "provisional",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Iqz6mIPe4aQ"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-08-18T16:31:27Z",
+ "submittedBy": "GMP",
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-08-18"
+  }
+ ],
+ "forum": {
+  "topicId": 673,
+  "url": "https://forum.toolassisted.run/t/673"
+ }
+}

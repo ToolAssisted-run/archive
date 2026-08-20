@@ -1,0 +1,50 @@
+{
+ "id": "M7330",
+ "game": "flash/russian-affairs",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7330.ltm",
+  "format": "ltm",
+  "frames": 4049,
+  "fps": 25.0,
+  "rerecords": 1226,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.7 // ruffle-nightly-2026-01-22",
+  "rom": {
+   "name": "russian_affairs.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7330M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IlgBQnEzfBQ"
+  }
+ ],
+ "submitted": "2026-08-19T03:12:03.550589",
+ "attachments": [],
+ "forum": {
+  "topicId": 1011,
+  "url": "https://forum.toolassisted.run/t/1011"
+ }
+}

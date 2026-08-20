@@ -1,0 +1,51 @@
+{
+ "id": "M6451",
+ "game": "flash/prince-of-persia-special-edition",
+ "category": {
+  "goal": "all-2-potions-drunk-all-2-guards-defeated"
+ },
+ "authors": [
+  {
+   "user": "Rxser"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6451.ltm",
+  "format": "ltm",
+  "frames": 4411,
+  "rerecords": 156983,
+  "start": "power-on",
+  "sha1": "559b92a27864c51dd06d44f650942570356cc7e5",
+  "fps": 25.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
+  "rom": {
+   "name": "AdFree.swf"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6451M",
+  "importedBy": "Rxser",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xdNZSEr85V8"
+  }
+ ],
+ "submitted": "2025-03-23T08:36:42.294139",
+ "attachments": [],
+ "forum": {
+  "topicId": 501,
+  "url": "https://forum.toolassisted.run/t/501"
+ }
+}

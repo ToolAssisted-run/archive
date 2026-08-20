@@ -1,0 +1,53 @@
+{
+ "id": "M7279",
+ "game": "dos/the-even-more-incredible-machine",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  },
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7279.bk2",
+  "format": "bk2",
+  "frames": 1317419,
+  "rerecords": 71543,
+  "start": "power-on",
+  "fps": 1000.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "disk1.img"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7279M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-19"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=GTeGOCz1aow"
+  }
+ ],
+ "submitted": "2026-07-28T04:03:09.675921",
+ "attachments": [],
+ "forum": {
+  "topicId": 714,
+  "url": "https://forum.toolassisted.run/t/714"
+ }
+}

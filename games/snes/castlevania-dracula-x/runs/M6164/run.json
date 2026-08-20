@@ -1,0 +1,50 @@
+{
+ "id": "M6164",
+ "game": "snes/castlevania-dracula-x",
+ "category": {
+  "goal": "best-ending"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6164.bk2",
+  "format": "bk2",
+  "frames": 49782,
+  "rerecords": 20504,
+  "start": "power-on",
+  "sha1": "7413d682faab752acd3ec5d2739bd1bba373b1cd"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Castlevania - Dracula X (U) [!].smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6164M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rcPR8p8WJ_I"
+  }
+ ],
+ "submitted": "2024-09-13T15:06:22.685475",
+ "attachments": [],
+ "forum": {
+  "topicId": 574,
+  "url": "https://forum.toolassisted.run/t/574"
+ }
+}

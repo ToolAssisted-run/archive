@@ -1,0 +1,51 @@
+{
+ "id": "M6663",
+ "game": "arcade/metal-slug-x",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6663.bk2",
+  "format": "bk2",
+  "frames": 57035,
+  "rerecords": 35340,
+  "start": "power-on",
+  "sha1": "bb3da482c748f0be8fefa1dc39e130e51f6aa0bf",
+  "fps": 59.1856060608428
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "mslugx.zip"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6663M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=S6Cc99OhmkY"
+  }
+ ],
+ "submitted": "2025-08-03T22:07:14.101054",
+ "attachments": [],
+ "forum": {
+  "topicId": 460,
+  "url": "https://forum.toolassisted.run/t/460"
+ }
+}

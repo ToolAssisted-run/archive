@@ -1,0 +1,51 @@
+{
+ "id": "M6852",
+ "game": "dos/threat",
+ "category": {
+  "goal": "episode-2-3-players"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6852.bk2",
+  "format": "bk2",
+  "frames": 15763,
+  "rerecords": 5496,
+  "start": "power-on",
+  "sha1": "1df446a86adf6f5f7c4c004457d02f1f86846ff2",
+  "fps": 70.08643534245114
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "threat.iso"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6852M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=S4PBEHC1RgE"
+  }
+ ],
+ "submitted": "2025-11-29T09:26:15.018744",
+ "attachments": [],
+ "forum": {
+  "topicId": 296,
+  "url": "https://forum.toolassisted.run/t/296"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M3013",
+ "game": "nes/darkman",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Denial140"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3013.fm2",
+  "format": "fm2",
+  "frames": 33924,
+  "rerecords": 46223,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "rom": {
+   "name": "Darkman (USA).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3013M",
+  "importedBy": "Denial140",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ht7U3zg2UhE"
+  }
+ ],
+ "submitted": "2015-12-04T16:11:38",
+ "attachments": [],
+ "forum": {
+  "topicId": 585,
+  "url": "https://forum.toolassisted.run/t/585"
+ }
+}

@@ -1,0 +1,7 @@
+<BizHawk-XMLGame System="DOS" Name="gta2">
+  <LoadAssets>
+	<Asset FileName="..\..\system\w98\w98.hdd" />
+    <Asset FileName=".\gta2FreeVersion.iso" /> 
+	<Asset FileName=".\gta2_installation.conf" /> 
+  </LoadAssets>
+</BizHawk-XMLGame>

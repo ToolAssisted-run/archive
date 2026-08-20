@@ -1,0 +1,50 @@
+{
+ "id": "M6764",
+ "game": "gbc/pok-mon-pinball",
+ "category": {
+  "goal": "complete-pok-dex"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6764.bk2",
+  "format": "bk2",
+  "frames": 366819,
+  "rerecords": 65472,
+  "start": "power-on",
+  "fps": 60.05336101420853
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible).gbc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6764M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bDUnzsAUiOM"
+  }
+ ],
+ "submitted": "2025-10-05T21:47:48.236396",
+ "attachments": [],
+ "forum": {
+  "topicId": 632,
+  "url": "https://forum.toolassisted.run/t/632"
+ }
+}

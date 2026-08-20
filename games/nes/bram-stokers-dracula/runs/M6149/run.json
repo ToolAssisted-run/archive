@@ -1,0 +1,50 @@
+{
+ "id": "M6149",
+ "game": "nes/bram-stokers-dracula",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "McBobX"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6149.fm2",
+  "format": "fm2",
+  "frames": 46843,
+  "rerecords": 11960,
+  "start": "power-on",
+  "sha1": "00fe1488bf9b4b07598464d5cd92ecab52c3f4bb"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Bram Stoker's Dracula (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6149M",
+  "importedBy": "McBobX",
+  "importedAt": "2026-08-16"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=i9AzvShzH5o"
+  }
+ ],
+ "submitted": "2024-09-02T16:51:51.268313",
+ "attachments": [],
+ "forum": {
+  "topicId": 538,
+  "url": "https://forum.toolassisted.run/t/538"
+ }
+}

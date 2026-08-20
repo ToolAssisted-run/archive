@@ -1,0 +1,51 @@
+{
+ "id": "M6401",
+ "game": "dos/sword-of-the-samurai",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6401.jrsr",
+  "format": "jrsr",
+  "frames": 41810,
+  "rerecords": 606,
+  "start": "power-on",
+  "sha1": "c04fae458e80c5db4ab3905aa0908b81e99f1f79"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "JPC-rr 11.8-rc2",
+  "rom": {
+   "name": "disk1.img",
+   "sha1": "b1e66b3e91cb505edd44514f7d1bdfa34690a113"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6401M",
+  "importedBy": "eien86",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=SurUS_pbjDY"
+  }
+ ],
+ "submitted": "2025-02-26T03:16:10.362077",
+ "attachments": [],
+ "forum": {
+  "topicId": 286,
+  "url": "https://forum.toolassisted.run/t/286"
+ }
+}

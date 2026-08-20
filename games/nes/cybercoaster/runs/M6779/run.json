@@ -1,0 +1,50 @@
+{
+ "id": "M6779",
+ "game": "nes/cybercoaster",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6779.bk2",
+  "format": "bk2",
+  "frames": 13027,
+  "rerecords": 2262,
+  "start": "power-on",
+  "sha1": "0252c532f10a50572adf23abd696787c7413ebdf"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "cybercoaster.nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6779M",
+  "importedBy": "CoolHandMike",
+  "importedAt": "2026-08-15"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=_RMxTzz37hY"
+  }
+ ],
+ "submitted": "2025-10-19T00:32:43.856446",
+ "attachments": [],
+ "forum": {
+  "topicId": 539,
+  "url": "https://forum.toolassisted.run/t/539"
+ }
+}

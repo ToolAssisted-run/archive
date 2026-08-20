@@ -1,0 +1,49 @@
+{
+ "id": "M4342",
+ "game": "nes/castlevania",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4342.bk2",
+  "format": "bk2",
+  "frames": 37196,
+  "rerecords": 87236,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.4",
+  "rom": {
+   "name": "Castlevania (U) (PRG0) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4342M",
+  "importedBy": "Challenger",
+  "importedAt": "2026-08-18"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=BhIgB-VZRKQ"
+  }
+ ],
+ "submitted": "2020-11-28T15:31:48",
+ "attachments": [],
+ "forum": {
+  "topicId": 664,
+  "url": "https://forum.toolassisted.run/t/664"
+ }
+}
