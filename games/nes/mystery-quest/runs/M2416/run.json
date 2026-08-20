@@ -1,0 +1,49 @@
+{
+ "id": "M2416",
+ "game": "nes/mystery-quest",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2416.fm2",
+  "format": "fm2",
+  "frames": 52051,
+  "rerecords": 28205,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.1",
+  "rom": {
+   "name": "Mystery Quest (U).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2416M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=JTM3kRiX13I"
+  }
+ ],
+ "submitted": "2013-07-14T08:35:44",
+ "attachments": [],
+ "forum": {
+  "topicId": 1069,
+  "url": "https://forum.toolassisted.run/t/1069"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "M2116",
+ "game": "gba/the-wild",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2116.vbm",
+  "format": "vbm",
+  "frames": 103143,
+  "fps": 60.0,
+  "rerecords": 54718,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v23.4a",
+  "rom": {
+   "name": "Wild, The (U) (M4).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2116M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=_bDRY5p8q88"
+  }
+ ],
+ "submitted": "2012-10-24T14:12:06",
+ "attachments": [],
+ "forum": {
+  "topicId": 1065,
+  "url": "https://forum.toolassisted.run/t/1065"
+ }
+}

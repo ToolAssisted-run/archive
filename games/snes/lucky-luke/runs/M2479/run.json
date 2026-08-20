@@ -1,0 +1,50 @@
+{
+ "id": "M2479",
+ "game": "snes/lucky-luke",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2479.lsmv",
+  "format": "lsmv",
+  "frames": 73836,
+  "fps": 50.0069789081886,
+  "rerecords": 41306,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr1-\u039418",
+  "rom": {
+   "name": "Lucky Luke (E).smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2479M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=O5rm6UhM6zM"
+  }
+ ],
+ "submitted": "2013-11-07T14:29:20",
+ "attachments": [],
+ "forum": {
+  "topicId": 1071,
+  "url": "https://forum.toolassisted.run/t/1071"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M2622",
+ "game": "nes/armadillo",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2622.fm2",
+  "format": "fm2",
+  "frames": 65924,
+  "rerecords": 174635,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.1",
+  "rom": {
+   "name": "Armadillo (J).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2622M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2tF_dKlYGRw"
+  }
+ ],
+ "submitted": "2014-06-22T06:43:16",
+ "attachments": [],
+ "forum": {
+  "topicId": 1073,
+  "url": "https://forum.toolassisted.run/t/1073"
+ }
+}

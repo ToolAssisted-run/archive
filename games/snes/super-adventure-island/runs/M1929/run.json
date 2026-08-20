@@ -1,0 +1,50 @@
+{
+ "id": "M1929",
+ "game": "snes/super-adventure-island",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1929.smv",
+  "format": "smv",
+  "frames": 60253,
+  "fps": 60.0,
+  "rerecords": 15035,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Snes9x 1.52 r185",
+  "rom": {
+   "name": "Super Adventure Island (U) [!].smc"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1929M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=zcFLo4xq1UE"
+  }
+ ],
+ "submitted": "2011-12-01T11:55:09",
+ "attachments": [],
+ "forum": {
+  "topicId": 1063,
+  "url": "https://forum.toolassisted.run/t/1063"
+ }
+}
