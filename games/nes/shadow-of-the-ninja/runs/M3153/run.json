@@ -1,0 +1,49 @@
+{
+ "id": "M3153",
+ "game": "nes/shadow-of-the-ninja",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3153.fm2",
+  "format": "fm2",
+  "frames": 34281,
+  "rerecords": 563388,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "rom": {
+   "name": "Kage (J).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3153M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7cjnqaNv2-8"
+  }
+ ],
+ "submitted": "2016-06-10T20:20:09",
+ "attachments": [],
+ "forum": {
+  "topicId": 1087,
+  "url": "https://forum.toolassisted.run/t/1087"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M3531",
+ "game": "gba/kao-the-kangaroo",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3531.bk2",
+  "format": "bk2",
+  "frames": 50906,
+  "rerecords": 231203,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.2",
+  "rom": {
+   "name": "Kao the Kangaroo (USA) (En,Fr,De,Es,It,Nl).gba"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3531M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3xHEWedyWyM"
+  }
+ ],
+ "submitted": "2017-10-15T17:00:19",
+ "attachments": [],
+ "forum": {
+  "topicId": 1097,
+  "url": "https://forum.toolassisted.run/t/1097"
+ }
+}

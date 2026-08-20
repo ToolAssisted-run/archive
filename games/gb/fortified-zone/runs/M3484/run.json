@@ -1,0 +1,49 @@
+{
+ "id": "M3484",
+ "game": "gb/fortified-zone",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3484.bk2",
+  "format": "bk2",
+  "frames": 32212,
+  "rerecords": 82152,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.12.0",
+  "rom": {
+   "name": "Fortified Zone (Ikari No Yousai) (U).gb"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3484M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=I_x68UrPKOo"
+  }
+ ],
+ "submitted": "2017-07-29T14:11:22",
+ "attachments": [],
+ "forum": {
+  "topicId": 1095,
+  "url": "https://forum.toolassisted.run/t/1095"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "id": "M3312",
+ "game": "nes/attack-of-the-killer-tomatoes",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3312.fm2",
+  "format": "fm2",
+  "frames": 21757,
+  "rerecords": 90385,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "rom": {
+   "name": "Attack of the Killer Tomatoes (U).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3312M",
+  "importedBy": "TASeditor",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-RsxpiJIaw4"
+  }
+ ],
+ "submitted": "2017-01-21T11:39:29",
+ "attachments": [],
+ "forum": {
+  "topicId": 1093,
+  "url": "https://forum.toolassisted.run/t/1093"
+ }
+}
