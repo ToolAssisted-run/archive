@@ -230,6 +230,16 @@
    "by": "GMP",
    "date": "2026-08-20",
    "reason": "To be consistent with RTA Leaderboards"
+  },
+  {
+   "kind": "category",
+   "key": "ds/prince-of-persia-the-fallen-king:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "To be consistent with RTA Leaderboards"
   }
  ]
 }
