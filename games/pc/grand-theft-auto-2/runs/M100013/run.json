@@ -36,7 +36,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -51,5 +51,11 @@
  "forum": {
   "topicId": 735,
   "url": "https://forum.toolassisted.run/t/735"
- }
+ },
+ "verifications": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-20"
+  }
+ ]
 }
