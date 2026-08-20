@@ -1,0 +1,54 @@
+{
+ "id": "M7253",
+ "game": "pc/doom-sigil",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7253.lmp",
+  "format": "lmp",
+  "frames": 14001,
+  "fps": 35.0029869215506,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "XDRE 2.20",
+  "rom": {
+   "name": "SIGIL_COMPAT.wad"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7253M",
+  "importedBy": "Dimon12321",
+  "importedAt": "2026-08-20"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2o9UHcezMXk"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=JA6v9CKzWrQ"
+  }
+ ],
+ "submitted": "2026-07-13T14:26:08.445236",
+ "attachments": [],
+ "forum": {
+  "topicId": 1061,
+  "url": "https://forum.toolassisted.run/t/1061"
+ }
+}
