@@ -1,0 +1,62 @@
+{
+ "id": "M100021",
+ "game": "pc/grand-prix-world-remastered",
+ "category": {
+  "goal": "minardi"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100021.bk2",
+  "format": "bk2",
+  "sha1": "adea4edda01afc6d202bb494ce4d999f0c90ffef",
+  "frames": 1966434,
+  "rerecords": 3321,
+  "start": "power-on",
+  "fps": 1000.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: DOSBox-X)",
+  "rom": {
+   "name": "gpwRemastered.iso",
+   "sha1": "8a675fb892a4ed80423fd8e3622d85cb00b260e1"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=N7k2l2316IA"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/cheats.lua",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/dosbox.conf",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/gpwRemastered.xml",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-06-20",
+ "submitted": "2026-08-20T19:07:27Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1116,
+  "url": "https://forum.toolassisted.run/t/1116"
+ }
+}

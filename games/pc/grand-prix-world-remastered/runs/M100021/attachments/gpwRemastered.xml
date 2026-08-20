@@ -1,0 +1,7 @@
+<BizHawk-XMLGame System="DOS" Name="gpwRemastered">
+  <LoadAssets>
+	<Asset FileName="..\..\system\w98\w98.hdd" />
+	<Asset FileName=".\gpwRemastered.iso" />
+    <Asset FileName=".\dosbox.conf" /> 
+  </LoadAssets>
+</BizHawk-XMLGame>
