@@ -24,7 +24,7 @@
   "emulator": "JPC-RR 11.8"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -47,5 +47,14 @@
    "date": "2026-08-18"
   }
  ],
- "completed": "2021-10-26"
+ "completed": "2021-10-26",
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-20",
+   "screenshot": "reproductions/1-toca.png",
+   "emulator": "JPC-RR 11.8-rc2",
+   "notes": "The required PoP2 HDD image has MD5 1ca63687e417e2363c6b3fcea0521068. For the IR (Initial Release) files, delete PRINCE.EXE and rename UNCRKD.EXE to PRINCE.EXE (MD5 7bcdb72c92dc661eea0297bf0794d3e4). Run SETUP.EXE in DOSBox and select PC Speaker for both sound options to generate the matching CONFIG.DAT and SETUP.DAT. Before importing the folder as an HDD in JPC-RR, remove any extra files not listed in the reference file manifest: https://tasvideos.org/7190S"
+  }
+ ]
 }
