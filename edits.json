@@ -270,6 +270,16 @@
    "by": "GMP",
    "date": "2026-08-20",
    "reason": "To be consistent with RTA Leaderboards"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-warrior-within:zipless",
+   "field": "label",
+   "from": "zipless",
+   "to": "Any% (Zipless)",
+   "by": "GMP",
+   "date": "2026-08-20",
+   "reason": "To be consistent with RTA Leaderboards"
   }
  ]
 }

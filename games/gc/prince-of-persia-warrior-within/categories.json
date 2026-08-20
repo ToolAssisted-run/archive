@@ -6,7 +6,7 @@
    "options": [
     {
      "key": "zipless",
-     "label": "zipless",
+     "label": "Any% (Zipless)",
      "rule": "Imported from TASVideos as \"zipless\"; rules to be formalized by the game's experts."
     }
    ]
