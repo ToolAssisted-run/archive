@@ -808,6 +808,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T12:23:06Z",
    "reason": "To be consistent with RTA leaderboard"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-two-thrones:glitchless",
+   "field": "rule",
+   "from": "Imported as \"glitchless\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the game without using major glitches as fast as possible.\r\n\r\nThe following things are considered major glitches:\r\n\r\n- Zips\r\n- Rewind Tricks\r\n- Drop Glitches\r\n- Slowmo Boost\r\n- Manipulating Gravity with Slowmo\r\n- Rewind Wallrun Extensions\r\n- Quicksand Glitch\r\n- A.I. Glitch (frozen enemies)\r",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T12:23:10Z",
+   "reason": "To be consistent with RTA leaderboard"
   }
  ]
 }
