@@ -441,6 +441,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "trollface-quest",
+   "title": "Trollface Quest",
+   "games": [
+    "flash/trollface-quest",
+    "flash/trollface-quest-2"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "wonder-boy",
    "title": "Wonder Boy / Monster World",
    "games": [
