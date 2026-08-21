@@ -1,0 +1,49 @@
+{
+ "id": "M3667",
+ "game": "nes/adventure-island",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3667.bk2",
+  "format": "bk2",
+  "frames": 128945,
+  "rerecords": 27001,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.12.1",
+  "rom": {
+   "name": "Hudson's Adventure Island (USA).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3667M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=XIgobXbaW4o"
+  }
+ ],
+ "submitted": "2018-04-02T17:25:51",
+ "attachments": [],
+ "forum": {
+  "topicId": 1127,
+  "url": "https://forum.toolassisted.run/t/1127"
+ }
+}

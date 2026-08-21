@@ -1,0 +1,49 @@
+{
+ "id": "M3737",
+ "game": "nes/beetlejuice",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3737.bk2",
+  "format": "bk2",
+  "frames": 26519,
+  "rerecords": 7970,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.1",
+  "rom": {
+   "name": "Beetlejuice (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3737M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rPBBbvZVk9c"
+  }
+ ],
+ "submitted": "2018-07-12T21:57:35",
+ "attachments": [],
+ "forum": {
+  "topicId": 1129,
+  "url": "https://forum.toolassisted.run/t/1129"
+ }
+}

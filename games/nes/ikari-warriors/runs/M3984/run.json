@@ -1,0 +1,49 @@
+{
+ "id": "M3984",
+ "game": "nes/ikari-warriors",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3984.bk2",
+  "format": "bk2",
+  "frames": 92512,
+  "rerecords": 46755,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.1",
+  "rom": {
+   "name": "Ikari Warriors (USA).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3984M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Q2m43S-krhM"
+  }
+ ],
+ "submitted": "2019-06-30T09:38:45",
+ "attachments": [],
+ "forum": {
+  "topicId": 1132,
+  "url": "https://forum.toolassisted.run/t/1132"
+ }
+}
