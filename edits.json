@@ -1050,6 +1050,61 @@
    "date": "2026-08-21",
    "at": "2026-08-21T19:18:41Z",
    "reason": "this category evaluates points, not time"
+  },
+  {
+   "kind": "run",
+   "key": "M7024",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:19:27Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M7024",
+   "field": "emulator",
+   "from": "BizHawk 2.11",
+   "to": "BizHawk 2.11",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:19:27Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M7024",
+   "field": "metric:score",
+   "from": "0",
+   "to": "8529450.0",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:19:27Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M7024",
+   "field": "completed",
+   "from": "",
+   "to": "",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:19:27Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M7024",
+   "field": "encode",
+   "from": "https://www.youtube.com/watch?v=1L9YxhSx6C0",
+   "to": "https://www.youtube.com/watch?v=1L9YxhSx6C0",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:19:27Z",
+   "reason": "The author's own revision."
   }
  ]
 }
