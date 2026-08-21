@@ -254,6 +254,18 @@
    ]
   },
   {
+   "key": "sonic-the-hedgehog",
+   "title": "Sonic the Hedgehog",
+   "games": [
+    "gba/sonic-battle",
+    "gg/sonic-blast",
+    "gc/sonic-gems-collection-sonic-r",
+    "gc/sonic-gems-collection-sonic-the-fighters"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "teenage-mutant-ninja-turtles",
    "title": "Teenage Mutant Ninja Turtles",
    "games": [
