@@ -984,6 +984,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T18:24:48Z",
    "reason": "Changed from the group form: nes/saint-seiya-ougon-densetsu moved in wswan/saint-seiya-ougon-densetsu-hen-perfect-edition moved in"
+  },
+  {
+   "kind": "group",
+   "key": "bram-stoker-s-dracula",
+   "field": "games",
+   "from": "gb/bram-stokers-dracula, nes/bram-stokers-dracula",
+   "to": "gb/bram-stokers-dracula, nes/bram-stokers-dracula, segacd/bram-stokers-dracula",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T18:24:53Z",
+   "reason": "Changed from the group form: segacd/bram-stokers-dracula moved in"
   }
  ]
 }

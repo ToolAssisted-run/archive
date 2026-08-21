@@ -35,7 +35,8 @@
    "title": "Bram Stoker's Dracula",
    "games": [
     "gb/bram-stokers-dracula",
-    "nes/bram-stokers-dracula"
+    "nes/bram-stokers-dracula",
+    "segacd/bram-stokers-dracula"
    ]
   },
   {
