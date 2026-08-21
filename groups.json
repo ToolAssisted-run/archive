@@ -121,7 +121,9 @@
    "key": "ninja-gaiden",
    "title": "Ninja Gaiden",
    "games": [
-    "nes/ninja-gaiden-ii-the-dark-sword-of-chaos"
+    "nes/ninja-gaiden",
+    "nes/ninja-gaiden-ii-the-dark-sword-of-chaos",
+    "sms/ninja-gaiden"
    ]
   },
   {

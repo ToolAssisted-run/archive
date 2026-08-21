@@ -929,6 +929,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T18:24:21Z",
    "reason": "Changed from the group form: snes/mega-man-7 moved in"
+  },
+  {
+   "kind": "group",
+   "key": "ninja-gaiden",
+   "field": "games",
+   "from": "nes/ninja-gaiden-ii-the-dark-sword-of-chaos",
+   "to": "nes/ninja-gaiden, nes/ninja-gaiden-ii-the-dark-sword-of-chaos, sms/ninja-gaiden",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T18:24:26Z",
+   "reason": "Changed from the group form: nes/ninja-gaiden moved in sms/ninja-gaiden moved in"
   }
  ]
 }
