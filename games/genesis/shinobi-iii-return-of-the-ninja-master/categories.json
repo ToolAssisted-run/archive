@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "fastest-completion",
+     "label": "fastest completion",
+     "rule": "Timing ends on final input"
+    }
+   ]
+  }
+ ]
+}
