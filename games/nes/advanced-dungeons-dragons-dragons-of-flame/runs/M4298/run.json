@@ -1,0 +1,49 @@
+{
+ "id": "M4298",
+ "game": "nes/advanced-dungeons-dragons-dragons-of-flame",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4298.bk2",
+  "format": "bk2",
+  "frames": 35833,
+  "rerecords": 16005,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "rom": {
+   "name": "Advanced Dungeons & Dragons - Dragons of Flame (Japan).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4298M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=PJZ4GSYKISg"
+  }
+ ],
+ "submitted": "2020-10-08T15:32:44",
+ "attachments": [],
+ "forum": {
+  "topicId": 1138,
+  "url": "https://forum.toolassisted.run/t/1138"
+ }
+}

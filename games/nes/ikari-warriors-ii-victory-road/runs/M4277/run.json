@@ -1,0 +1,49 @@
+{
+ "id": "M4277",
+ "game": "nes/ikari-warriors-ii-victory-road",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4277.bk2",
+  "format": "bk2",
+  "frames": 28019,
+  "rerecords": 13168,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "rom": {
+   "name": "Ikari Warriors II - Victory Road (USA).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4277M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=5yN6YD8nJDA"
+  }
+ ],
+ "submitted": "2020-08-28T16:44:41",
+ "attachments": [],
+ "forum": {
+  "topicId": 1136,
+  "url": "https://forum.toolassisted.run/t/1136"
+ }
+}
