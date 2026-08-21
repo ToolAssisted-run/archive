@@ -120,6 +120,23 @@
    ]
   },
   {
+   "key": "mortal-kombat",
+   "title": "Mortal Kombat",
+   "games": [
+    "snes/mortal-kombat",
+    "snes/mortal-kombat-3",
+    "snes/ultimate-mortal-kombat-3",
+    "n64/mortal-kombat-4",
+    "n64/mortal-kombat-trilogy",
+    "gc/mortal-kombat-deadly-alliance",
+    "gc/mortal-kombat-deception",
+    "wii/mortal-kombat-armageddon",
+    "genesis/mk5-mortal-combat-sub-zero"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "ninja-gaiden",
    "title": "Ninja Gaiden",
    "games": [
