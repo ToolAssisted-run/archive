@@ -907,6 +907,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T18:24:10Z",
    "reason": "Changed from the group form: gc/prince-of-persia-the-two-thrones moved in gg/prince-of-persia moved in pcecd/prince-of-persia moved in segacd/prince-of-persia moved in snes/prince-of-persia moved in snes/prince-of-persia-2-the-shadow-and-the-flame moved in"
+  },
+  {
+   "kind": "group",
+   "key": "castlevania",
+   "field": "games",
+   "from": "ds/castlevania-dawn-of-sorrow, gba/castlevania-aria-of-sorrow, gba/castlevania-harmony-of-dissonance, snes/castlevania-dracula-x",
+   "to": "ds/castlevania-dawn-of-sorrow, gba/castlevania-aria-of-sorrow, gba/castlevania-harmony-of-dissonance, nes/castlevania, snes/castlevania-dracula-x",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T18:24:16Z",
+   "reason": "Changed from the group form: nes/castlevania moved in"
   }
  ]
 }
