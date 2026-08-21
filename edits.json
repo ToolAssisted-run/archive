@@ -940,6 +940,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T18:24:26Z",
    "reason": "Changed from the group form: nes/ninja-gaiden moved in sms/ninja-gaiden moved in"
+  },
+  {
+   "kind": "group",
+   "key": "shinobi",
+   "field": "games",
+   "from": "genesis/the-revenge-of-shinobi",
+   "to": "genesis/shinobi-iii-return-of-the-ninja-master, genesis/the-revenge-of-shinobi",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T18:24:31Z",
+   "reason": "Changed from the group form: genesis/shinobi-iii-return-of-the-ninja-master moved in"
   }
  ]
 }
