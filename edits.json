@@ -753,6 +753,50 @@
    "date": "2026-08-21",
    "at": "2026-08-21T11:48:07Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M4638",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T12:12:41Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M4638",
+   "field": "emulator",
+   "from": "libTAS 1.4.3 + PCem v17+st-1",
+   "to": "libTAS 1.4.3 + PCem v17+st-1",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T12:12:41Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M4638",
+   "field": "metric:in-game-time",
+   "from": "797.833",
+   "to": "812.833",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T12:12:41Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M4638",
+   "field": "completed",
+   "from": "",
+   "to": "",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T12:12:41Z",
+   "reason": "The author's own revision."
   }
  ]
 }
