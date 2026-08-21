@@ -918,6 +918,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T18:24:16Z",
    "reason": "Changed from the group form: nes/castlevania moved in"
+  },
+  {
+   "kind": "group",
+   "key": "mega-man",
+   "field": "games",
+   "from": "arcade/mega-man-2-the-power-fighters, psx/mega-man-x3, psx/super-adventure-rockman, snes/mega-man-x2",
+   "to": "arcade/mega-man-2-the-power-fighters, psx/mega-man-x3, psx/super-adventure-rockman, snes/mega-man-7, snes/mega-man-x2",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T18:24:21Z",
+   "reason": "Changed from the group form: snes/mega-man-7 moved in"
   }
  ]
 }
