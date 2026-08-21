@@ -400,6 +400,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "the-lucky-dime-caper",
+   "title": "The Lucky Dime Caper",
+   "games": [
+    "gg/the-lucky-dime-caper-starring-donald-duck",
+    "sms/the-lucky-dime-caper-starring-donald-duck"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "the-simpsons",
    "title": "The Simpsons",
    "games": [
