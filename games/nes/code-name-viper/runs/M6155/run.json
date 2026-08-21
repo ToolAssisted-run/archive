@@ -1,0 +1,49 @@
+{
+ "id": "M6155",
+ "game": "nes/code-name-viper",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Pankaj"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6155.bk2",
+  "format": "bk2",
+  "frames": 38791,
+  "rerecords": 85635,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Code Name - Viper (U).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6155M",
+  "importedBy": "Pankaj",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=r1C0f37_VXg"
+  }
+ ],
+ "submitted": "2024-09-05T07:34:15.782028",
+ "attachments": [],
+ "forum": {
+  "topicId": 1176,
+  "url": "https://forum.toolassisted.run/t/1176"
+ }
+}
