@@ -13,6 +13,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "air-combat",
+   "title": "Air Combat",
+   "games": [
+    "arcade/air-combat-22",
+    "psx/air-combat"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "another-world",
    "title": "Another World",
    "games": [
