@@ -329,6 +329,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "street-rod",
+   "title": "Street Rod",
+   "games": [
+    "dos/street-rod",
+    "dos/street-rod-2"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "teenage-mutant-ninja-turtles",
    "title": "Teenage Mutant Ninja Turtles",
    "games": [
