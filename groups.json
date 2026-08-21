@@ -431,6 +431,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "wonder-boy",
+   "title": "Wonder Boy / Monster World",
+   "games": [
+    "sms/wonder-boy-in-monster-land",
+    "genesis/monster-world-iv"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "yomino-kagura-puzzle-games",
    "title": "Yomino Kagura Puzzle Games",
    "games": [
