@@ -7,7 +7,7 @@
     {
      "key": "maximum-score",
      "label": "maximum score",
-     "rule": "Imported from TASVideos as \"maximum score\"; rules to be formalized by the game's experts."
+     "rule": "Finish the Game \"C\", level 16, speed 16 with the maximum points as possible. The final score + any remaining bonus is considered."
     }
    ]
   }

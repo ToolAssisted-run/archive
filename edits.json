@@ -1028,6 +1028,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T19:12:18Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "nes/pipe-dream:maximum-score",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"maximum score\"; rules to be formalized by the game's experts.",
+   "to": "Finish the Game \"C\", level 16, speed 16 with the maximum points as possible. The final score + any remaining bonus is considered.",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:18:37Z",
+   "reason": "this category evaluates points, not time"
   }
  ]
 }
