@@ -962,6 +962,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T18:24:36Z",
    "reason": "Changed from the group form: a2600/galaxian moved in"
+  },
+  {
+   "kind": "group",
+   "key": "pac-man",
+   "field": "games",
+   "from": "nes/pac-man",
+   "to": "nes/pac-man, nes/pac-man-championship-edition",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T18:24:42Z",
+   "reason": "Changed from the group form: nes/pac-man-championship-edition moved in"
   }
  ]
 }

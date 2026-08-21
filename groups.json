@@ -148,7 +148,8 @@
    "key": "pac-man",
    "title": "Pac-Man",
    "games": [
-    "nes/pac-man"
+    "nes/pac-man",
+    "nes/pac-man-championship-edition"
    ]
   },
   {
