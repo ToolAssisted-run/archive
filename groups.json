@@ -277,6 +277,16 @@
    ]
   },
   {
+   "key": "numan-athletics",
+   "title": "Numan Athletics",
+   "games": [
+    "arcade/numan-athletics",
+    "arcade/mach-breakers-numan-athletics-2"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "off-road",
    "title": "Off Road",
    "games": [
