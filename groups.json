@@ -254,6 +254,18 @@
    ]
   },
   {
+   "key": "teenage-mutant-ninja-turtles",
+   "title": "Teenage Mutant Ninja Turtles",
+   "games": [
+    "gc/teenage-mutant-ninja-turtles",
+    "gc/teenage-mutant-ninja-turtles-2-battle-nexus",
+    "gc/tmnt-mutant-melee",
+    "nes/teenage-mutant-ninja-turtles-tournament-fighters"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "the-goonies",
    "title": "The Goonies",
    "games": [
