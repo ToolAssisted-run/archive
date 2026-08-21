@@ -2,6 +2,17 @@
  "comment": "Game groups (series). A group gathers a game family across systems; experts may hold a group-wide scope over one (experts.json scope 'group:<key>'). A game may belong to more than one group. Seeded from the groups TASVideos maintains, and edited here through git.",
  "groups": [
   {
+   "key": "adventure-island",
+   "title": "Adventure Island",
+   "games": [
+    "nes/adventure-island",
+    "nes/adventure-island-iv",
+    "snes/super-adventure-island"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "another-world",
    "title": "Another World",
    "games": [
