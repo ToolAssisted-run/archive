@@ -896,6 +896,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T16:11:10Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "group",
+   "key": "prince-of-persia",
+   "field": "games",
+   "from": "amiga/prince-of-persia, dos/mini-prince, dos/prince-of-persia, dos/prince-of-persia-2-the-shadow-and-the-flame, ds/prince-of-persia-the-fallen-king, flash/prince-of-persia-special-edition, gba/prince-of-persia-the-sands-of-time, gbc/prince-of-persia, gc/prince-of-persia-the-sands-of-time, gc/prince-",
+   "to": "amiga/prince-of-persia, dos/mini-prince, dos/prince-of-persia, dos/prince-of-persia-2-the-shadow-and-the-flame, ds/prince-of-persia-the-fallen-king, flash/prince-of-persia-special-edition, gba/prince-of-persia-the-sands-of-time, gbc/prince-of-persia, gc/prince-of-persia-the-sands-of-time, gc/prince-",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T18:24:10Z",
+   "reason": "Changed from the group form: gc/prince-of-persia-the-two-thrones moved in gg/prince-of-persia moved in pcecd/prince-of-persia moved in segacd/prince-of-persia moved in snes/prince-of-persia moved in snes/prince-of-persia-2-the-shadow-and-the-flame moved in"
   }
  ]
 }
