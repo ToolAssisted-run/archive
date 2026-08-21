@@ -1039,6 +1039,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T19:18:37Z",
    "reason": "this category evaluates points, not time"
+  },
+  {
+   "kind": "category",
+   "key": "nes/pipe-dream:maximum-score",
+   "field": "metrics",
+   "from": "(classic: time)",
+   "to": "[{\"key\": \"score\", \"label\": \"Score\", \"type\": \"number\", \"better\": \"higher\", \"unit\": \"Points\"}]",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:18:41Z",
+   "reason": "this category evaluates points, not time"
   }
  ]
 }

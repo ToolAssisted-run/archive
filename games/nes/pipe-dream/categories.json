@@ -7,7 +7,16 @@
     {
      "key": "maximum-score",
      "label": "maximum score",
-     "rule": "Finish the Game \"C\", level 16, speed 16 with the maximum points as possible. The final score + any remaining bonus is considered."
+     "rule": "Finish the Game \"C\", level 16, speed 16 with the maximum points as possible. The final score + any remaining bonus is considered.",
+     "metrics": [
+      {
+       "key": "score",
+       "label": "Score",
+       "type": "number",
+       "better": "higher",
+       "unit": "Points"
+      }
+     ]
     }
    ]
   }
