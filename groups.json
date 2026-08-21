@@ -409,6 +409,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "super-mario-bros",
+   "title": "Super Mario Bros.",
+   "games": [
+    "gbc/super-mario-bros-deluxe",
+    "nes/superfast-mario-bros"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "superman",
    "title": "Superman",
    "games": [
