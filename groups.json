@@ -379,6 +379,16 @@
    ]
   },
   {
+   "key": "sesame-street",
+   "title": "Sesame Street",
+   "games": [
+    "nes/sesame-street-countdown",
+    "gbc/the-adventures-of-elmo-in-grouchland"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "shinobi",
    "title": "Shinobi",
    "games": [
