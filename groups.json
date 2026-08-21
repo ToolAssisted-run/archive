@@ -80,6 +80,7 @@
    "key": "galaxian",
    "title": "Galaxian",
    "games": [
+    "a2600/galaxian",
     "nes/galaga-demons-of-death"
    ]
   },

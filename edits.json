@@ -951,6 +951,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T18:24:31Z",
    "reason": "Changed from the group form: genesis/shinobi-iii-return-of-the-ninja-master moved in"
+  },
+  {
+   "kind": "group",
+   "key": "galaxian",
+   "field": "games",
+   "from": "nes/galaga-demons-of-death",
+   "to": "a2600/galaxian, nes/galaga-demons-of-death",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T18:24:36Z",
+   "reason": "Changed from the group form: a2600/galaxian moved in"
   }
  ]
 }
