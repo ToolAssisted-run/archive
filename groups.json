@@ -330,6 +330,16 @@
    ]
   },
   {
+   "key": "the-king-of-fighters",
+   "title": "The King of Fighters",
+   "games": [
+    "arcade/the-king-of-fighters-94",
+    "arcade/the-king-of-fighters-96"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "the-simpsons",
    "title": "The Simpsons",
    "games": [
