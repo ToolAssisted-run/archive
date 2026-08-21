@@ -181,6 +181,16 @@
    ]
   },
   {
+   "key": "ikari-warriors",
+   "title": "Ikari Warriors",
+   "games": [
+    "nes/ikari-warriors",
+    "nes/ikari-warriors-ii-victory-road"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "killer-instinct",
    "title": "Killer Instinct",
    "games": [
