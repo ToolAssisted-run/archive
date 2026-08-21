@@ -1,0 +1,52 @@
+{
+ "id": "M6471",
+ "game": "nes/mighty-bomb-jack",
+ "category": {
+  "goal": "best-ending"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  },
+  {
+   "user": "SpaceColonizer"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6471.bk2",
+  "format": "bk2",
+  "frames": 38075,
+  "rerecords": 14090,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Mighty Bomb Jack (USA)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6471M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0i__dKiRCDU"
+  }
+ ],
+ "submitted": "2025-03-29T13:09:04.149474",
+ "attachments": [],
+ "forum": {
+  "topicId": 1154,
+  "url": "https://forum.toolassisted.run/t/1154"
+ }
+}

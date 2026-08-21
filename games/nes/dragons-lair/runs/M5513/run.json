@@ -1,0 +1,49 @@
+{
+ "id": "M5513",
+ "game": "nes/dragons-lair",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5513.bk2",
+  "format": "bk2",
+  "frames": 23676,
+  "rerecords": 16984,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Dragon's Lair (USA)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5513M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ok-uJvKBP_E"
+  }
+ ],
+ "submitted": "2023-08-23T11:07:16.878534",
+ "attachments": [],
+ "forum": {
+  "topicId": 1149,
+  "url": "https://forum.toolassisted.run/t/1149"
+ }
+}

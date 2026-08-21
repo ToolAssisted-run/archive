@@ -1,0 +1,52 @@
+{
+ "id": "M5847",
+ "game": "nes/mighty-bomb-jack",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "SpaceColonizer"
+  },
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5847.fm2",
+  "format": "fm2",
+  "frames": 21606,
+  "rerecords": 54182,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.6",
+  "rom": {
+   "name": "Mighty Bomb Jack (U) [!].nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5847M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=kKwcSm-AmAw"
+  }
+ ],
+ "submitted": "2024-03-05T17:53:04.694221",
+ "attachments": [],
+ "forum": {
+  "topicId": 1151,
+  "url": "https://forum.toolassisted.run/t/1151"
+ }
+}
