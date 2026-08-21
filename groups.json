@@ -82,6 +82,17 @@
    ]
   },
   {
+   "key": "capcom-vs-series",
+   "title": "Capcom Versus series",
+   "games": [
+    "arcade/x-men-vs-street-fighter",
+    "psx/marvel-vs-capcom-clash-of-super-heroes",
+    "gc/capcom-vs-snk-2-eo"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "castlevania",
    "title": "Castlevania",
    "games": [
