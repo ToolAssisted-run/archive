@@ -229,6 +229,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "need-for-speed",
+   "title": "Need for Speed",
+   "games": [
+    "dos/road-track-presents-the-need-for-speed-se",
+    "psx/need-for-speed-porsche-unleashed"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "ninja-gaiden",
    "title": "Ninja Gaiden",
    "games": [
