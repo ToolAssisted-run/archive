@@ -577,6 +577,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T01:01:37Z",
    "reason": "Added In-Game Time as there are runs with different emulators and real time is not indicative of real speed."
+  },
+  {
+   "kind": "category",
+   "key": "genesis/shinobi-iii-return-of-the-ninja-master:no-kunai",
+   "field": "added",
+   "from": "",
+   "to": "No Kunai",
+   "by": "CoolHandMike",
+   "date": "2026-08-21",
+   "at": "2026-08-21T07:00:50Z",
+   "reason": "Created it."
   }
  ]
 }

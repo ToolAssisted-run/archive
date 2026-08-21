@@ -8,6 +8,11 @@
      "key": "fastest-completion",
      "label": "fastest completion",
      "rule": "Timing ends on final input"
+    },
+    {
+     "key": "no-kunai",
+     "label": "No Kunai",
+     "rule": "Do not use any kunai.  6 button mode is fine to use."
     }
    ]
   }
