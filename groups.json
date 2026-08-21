@@ -171,6 +171,16 @@
    ]
   },
   {
+   "key": "killer-instinct",
+   "title": "Killer Instinct",
+   "games": [
+    "arcade/killer-instinct",
+    "snes/killer-instinct"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "mega-man",
    "title": "Mega Man",
    "games": [
