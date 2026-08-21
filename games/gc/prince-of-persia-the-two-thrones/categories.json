@@ -6,7 +6,7 @@
    "options": [
     {
      "key": "glitchless",
-     "label": "glitchless",
+     "label": "Any% (No Major Glitches)",
      "rule": "Imported as \"glitchless\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]

@@ -797,6 +797,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T12:12:41Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-two-thrones:glitchless",
+   "field": "label",
+   "from": "glitchless",
+   "to": "Any% (No Major Glitches)",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T12:23:06Z",
+   "reason": "To be consistent with RTA leaderboard"
   }
  ]
 }
