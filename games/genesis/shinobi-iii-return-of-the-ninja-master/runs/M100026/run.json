@@ -1,0 +1,51 @@
+{
+ "id": "M100026",
+ "game": "genesis/shinobi-iii-return-of-the-ninja-master",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  },
+  {
+   "user": "Dammit"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100026.bk2",
+  "format": "bk2",
+  "sha1": "00028cd1d1075842967f2ab87926556eca8b302f",
+  "frames": 77995,
+  "rerecords": 24253,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.3.1",
+  "rom": {
+   "name": "Shinobi III - Return of the Ninja Master.bin",
+   "sha1": "1e07d7998e3048fcfba4238ae96496460e91b3a5"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=mkQxIDUzlMg"
+  }
+ ],
+ "attachments": [],
+ "completed": "2019-04-07",
+ "submitted": "2026-08-21T07:28:15Z",
+ "submittedBy": "CoolHandMike",
+ "forum": {
+  "topicId": 1123,
+  "url": "https://forum.toolassisted.run/t/1123"
+ }
+}
