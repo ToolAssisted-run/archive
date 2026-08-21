@@ -211,6 +211,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "k-1-pocket-grand-prix",
+   "title": "K-1 Pocket Grand Prix",
+   "games": [
+    "gba/k-1-pocket-grand-prix",
+    "gba/k-1-pocket-grand-prix-2"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "killer-instinct",
    "title": "Killer Instinct",
    "games": [
