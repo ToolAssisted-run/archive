@@ -569,8 +569,8 @@ if (ROOT / 'groups.json').exists():
     check_schema('groups', doc, ROOT / 'groups.json')
     for grp in doc.get('groups', []):
         key = grp.get('key')
-        if key == 'unclassified':
-            err("groups.json: 'unclassified' is reserved for the derived group "
+        if key in ('uncategorized', 'unclassified'):
+            err(f"groups.json: {key!r} is reserved for the derived group "
                 'that holds every game no group has claimed')
         if key in group_keys:
             err(f'groups.json: duplicate group key {key!r}')
