@@ -182,7 +182,9 @@
    "key": "saint-seiya",
    "title": "Saint Seiya",
    "games": [
-    "nes/saint-seiya-ougon-densetsu-kanketsu-hen"
+    "nes/saint-seiya-ougon-densetsu",
+    "nes/saint-seiya-ougon-densetsu-kanketsu-hen",
+    "wswan/saint-seiya-ougon-densetsu-hen-perfect-edition"
    ]
   },
   {

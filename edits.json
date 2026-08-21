@@ -973,6 +973,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T18:24:42Z",
    "reason": "Changed from the group form: nes/pac-man-championship-edition moved in"
+  },
+  {
+   "kind": "group",
+   "key": "saint-seiya",
+   "field": "games",
+   "from": "nes/saint-seiya-ougon-densetsu-kanketsu-hen",
+   "to": "nes/saint-seiya-ougon-densetsu, nes/saint-seiya-ougon-densetsu-kanketsu-hen, wswan/saint-seiya-ougon-densetsu-hen-perfect-edition",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T18:24:48Z",
+   "reason": "Changed from the group form: nes/saint-seiya-ougon-densetsu moved in wswan/saint-seiya-ougon-densetsu-hen-perfect-edition moved in"
   }
  ]
 }
