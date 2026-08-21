@@ -819,6 +819,17 @@
    "date": "2026-08-21",
    "at": "2026-08-21T12:23:10Z",
    "reason": "To be consistent with RTA leaderboard"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-warrior-within:true-ending-glitchless",
+   "field": "label",
+   "from": "true ending, glitchless",
+   "to": "True Ending (No Major Glitches)",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T12:28:28Z",
+   "reason": "To be consistent with RTA boards"
   }
  ]
 }
