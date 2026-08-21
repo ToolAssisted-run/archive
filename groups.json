@@ -91,6 +91,19 @@
    ]
   },
   {
+   "key": "digimon",
+   "title": "Digimon",
+   "games": [
+    "gba/digimon-battle-spirit-2",
+    "gba/digimon-racing",
+    "gc/digimon-rumble-arena-2",
+    "gc/digimon-world-4",
+    "psx/digimon-rumble-arena"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "doom",
    "title": "Doom",
    "games": [
