@@ -29,7 +29,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "provisional",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -51,6 +51,12 @@
    "user": "CloakTheLurker",
    "date": "2026-08-21",
    "at": "2026-08-21T03:09:12Z"
+  },
+  {
+   "user": "toca",
+   "date": "2026-08-21",
+   "at": "2026-08-21T05:03:23Z",
+   "expert": true
   }
  ]
 }
