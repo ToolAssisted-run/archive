@@ -160,6 +160,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "emma",
+   "title": "Emma",
+   "games": [
+    "ds/emma-at-the-farm",
+    "ds/emma-in-the-mountains"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "galaxian",
    "title": "Galaxian",
    "games": [
