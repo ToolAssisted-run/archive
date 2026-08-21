@@ -127,6 +127,16 @@
    "date": "2026-08-20",
    "at": "2026-08-20T18:52:00Z",
    "reason": "A trusted community member with proven expertise at managing game collections"
+  },
+  {
+   "user": "Pankaj",
+   "role": "expert",
+   "scope": "gc/prince-of-persia-the-two-thrones",
+   "action": "granted",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T12:25:10Z",
+   "reason": "He is a trusted member and has extensive knowledge about the game"
   }
  ]
 }
