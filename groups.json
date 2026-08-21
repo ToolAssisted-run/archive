@@ -349,6 +349,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "superman",
+   "title": "Superman",
+   "games": [
+    "genesis/the-death-and-return-of-superman",
+    "snes/the-death-and-return-of-superman"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "teenage-mutant-ninja-turtles",
    "title": "Teenage Mutant Ninja Turtles",
    "games": [
