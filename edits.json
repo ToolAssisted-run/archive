@@ -621,6 +621,50 @@
    "date": "2026-08-21",
    "at": "2026-08-21T07:16:05Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T11:47:00Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "emulator",
+   "from": "JPC-RR 11.8",
+   "to": "JPC-RR 11.8",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T11:47:00Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "metric:in-game-time",
+   "from": "0",
+   "to": "812.833",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T11:47:00Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100004",
+   "field": "completed",
+   "from": "2021-10-26",
+   "to": "2021-10-26",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T11:47:00Z",
+   "reason": "The author's own revision."
   }
  ]
 }
