@@ -566,6 +566,17 @@
    "date": "2026-08-20",
    "at": "2026-08-20T19:44:36Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia-2-the-shadow-and-the-flame:baseline",
+   "field": "metrics",
+   "from": "(classic: time)",
+   "to": "[{\"key\": \"in-game-time\", \"label\": \"In-Game Time\", \"type\": \"time\", \"better\": \"lower\"}, {\"key\": \"time\", \"label\": \"Time\", \"type\": \"time\", \"better\": \"lower\"}]",
+   "by": "GMP",
+   "date": "2026-08-21",
+   "at": "2026-08-21T01:01:37Z",
+   "reason": "Added In-Game Time as there are runs with different emulators and real time is not indicative of real speed."
   }
  ]
 }

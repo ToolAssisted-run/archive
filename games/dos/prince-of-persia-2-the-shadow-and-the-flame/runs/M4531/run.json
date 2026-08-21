@@ -48,5 +48,8 @@
  "forum": {
   "topicId": 685,
   "url": "https://forum.toolassisted.run/t/685"
+ },
+ "metrics": {
+  "in-game-time": 0
  }
 }
