@@ -1,0 +1,49 @@
+{
+ "id": "M4904",
+ "game": "nes/the-addams-family",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4904.bk2",
+  "format": "bk2",
+  "frames": 38882,
+  "rerecords": 46095,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.7",
+  "rom": {
+   "name": "Addams Family, The (U)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4904M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2W852yU1zAs"
+  }
+ ],
+ "submitted": "2022-11-12T19:20:50.100383",
+ "attachments": [],
+ "forum": {
+  "topicId": 1142,
+  "url": "https://forum.toolassisted.run/t/1142"
+ }
+}

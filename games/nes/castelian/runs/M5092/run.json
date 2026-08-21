@@ -1,0 +1,49 @@
+{
+ "id": "M5092",
+ "game": "nes/castelian",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5092.bk2",
+  "format": "bk2",
+  "frames": 47808,
+  "rerecords": 20853,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Kyoro-chan Land (Japan)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5092M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=KFBjlBcixVI"
+  }
+ ],
+ "submitted": "2023-02-16T14:52:51.043182",
+ "attachments": [],
+ "forum": {
+  "topicId": 1147,
+  "url": "https://forum.toolassisted.run/t/1147"
+ }
+}
