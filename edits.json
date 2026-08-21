@@ -588,6 +588,39 @@
    "date": "2026-08-21",
    "at": "2026-08-21T07:00:50Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "run",
+   "key": "M100025",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CoolHandMike",
+   "date": "2026-08-21",
+   "at": "2026-08-21T07:16:05Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100025",
+   "field": "emulator",
+   "from": "Bizhawk 2.4.2",
+   "to": "Bizhawk 2.4.2",
+   "by": "CoolHandMike",
+   "date": "2026-08-21",
+   "at": "2026-08-21T07:16:05Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100025",
+   "field": "completed",
+   "from": "",
+   "to": "",
+   "by": "CoolHandMike",
+   "date": "2026-08-21",
+   "at": "2026-08-21T07:16:05Z",
+   "reason": "The author's own revision."
   }
  ]
 }
