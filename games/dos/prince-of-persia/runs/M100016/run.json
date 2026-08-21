@@ -28,7 +28,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -57,6 +57,16 @@
    "date": "2026-08-21",
    "at": "2026-08-21T05:03:23Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-21",
+   "at": "2026-08-21T07:21:03Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "JPC-RR 11.8-rc2",
+   "notes": "The game files are from Prince of Persia 1.4, but the movie uses the cracked PRINCE.EXE (MD5: ebfdb86f490dd778e2458c6b609cffc9, size: 110855 bytes)\r\nTo get the correct CONFIG.DAT (MD5: 6d61064d668736c2db86cb8a2fcf95b6) and SETUP.DAT (MD5: f2749b0d91760afa85f27f13ca59542e) run SETUP.EXE in DOSBox and use the following settings:\r\n\r\nDigital/sound device: Sound Blaster Pro (then press M to change settings)\r\nI/O address: 220h\r\nIRQ: 5\r\nDMA: 1\r\nMusic synthesizer: Sound Blaster Pro\r\n\r\nThe game directory must contain exactly (i.e., no additional files):\r\n\r\nSNDDRVRS\\\r\n    DSB_PRO.DRV\r\n    MSB_PRO.DRV\r\n    PRESET33.DEF\r\nCONFIG.DAT\r\nDIGI.DRV\r\nDIGISND1.DAT\r\nDIGISND2.DAT\r\nDIGISND3.DAT\r\nFAT.DAT\r\nGUARD.DAT\r\nGUARD1.DAT\r\nGUARD2.DAT\r\nIBM_SND1.DAT\r\nIBM_SND2.DAT\r\nKID.DAT\r\nLEVELS.DAT\r\nMIDI.DRV\r\nMIDISND1.DAT\r\nMIDISND2.DAT\r\nPRESETS.DEF\r\nPRINCE.DAT\r\nPRINCE.EXE\r\nPV.DAT\r\nSETUP.CFG\r\nSETUP.DAT\r\nSETUP.EXE\r\nSHADOW.DAT\r\nSKEL.DAT\r\nTITLE.DAT\r\nVDUNGEON.DAT\r\nVIZIER.DAT\r\nVPALACE.DAT\r\n\r\nThe resulting JPC-RR HDD image ID should then be bcfbff90ffa8456e4862c7da84eae440"
   }
  ]
 }
