@@ -25,6 +25,16 @@
    ]
   },
   {
+   "key": "barbarian",
+   "title": "Barbarian",
+   "games": [
+    "dos/barbarian",
+    "genesis/barbarian"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "batman",
    "title": "Batman",
    "games": [
