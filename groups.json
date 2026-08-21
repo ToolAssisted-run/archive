@@ -237,6 +237,17 @@
    ]
   },
   {
+   "key": "robocop",
+   "title": "RoboCop",
+   "games": [
+    "nes/robocop",
+    "nes/robocop-2",
+    "genesis/robocop-3"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "saint-seiya",
    "title": "Saint Seiya",
    "games": [
