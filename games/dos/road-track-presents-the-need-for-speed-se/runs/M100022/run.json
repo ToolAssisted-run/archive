@@ -28,7 +28,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -45,5 +45,15 @@
  "forum": {
   "topicId": 1117,
   "url": "https://forum.toolassisted.run/t/1117"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-21",
+   "at": "2026-08-21T22:12:32Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11 (DOSBox-X)",
+   "notes": "Used \"Road & Track Presents - The Need for Speed SE (USA) Classics\" as the game disc image with MD5 hashes 577A24DC0042DE03E64FE8312D39B20A (.cue) and 8999442E0357417DBF6550E23E644F8C (.bin, 655,328,352 bytes). To run it, keep the .cue and .bin together in the same folder; then in BizHawk, open Tools > Multi-disk Bundler. Select DOS, add the .cue as the only disk entry, and delete the second empty disk field. Save the bundle as an .xml file and run it, then start the movie."
+  }
+ ]
 }
