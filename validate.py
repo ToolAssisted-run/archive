@@ -164,10 +164,8 @@ if (ROOT / 'edits.json').exists():
 if (ROOT / 'deletions.json').exists():
     _dl = json.loads((ROOT / 'deletions.json').read_text())
     check_schema('deletions', _dl, ROOT / 'deletions.json')
-    for _e in _dl.get('events', []):
-        if _e['kind'] == 'game' and not _e.get('movedTo'):
-            err(f'deletions.json: the deleted game {_e["key"]!r} does not say where '
-                f'its runs went; runs survive a game deletion')
+    # a game deletion deletes its runs with it (each run logged beside the
+    # game); older entries carry movedTo from the retired holding-game era
 
 # roles.json holds the events; who holds what is the fold, and nothing stores
 # that separately, so the two can never disagree.
