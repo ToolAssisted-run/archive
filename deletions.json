@@ -18,6 +18,15 @@
    "date": "2026-08-20",
    "reason": "this was a test movie",
    "at": "2026-08-20T04:18:01Z"
+  },
+  {
+   "kind": "run",
+   "key": "M100025",
+   "title": "nes/adventure-island-iv (unclassified)",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T06:01:47Z",
+   "reason": "Timing test of the new publishing pipeline; created for measurement only."
   }
  ]
 }
