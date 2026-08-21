@@ -283,6 +283,16 @@
    ]
   },
   {
+   "key": "pokemon",
+   "title": "Pok\u00e9mon",
+   "games": [
+    "gbc/pok-mon-pinball",
+    "n64/pok-mon-snap"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "prince-of-persia",
    "title": "Prince of Persia",
    "games": [
