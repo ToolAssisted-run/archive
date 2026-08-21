@@ -995,6 +995,39 @@
    "date": "2026-08-21",
    "at": "2026-08-21T18:24:53Z",
    "reason": "Changed from the group form: segacd/bram-stokers-dracula moved in"
+  },
+  {
+   "kind": "run",
+   "key": "M7253",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "Dimon12321",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:12:18Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M7253",
+   "field": "emulator",
+   "from": "XDRE 2.20",
+   "to": "XDRE 2.20",
+   "by": "Dimon12321",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:12:18Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M7253",
+   "field": "completed",
+   "from": "",
+   "to": "",
+   "by": "Dimon12321",
+   "date": "2026-08-21",
+   "at": "2026-08-21T19:12:18Z",
+   "reason": "The author's own revision."
   }
  ]
 }
