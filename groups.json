@@ -286,6 +286,17 @@
    ]
   },
   {
+   "key": "the-simpsons",
+   "title": "The Simpsons",
+   "games": [
+    "nes/the-simpsons-bart-vs-the-space-mutants",
+    "nes/the-simpsons-bart-vs-the-world",
+    "nes/the-simpsons-bartman-meets-radioactive-man"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "yomino-kagura-puzzle-games",
    "title": "Yomino Kagura Puzzle Games",
    "games": [
