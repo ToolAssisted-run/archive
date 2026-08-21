@@ -1,0 +1,49 @@
+{
+ "id": "M6868",
+ "game": "nes/the-simpsons-bart-vs-the-world",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6868.bk2",
+  "format": "bk2",
+  "frames": 25832,
+  "rerecords": 41787,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Simpsons, The - Bart vs. the World (USA).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6868M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=YExee1uNqJ4"
+  }
+ ],
+ "submitted": "2025-12-05T18:41:41.07256",
+ "attachments": [],
+ "forum": {
+  "topicId": 1163,
+  "url": "https://forum.toolassisted.run/t/1163"
+ }
+}

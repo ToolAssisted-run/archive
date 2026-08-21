@@ -1,0 +1,49 @@
+{
+ "id": "M6795",
+ "game": "nes/the-simpsons-bart-vs-the-space-mutants",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6795.bk2",
+  "format": "bk2",
+  "frames": 45648,
+  "rerecords": 30502,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Simpsons, The - Bart vs. the Space Mutants (USA)"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6795M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ElHzujEGED8"
+  }
+ ],
+ "submitted": "2025-10-30T11:19:21.519516",
+ "attachments": [],
+ "forum": {
+  "topicId": 1160,
+  "url": "https://forum.toolassisted.run/t/1160"
+ }
+}

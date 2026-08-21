@@ -1,0 +1,49 @@
+{
+ "id": "M6867",
+ "game": "nes/the-simpsons-bartman-meets-radioactive-man",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6867.bk2",
+  "format": "bk2",
+  "frames": 39745,
+  "rerecords": 60139,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Simpsons, The - Bartman Meets Radioactive Man (USA).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6867M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=XipydU8f9f4"
+  }
+ ],
+ "submitted": "2025-12-05T14:28:33.124799",
+ "attachments": [],
+ "forum": {
+  "topicId": 1162,
+  "url": "https://forum.toolassisted.run/t/1162"
+ }
+}

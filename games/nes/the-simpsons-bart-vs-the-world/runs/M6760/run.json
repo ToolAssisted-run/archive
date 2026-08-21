@@ -1,0 +1,49 @@
+{
+ "id": "M6760",
+ "game": "nes/the-simpsons-bart-vs-the-world",
+ "category": {
+  "goal": "best-ending"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6760.bk2",
+  "format": "bk2",
+  "frames": 36285,
+  "rerecords": 53902,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Simpsons, The - Bart vs. the World (USA).nes"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6760M",
+  "importedBy": "ktwo",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0I_Qrohh990"
+  }
+ ],
+ "submitted": "2025-10-04T09:13:01.359577",
+ "attachments": [],
+ "forum": {
+  "topicId": 1157,
+  "url": "https://forum.toolassisted.run/t/1157"
+ }
+}
