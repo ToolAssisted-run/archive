@@ -55,6 +55,16 @@
    ]
   },
   {
+   "key": "bomberman",
+   "title": "Bomberman",
+   "games": [
+    "nes/bomberman",
+    "snes/super-bomberman-3"
+   ],
+   "createdBy": "eien86",
+   "createdAt": "2026-08-21"
+  },
+  {
    "key": "bram-stoker-s-dracula",
    "title": "Bram Stoker's Dracula",
    "games": [
