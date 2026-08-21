@@ -27,6 +27,15 @@
    "date": "2026-08-21",
    "at": "2026-08-21T06:01:47Z",
    "reason": "Timing test of the new publishing pipeline; created for measurement only."
+  },
+  {
+   "kind": "game",
+   "key": "dos/uncategorized",
+   "title": "Uncategorized",
+   "by": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T06:55:13Z",
+   "reason": "The holding-game mechanism is retired; this placeholder held no runs."
   }
  ]
 }
