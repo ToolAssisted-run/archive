@@ -1,0 +1,49 @@
+{
+ "id": "M5462",
+ "game": "nes/batman-the-dark-knight",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Pankaj"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5462.bk2",
+  "format": "bk2",
+  "frames": 38430,
+  "rerecords": 25425,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Batman - The Dark Knight"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5462M",
+  "importedBy": "Pankaj",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=grZhTIc5rTc"
+  }
+ ],
+ "submitted": "2023-08-01T19:08:40.034644",
+ "attachments": [],
+ "forum": {
+  "topicId": 1170,
+  "url": "https://forum.toolassisted.run/t/1170"
+ }
+}

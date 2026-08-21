@@ -1,0 +1,49 @@
+{
+ "id": "M5300",
+ "game": "gc/prince-of-persia-the-two-thrones",
+ "category": {
+  "goal": "glitchless"
+ },
+ "authors": [
+  {
+   "user": "Pankaj"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5300.dtm",
+  "format": "dtm",
+  "frames": 357099,
+  "rerecords": 120551,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-17995",
+  "rom": {
+   "name": "Prince of Persia - The Two Thrones.iso"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5300M",
+  "importedBy": "Pankaj",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wwdWlLrS8sM"
+  }
+ ],
+ "submitted": "2023-06-01T01:12:01.329823",
+ "attachments": [],
+ "forum": {
+  "topicId": 1166,
+  "url": "https://forum.toolassisted.run/t/1166"
+ }
+}

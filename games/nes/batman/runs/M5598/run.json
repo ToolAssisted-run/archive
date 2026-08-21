@@ -1,0 +1,49 @@
+{
+ "id": "M5598",
+ "game": "nes/batman",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Pankaj"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5598.bk2",
+  "format": "bk2",
+  "frames": 33166,
+  "rerecords": 149085,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Batman - The Video Game"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5598M",
+  "importedBy": "Pankaj",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IS6OBOfHWHA"
+  }
+ ],
+ "submitted": "2023-09-29T15:13:33.076506",
+ "attachments": [],
+ "forum": {
+  "topicId": 1172,
+  "url": "https://forum.toolassisted.run/t/1172"
+ }
+}

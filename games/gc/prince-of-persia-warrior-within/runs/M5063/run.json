@@ -1,0 +1,49 @@
+{
+ "id": "M5063",
+ "game": "gc/prince-of-persia-warrior-within",
+ "category": {
+  "goal": "true-ending-glitchless"
+ },
+ "authors": [
+  {
+   "user": "Pankaj"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5063.dtm",
+  "format": "dtm",
+  "frames": 420688,
+  "rerecords": 84033,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-17269",
+  "rom": {
+   "name": "Prince of Persia - Warrior Within"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5063M",
+  "importedBy": "Pankaj",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=o7ebf1xs564"
+  }
+ ],
+ "submitted": "2023-01-29T19:10:42.825425",
+ "attachments": [],
+ "forum": {
+  "topicId": 1164,
+  "url": "https://forum.toolassisted.run/t/1164"
+ }
+}

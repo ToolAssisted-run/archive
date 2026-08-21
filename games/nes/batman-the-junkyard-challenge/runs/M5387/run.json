@@ -1,0 +1,49 @@
+{
+ "id": "M5387",
+ "game": "nes/batman-the-junkyard-challenge",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Pankaj"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5387.bk2",
+  "format": "bk2",
+  "frames": 42589,
+  "rerecords": 76898,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Batman - The Junkyard Challenge"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5387M",
+  "importedBy": "Pankaj",
+  "importedAt": "2026-08-21"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=fZXZ_aOkVEg"
+  }
+ ],
+ "submitted": "2023-07-01T20:53:51.779982",
+ "attachments": [],
+ "forum": {
+  "topicId": 1168,
+  "url": "https://forum.toolassisted.run/t/1168"
+ }
+}
