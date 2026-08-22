@@ -30,7 +30,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -47,5 +47,14 @@
  "forum": {
   "topicId": 1186,
   "url": "https://forum.toolassisted.run/t/1186"
- }
+ },
+ "reproductions": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T17:45:13Z",
+   "screenshot": "reproductions/1-CloakTheLurker.png",
+   "emulator": "Gens v11a"
+  }
+ ]
 }
