@@ -1292,6 +1292,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T06:31:14Z",
    "reason": "cover set"
+  },
+  {
+   "kind": "game",
+   "key": "snes/prince-of-persia-2-the-shadow-and-the-flame",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:32:56Z",
+   "reason": "snes cover"
   }
  ]
 }
