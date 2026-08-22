@@ -2502,6 +2502,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:48:36Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/bionic-commando",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/Gdrkzea",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:48:45Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
