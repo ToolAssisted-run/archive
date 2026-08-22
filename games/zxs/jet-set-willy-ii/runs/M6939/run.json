@@ -1,0 +1,49 @@
+{
+ "id": "M6939",
+ "game": "zxs/jet-set-willy-ii",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6939.bk2",
+  "format": "bk2",
+  "frames": 93700,
+  "rerecords": 80190,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Jet Set Willy II+ (2017-03-08)(Rowson, Derrick P.).tap"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6939M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=R6dmjyuy-e0"
+  }
+ ],
+ "submitted": "2026-01-10T08:51:11.349642",
+ "attachments": [],
+ "forum": {
+  "topicId": 1236,
+  "url": "https://forum.toolassisted.run/t/1236"
+ }
+}

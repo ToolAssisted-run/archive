@@ -1,0 +1,49 @@
+{
+ "id": "M6847",
+ "game": "zxs/jet-set-willy-ii-the-final-frontier",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6847.bk2",
+  "format": "bk2",
+  "frames": 116750,
+  "rerecords": 73710,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "Jet Set Willy 2 (Software Projects).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6847M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=T5YcXmZXmE8"
+  }
+ ],
+ "submitted": "2025-11-27T19:17:18.536949",
+ "attachments": [],
+ "forum": {
+  "topicId": 1235,
+  "url": "https://forum.toolassisted.run/t/1235"
+ }
+}

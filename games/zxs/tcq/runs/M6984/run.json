@@ -1,0 +1,49 @@
+{
+ "id": "M6984",
+ "game": "zxs/tcq",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6984.bk2",
+  "format": "bk2",
+  "frames": 41340,
+  "rerecords": 36855,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "T.C.Q. (V1.1).tap"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6984M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qSrA0r0w2Ow"
+  }
+ ],
+ "submitted": "2026-02-20T10:22:40.483915",
+ "attachments": [],
+ "forum": {
+  "topicId": 1237,
+  "url": "https://forum.toolassisted.run/t/1237"
+ }
+}
