@@ -2469,6 +2469,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:46:12Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/best-of-the-best-championship-karate",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/best_of_the_best_championship_karate",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:47:34Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
