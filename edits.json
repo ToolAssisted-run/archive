@@ -1270,6 +1270,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T06:30:58Z",
    "reason": "cover set"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/prince-of-persia-2-the-shadow-and-the-flame",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:31:04Z",
+   "reason": "cover set"
   }
  ]
 }
