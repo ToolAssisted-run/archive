@@ -1303,6 +1303,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T06:32:56Z",
    "reason": "snes cover"
+  },
+  {
+   "kind": "game",
+   "key": "gba/prince-of-persia-the-sands-of-time",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:34:24Z",
+   "reason": "cover set"
   }
  ]
 }
