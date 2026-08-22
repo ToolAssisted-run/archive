@@ -2194,6 +2194,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:04:27Z",
    "reason": "Batman (NES) ROM hack"
+  },
+  {
+   "kind": "game",
+   "key": "nes/sherlock",
+   "field": "website",
+   "from": "",
+   "to": "https://pacnsacdave.weebly.com/sherlock.html",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:07:03Z",
+   "reason": "official page"
   }
  ]
 }
