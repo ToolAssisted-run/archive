@@ -2095,6 +2095,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:42:49Z",
    "reason": "leaked prototype, according to Hidden Palace"
+  },
+  {
+   "kind": "game",
+   "key": "snes/batman",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/batman_prototype_snes",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:43:46Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
