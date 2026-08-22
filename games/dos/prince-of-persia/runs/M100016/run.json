@@ -80,5 +80,8 @@
     }
    ]
   }
+ },
+ "metrics": {
+  "in-game-time": 0
  }
 }

@@ -45,7 +45,21 @@
     {
      "key": "any-no-major-glitches",
      "label": "Any% (No Major Glitches)",
-     "rule": "Complete the game as soon as possible without the usage of major glitches. Glitches are detailed here: https://www.speedrun.com/pop1/guide/m4j3u"
+     "rule": "Complete the game as soon as possible without the usage of major glitches. Glitches are detailed here: https://www.speedrun.com/pop1/guide/m4j3u",
+     "metrics": [
+      {
+       "key": "in-game-time",
+       "label": "In-Game Time",
+       "type": "time",
+       "better": "lower"
+      },
+      {
+       "key": "time",
+       "label": "Time",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
     }
    ]
   }
