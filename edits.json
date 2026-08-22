@@ -2051,6 +2051,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:34:55Z",
    "reason": "Itch.io homebrew"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/barbarian",
+   "field": "released",
+   "from": "",
+   "to": "2019",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:38:38Z",
+   "reason": "according to LaunchBox Games Launcher"
   }
  ]
 }
