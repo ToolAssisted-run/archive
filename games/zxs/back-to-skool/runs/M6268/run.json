@@ -1,0 +1,49 @@
+{
+ "id": "M6268",
+ "game": "zxs/back-to-skool",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6268.bk2",
+  "format": "bk2",
+  "frames": 22610,
+  "rerecords": 693,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "BacktoSkool.tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6268M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wG1xz8mhGSw"
+  }
+ ],
+ "submitted": "2024-11-17T20:44:10.518199",
+ "attachments": [],
+ "forum": {
+  "topicId": 1222,
+  "url": "https://forum.toolassisted.run/t/1222"
+ }
+}

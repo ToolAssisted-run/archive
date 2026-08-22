@@ -1,0 +1,49 @@
+{
+ "id": "M5966",
+ "game": "zxs/bmx-jungle-bike",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5966.bk2",
+  "format": "bk2",
+  "frames": 9070,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "BMXJungleBike.tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5966M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=c2puv7n4D3Y"
+  }
+ ],
+ "submitted": "2024-05-22T23:01:23.404989",
+ "attachments": [],
+ "forum": {
+  "topicId": 1217,
+  "url": "https://forum.toolassisted.run/t/1217"
+ }
+}

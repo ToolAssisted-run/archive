@@ -1,0 +1,49 @@
+{
+ "id": "M6331",
+ "game": "zxs/fast-food",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6331.bk2",
+  "format": "bk2",
+  "frames": 82153,
+  "rerecords": 74844,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "FastFood.tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6331M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DnwIFIBJQBI"
+  }
+ ],
+ "submitted": "2025-01-03T09:40:45.180607",
+ "attachments": [],
+ "forum": {
+  "topicId": 1224,
+  "url": "https://forum.toolassisted.run/t/1224"
+ }
+}

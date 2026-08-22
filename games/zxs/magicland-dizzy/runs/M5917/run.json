@@ -1,0 +1,49 @@
+{
+ "id": "M5917",
+ "game": "zxs/magicland-dizzy",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5917.bk2",
+  "format": "bk2",
+  "frames": 51847,
+  "rerecords": 2772,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Dizzy IV - Magicland Dizzy (1989)(Codemasters)(48-128k).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5917M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=nXyhx0BBdOM"
+  }
+ ],
+ "submitted": "2024-04-21T07:34:16.921833",
+ "attachments": [],
+ "forum": {
+  "topicId": 1215,
+  "url": "https://forum.toolassisted.run/t/1215"
+ }
+}

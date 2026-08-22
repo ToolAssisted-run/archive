@@ -1,0 +1,49 @@
+{
+ "id": "M6233",
+ "game": "zxs/skool-daze",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6233.bk2",
+  "format": "bk2",
+  "frames": 38410,
+  "rerecords": 924,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Skool Daze.tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6233M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=QlWPOCoK0Mc"
+  }
+ ],
+ "submitted": "2024-10-26T07:51:06.994204",
+ "attachments": [],
+ "forum": {
+  "topicId": 1220,
+  "url": "https://forum.toolassisted.run/t/1220"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M6115",
+ "game": "zxs/manic-miner",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  },
+  {
+   "user": "crem"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6115.bk2",
+  "format": "bk2",
+  "frames": 422958,
+  "rerecords": 12474,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "ManicMiner(SoftwareProjectsLtd).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6115M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Fw1jXE4gv4Q"
+  }
+ ],
+ "submitted": "2024-08-22T10:30:22.625638",
+ "attachments": [],
+ "forum": {
+  "topicId": 1218,
+  "url": "https://forum.toolassisted.run/t/1218"
+ }
+}
