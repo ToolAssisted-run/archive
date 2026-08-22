@@ -7,7 +7,7 @@
     {
      "key": "warpless",
      "label": "warpless",
-     "rule": "Imported from TASVideos as \"warpless\"; rules to be formalized by the game's experts."
+     "rule": "Complete the game as fast as possible with no warps."
     },
     {
      "key": "warps-demo-glitch",
