@@ -167,6 +167,25 @@
    "type": "string",
    "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
    "description": "arrival moment, seconds, UTC; date stays the day people read"
+  },
+  "released": {
+   "type": "string",
+   "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$",
+   "description": "first public release: YYYY, YYYY-MM or YYYY-MM-DD"
+  },
+  "unofficial": {
+   "type": "boolean",
+   "description": "a ROM hack, mod, fangame or other unofficial release"
+  },
+  "discord": {
+   "type": "string",
+   "pattern": "^https://(discord\\.gg|discord\\.com/invite)/[A-Za-z0-9-]+$",
+   "description": "the game's community Discord, a permanent invite"
+  },
+  "website": {
+   "type": "string",
+   "pattern": "^https?://\\S+$",
+   "description": "the community hub, wiki or leaderboard for this game"
   }
  }
 }
