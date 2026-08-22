@@ -2304,6 +2304,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:18:42Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/arkanoid",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/arkanoid",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:19:54Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
