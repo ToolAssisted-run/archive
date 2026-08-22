@@ -7,7 +7,7 @@
     {
      "key": "zipless",
      "label": "Any% (Zipless)",
-     "rule": "Imported from TASVideos as \"zipless\"; rules to be formalized by the game's experts."
+     "rule": "Beat the game without using zips as fast as possible."
     },
     {
      "key": "true-ending-glitchless",
