@@ -2458,6 +2458,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:46:02Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/beetlejuice",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/wHt4M4Sw2F",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:46:12Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
