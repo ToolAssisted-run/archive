@@ -1765,6 +1765,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T14:38:31Z",
    "reason": "Adding IGT"
+  },
+  {
+   "kind": "run",
+   "key": "M6417",
+   "field": "metric:in-game-time",
+   "from": "0",
+   "to": "923.033",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T14:39:14Z",
+   "reason": "Updated IGT for the run"
   }
  ]
 }
