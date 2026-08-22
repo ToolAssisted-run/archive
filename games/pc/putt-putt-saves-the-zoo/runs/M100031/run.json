@@ -22,7 +22,7 @@
  },
  "status": {
   "reproduced": "not-applicable",
-  "verified": "none",
+  "verified": "provisional",
   "console": "not-applicable"
  },
  "encodes": [
@@ -37,5 +37,13 @@
  "forum": {
   "topicId": 1190,
   "url": "https://forum.toolassisted.run/t/1190"
- }
+ },
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-08-22",
+   "at": "2026-08-22T20:28:22Z",
+   "notes": "The video has no sound and a watermark of a video editor."
+  }
+ ]
 }
