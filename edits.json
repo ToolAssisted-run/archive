@@ -2293,6 +2293,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:17:48Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "a2600/alien",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/atarialien",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:18:42Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
