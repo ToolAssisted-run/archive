@@ -53,5 +53,8 @@
    "user": "GMP",
    "date": "2026-08-18"
   }
- ]
+ ],
+ "metrics": {
+  "in-game-time": 0
+ }
 }
