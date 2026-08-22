@@ -2359,6 +2359,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:37:49Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/armadillo",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/armadillo",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:39:25Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
