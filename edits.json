@@ -2568,6 +2568,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:52:20Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/bomberman",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/bomberman_nes",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:53:10Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
