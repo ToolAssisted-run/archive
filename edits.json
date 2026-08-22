@@ -1809,6 +1809,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T15:21:25Z",
    "reason": "Adding release date"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-sands-of-time:zipless",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"zipless\"; rules to be formalized by the game's experts.",
+   "to": "Go to credits without using what we call \"zips\" as fast as possible.",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T15:24:55Z",
+   "reason": "Added rules"
   }
  ]
 }
