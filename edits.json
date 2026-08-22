@@ -2117,6 +2117,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:46:55Z",
    "reason": "Japanese release date, according to Wikipedia"
+  },
+  {
+   "kind": "game",
+   "key": "nes/batman",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/cJmda9Q",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:47:11Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
