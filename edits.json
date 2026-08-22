@@ -2403,6 +2403,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:41:21Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/back-to-skool",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/back_to_skool",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:41:59Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
