@@ -1853,6 +1853,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T15:36:44Z",
    "reason": "Added Rules"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-warrior-within:true-ending-glitchless",
+   "field": "rule",
+   "from": "Beat the game while getting the \"true ending\" without using major glitches.\r\n\r\nThe following are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- Menu Launch\r\n- Load trigger / Story / Cutscene Manipulation\r\n- Sonic Glitch\r\n- Rewind Wallrun Extension\r\n- Quicksand\r\n- Drop Glitch\r\n- Trap Fall-Dam",
+   "to": "Beat the game while getting the \"true ending\" without using major glitches.\r\n\r\nThe following are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- Menu Launch\r\n- Load trigger / Story / Cutscene Manipulation\r\n- Sonic Glitch\r\n- Rewind Wallrun Extension\r\n- Quicksand\r\n- Drop Glitch\r\n- Trap Fall-Dam",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T15:37:46Z",
+   "reason": "Fixing markdown"
   }
  ]
 }
