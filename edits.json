@@ -1930,6 +1930,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T15:45:28Z",
    "reason": "Adding release date"
+  },
+  {
+   "kind": "game",
+   "key": "gc/prince-of-persia-the-two-thrones",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.com/invite/0Ss0agDWPoiSvr3E",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T15:45:33Z",
+   "reason": "PoP Speedrunning Discord"
   }
  ]
 }
