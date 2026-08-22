@@ -1,0 +1,41 @@
+{
+ "id": "M100031",
+ "game": "pc/putt-putt-saves-the-zoo",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "CalebeGamesRom"
+  }
+ ],
+ "tools": [],
+ "videoOnly": true,
+ "duration": 46.013,
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk",
+  "rom": {
+   "name": "Putt-Putt Saves the Zoo (CD Windows).zip",
+   "sha1": "34714c2738a04c127b3f41d4cc13843130c5e62e"
+  }
+ },
+ "status": {
+  "reproduced": "not-applicable",
+  "verified": "none",
+  "console": "not-applicable"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=TiRhL7ssEeE"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-08-22T20:26:03Z",
+ "submittedBy": "CalebeGamesRom",
+ "forum": {
+  "topicId": 1190,
+  "url": "https://forum.toolassisted.run/t/1190"
+ }
+}
