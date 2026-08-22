@@ -1996,6 +1996,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:23:13Z",
    "reason": "according to GameBrew page"
+  },
+  {
+   "kind": "game",
+   "key": "amiga/another-world",
+   "field": "released",
+   "from": "",
+   "to": "1991-11",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:25:33Z",
+   "reason": "according to Wikipedia"
   }
  ]
 }
