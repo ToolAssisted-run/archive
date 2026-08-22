@@ -1,0 +1,48 @@
+{
+ "id": "M100027",
+ "game": "pc/doom-ii-sunlust",
+ "category": {
+  "goal": "uv-speed"
+ },
+ "authors": [
+  {
+   "user": "almostmatt1"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100027.lmp",
+  "format": "lmp",
+  "sha1": "c88abcb37321f3cc960e921f05b62228d33ed1f8",
+  "frames": 660,
+  "rerecords": null,
+  "start": "power-on",
+  "fps": 35.0029869215506
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "DSDA-Doom"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/K-6ZK5FUbNI?si=BGE4uEppA-PP1WXM"
+  }
+ ],
+ "attachments": [],
+ "completed": "2024-12-27",
+ "submitted": "2026-08-22T07:37:28Z",
+ "submittedBy": "almostmatt1",
+ "forum": {
+  "topicId": 1178,
+  "url": "https://forum.toolassisted.run/t/1178"
+ }
+}
