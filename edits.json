@@ -1171,6 +1171,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T06:27:37Z",
    "reason": "cover set"
+  },
+  {
+   "kind": "game",
+   "key": "gbc/prince-of-persia",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:28:26Z",
+   "reason": "cover set"
   }
  ]
 }
