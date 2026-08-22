@@ -2623,6 +2623,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:55:40Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "segacd/bram-stokers-dracula",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/Wqq6zjDVe3",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:55:49Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
