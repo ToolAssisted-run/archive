@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "uv-speed",
+     "label": "UV-Speed",
+     "rule": "Complete the game as fast as possible using the Ultra-Violence difficulty setting."
+    }
+   ]
+  }
+ ]
+}
