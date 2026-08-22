@@ -2513,6 +2513,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:48:45Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "snes/bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/bishoujo_senshi_sailor_moon_s",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:49:47Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
