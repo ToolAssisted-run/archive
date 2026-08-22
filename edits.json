@@ -1952,6 +1952,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T15:45:45Z",
    "reason": "PoPRuns website"
+  },
+  {
+   "kind": "category",
+   "key": "genesis/the-lion-king:all-bugs",
+   "field": "added",
+   "from": "",
+   "to": "All Bugs",
+   "by": "ShgofcTAS",
+   "date": "2026-08-22",
+   "at": "2026-08-22T19:33:30Z",
+   "reason": "Created it."
   }
  ]
 }

@@ -8,6 +8,11 @@
      "key": "baseline",
      "label": "baseline",
      "rule": "complete the game as fast as possible"
+    },
+    {
+     "key": "all-bugs",
+     "label": "All Bugs",
+     "rule": "collect all insects. the bonus doesnt count, you dont need to recollect already collected collected bugs"
     }
    ]
   }
