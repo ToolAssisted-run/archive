@@ -2414,6 +2414,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:41:59Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "psx/battle-arena-toshinden",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/battle_arena_toshinden_ps1",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:44:02Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
