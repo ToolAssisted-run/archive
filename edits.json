@@ -2601,6 +2601,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:54:39Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "gb/bram-stokers-dracula",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/bram_stokers_dracula_gb",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:55:10Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
