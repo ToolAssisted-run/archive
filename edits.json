@@ -2348,6 +2348,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:36:53Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "snes/arkanoid-doh-it-again",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/arkanoid_doh_it_again",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:37:49Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
