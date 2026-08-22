@@ -1,15 +1,3 @@
-> **Imported from TASVideos**
-> This run was originally published at https://tasvideos.org/5358M and entered this archive as a voluntary
-> import by its author. A collaborative work can only be imported with the
-> authorization of every author credited on it, which is why only single-author
-> works come across this way. The notes below are the author's own, reproduced under their
-> Creative Commons license; text not written by the authors (judging feedback, staff
-> annotations) has been removed. The original publication was verified and reproduced
-> by TASVideos staff, a trustworthy TASing source; it is marked fully verified here
-> without passing through this site's standard procedure. The movie file and these
-> notes were obtained freely from tasvideos.org and are redistributed in observance
-> of the Creative Commons Attribution 2.0 license under which they were published there.
-
 This is a No Major Glitches TAS of Prince of Persia: The Sands of Time, arguably the game that influenced the direction of the franchise the most.
  
 !!! Game objectives
@@ -43,4 +31,4 @@ With the dagger, the fastest way to defeat the enemies is with a torpedo attack 
 [module:youtube|v=dS-zpj31Ers]
 
 !!! Thank You Note
-I want to specially thank toca and Jaka for organizing and doing commentary with me. Shoutouts to solarplex for their inspiring [UserFiles/Info/638009996522613999|partially completed TAS]. I'm grateful to the PoP community for the strategies and support. And thanks to the TASVideos community, especially EZGames69, for their helpful tech tips.
+I want to specially thank toca and Jaka for organizing and doing commentary with me. Shoutouts to solarplex for their inspiring [UserFiles/Info/638009996522613999|partially completed TAS]. I'm grateful to the PoP community for the strategies and support.

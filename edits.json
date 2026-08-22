@@ -1457,6 +1457,50 @@
    "date": "2026-08-22",
    "at": "2026-08-22T09:22:53Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5358",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T09:25:30Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5358",
+   "field": "emulator",
+   "from": "Dolphin 5.0-16426",
+   "to": "Dolphin 5.0-16426",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T09:25:30Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5358",
+   "field": "completed",
+   "from": "",
+   "to": "",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T09:25:30Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5358",
+   "field": "encode",
+   "from": "https://www.youtube.com/watch?v=jjVBAiCgh9U",
+   "to": "https://www.youtube.com/watch?v=jjVBAiCgh9U",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T09:25:30Z",
+   "reason": "The author's own revision."
   }
  ]
 }
