@@ -2546,6 +2546,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:50:36Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "category",
+   "key": "nes/blaster-master:all-bosses",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"all bosses\"; rules to be formalized by the game's experts.",
+   "to": "Complete the game as fast as possible while defeating all bosses.",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:51:07Z",
+   "reason": "added reason"
   }
  ]
 }

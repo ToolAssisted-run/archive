@@ -7,7 +7,7 @@
     {
      "key": "all-bosses",
      "label": "all bosses",
-     "rule": "Imported from TASVideos as \"all bosses\"; rules to be formalized by the game's experts."
+     "rule": "Complete the game as fast as possible while defeating all bosses."
     },
     {
      "key": "baseline",
