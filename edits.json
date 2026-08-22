@@ -2062,6 +2062,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:38:38Z",
    "reason": "according to LaunchBox Games Launcher"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/barbarian",
+   "field": "website",
+   "from": "",
+   "to": "https://z-team.itch.io/barbarian-sega-megadrive",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:38:58Z",
+   "reason": "official Itch.io page"
   }
  ]
 }
