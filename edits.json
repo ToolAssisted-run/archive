@@ -2029,6 +2029,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:28:43Z",
    "reason": "Amiga RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "gba/another-world",
+   "field": "website",
+   "from": "",
+   "to": "http://www.foxysofts.com/index.php?l=content/gba/anworld.inc",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:29:44Z",
+   "reason": "official page"
   }
  ]
 }
