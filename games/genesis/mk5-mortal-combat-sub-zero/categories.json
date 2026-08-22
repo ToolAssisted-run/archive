@@ -8,6 +8,11 @@
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "no-floor-glide",
+     "label": "No floor glide",
+     "rule": "Complete the game in the fastest time. Use Hard difficulty. Floor glide glitch must NOT be used."
     }
    ]
   }
