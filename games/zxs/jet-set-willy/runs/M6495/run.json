@@ -1,0 +1,49 @@
+{
+ "id": "M6495",
+ "game": "zxs/jet-set-willy",
+ "category": {
+  "goal": "writetyper"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6495.bk2",
+  "format": "bk2",
+  "frames": 12560,
+  "rerecords": 12285,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "JetSetWilly(PCGBugfix).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6495M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=POBY8iyDTEI"
+  }
+ ],
+ "submitted": "2025-04-19T12:33:07.00844",
+ "attachments": [],
+ "forum": {
+  "topicId": 1225,
+  "url": "https://forum.toolassisted.run/t/1225"
+ }
+}

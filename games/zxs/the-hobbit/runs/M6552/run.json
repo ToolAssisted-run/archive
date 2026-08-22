@@ -1,0 +1,49 @@
+{
+ "id": "M6552",
+ "game": "zxs/the-hobbit",
+ "category": {
+  "goal": "game-end-glitch"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6552.bk2",
+  "format": "bk2",
+  "frames": 14147,
+  "rerecords": 133,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "HobbitTheV1.2(TextOnly).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6552M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DYSGhlztRvU"
+  }
+ ],
+ "submitted": "2025-05-24T01:11:33.174724",
+ "attachments": [],
+ "forum": {
+  "topicId": 1227,
+  "url": "https://forum.toolassisted.run/t/1227"
+ }
+}

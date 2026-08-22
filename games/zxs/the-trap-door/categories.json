@@ -8,6 +8,11 @@
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "maximum-score",
+     "label": "maximum score",
+     "rule": "Imported as \"maximum score\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

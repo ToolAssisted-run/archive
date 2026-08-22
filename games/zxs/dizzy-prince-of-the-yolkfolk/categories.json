@@ -8,11 +8,6 @@
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
-    },
-    {
-     "key": "writetyper",
-     "label": "WRITETYPER",
-     "rule": "Imported as \"WRITETYPER\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

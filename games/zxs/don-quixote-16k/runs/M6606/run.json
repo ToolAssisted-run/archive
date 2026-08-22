@@ -1,0 +1,49 @@
+{
+ "id": "M6606",
+ "game": "zxs/don-quixote-16k",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6606.bk2",
+  "format": "bk2",
+  "frames": 22958,
+  "rerecords": 18711,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Don_Quixote_16K.dsk"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6606M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=iCyEZmkULSM"
+  }
+ ],
+ "submitted": "2025-06-20T16:57:37.860014",
+ "attachments": [],
+ "forum": {
+  "topicId": 1229,
+  "url": "https://forum.toolassisted.run/t/1229"
+ }
+}

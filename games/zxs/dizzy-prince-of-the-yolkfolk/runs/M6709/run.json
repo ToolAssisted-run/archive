@@ -1,0 +1,49 @@
+{
+ "id": "M6709",
+ "game": "zxs/dizzy-prince-of-the-yolkfolk",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6709.bk2",
+  "format": "bk2",
+  "frames": 38122,
+  "rerecords": 37422,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Dizzy VI - Prince Of The Yolkfolk (1991)(Codemasters).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6709M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xDbkW66rGGM"
+  }
+ ],
+ "submitted": "2025-08-28T08:24:03.767277",
+ "attachments": [],
+ "forum": {
+  "topicId": 1233,
+  "url": "https://forum.toolassisted.run/t/1233"
+ }
+}

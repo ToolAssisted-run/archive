@@ -1,0 +1,49 @@
+{
+ "id": "M6765",
+ "game": "zxs/the-trap-door",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6765.bk2",
+  "format": "bk2",
+  "frames": 64718,
+  "rerecords": 56133,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "rom": {
+   "name": "TrapDoorThe.tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6765M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=uPC0kI0V0cQ"
+  }
+ ],
+ "submitted": "2025-10-06T15:10:38.764598",
+ "attachments": [],
+ "forum": {
+  "topicId": 1234,
+  "url": "https://forum.toolassisted.run/t/1234"
+ }
+}

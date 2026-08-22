@@ -1,0 +1,49 @@
+{
+ "id": "M6628",
+ "game": "zxs/spellbound-dizzy",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6628.bk2",
+  "format": "bk2",
+  "frames": 145015,
+  "rerecords": 112266,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "rom": {
+   "name": "Dizzy V - Spellbound Dizzy (1991)(Codemasters)(48-128k).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6628M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gGSJawhLLUk"
+  }
+ ],
+ "submitted": "2025-07-11T23:42:43.637393",
+ "attachments": [],
+ "forum": {
+  "topicId": 1231,
+  "url": "https://forum.toolassisted.run/t/1231"
+ }
+}
