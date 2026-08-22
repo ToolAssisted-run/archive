@@ -2018,6 +2018,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:27:42Z",
    "reason": "official website"
+  },
+  {
+   "kind": "game",
+   "key": "amiga/another-world",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/another_world?h=Amiga&x=w203znj2",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:28:43Z",
+   "reason": "Amiga RTA leaderboard"
   }
  ]
 }
