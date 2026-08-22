@@ -1347,6 +1347,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T06:36:24Z",
    "reason": "cover set"
+  },
+  {
+   "kind": "game",
+   "key": "ds/prince-of-persia-the-fallen-king",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:36:53Z",
+   "reason": "cover set"
   }
  ]
 }
