@@ -1963,6 +1963,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T19:33:30Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "game",
+   "key": "pc/putt-putt-saves-the-zoo",
+   "field": "title",
+   "from": "Putt Putt Saves The Zoo",
+   "to": "Putt Putt Saves the Zoo",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:18:51Z",
+   "reason": "capitalization"
   }
  ]
 }
