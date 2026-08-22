@@ -1776,6 +1776,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T14:39:14Z",
    "reason": "Updated IGT for the run"
+  },
+  {
+   "kind": "game",
+   "key": "dos/mini-prince",
+   "field": "released",
+   "from": "",
+   "to": "2020",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T15:08:52Z",
+   "reason": "Adding release date. Source: annebras.nl/miniprince"
   }
  ]
 }
