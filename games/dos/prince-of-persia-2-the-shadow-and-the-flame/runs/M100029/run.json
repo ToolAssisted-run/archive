@@ -28,7 +28,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -40,5 +40,13 @@
  "attachments": [],
  "completed": "2021-08-03",
  "submitted": "2026-08-22T15:03:45Z",
- "submittedBy": "GMP"
+ "submittedBy": "GMP",
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T20:06:00Z",
+   "expert": true
+  }
+ ]
 }
