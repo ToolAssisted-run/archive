@@ -1,0 +1,51 @@
+{
+ "id": "M100028",
+ "game": "genesis/mk5-mortal-combat-sub-zero",
+ "category": {
+  "goal": "no-floor-glide"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100028.gmv",
+  "format": "gmv",
+  "sha1": "94a7f5a8cd3aa1586e3ddf983123f7a4e5f24561",
+  "frames": 95021,
+  "rerecords": 6715,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Gens v11a",
+  "rom": {
+   "name": "MK 5 - Mortal Combat - SubZero (Unl) [!].bin",
+   "sha1": "8f92ce78be753748daeae6e16e1eed785f99d287"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=B4jz8DuZTIQ"
+  }
+ ],
+ "attachments": [],
+ "completed": "2018-10-31",
+ "submitted": "2026-08-22T13:37:39Z",
+ "submittedBy": "Dimon12321",
+ "forum": {
+  "topicId": 1186,
+  "url": "https://forum.toolassisted.run/t/1186"
+ }
+}
