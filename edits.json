@@ -2139,6 +2139,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:47:24Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/batman-the-junkyard-challenge",
+   "field": "released",
+   "from": "",
+   "to": "2021-01-09",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:52:27Z",
+   "reason": "according to Romhacking.net"
   }
  ]
 }
