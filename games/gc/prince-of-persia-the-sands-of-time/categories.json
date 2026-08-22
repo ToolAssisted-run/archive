@@ -7,7 +7,7 @@
     {
      "key": "glitchless",
      "label": "Any% (No Major Glitches)",
-     "rule": "Imported from TASVideos as \"glitchless\"; rules to be formalized by the game's experts."
+     "rule": "Go to credits without using major glitches as fast as possible.\r\n\r\nThe following things are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- First Person glitches\r\n- Boosts\r\n- Invisible sword glitch\r\n- Invisible ledges\r\n- Zombie Glitch\r\n- Trap fall damage cancel\r\n- Enemy clipping\r\n- Ledge storage\r\n- Canceling a wallrun by pausing\r\n\r\nCheck the glitch guide for detailed explanation of each glitch - https://www.speedrun.com/pop_sot/guide/6lrg7"
     },
     {
      "key": "zipless",

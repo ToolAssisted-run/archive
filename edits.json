@@ -1820,6 +1820,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T15:24:55Z",
    "reason": "Added rules"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-sands-of-time:glitchless",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"glitchless\"; rules to be formalized by the game's experts.",
+   "to": "Go to credits without using major glitches as fast as possible.\r\n\r\nThe following things are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- First Person glitches\r\n- Boosts\r\n- Invisible sword glitch\r\n- Invisible ledges\r\n- Zombie Glitch\r\n- Trap fall damage cancel\r\n- Enemy clipping\r\n- Ledge stor",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T15:28:58Z",
+   "reason": "Added rules"
   }
  ]
 }
