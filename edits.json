@@ -1908,6 +1908,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T15:43:11Z",
    "reason": "PoP Speedrunning Discord"
+  },
+  {
+   "kind": "game",
+   "key": "gba/prince-of-persia-the-sands-of-time",
+   "field": "website",
+   "from": "",
+   "to": "https://popruns.github.io/",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T15:43:26Z",
+   "reason": "PoPRuns website"
   }
  ]
 }
