@@ -1193,6 +1193,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T06:28:35Z",
    "reason": "cover set"
+  },
+  {
+   "kind": "game",
+   "key": "pcecd/prince-of-persia",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:28:42Z",
+   "reason": "cover set"
   }
  ]
 }
