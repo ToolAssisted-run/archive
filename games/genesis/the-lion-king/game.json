@@ -2,5 +2,9 @@
  "title": "The Lion King",
  "system": "genesis",
  "createdBy": "ShgofcTAS",
- "createdAt": "2026-08-22"
+ "createdAt": "2026-08-22",
+ "forum": {
+  "topicId": 1187,
+  "url": "https://forum.toolassisted.run/t/1187"
+ }
 }

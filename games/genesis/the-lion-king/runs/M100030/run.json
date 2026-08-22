@@ -1,0 +1,48 @@
+{
+ "id": "M100030",
+ "game": "genesis/the-lion-king",
+ "category": {
+  "goal": "all-bugs"
+ },
+ "authors": [
+  {
+   "user": "ShgofcTAS"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100030.bk2",
+  "format": "bk2",
+  "sha1": "e6f6baab477581b5e7df026d9267e7ed02823ca3",
+  "frames": 57325,
+  "rerecords": 15706,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 GenPlus-GX",
+  "rom": {
+   "name": "Lion King, The (World).md",
+   "sha1": "24cbe4e75ec10e8e0ffbdb400cf86ecb072d4da9"
+  }
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/0q5e5kqfqyQ"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-08-07",
+ "submitted": "2026-08-22T19:54:34Z",
+ "submittedBy": "ShgofcTAS",
+ "forum": {
+  "topicId": 1188,
+  "url": "https://forum.toolassisted.run/t/1188"
+ }
+}
