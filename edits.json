@@ -2381,6 +2381,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:40:09Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "arcade/art-of-fighting-3-the-path-of-the-warrior",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/akbZ6pUEXG",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:40:21Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
