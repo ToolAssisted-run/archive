@@ -2271,6 +2271,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:16:31Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "psx/air-combat",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/VVmuafyQHR",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:16:49Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
