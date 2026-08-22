@@ -2128,6 +2128,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:47:11Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/batman",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/batman_the_video_game_nes",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:47:24Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
