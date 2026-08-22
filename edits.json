@@ -2392,6 +2392,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:40:21Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/attack-of-the-killer-tomatoes",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/attack_of_the_killer_tomatoes",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:41:21Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
