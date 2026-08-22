@@ -1985,6 +1985,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:23:08Z",
    "reason": "according to GameBrew page"
+  },
+  {
+   "kind": "game",
+   "key": "gba/another-world",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:23:13Z",
+   "reason": "according to GameBrew page"
   }
  ]
 }
