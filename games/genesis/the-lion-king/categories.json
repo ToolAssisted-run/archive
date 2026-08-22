@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "baseline",
+     "label": "baseline",
+     "rule": "complete the game as fast as possible"
+    }
+   ]
+  }
+ ]
+}
