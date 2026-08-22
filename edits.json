@@ -2282,6 +2282,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:16:49Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "arcade/air-combat-22",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/Air_Combat_22",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:17:48Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
