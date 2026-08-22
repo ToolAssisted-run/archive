@@ -2161,6 +2161,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:52:35Z",
    "reason": "ROM hack"
+  },
+  {
+   "kind": "game",
+   "key": "nes/batman-the-dark-knight",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:57:05Z",
+   "reason": "ROM hack"
   }
  ]
 }
