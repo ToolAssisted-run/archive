@@ -1974,6 +1974,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:18:51Z",
    "reason": "capitalization"
+  },
+  {
+   "kind": "game",
+   "key": "gba/another-world",
+   "field": "released",
+   "from": "",
+   "to": "2005-04-28",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:23:08Z",
+   "reason": "according to GameBrew page"
   }
  ]
 }
