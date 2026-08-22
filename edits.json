@@ -2326,6 +2326,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:24:29Z",
    "reason": "added reason"
+  },
+  {
+   "kind": "category",
+   "key": "nes/arkanoid:warps-demo-glitch",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"warps, demo glitch\"; rules to be formalized by the game's experts.",
+   "to": "Complete the game as fast as possible with the use of demo glitch and warps.",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:24:34Z",
+   "reason": "added reason"
   }
  ]
 }
