@@ -2491,6 +2491,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:48:02Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/bionic-commando",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/bc88",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:48:36Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
