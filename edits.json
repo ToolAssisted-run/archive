@@ -2238,6 +2238,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:13:34Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/adventure-island-iv",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/ai4",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:14:53Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
