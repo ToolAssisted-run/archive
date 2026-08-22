@@ -2249,6 +2249,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:14:53Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "n64/aerofighters-assault",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/aero_fighters_assault",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:15:35Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
