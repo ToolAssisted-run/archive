@@ -15,7 +15,7 @@ Prince of Persia: The Sands of Time is a game that needs no introduction. This i
 
 !!! Tricks and Glitches
 
-I would like to refer to the "Tricks Used" section of my [M5358|NMG run] for the pure movement tricks and recurring gameplay optimizations, as they are also relevant for some part of this run. And I will list the other glitches that are used in this run below.
+I would like to refer to the "Tricks Used" section of my NMG run [M5358] for the pure movement tricks and recurring gameplay optimizations, as they are also relevant for some part of this run. And I will list the other glitches that are used in this run below.
 
 !! ⏳First Person Glitch (FPG)
 This is one of the most versatile glitches in this run. The idea behind this glitch is that when we move the movement stick in a very gradual manner while being in the first person camera, the game doesn't handle that very well and usually results in some kind of drastic action that happens along that direction where the stick was pulled. The exact result depends on where we do it from, so here are the variations that can be seen in this run.
