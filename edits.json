@@ -2007,6 +2007,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:25:33Z",
    "reason": "according to Wikipedia"
+  },
+  {
+   "kind": "game",
+   "key": "amiga/another-world",
+   "field": "website",
+   "from": "",
+   "to": "https://www.anotherworld.fr/anotherworld_uk/",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:27:42Z",
+   "reason": "official website"
   }
  ]
 }
