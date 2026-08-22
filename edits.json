@@ -1325,6 +1325,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T06:35:37Z",
    "reason": "cover set"
+  },
+  {
+   "kind": "game",
+   "key": "gc/prince-of-persia-warrior-within",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:35:57Z",
+   "reason": "cover set"
   }
  ]
 }
