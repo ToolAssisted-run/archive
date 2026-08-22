@@ -1336,6 +1336,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T06:35:57Z",
    "reason": "cover set"
+  },
+  {
+   "kind": "game",
+   "key": "wii/prince-of-persia-the-forgotten-sands",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:36:24Z",
+   "reason": "cover set"
   }
  ]
 }
