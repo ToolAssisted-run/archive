@@ -2150,6 +2150,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:52:27Z",
    "reason": "according to Romhacking.net"
+  },
+  {
+   "kind": "game",
+   "key": "nes/batman-the-junkyard-challenge",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:52:35Z",
+   "reason": "ROM hack"
   }
  ]
 }
