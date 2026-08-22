@@ -29,7 +29,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -45,5 +45,13 @@
  "forum": {
   "topicId": 1106,
   "url": "https://forum.toolassisted.run/t/1106"
- }
+ },
+ "verifications": [
+  {
+   "user": "DigitalDuck",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:59:32Z",
+   "notes": "Completes the Basic Training mode and earns a gold on all Missions."
+  }
+ ]
 }
