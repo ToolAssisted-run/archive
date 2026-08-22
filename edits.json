@@ -2040,6 +2040,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:29:44Z",
    "reason": "official page"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/barbarian",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T22:34:55Z",
+   "reason": "Itch.io homebrew"
   }
  ]
 }
