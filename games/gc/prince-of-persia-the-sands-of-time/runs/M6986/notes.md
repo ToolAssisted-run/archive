@@ -1,22 +1,10 @@
-> **Imported from TASVideos**
-> This run was originally published at https://tasvideos.org/6986M and entered this archive as a voluntary
-> import by its author. A collaborative work can only be imported with the
-> authorization of every author credited on it, which is why only single-author
-> works come across this way. The notes below are the author's own, reproduced under their
-> Creative Commons license; text not written by the authors (judging feedback, staff
-> annotations) has been removed. The original publication was verified and reproduced
-> by TASVideos staff, a trustworthy TASing source; it is marked fully verified here
-> without passing through this site's standard procedure. The movie file and these
-> notes were obtained freely from tasvideos.org and are redistributed in observance
-> of the Creative Commons Attribution 2.0 license under which they were published there.
-
 This is a Zipless TAS of Prince of Persia: The Sands of Time, the game that rebooted the franchise when it was at it's lowest.
 
 %%TOC%%
  
 !!! Info / Goal
 
-* Emulator used: [Forum/Topics/23347|BizHawk Dolphin 5.0-16793], then DTM dumped for Dolphin 5.0-16793
+* Emulator used: BizHawk Dolphin 5.0-16793, then DTM dumped for Dolphin 5.0-16793
 * Objective of the run is to reach the credits as fast as possible.
 * The use of [https://www.youtube.com/watch?v=dTpKr8yZ1Kw|zipping glitch] is avoided.
 ** Note: Some of the glitches used in this run might look like what would be considered a "zip" in other games, but zipping specifically refers to the memory corruption glitch that accelerates prince's actions and completely ignores any collision after overloading the rewind system.
@@ -27,7 +15,7 @@ Prince of Persia: The Sands of Time is a game that needs no introduction. This i
 
 !!! Tricks and Glitches
 
-I would like to refer to the "Tricks Used" section of my [8278S|NMG run] for the pure movement tricks and recurring gameplay optimizations, as they are also relevant for some part of this run. And I will list the other glitches that are used in this run below.
+I would like to refer to the "Tricks Used" section of my [M5358|NMG run] for the pure movement tricks and recurring gameplay optimizations, as they are also relevant for some part of this run. And I will list the other glitches that are used in this run below.
 
 !! ⏳First Person Glitch (FPG)
 This is one of the most versatile glitches in this run. The idea behind this glitch is that when we move the movement stick in a very gradual manner while being in the first person camera, the game doesn't handle that very well and usually results in some kind of drastic action that happens along that direction where the stick was pulled. The exact result depends on where we do it from, so here are the variations that can be seen in this run.
@@ -122,6 +110,4 @@ When I started working on this run in 2023, I didn't think too much about the ve
 And most importantly, do the investigations and start to work on the run only after you are satisfied that you have reached conclusions, planned the HP, sand and moon route, and then start the run, to avoid the mistakes I made. But at the same time, I am still happy with how the run turned out it in the end. Getting the moon tank still had some advantages like warehouse damage boost, HoLC door clip, and a little bit of time save in the elevator fight. Even if it might have not been optimal, the run was a good showcase of pretty much everything that's possible to do with it. In a way it's kind of a superplay. The rewind cutscene skips really helped maintain the flow of the run and made it more entertaining.
 
 !!! Thank You Note
-I want to specially thank toca for helping me with ideas and suggestions, as well as trying out some skips during the making of the TAS. I want to thank him, epicdudeguy and Jaka for organizing and doing commentary with me. Thanks to solarplex for the [UserFiles/Info/638009996522613999|partially completed TAS] where I borrowed some tricks from, and likewise to the [https://www.youtube.com/watch?v=AX3kW5yhISs|Segmented run] which was the main reference I used for making this run. I'm grateful to the PoP community for the strategies and support. And thanks to the TASVideos community for their helpful tech tips.
-
-Note - The DTM dump doesn't reflect the correct re-record count, which can be seen in my BK2 file [UserFiles/Info/639032316921115579|here].
+I want to specially thank toca for helping me with ideas and suggestions, as well as trying out some skips during the making of the TAS. I want to thank him, epicdudeguy and Jaka for organizing and doing commentary with me. Thanks to solarplex for the [https://www.youtube.com/watch?v=PuQ3fXDvX_Y|partially completed TAS] where I borrowed some tricks from, and likewise to the [https://www.youtube.com/watch?v=AX3kW5yhISs|Segmented run] which was the main reference I used for making this run. I'm grateful to the PoP community for the strategies and support.

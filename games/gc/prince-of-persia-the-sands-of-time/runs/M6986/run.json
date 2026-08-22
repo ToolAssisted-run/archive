@@ -41,7 +41,12 @@
   }
  ],
  "submitted": "2026-02-21T15:02:39.674895",
- "attachments": [],
+ "attachments": [
+  {
+   "file": "attachments/sot_zipless.bk2",
+   "role": "supplementary"
+  }
+ ],
  "forum": {
   "topicId": 524,
   "url": "https://forum.toolassisted.run/t/524"
