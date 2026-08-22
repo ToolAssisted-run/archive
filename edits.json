@@ -2425,6 +2425,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:44:02Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "psx/battle-arena-toshinden",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/6Ay9bmb",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:44:10Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
