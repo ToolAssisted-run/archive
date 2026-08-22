@@ -1,0 +1,49 @@
+{
+ "id": "M5670",
+ "game": "zxs/jet-set-willy-ii",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5670.bk2",
+  "format": "bk2",
+  "frames": 67896,
+  "rerecords": 693,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Jet Set Willy 2+ (v. +e.22).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5670M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=nE47B_Ufwr4"
+  }
+ ],
+ "submitted": "2023-11-16T02:41:48.216199",
+ "attachments": [],
+ "forum": {
+  "topicId": 1206,
+  "url": "https://forum.toolassisted.run/t/1206"
+ }
+}

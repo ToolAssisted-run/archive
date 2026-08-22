@@ -1,0 +1,49 @@
+{
+ "id": "M5788",
+ "game": "zxs/fantasy-world-dizzy",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5788.bk2",
+  "format": "bk2",
+  "frames": 51126,
+  "rerecords": 385,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Dizzy3-FantasyWorldDizzy"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5788M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OXTldmPnqow"
+  }
+ ],
+ "submitted": "2024-02-06T05:43:17.597865",
+ "attachments": [],
+ "forum": {
+  "topicId": 1210,
+  "url": "https://forum.toolassisted.run/t/1210"
+ }
+}

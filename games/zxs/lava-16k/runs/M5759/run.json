@@ -1,0 +1,49 @@
+{
+ "id": "M5759",
+ "game": "zxs/lava-16k",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5759.bk2",
+  "format": "bk2",
+  "frames": 6408,
+  "rerecords": 190,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Lava16K.tap"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5759M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IoHdb2xJE6E"
+  }
+ ],
+ "submitted": "2024-01-10T02:56:02.811271",
+ "attachments": [],
+ "forum": {
+  "topicId": 1208,
+  "url": "https://forum.toolassisted.run/t/1208"
+ }
+}

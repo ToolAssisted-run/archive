@@ -1,0 +1,49 @@
+{
+ "id": "M5821",
+ "game": "zxs/dizzy-3-and-a-half",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5821.bk2",
+  "format": "bk2",
+  "frames": 11047,
+  "rerecords": 112,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Dizzy III & a Half (1990)(Codemasters).tap"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5821M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=G8UPV5V0ouM"
+  }
+ ],
+ "submitted": "2024-02-17T08:41:26.622773",
+ "attachments": [],
+ "forum": {
+  "topicId": 1212,
+  "url": "https://forum.toolassisted.run/t/1212"
+ }
+}
