@@ -1787,6 +1787,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T15:08:52Z",
    "reason": "Adding release date. Source: annebras.nl/miniprince"
+  },
+  {
+   "kind": "game",
+   "key": "dos/mini-prince",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T15:09:01Z",
+   "reason": "It's a fangame"
   }
  ]
 }
