@@ -30,7 +30,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -59,6 +59,15 @@
    "user": "CloakTheLurker",
    "date": "2026-08-22",
    "at": "2026-08-22T19:26:11Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T19:43:13Z",
+   "screenshot": "reproductions/1-CloakTheLurker.png",
+   "emulator": "BizHawk 2.9"
   }
  ]
 }
