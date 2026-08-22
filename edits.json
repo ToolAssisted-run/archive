@@ -2216,6 +2216,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:09:51Z",
    "reason": "according to Romhacking.net"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/3-ninjas-kick-back",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/3_ninjas_kick_back?h=Easy-genesis&x=xk9evx20-r8roy158.0q57jjvl",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:12:39Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
