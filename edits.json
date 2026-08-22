@@ -2590,6 +2590,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:53:36Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/bram-stokers-dracula",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/bram_stokers_dracula_nes",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:54:39Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
