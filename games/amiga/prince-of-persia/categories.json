@@ -7,7 +7,21 @@
     {
      "key": "baseline",
      "label": "Any%",
-     "rule": "Complete the game as fast as possible."
+     "rule": "Complete the game as fast as possible.",
+     "metrics": [
+      {
+       "key": "in-game-time",
+       "label": "In-Game Time",
+       "type": "time",
+       "better": "lower"
+      },
+      {
+       "key": "time",
+       "label": "Time",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
     }
    ]
   }
