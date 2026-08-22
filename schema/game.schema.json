@@ -186,6 +186,11 @@
    "type": "string",
    "pattern": "^https?://\\S+$",
    "description": "the community hub, wiki or leaderboard for this game"
+  },
+  "rta": {
+   "type": "string",
+   "pattern": "^https?://\\S+$",
+   "description": "where the RTA (real-time) records for this game live"
   }
  }
 }
