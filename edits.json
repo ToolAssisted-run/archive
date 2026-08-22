@@ -2183,6 +2183,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:01:34Z",
    "reason": "according to Romhacking.net - https://www.romhacking.net/forum/index.php?topic=23819.0"
+  },
+  {
+   "kind": "game",
+   "key": "nes/sherlock",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:04:27Z",
+   "reason": "Batman (NES) ROM hack"
   }
  ]
 }
