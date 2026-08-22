@@ -2535,6 +2535,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:49:58Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/blaster-master",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/blaster_master",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:50:36Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
