@@ -2524,6 +2524,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:49:47Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "snes/bishoujo-senshi-sailor-moon-s-jougai-rantou-shuyaku-soudatsusen",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/YtMMvcB5Su",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:49:58Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
