@@ -2480,6 +2480,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:47:34Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/best-of-the-best-championship-karate",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/best_of_the_best_championship_karate?h=Win-genesis&x=xk99q64k-kn0ky0o8.1w4552mq",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:48:02Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
