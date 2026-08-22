@@ -1600,6 +1600,61 @@
    "date": "2026-08-22",
    "at": "2026-08-22T09:41:02Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6986",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T09:52:55Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6986",
+   "field": "emulator",
+   "from": "Dolphin 5.0-16793",
+   "to": "Dolphin 5.0-16793",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T09:52:55Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6986",
+   "field": "completed",
+   "from": "",
+   "to": "",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T09:52:55Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6986",
+   "field": "encode",
+   "from": "https://www.youtube.com/watch?v=QraeCWf1cjw",
+   "to": "https://www.youtube.com/watch?v=QraeCWf1cjw",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T09:52:55Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6986",
+   "field": "attachments",
+   "from": "(previous value in git history)",
+   "to": "solarplex_partial_tas.dtm",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T09:52:55Z",
+   "reason": "The author's own revision."
   }
  ]
 }
