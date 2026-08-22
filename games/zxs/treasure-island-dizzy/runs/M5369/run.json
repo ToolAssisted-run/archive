@@ -1,0 +1,49 @@
+{
+ "id": "M5369",
+ "game": "zxs/treasure-island-dizzy",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5369.bk2",
+  "format": "bk2",
+  "frames": 49955,
+  "rerecords": 408,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "rom": {
+   "name": "Dizzy2-TreasureIslandDizzy.tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5369M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=o1oFr9Wq-9o"
+  }
+ ],
+ "submitted": "2023-06-25T14:30:09.023879",
+ "attachments": [],
+ "forum": {
+  "topicId": 1200,
+  "url": "https://forum.toolassisted.run/t/1200"
+ }
+}

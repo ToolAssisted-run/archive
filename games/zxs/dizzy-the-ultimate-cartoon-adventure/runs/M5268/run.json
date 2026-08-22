@@ -1,0 +1,49 @@
+{
+ "id": "M5268",
+ "game": "zxs/dizzy-the-ultimate-cartoon-adventure",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5268.bk2",
+  "format": "bk2",
+  "frames": 43795,
+  "rerecords": 1365,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "rom": {
+   "name": "Dizzy1-TheUltimateCartoonAdventure(48K).tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5268M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2LkMPG-evnc"
+  }
+ ],
+ "submitted": "2023-05-12T05:59:58.161348",
+ "attachments": [],
+ "forum": {
+  "topicId": 1198,
+  "url": "https://forum.toolassisted.run/t/1198"
+ }
+}

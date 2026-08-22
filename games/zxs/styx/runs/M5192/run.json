@@ -1,0 +1,49 @@
+{
+ "id": "M5192",
+ "game": "zxs/styx",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5192.bk2",
+  "format": "bk2",
+  "frames": 5935,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "rom": {
+   "name": "Styx.tzx"
+  }
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5192M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=MF0r9Wc7fjc"
+  }
+ ],
+ "submitted": "2023-03-30T01:17:40.077493",
+ "attachments": [],
+ "forum": {
+  "topicId": 1196,
+  "url": "https://forum.toolassisted.run/t/1196"
+ }
+}
