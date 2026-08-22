@@ -1237,6 +1237,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T06:28:58Z",
    "reason": "cover set"
+  },
+  {
+   "kind": "game",
+   "key": "snes/prince-of-persia",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:29:06Z",
+   "reason": "cover set"
   }
  ]
 }
