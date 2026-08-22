@@ -1666,6 +1666,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T13:03:40Z",
    "reason": "Game has IGT which is more comparable across emulators"
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia:100",
+   "field": "metrics",
+   "from": "(classic: time)",
+   "to": "[{\"key\": \"in-game-time\", \"label\": \"In-Game Time\", \"type\": \"time\", \"better\": \"lower\"}, {\"key\": \"time\", \"label\": \"Time\", \"type\": \"time\", \"better\": \"lower\"}]",
+   "by": "GMP",
+   "date": "2026-08-22",
+   "at": "2026-08-22T13:03:44Z",
+   "reason": "Game has IGT which is more comparable across emulators"
   }
  ]
 }
