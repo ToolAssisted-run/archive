@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -52,6 +52,13 @@
    "user": "CloakTheLurker",
    "date": "2026-08-22",
    "at": "2026-08-22T19:25:56Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T19:26:11Z"
   }
  ]
 }
