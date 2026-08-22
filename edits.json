@@ -2557,6 +2557,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:51:07Z",
    "reason": "added reason"
+  },
+  {
+   "kind": "game",
+   "key": "3ds/blaster-master-zero",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/blaster_master_zero",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:52:20Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
