@@ -30,7 +30,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -53,6 +53,16 @@
    "user": "Dimon12321",
    "date": "2026-08-21",
    "at": "2026-08-21T17:10:36Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-22",
+   "at": "2026-08-22T06:01:01Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.3.1",
+   "notes": "ROM MD5: 691EEFF9C5741724A8751EC0FA9CFBF0"
   }
  ]
 }
