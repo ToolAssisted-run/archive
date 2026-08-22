@@ -2645,6 +2645,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:57:13Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "gc/capcom-vs-snk-2-eo",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/cvsnk2?h=Arcade_-_Ratio_Match-single-any-no-gamecube-eo&x=02q8zez2-kn03oy3n.12vk9pvq-789jo2qn.gq7rozvl-ql69j0wl.qvvwwr5q-kn0eqr08.lmojj4y1",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:59:52Z",
+   "reason": "RTA leaderboard (GameCube)"
   }
  ]
 }
