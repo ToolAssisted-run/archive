@@ -137,6 +137,15 @@
    "date": "2026-08-21",
    "at": "2026-08-21T12:25:10Z",
    "reason": "He is a trusted member and has extensive knowledge about the game"
+  },
+  {
+   "user": "Challenger",
+   "role": "committee",
+   "action": "revoked",
+   "by": "eien86",
+   "date": "2026-08-22",
+   "at": "2026-08-22T17:52:56Z",
+   "reason": "Unseated by the Founder. stepped down voluntarily"
   }
  ]
 }
