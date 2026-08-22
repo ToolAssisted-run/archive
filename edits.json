@@ -2205,6 +2205,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:07:03Z",
    "reason": "official page"
+  },
+  {
+   "kind": "game",
+   "key": "nes/sherlock",
+   "field": "released",
+   "from": "",
+   "to": "2020-03-01",
+   "by": "CloakTheLurker",
+   "date": "2026-08-22",
+   "at": "2026-08-22T23:09:51Z",
+   "reason": "according to Romhacking.net"
   }
  ]
 }
