@@ -3206,6 +3206,39 @@
    "date": "2026-08-23",
    "at": "2026-08-23T01:14:03Z",
    "reason": "PoP Speedrunning Discord"
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T01:26:21Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "completed",
+   "from": "",
+   "to": "2024-05-18",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T01:26:21Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "attachments",
+   "from": "(previous value in git history)",
+   "to": "Sinclair01-Deluxe-debug.bk2",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T01:26:21Z",
+   "reason": "The author's own revision."
   }
  ]
 }

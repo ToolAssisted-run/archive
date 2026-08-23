@@ -41,9 +41,15 @@
   }
  ],
  "submitted": "2024-06-11T01:47:23.761783",
- "attachments": [],
+ "attachments": [
+  {
+   "file": "attachments/Sinclair01-Deluxe-debug.bk2",
+   "role": "supplementary"
+  }
+ ],
  "forum": {
   "topicId": 733,
   "url": "https://forum.toolassisted.run/t/733"
- }
+ },
+ "completed": "2024-05-18"
 }

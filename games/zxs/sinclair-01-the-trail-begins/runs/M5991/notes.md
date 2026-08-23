@@ -9,9 +9,9 @@
 > notes were obtained freely from the source and are redistributed in observance
 > of the Creative Commons Attribution 2.0 license under which they were published there.
 
-__SINCLAIR 01: The Trail Begins__ is a biographical adventure game for the ZX Spectrum developed by Fran Kapilla (Sequentia Soft), about the late English entrepreneur and inventor behind the ZX Spectrum and many other products from Sinclair Radionics and Sinclair Research. It is a tribute to both Clive Sinclair and the creator's father. The game depicts the early years of Clive as he is about to start his career in electronics, with three different endings depending on the choices made. Initially released in 2021, it received an engine update for the ZX Spectrum 128K in 2024, featuring better graphics, additional content and AY music.
+''SINCLAIR 01: The Trail Begins'' is a biographical adventure game for the ZX Spectrum developed by Fran Kapilla (Sequentia Soft), about the late English entrepreneur and inventor behind the ZX Spectrum and many other products from Sinclair Radionics and Sinclair Research. It is a tribute to both Clive Sinclair and the creator's father. The game depicts the early years of Clive as he is about to start his career in electronics, with three different endings depending on the choices made. Initially released in 2021, it received an engine update for the ZX Spectrum 128K in 2024, featuring better graphics, additional content and AY music.
 
-Version 1.3 of the game has a debug code that skips straight to the good ending. I chose not to submit that run and instead made it a [https://tasvideos.org/UserFiles/Info/638516602117180392|user movie].
+Version 1.3 of the game has a debug code that skips straight to the good ending. I chose not to submit that run and instead made it a user movie.
 
 There are many requirements in order to progress through the game:
 *You have to examine the bike lock and ask your mother where the lock's key is before you can go upstairs and get it. I do this and then go upstairs first so that I don't lose time for the next step.
