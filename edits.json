@@ -2821,6 +2821,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:19:16Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/chip-n-dale-rescue-rangers",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/chipndale",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:19:59Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
