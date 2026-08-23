@@ -3800,6 +3800,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T12:22:29Z",
    "reason": "Make subcategories a dropdown"
+  },
+  {
+   "kind": "category",
+   "key": "pc/doom-ii-sunlust:uv-speed/map-2",
+   "field": "added",
+   "from": "",
+   "to": "Map 2",
+   "by": "Dimon12321",
+   "date": "2026-08-23",
+   "at": "2026-08-23T12:22:35Z",
+   "reason": "Make subcategories a dropdown"
   }
  ]
 }

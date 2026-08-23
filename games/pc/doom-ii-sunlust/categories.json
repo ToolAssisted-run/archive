@@ -13,6 +13,10 @@
        "key": "map-1",
        "label": "Map 1",
        "rule": "Exit as fast as possible on skill 4."
+      },
+      {
+       "key": "map-2",
+       "label": "Map 2"
       }
      ],
      "subSelector": "dropdown"
