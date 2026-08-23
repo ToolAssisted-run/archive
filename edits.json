@@ -3767,6 +3767,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T11:28:57Z",
    "reason": "Removed unused by a covering expert."
+  },
+  {
+   "kind": "category",
+   "key": "arcade/air-combat-22:beginner/fadf",
+   "field": "removed",
+   "from": "fadf",
+   "to": "",
+   "by": "eien86",
+   "date": "2026-08-23",
+   "at": "2026-08-23T11:50:18Z",
+   "reason": "deleting test cat"
   }
  ]
 }

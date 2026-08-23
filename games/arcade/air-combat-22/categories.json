@@ -7,14 +7,7 @@
     {
      "key": "beginner",
      "label": "Beginner",
-     "rule": "Imported from TASVideos as \"Beginner\"; rules to be formalized by the game's experts.",
-     "subcategories": [
-      {
-       "key": "fadf",
-       "label": "fadf",
-       "rule": "adfdaf"
-      }
-     ]
+     "rule": "Imported from TASVideos as \"Beginner\"; rules to be formalized by the game's experts."
     }
    ]
   }
