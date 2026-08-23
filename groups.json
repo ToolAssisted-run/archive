@@ -156,6 +156,22 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "dizzy",
+   "title": "Dizzy",
+   "games": [
+    "zxs/dizzy-3-and-a-half",
+    "zxs/dizzy-prince-of-the-yolkfolk",
+    "zxs/dizzy-the-ultimate-cartoon-adventure",
+    "zxs/fantasy-world-dizzy",
+    "zxs/magicland-dizzy",
+    "zxs/spellbound-dizzy",
+    "zxs/treasure-island-dizzy",
+    "zxs/fast-food"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-08-23"
+  },
+  {
    "key": "doom",
    "title": "Doom",
    "games": [
