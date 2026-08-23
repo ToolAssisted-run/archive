@@ -3657,6 +3657,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T11:01:29Z",
    "reason": "Testing subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-sands-of-time:glitchless/no-major-glitches",
+   "field": "added",
+   "from": "",
+   "to": "No Major Glitches",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T11:04:54Z",
+   "reason": "Created it."
   }
  ]
 }

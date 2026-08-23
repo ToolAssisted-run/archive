@@ -2,7 +2,8 @@
  "id": "M5358",
  "game": "gc/prince-of-persia-the-sands-of-time",
  "category": {
-  "goal": "glitchless"
+  "goal": "glitchless",
+  "sub": "no-major-glitches"
  },
  "authors": [
   {
