@@ -3459,6 +3459,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:27:40Z",
    "reason": "PoP1 SNES speedrun.com boards"
+  },
+  {
+   "kind": "game",
+   "key": "amiga/prince-of-persia",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/pop1",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:28:27Z",
+   "reason": "PoP1 speedrun.com boards has an Amiga category"
   }
  ]
 }
