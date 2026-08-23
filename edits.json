@@ -3822,6 +3822,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T12:22:40Z",
    "reason": "Make subcategories a dropdown"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-two-thrones:glitchless",
+   "field": "label",
+   "from": "Any% (No Major Glitches)",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T15:13:25Z",
+   "reason": "Moved NMG to subcat"
   }
  ]
 }
