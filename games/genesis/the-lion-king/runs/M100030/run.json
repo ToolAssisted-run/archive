@@ -27,7 +27,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -44,5 +44,14 @@
  "forum": {
   "topicId": 1188,
   "url": "https://forum.toolassisted.run/t/1188"
- }
+ },
+ "reproductions": [
+  {
+   "user": "DigitalDuck",
+   "date": "2026-08-23",
+   "at": "2026-08-23T17:52:07Z",
+   "screenshot": "reproductions/1-DigitalDuck.png",
+   "emulator": "BizHawk 2.11, GensPlus-GX"
+  }
+ ]
 }
