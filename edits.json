@@ -2656,6 +2656,17 @@
    "date": "2026-08-22",
    "at": "2026-08-22T23:59:52Z",
    "reason": "RTA leaderboard (GameCube)"
+  },
+  {
+   "kind": "game",
+   "key": "gc/capcom-vs-snk-2-eo",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/6Ay9bmb",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:00:21Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
