@@ -3030,6 +3030,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:51:49Z",
    "reason": "Switch release date, according to MobyGames"
+  },
+  {
+   "kind": "game",
+   "key": "dos/prince-of-persia",
+   "field": "released",
+   "from": "",
+   "to": "1990-04",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:55:38Z",
+   "reason": "Adding release date"
   }
  ]
 }
