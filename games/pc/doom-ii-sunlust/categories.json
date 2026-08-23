@@ -20,11 +20,6 @@
       }
      ],
      "subSelector": "dropdown"
-    },
-    {
-     "key": "map-2",
-     "label": "Map 2",
-     "rule": "Complete map 2"
     }
    ]
   }
