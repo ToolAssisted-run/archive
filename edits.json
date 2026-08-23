@@ -3041,6 +3041,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:55:38Z",
    "reason": "Adding release date"
+  },
+  {
+   "kind": "game",
+   "key": "dos/prince-of-persia",
+   "field": "website",
+   "from": "",
+   "to": "https://popruns.github.io/",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:56:18Z",
+   "reason": "PoPRuns website"
   }
  ]
 }
