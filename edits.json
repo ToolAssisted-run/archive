@@ -3481,6 +3481,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:29:05Z",
    "reason": "PoP2 speedrun.com boards"
+  },
+  {
+   "kind": "game",
+   "key": "gba/prince-of-persia-the-sands-of-time",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/pop_sot_gba",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:29:59Z",
+   "reason": "PoP:SoT GBA speedrun.com boards"
   }
  ]
 }
