@@ -2876,6 +2876,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:22:33Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "gba/crash-bandicoot-purple-riptos-rampage",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/gSWXuj7",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:22:45Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
