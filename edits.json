@@ -3976,6 +3976,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T17:17:37Z",
    "reason": "Hundo rules"
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia:baseline/no-major-glitches",
+   "field": "rule",
+   "from": "Complete the game as soon as possible without the usage of major glitches. Glitches are detailed here in this [guide](https://www.speedrun.com/pop1/guide/m4j3u).",
+   "to": "The usage of major glitches is prohibited. Banned glitches are detailed here in [this guide](https://www.speedrun.com/pop1/guide/m4j3u).",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T17:19:03Z",
+   "reason": "NMG rules semantics"
   }
  ]
 }
