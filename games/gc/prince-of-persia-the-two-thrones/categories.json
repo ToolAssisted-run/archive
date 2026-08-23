@@ -7,7 +7,7 @@
     {
      "key": "glitchless",
      "label": "Any%",
-     "rule": "Complete the game without using major glitches as fast as possible.\r\n\r\nThe following things are considered major glitches:\r\n\r\n- Zips\r\n- Rewind Tricks\r\n- Drop Glitches\r\n- Slowmo Boost\r\n- Manipulating Gravity with Slowmo\r\n- Rewind Wallrun Extensions\r\n- Quicksand Glitch\r\n- A.I. Glitch (frozen enemies)\r\n- Menu Glitch\r\n- Canceling a wallrun by pausing\r\n- Loadtrigger Manipulation\r\n- Ledge Storage (abuse)\r\n- Shutter Storage (abuse)\r\n- Using invisible dagger for 1-hit KO"
+     "rule": "Complete the game as fast as possible."
     }
    ]
   }
