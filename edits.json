@@ -3019,6 +3019,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:38:34Z",
    "reason": "elaborated on rule"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/demons-of-asteborg",
+   "field": "released",
+   "from": "",
+   "to": "2021-08-01",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:51:49Z",
+   "reason": "Switch release date, according to MobyGames"
   }
  ]
 }
