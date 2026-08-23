@@ -2766,6 +2766,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:17:08Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "snes/castlevania-dracula-x",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/pWRFV37",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:17:20Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
