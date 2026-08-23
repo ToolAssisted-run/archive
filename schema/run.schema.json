@@ -1,655 +1,678 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "tar:run",
-  "type": "object",
-  "required": [
-    "id",
-    "game",
-    "category",
-    "authors",
-    "thumbnail",
-    "status"
-  ],
-  "properties": {
-    "id": {
-      "type": "string",
-      "pattern": "^M[0-9]+$"
-    },
-    "game": {
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "tar:run",
+ "type": "object",
+ "required": [
+  "id",
+  "game",
+  "category",
+  "authors",
+  "thumbnail",
+  "status"
+ ],
+ "properties": {
+  "id": {
+   "type": "string",
+   "pattern": "^M[0-9]+$"
+  },
+  "game": {
+   "type": "string"
+  },
+  "category": {
+   "type": "object",
+   "additionalProperties": {
+    "type": "string"
+   }
+  },
+  "authors": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "type": "object",
+    "required": [
+     "user"
+    ],
+    "properties": {
+     "user": {
       "type": "string"
+     }
+    }
+   }
+  },
+  "tools": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "name"
+    ],
+    "properties": {
+     "name": {
+      "type": "string"
+     },
+     "role": {
+      "type": "string"
+     },
+     "version": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "movie": {
+   "type": "object",
+   "required": [
+    "file",
+    "format",
+    "frames"
+   ],
+   "properties": {
+    "file": {
+     "type": "string"
     },
-    "category": {
+    "format": {
+     "type": "string"
+    },
+    "sha1": {
+     "type": "string",
+     "pattern": "^[0-9a-f]{40}$"
+    },
+    "frames": {
+     "type": "integer",
+     "minimum": 0
+    },
+    "fps": {
+     "type": "number"
+    },
+    "rerecords": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "start": {
+     "type": "string"
+    }
+   }
+  },
+  "thumbnail": {
+   "type": "string",
+   "pattern": "^thumb\\.(png|jpg|jpeg|webp)$"
+  },
+  "goalDescription": {
+   "type": "string",
+   "maxLength": 200
+  },
+  "contentWarnings": {
+   "type": "array",
+   "items": {
+    "enum": [
+     "mature-violence",
+     "sexual",
+     "photosensitivity",
+     "strong-language"
+    ]
+   }
+  },
+  "likes": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "date"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
+     }
+    }
+   }
+  },
+  "contract": {
+   "type": "object",
+   "properties": {
+    "emulator": {
+     "type": "string"
+    },
+    "rom": {
+     "type": "object",
+     "description": "legacy single ROM (name, sha1); new records use files"
+    },
+    "files": {
+     "type": "array",
+     "description": "the files the movie was made against: ROMs, disc images, executables, sources; name and SHA1 each, the files themselves never stored",
+     "items": {
       "type": "object",
-      "additionalProperties": {
-        "type": "string"
+      "required": [
+       "name"
+      ],
+      "additionalProperties": false,
+      "properties": {
+       "name": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 200
+       },
+       "sha1": {
+        "type": "string",
+        "pattern": "^[0-9a-f]{40}$"
+       }
       }
+     }
+    }
+   }
+  },
+  "status": {
+   "type": "object",
+   "required": [
+    "reproduced",
+    "verified",
+    "console"
+   ],
+   "properties": {
+    "reproduced": {
+     "enum": [
+      "none",
+      "community",
+      "imported",
+      "not-applicable"
+     ]
     },
-    "authors": {
+    "verified": {
+     "enum": [
+      "none",
+      "provisional",
+      "confirmed",
+      "imported"
+     ]
+    },
+    "console": {
+     "enum": [
+      "none",
+      "community",
+      "imported",
+      "not-applicable"
+     ]
+    }
+   }
+  },
+  "imported": {
+   "type": "object",
+   "required": [
+    "source"
+   ],
+   "properties": {
+    "source": {
+     "type": "string"
+    },
+    "importedBy": {
+     "type": "string"
+    },
+    "importedAt": {
+     "type": "string"
+    }
+   }
+  },
+  "encodes": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "url"
+    ],
+    "properties": {
+     "kind": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "forum": {
+   "type": "object",
+   "required": [
+    "topicId"
+   ],
+   "properties": {
+    "topicId": {
+     "type": "integer",
+     "minimum": 1
+    },
+    "url": {
+     "type": "string",
+     "pattern": "^https?://"
+    }
+   }
+  },
+  "reproductions": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "date",
+     "screenshot"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "screenshot": {
+      "type": "string",
+      "pattern": "^reproductions/[A-Za-z0-9._-]+\\.(png|jpg|jpeg|webp)$"
+     },
+     "emulator": {
+      "type": "string",
+      "maxLength": 120
+     },
+     "notes": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "invalidated": {
+      "type": "object",
+      "required": [
+       "by",
+       "date",
+       "reason"
+      ],
+      "properties": {
+       "by": {
+        "type": "string"
+       },
+       "date": {
+        "type": "string"
+       },
+       "reason": {
+        "type": "string",
+        "maxLength": 500
+       },
+       "at": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+        "description": "arrival moment, seconds, UTC; date stays the day people read"
+       }
+      }
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
+     }
+    }
+   }
+  },
+  "verifications": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "date"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "notes": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "invalidated": {
+      "type": "object",
+      "required": [
+       "by",
+       "date",
+       "reason"
+      ],
+      "properties": {
+       "by": {
+        "type": "string"
+       },
+       "date": {
+        "type": "string"
+       },
+       "reason": {
+        "type": "string",
+        "maxLength": 500
+       },
+       "at": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+        "description": "arrival moment, seconds, UTC; date stays the day people read"
+       }
+      }
+     },
+     "expert": {
+      "type": "boolean",
+      "description": "the verifier covered this game when they verified: this verification confirms the run"
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
+     }
+    }
+   }
+  },
+  "consoleVerifications": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "date",
+     "proof"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "proof": {
+      "type": "string",
+      "pattern": "^https?://"
+     },
+     "hardware": {
+      "type": "string",
+      "maxLength": 120
+     },
+     "screenshot": {
+      "type": "string",
+      "pattern": "^console/[A-Za-z0-9._-]+\\.(png|jpg|jpeg|webp)$"
+     },
+     "notes": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "invalidated": {
+      "type": "object",
+      "required": [
+       "by",
+       "date",
+       "reason"
+      ],
+      "properties": {
+       "by": {
+        "type": "string"
+       },
+       "date": {
+        "type": "string"
+       },
+       "reason": {
+        "type": "string",
+        "maxLength": 500
+       },
+       "at": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+        "description": "arrival moment, seconds, UTC; date stays the day people read"
+       }
+      }
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
+     }
+    }
+   }
+  },
+  "reports": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "by",
+     "date",
+     "kind",
+     "status"
+    ],
+    "properties": {
+     "id": {
+      "type": "integer"
+     },
+     "by": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "kind": {
+      "enum": [
+       "missing-content-warnings",
+       "spam-malicious",
+       "miscredited",
+       "licensing",
+       "other"
+      ]
+     },
+     "details": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "status": {
+      "enum": [
+       "open",
+       "resolved",
+       "dismissed"
+      ]
+     },
+     "resolvedBy": {
+      "type": "string"
+     },
+     "resolvedAt": {
+      "type": "string"
+     },
+     "resolution": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
+     }
+    }
+   }
+  },
+  "cases": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "openedBy",
+     "date",
+     "reason",
+     "verifiers",
+     "status"
+    ],
+    "properties": {
+     "id": {
+      "type": "integer"
+     },
+     "openedBy": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "reason": {
+      "type": "string",
+      "maxLength": 2000
+     },
+     "verifiers": {
       "type": "array",
       "minItems": 1,
       "items": {
-        "type": "object",
-        "required": [
-          "user"
-        ],
-        "properties": {
-          "user": {
-            "type": "string"
-          }
-        }
+       "type": "string"
       }
-    },
-    "tools": {
+     },
+     "reaffirmations": {
       "type": "array",
       "items": {
-        "type": "object",
-        "required": [
-          "name"
-        ],
-        "properties": {
-          "name": {
-            "type": "string"
-          },
-          "role": {
-            "type": "string"
-          },
-          "version": {
-            "type": "string"
-          }
-        }
-      }
-    },
-    "movie": {
-      "type": "object",
-      "required": [
-        "file",
-        "format",
-        "frames"
-      ],
-      "properties": {
-        "file": {
-          "type": "string"
-        },
-        "format": {
-          "type": "string"
-        },
-        "sha1": {
-          "type": "string",
-          "pattern": "^[0-9a-f]{40}$"
-        },
-        "frames": {
-          "type": "integer",
-          "minimum": 0
-        },
-        "fps": {
-          "type": "number"
-        },
-        "rerecords": {
-          "type": [
-            "integer",
-            "null"
-          ]
-        },
-        "start": {
-          "type": "string"
-        }
-      }
-    },
-    "thumbnail": {
-      "type": "string",
-      "pattern": "^thumb\\.(png|jpg|jpeg|webp)$"
-    },
-    "goalDescription": {
-      "type": "string",
-      "maxLength": 200
-    },
-    "contentWarnings": {
-      "type": "array",
-      "items": {
-        "enum": [
-          "mature-violence",
-          "sexual",
-          "photosensitivity",
-          "strong-language"
-        ]
-      }
-    },
-    "likes": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "user",
-          "date"
-        ],
-        "properties": {
-          "user": {
-            "type": "string"
-          },
-          "date": {
-            "type": "string"
-          },
-          "at": {
-            "type": "string",
-            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-            "description": "arrival moment, seconds, UTC; date stays the day people read"
-          }
-        }
-      }
-    },
-    "contract": {
-      "type": "object",
-      "properties": {
-        "emulator": {
-          "type": "string"
-        },
-        "rom": {
-          "type": "object"
-        }
-      }
-    },
-    "status": {
-      "type": "object",
-      "required": [
-        "reproduced",
-        "verified",
-        "console"
-      ],
-      "properties": {
-        "reproduced": {
-          "enum": [
-            "none",
-            "community",
-            "imported",
-            "not-applicable"
-          ]
-        },
-        "verified": {
-          "enum": [
-            "none",
-            "provisional",
-            "confirmed",
-            "imported"
-          ]
-        },
-        "console": {
-          "enum": [
-            "none",
-            "community",
-            "imported",
-            "not-applicable"
-          ]
-        }
-      }
-    },
-    "imported": {
-      "type": "object",
-      "required": [
-        "source"
-      ],
-      "properties": {
-        "source": {
-          "type": "string"
-        },
-        "importedBy": {
-          "type": "string"
-        },
-        "importedAt": {
-          "type": "string"
-        }
-      }
-    },
-    "encodes": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "url"
-        ],
-        "properties": {
-          "kind": {
-            "type": "string"
-          },
-          "url": {
-            "type": "string"
-          }
-        }
-      }
-    },
-    "forum": {
-      "type": "object",
-      "required": [
-        "topicId"
-      ],
-      "properties": {
-        "topicId": {
-          "type": "integer",
-          "minimum": 1
-        },
-        "url": {
-          "type": "string",
-          "pattern": "^https?://"
-        }
-      }
-    },
-    "reproductions": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "user",
-          "date",
-          "screenshot"
-        ],
-        "properties": {
-          "user": {
-            "type": "string"
-          },
-          "date": {
-            "type": "string"
-          },
-          "screenshot": {
-            "type": "string",
-            "pattern": "^reproductions/[A-Za-z0-9._-]+\\.(png|jpg|jpeg|webp)$"
-          },
-          "emulator": {
-            "type": "string",
-            "maxLength": 120
-          },
-          "notes": {
-            "type": "string",
-            "maxLength": 2000
-          },
-          "invalidated": {
-            "type": "object",
-            "required": [
-              "by",
-              "date",
-              "reason"
-            ],
-            "properties": {
-              "by": {
-                "type": "string"
-              },
-              "date": {
-                "type": "string"
-              },
-              "reason": {
-                "type": "string",
-                "maxLength": 500
-              },
-              "at": {
-                "type": "string",
-                "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-                "description": "arrival moment, seconds, UTC; date stays the day people read"
-              }
-            }
-          },
-          "at": {
-            "type": "string",
-            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-            "description": "arrival moment, seconds, UTC; date stays the day people read"
-          }
-        }
-      }
-    },
-    "verifications": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "user",
-          "date"
-        ],
-        "properties": {
-          "user": {
-            "type": "string"
-          },
-          "date": {
-            "type": "string"
-          },
-          "notes": {
-            "type": "string",
-            "maxLength": 2000
-          },
-          "invalidated": {
-            "type": "object",
-            "required": [
-              "by",
-              "date",
-              "reason"
-            ],
-            "properties": {
-              "by": {
-                "type": "string"
-              },
-              "date": {
-                "type": "string"
-              },
-              "reason": {
-                "type": "string",
-                "maxLength": 500
-              },
-              "at": {
-                "type": "string",
-                "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-                "description": "arrival moment, seconds, UTC; date stays the day people read"
-              }
-            }
-          },
-          "expert": {
-            "type": "boolean",
-            "description": "the verifier covered this game when they verified: this verification confirms the run"
-          },
-          "at": {
-            "type": "string",
-            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-            "description": "arrival moment, seconds, UTC; date stays the day people read"
-          }
-        }
-      }
-    },
-    "consoleVerifications": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "user",
-          "date",
-          "proof"
-        ],
-        "properties": {
-          "user": {
-            "type": "string"
-          },
-          "date": {
-            "type": "string"
-          },
-          "proof": {
-            "type": "string",
-            "pattern": "^https?://"
-          },
-          "hardware": {
-            "type": "string",
-            "maxLength": 120
-          },
-          "screenshot": {
-            "type": "string",
-            "pattern": "^console/[A-Za-z0-9._-]+\\.(png|jpg|jpeg|webp)$"
-          },
-          "notes": {
-            "type": "string",
-            "maxLength": 2000
-          },
-          "invalidated": {
-            "type": "object",
-            "required": [
-              "by",
-              "date",
-              "reason"
-            ],
-            "properties": {
-              "by": {
-                "type": "string"
-              },
-              "date": {
-                "type": "string"
-              },
-              "reason": {
-                "type": "string",
-                "maxLength": 500
-              },
-              "at": {
-                "type": "string",
-                "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-                "description": "arrival moment, seconds, UTC; date stays the day people read"
-              }
-            }
-          },
-          "at": {
-            "type": "string",
-            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-            "description": "arrival moment, seconds, UTC; date stays the day people read"
-          }
-        }
-      }
-    },
-    "reports": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "id",
-          "by",
-          "date",
-          "kind",
-          "status"
-        ],
-        "properties": {
-          "id": {
-            "type": "integer"
-          },
-          "by": {
-            "type": "string"
-          },
-          "date": {
-            "type": "string"
-          },
-          "kind": {
-            "enum": [
-              "missing-content-warnings",
-              "spam-malicious",
-              "miscredited",
-              "licensing",
-              "other"
-            ]
-          },
-          "details": {
-            "type": "string",
-            "maxLength": 2000
-          },
-          "status": {
-            "enum": [
-              "open",
-              "resolved",
-              "dismissed"
-            ]
-          },
-          "resolvedBy": {
-            "type": "string"
-          },
-          "resolvedAt": {
-            "type": "string"
-          },
-          "resolution": {
-            "type": "string",
-            "maxLength": 2000
-          },
-          "at": {
-            "type": "string",
-            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-            "description": "arrival moment, seconds, UTC; date stays the day people read"
-          }
-        }
-      }
-    },
-    "cases": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "id",
-          "openedBy",
-          "date",
-          "reason",
-          "verifiers",
-          "status"
-        ],
-        "properties": {
-          "id": {
-            "type": "integer"
-          },
-          "openedBy": {
-            "type": "string"
-          },
-          "date": {
-            "type": "string"
-          },
-          "reason": {
-            "type": "string",
-            "maxLength": 2000
-          },
-          "verifiers": {
-            "type": "array",
-            "minItems": 1,
-            "items": {
-              "type": "string"
-            }
-          },
-          "reaffirmations": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "required": [
-                "user",
-                "date",
-                "reaffirm"
-              ],
-              "properties": {
-                "user": {
-                  "type": "string"
-                },
-                "date": {
-                  "type": "string"
-                },
-                "reaffirm": {
-                  "type": "boolean"
-                },
-                "notes": {
-                  "type": "string",
-                  "maxLength": 2000
-                },
-                "at": {
-                  "type": "string",
-                  "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-                  "description": "arrival moment, seconds, UTC; date stays the day people read"
-                }
-              }
-            }
-          },
-          "status": {
-            "enum": [
-              "open",
-              "closed",
-              "upheld"
-            ]
-          },
-          "resolvedAt": {
-            "type": "string"
-          },
-          "at": {
-            "type": "string",
-            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-            "description": "arrival moment, seconds, UTC; date stays the day people read"
-          }
-        }
-      }
-    },
-    "submitted": {
-      "type": "string"
-    },
-    "attachments": {
-      "type": "array",
-      "maxItems": 8,
-      "items": {
-        "type": "object",
-        "required": [
-          "file",
-          "role"
-        ],
-        "properties": {
-          "file": {
-            "type": "string",
-            "pattern": "^attachments/[A-Za-z0-9._-]+$"
-          },
-          "role": {
-            "type": "string",
-            "maxLength": 120
-          }
-        }
-      }
-    },
-    "withdrawn": {
-      "type": "object",
-      "required": [
-        "by",
+       "type": "object",
+       "required": [
+        "user",
         "date",
-        "reason"
-      ],
-      "properties": {
-        "by": {
-          "type": "string"
+        "reaffirm"
+       ],
+       "properties": {
+        "user": {
+         "type": "string"
         },
         "date": {
-          "type": "string"
+         "type": "string"
         },
-        "reason": {
-          "type": "string",
-          "maxLength": 2000
+        "reaffirm": {
+         "type": "boolean"
         },
-        "role": {
-          "enum": [
-            "author",
-            "expert"
-          ]
-        },
-        "contentRemoved": {
-          "type": "boolean",
-          "description": "the movie, notes and thumbnail were taken down with the withdrawal, because publishing them was the problem (an import made without the authorization of every author). The record stays; the files are gone from the tree."
+        "notes": {
+         "type": "string",
+         "maxLength": 2000
         },
         "at": {
-          "type": "string",
-          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
-          "description": "arrival moment, seconds, UTC; date stays the day people read"
+         "type": "string",
+         "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+         "description": "arrival moment, seconds, UTC; date stays the day people read"
         }
+       }
       }
-    },
-    "videoOnly": {
-      "const": true,
-      "description": "no input movie exists: the encode is the run. Nothing to reproduce, in emulator or on console; verification still gates ranking as for any run."
-    },
-    "duration": {
-      "type": "number",
-      "exclusiveMinimum": 0,
-      "description": "video-only runs: the run time in seconds, stated by the submitter"
-    },
-    "completed": {
+     },
+     "status": {
+      "enum": [
+       "open",
+       "closed",
+       "upheld"
+      ]
+     },
+     "resolvedAt": {
+      "type": "string"
+     },
+     "at": {
       "type": "string",
-      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
-      "description": "when the author finished the run, if they said; submission has its own date"
-    },
-    "metrics": {
-      "type": "object",
-      "description": "stated values for the category's metrics, by key; times as seconds. 0 means not yet stated and ranks last.",
-      "additionalProperties": {
-        "type": "number",
-        "minimum": 0
-      }
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
+     }
     }
+   }
   },
-  "allOf": [
-    {
-      "if": {
-        "required": [
-          "videoOnly"
-        ]
-      },
-      "then": {},
-      "else": {
-        "required": [
-          "movie"
-        ]
-      }
+  "submitted": {
+   "type": "string"
+  },
+  "attachments": {
+   "type": "array",
+   "maxItems": 8,
+   "items": {
+    "type": "object",
+    "required": [
+     "file",
+     "role"
+    ],
+    "properties": {
+     "file": {
+      "type": "string",
+      "pattern": "^attachments/[A-Za-z0-9._-]+$"
+     },
+     "role": {
+      "type": "string",
+      "maxLength": 120
+     }
     }
-  ]
+   }
+  },
+  "withdrawn": {
+   "type": "object",
+   "required": [
+    "by",
+    "date",
+    "reason"
+   ],
+   "properties": {
+    "by": {
+     "type": "string"
+    },
+    "date": {
+     "type": "string"
+    },
+    "reason": {
+     "type": "string",
+     "maxLength": 2000
+    },
+    "role": {
+     "enum": [
+      "author",
+      "expert"
+     ]
+    },
+    "contentRemoved": {
+     "type": "boolean",
+     "description": "the movie, notes and thumbnail were taken down with the withdrawal, because publishing them was the problem (an import made without the authorization of every author). The record stays; the files are gone from the tree."
+    },
+    "at": {
+     "type": "string",
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+     "description": "arrival moment, seconds, UTC; date stays the day people read"
+    }
+   }
+  },
+  "videoOnly": {
+   "const": true,
+   "description": "no input movie exists: the encode is the run. Nothing to reproduce, in emulator or on console; verification still gates ranking as for any run."
+  },
+  "duration": {
+   "type": "number",
+   "exclusiveMinimum": 0,
+   "description": "video-only runs: the run time in seconds, stated by the submitter"
+  },
+  "completed": {
+   "type": "string",
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+   "description": "when the author finished the run, if they said; submission has its own date"
+  },
+  "metrics": {
+   "type": "object",
+   "description": "stated values for the category's metrics, by key; times as seconds. 0 means not yet stated and ranks last.",
+   "additionalProperties": {
+    "type": "number",
+    "minimum": 0
+   }
+  }
+ },
+ "allOf": [
+  {
+   "if": {
+    "required": [
+     "videoOnly"
+    ]
+   },
+   "then": {},
+   "else": {
+    "required": [
+     "movie"
+    ]
+   }
+  }
+ ]
 }
