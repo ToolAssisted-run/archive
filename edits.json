@@ -2986,6 +2986,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:32:39Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/demons-of-asteborg",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/J5TVUdFePy",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:32:54Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
