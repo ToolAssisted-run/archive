@@ -2953,6 +2953,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:30:30Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "snes/demons-crest",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/demons_crest",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:31:59Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
