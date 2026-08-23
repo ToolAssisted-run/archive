@@ -3723,6 +3723,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T11:19:02Z",
    "reason": "Restructuring the SoT board"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-sands-of-time:zipless",
+   "field": "removed",
+   "from": "Any% (Zipless)",
+   "to": "",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T11:19:33Z",
+   "reason": "Removed unused by a covering expert."
   }
  ]
 }
