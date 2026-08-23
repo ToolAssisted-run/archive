@@ -3888,6 +3888,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T17:03:14Z",
    "reason": "Adding the extended NMG rules back now that it's supported"
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia:baseline",
+   "field": "label",
+   "from": "Any% (Standard)",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T17:12:31Z",
+   "reason": "Adapting the new category architecture"
   }
  ]
 }
