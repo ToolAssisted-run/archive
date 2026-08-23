@@ -3283,6 +3283,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T01:30:53Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "dos/mini-prince",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.com/invite/0Ss0agDWPoiSvr3E",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:09:29Z",
+   "reason": "PoP Speedrun Discord"
   }
  ]
 }
