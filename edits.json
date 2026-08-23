@@ -2832,6 +2832,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:19:59Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/chip-n-dale-rescue-rangers",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/565RSgk",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:20:08Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
