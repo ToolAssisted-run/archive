@@ -3074,6 +3074,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:57:29Z",
    "reason": "PoP Speedrunning Discord"
+  },
+  {
+   "kind": "game",
+   "key": "pc/doom-sigil",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:57:53Z",
+   "reason": "unofficial megawad"
   }
  ]
 }
