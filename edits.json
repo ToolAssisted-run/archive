@@ -3569,6 +3569,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:41:54Z",
    "reason": "Adding release date. Exact date is unknown, but according to Wikipedia it's between October 1992 and April 1993"
+  },
+  {
+   "kind": "game",
+   "key": "amiga/prince-of-persia",
+   "field": "released",
+   "from": "",
+   "to": "1990-12",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:42:42Z",
+   "reason": "Release date"
   }
  ]
 }
