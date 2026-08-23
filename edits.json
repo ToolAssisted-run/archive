@@ -2942,6 +2942,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:28:51Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "dos/death-rally",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/death_rally",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:30:30Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
