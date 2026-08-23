@@ -252,6 +252,18 @@
    ]
   },
   {
+   "key": "miner-willy",
+   "title": "Miner Willy",
+   "games": [
+    "zxs/jet-set-willy",
+    "zxs/jet-set-willy-ii",
+    "zxs/jet-set-willy-ii-the-final-frontier",
+    "zxs/manic-miner"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-08-23"
+  },
+  {
    "key": "mortal-kombat",
    "title": "Mortal Kombat",
    "games": [
