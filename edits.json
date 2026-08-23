@@ -2887,6 +2887,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:22:45Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "sms/cyborg-hunter",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/cyborg_hunter",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:25:15Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
