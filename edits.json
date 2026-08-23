@@ -3162,6 +3162,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T01:12:02Z",
    "reason": "Changed from the group form: pc/doom-ii-sunlust moved in"
+  },
+  {
+   "kind": "game",
+   "key": "gbc/prince-of-persia",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.com/invite/0Ss0agDWPoiSvr3E",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T01:12:16Z",
+   "reason": "PoP Speedrunning Discord"
   }
  ]
 }
