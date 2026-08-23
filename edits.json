@@ -3437,6 +3437,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:16:19Z",
    "reason": "PoP:T2T speedrun.com boards"
+  },
+  {
+   "kind": "game",
+   "key": "gc/prince-of-persia-warrior-within",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/pop_ww",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:26:57Z",
+   "reason": "PoP:WW speedrun.com boards"
   }
  ]
 }
