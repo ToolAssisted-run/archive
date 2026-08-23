@@ -110,9 +110,23 @@
            }
           }
          }
+        },
+        "subSelector": {
+         "enum": [
+          "buttons",
+          "dropdown"
+         ],
+         "description": "how the subcategories of this option are offered: buttons (default) or a dropdown"
         }
        }
       }
+     },
+     "selector": {
+      "enum": [
+       "buttons",
+       "dropdown"
+      ],
+      "description": "how the game page offers the options: one button each (default), or a dropdown when there are many"
      }
     }
    }
