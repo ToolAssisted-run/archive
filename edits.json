@@ -3118,6 +3118,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T01:10:50Z",
    "reason": "PoP Speedrunning Discord"
+  },
+  {
+   "kind": "game",
+   "key": "snes/prince-of-persia",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.com/invite/0Ss0agDWPoiSvr3E",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T01:11:26Z",
+   "reason": "PoP Speedrunning Discord"
   }
  ]
 }
