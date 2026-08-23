@@ -645,7 +645,7 @@
   "duration": {
    "type": "number",
    "exclusiveMinimum": 0,
-   "description": "video-only runs: the run time in seconds, stated by the submitter"
+   "description": "the run time in seconds, stated by the submitter: video-only runs, and movies in a format the parser cannot read (movie.frames 0)"
   },
   "completed": {
    "type": "string",
