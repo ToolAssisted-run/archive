@@ -2733,6 +2733,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:15:45Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "gba/castlevania-aria-of-sorrow",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/4tPB3NpwP8",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:15:49Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
