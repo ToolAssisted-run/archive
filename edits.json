@@ -3668,6 +3668,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T11:04:54Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-sands-of-time:glitchless/zipless",
+   "field": "added",
+   "from": "",
+   "to": "zipless",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T11:05:43Z",
+   "reason": "Created it."
   }
  ]
 }
