@@ -3470,6 +3470,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:28:27Z",
    "reason": "PoP1 speedrun.com boards has an Amiga category"
+  },
+  {
+   "kind": "game",
+   "key": "dos/prince-of-persia-2-the-shadow-and-the-flame",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/pop2",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:29:05Z",
+   "reason": "PoP2 speedrun.com boards"
   }
  ]
 }
