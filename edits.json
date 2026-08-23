@@ -2799,6 +2799,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:17:59Z",
    "reason": "from Speedruns.com"
+  },
+  {
+   "kind": "game",
+   "key": "pc/cell-machine",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/cell",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:19:11Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
