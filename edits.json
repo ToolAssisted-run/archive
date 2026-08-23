@@ -2931,6 +2931,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:28:20Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/darkman",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/darkman",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:28:51Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
