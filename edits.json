@@ -2788,6 +2788,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:17:51Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "gba/castlevania-harmony-of-dissonance",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/4tPB3NpwP8",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:17:59Z",
+   "reason": "from Speedruns.com"
   }
  ]
 }
