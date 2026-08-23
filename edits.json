@@ -3580,6 +3580,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:42:42Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "gbc/prince-of-persia",
+   "field": "released",
+   "from": "",
+   "to": "1994",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:44:08Z",
+   "reason": "Exact date is unknown, but according to Wikipedia it's later than Feb 1994"
   }
  ]
 }
