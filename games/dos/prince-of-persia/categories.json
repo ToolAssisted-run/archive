@@ -51,6 +51,12 @@
        "type": "time",
        "better": "lower"
       }
+     ],
+     "subcategories": [
+      {
+       "key": "standard",
+       "label": "Standard"
+      }
      ]
     },
     {
