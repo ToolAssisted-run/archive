@@ -28,7 +28,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -81,6 +81,16 @@
    "user": "CloakTheLurker",
    "date": "2026-08-20",
    "at": "2026-08-20T04:40:11Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-23",
+   "at": "2026-08-23T13:32:59Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Ubuntu 24.04 + MAME 0.264 (Ubuntu package) + libTAS 1.4.8",
+   "notes": "Reproduced successfully on Ubuntu 24.04 using MAME 0.264 (/usr/games/mame) and libTAS 1.4.8. Used the supplied kinst.dif (MD5 ecb66465fa3ce4c34afcc17f4c25ce2d) and the supplied default.cfg / kinst.cfg. The CHD matched the listed MD5 (a542547abdff0a28df440c3a4d1cfdde). My kinst.zip had a different outer ZIP MD5 (27ac1447ce76fe20aed5b3d15a380c0c) but contained the correct default v1.5d ROMs/CRCs, and the movie still synced successfully. Command line used: kinst.zip -window -nokeepaspect -skip_gameinfo -nomaximize -nounevenstretch -nonvram_save -rompath /home/tas2404/mameroms/"
   }
  ]
 }
