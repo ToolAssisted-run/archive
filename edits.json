@@ -2711,6 +2711,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:03:55Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/castlevania",
+   "field": "released",
+   "from": "",
+   "to": "1986-09-26",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:05:20Z",
+   "reason": "Japanese release on FDS, according to Wikipedia"
   }
  ]
 }
