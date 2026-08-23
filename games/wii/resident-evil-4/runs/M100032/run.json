@@ -1,0 +1,45 @@
+{
+ "id": "M100032",
+ "game": "wii/resident-evil-4",
+ "category": {
+  "goal": "village",
+  "sub": "wesker"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "metrics": {
+  "score": 162370.0,
+  "max-combo": 116.0
+ },
+ "videoOnly": true,
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Dolphin 4.0-8715"
+ },
+ "status": {
+  "reproduced": "not-applicable",
+  "verified": "none",
+  "console": "not-applicable"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=FHeN-caI1Ds"
+  }
+ ],
+ "attachments": [],
+ "completed": "2016-01-22",
+ "submitted": "2026-08-23T16:13:05Z",
+ "submittedBy": "Dimon12321",
+ "forum": {
+  "topicId": 1240,
+  "url": "https://forum.toolassisted.run/t/1240"
+ }
+}
