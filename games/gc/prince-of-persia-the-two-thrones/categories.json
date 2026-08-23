@@ -7,7 +7,14 @@
     {
      "key": "glitchless",
      "label": "Any%",
-     "rule": "Complete the game as fast as possible."
+     "rule": "Complete the game as fast as possible.",
+     "subcategories": [
+      {
+       "key": "no-major-glitches",
+       "label": "No Major Glitches",
+       "rule": "Use of major glitches is prohibited. See the list of major glitches here - https://www.speedrun.com/pop_t2t?h=Any-no-major-glitches&rules=game&x=5dw11nkg-7891j0nw.81p25el7"
+      }
+     ]
     }
    ]
   }

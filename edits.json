@@ -3844,6 +3844,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T15:13:32Z",
    "reason": "Moved NMG to subcat"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-two-thrones:glitchless/no-major-glitches",
+   "field": "added",
+   "from": "",
+   "to": "No Major Glitches",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T15:13:38Z",
+   "reason": "Moved NMG to subcat"
   }
  ]
 }
