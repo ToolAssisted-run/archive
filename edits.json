@@ -3525,6 +3525,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:34:23Z",
    "reason": "PoP1 speedrun.com boards has a Genesis category"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/prince-of-persia",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/pop1",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:37:51Z",
+   "reason": "PoP1 speedrun.com boards has a Genesis category"
   }
  ]
 }
