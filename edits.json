@@ -2843,6 +2843,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:20:08Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/code-name-viper",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/codename_viper",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:21:03Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
