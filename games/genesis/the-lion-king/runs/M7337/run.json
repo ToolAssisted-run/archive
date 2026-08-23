@@ -1,0 +1,51 @@
+{
+ "id": "M7337",
+ "game": "genesis/the-lion-king",
+ "category": {
+  "goal": "all-bugs"
+ },
+ "authors": [
+  {
+   "user": "ShgofcTAS"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7337.bk2",
+  "format": "bk2",
+  "frames": 57325,
+  "rerecords": 15706,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "Lion King, The (World).md"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7337M",
+  "importedBy": "ShgofcTAS",
+  "importedAt": "2026-08-23"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0q5e5kqfqyQ"
+  }
+ ],
+ "submitted": "2026-08-22T16:07:42.440411",
+ "attachments": [],
+ "forum": {
+  "topicId": 1251,
+  "url": "https://forum.toolassisted.run/t/1251"
+ }
+}
