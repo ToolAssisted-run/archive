@@ -2722,6 +2722,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:05:20Z",
    "reason": "Japanese release on FDS, according to Wikipedia"
+  },
+  {
+   "kind": "game",
+   "key": "gba/castlevania-aria-of-sorrow",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/aos",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:15:45Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
