@@ -2920,6 +2920,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:28:12Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/danny-sullivans-indy-heat",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/zWQFaGXvar",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:28:20Z",
+   "reason": "from Speedrun.com"
   }
  ]
 }
