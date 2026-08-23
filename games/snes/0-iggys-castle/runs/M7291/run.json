@@ -1,0 +1,54 @@
+{
+ "id": "M7291",
+ "game": "snes/0-iggys-castle",
+ "category": {
+  "goal": "ending-4-the-speedrunner"
+ },
+ "authors": [
+  {
+   "user": "thegugaf\u00e1"
+  },
+  {
+   "user": "ShgofcTAS"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7291.bk2",
+  "format": "bk2",
+  "frames": 2111,
+  "rerecords": 705,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "#0 IGGY'S CASTLE v.3.0.0.sfc"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7291M",
+  "importedBy": "ShgofcTAS",
+  "importedAt": "2026-08-23"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rNOUvPE9pCo"
+  }
+ ],
+ "submitted": "2026-08-03T04:58:36.977113",
+ "attachments": [],
+ "forum": {
+  "topicId": 1248,
+  "url": "https://forum.toolassisted.run/t/1248"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "M7292",
+ "game": "genesis/thunder-force-iii",
+ "category": {
+  "goal": "mania"
+ },
+ "authors": [
+  {
+   "user": "ShgofcTAS"
+  },
+  {
+   "user": "thegugaf\u00e1"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7292.bk2",
+  "format": "bk2",
+  "frames": 79388,
+  "rerecords": 2127,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "Thunder Force III (Japan, USA).md"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7292M",
+  "importedBy": "ShgofcTAS",
+  "importedAt": "2026-08-23"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=B-IZAyNhjuM"
+  }
+ ],
+ "submitted": "2026-08-03T07:41:26.401236",
+ "attachments": [],
+ "forum": {
+  "topicId": 1250,
+  "url": "https://forum.toolassisted.run/t/1250"
+ }
+}

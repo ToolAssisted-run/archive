@@ -1,0 +1,55 @@
+{
+ "id": "M7152",
+ "game": "gb/sinoc-gb",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ShgofcTAS"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7152.bk2",
+  "format": "bk2",
+  "frames": 1570,
+  "fps": 59.83546652866738,
+  "rerecords": 2827,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "Sinoc.gb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7152M",
+  "importedBy": "ShgofcTAS",
+  "importedAt": "2026-08-23"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=onPRhQzlFvU"
+  }
+ ],
+ "submitted": "2026-05-21T14:48:26.888494",
+ "attachments": [],
+ "forum": {
+  "topicId": 1246,
+  "url": "https://forum.toolassisted.run/t/1246"
+ }
+}

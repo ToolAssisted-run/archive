@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "ending-4-the-speedrunner",
+     "label": "Ending #4 \u2014 The Speedrunner",
+     "rule": "Imported as \"Ending #4 \u2014 The Speedrunner\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}
