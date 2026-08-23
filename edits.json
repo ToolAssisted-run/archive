@@ -3855,6 +3855,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T15:13:38Z",
    "reason": "Moved NMG to subcat"
+  },
+  {
+   "kind": "category",
+   "key": "wii/resident-evil-4:village",
+   "field": "added",
+   "from": "",
+   "to": "Village",
+   "by": "Dimon12321",
+   "date": "2026-08-23",
+   "at": "2026-08-23T15:15:51Z",
+   "reason": "Created it."
   }
  ]
 }

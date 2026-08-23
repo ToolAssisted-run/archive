@@ -8,6 +8,27 @@
      "key": "fastest-completion",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "village",
+     "label": "Village",
+     "rule": "Complete Village map of \"The Mercenaries\" game mode",
+     "metrics": [
+      {
+       "key": "score",
+       "label": "Score",
+       "type": "number",
+       "better": "higher",
+       "unit": "pts"
+      },
+      {
+       "key": "max-combo",
+       "label": "Max Combo",
+       "type": "number",
+       "better": "higher",
+       "unit": "kills"
+      }
+     ]
     }
    ]
   }
