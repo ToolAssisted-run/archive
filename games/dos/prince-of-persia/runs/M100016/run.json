@@ -2,7 +2,8 @@
  "id": "M100016",
  "game": "dos/prince-of-persia",
  "category": {
-  "goal": "any-no-major-glitches"
+  "goal": "baseline",
+  "sub": "no-major-glitches"
  },
  "authors": [
   {

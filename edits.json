@@ -3943,6 +3943,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T17:12:54Z",
    "reason": "Adapting the new category architecture"
+  },
+  {
+   "kind": "run",
+   "key": "M100016",
+   "field": "goal",
+   "from": "any-no-major-glitches",
+   "to": "baseline/no-major-glitches",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T17:15:38Z",
+   "reason": "Tree architecture"
   }
  ]
 }
