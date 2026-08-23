@@ -2,7 +2,8 @@
  "id": "M6219",
  "game": "arcade/air-combat-22",
  "category": {
-  "goal": "beginner"
+  "goal": "beginner",
+  "sub": "fadf"
  },
  "authors": [
   {
