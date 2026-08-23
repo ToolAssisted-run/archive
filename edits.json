@@ -3393,6 +3393,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:13:06Z",
    "reason": "PoP Speedrun Discord"
+  },
+  {
+   "kind": "game",
+   "key": "dos/prince-of-persia-2-the-shadow-and-the-flame",
+   "field": "website",
+   "from": "",
+   "to": "https://popruns.github.io/",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:14:14Z",
+   "reason": "PoPRuns Website"
   }
  ]
 }
