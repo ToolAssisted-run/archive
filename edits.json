@@ -3151,6 +3151,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T01:11:54Z",
    "reason": "PoP Speedrunning Discord"
+  },
+  {
+   "kind": "group",
+   "key": "doom",
+   "field": "games",
+   "from": "pc/doom-sigil, pc/doom-ii-cold-front, pc/doom-ii-crud, pc/doom-ii-doom-city, pc/doom-ii-hacx, pc/doom-ii-maskim-xul",
+   "to": "pc/doom-ii-cold-front, pc/doom-ii-crud, pc/doom-ii-doom-city, pc/doom-ii-hacx, pc/doom-ii-maskim-xul, pc/doom-ii-sunlust, pc/doom-sigil",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T01:12:02Z",
+   "reason": "Changed from the group form: pc/doom-ii-sunlust moved in"
   }
  ]
 }

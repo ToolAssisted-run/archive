@@ -175,12 +175,13 @@
    "key": "doom",
    "title": "Doom",
    "games": [
-    "pc/doom-sigil",
     "pc/doom-ii-cold-front",
     "pc/doom-ii-crud",
     "pc/doom-ii-doom-city",
     "pc/doom-ii-hacx",
-    "pc/doom-ii-maskim-xul"
+    "pc/doom-ii-maskim-xul",
+    "pc/doom-ii-sunlust",
+    "pc/doom-sigil"
    ],
    "createdBy": "eien86",
    "createdAt": "2026-08-21"
