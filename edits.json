@@ -3745,6 +3745,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T11:28:16Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "arcade/air-combat-22:beginner/fdafda",
+   "field": "added",
+   "from": "",
+   "to": "fdafda",
+   "by": "eien86",
+   "date": "2026-08-23",
+   "at": "2026-08-23T11:28:22Z",
+   "reason": "Created it."
   }
  ]
 }
