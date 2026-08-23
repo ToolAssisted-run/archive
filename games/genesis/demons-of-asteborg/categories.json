@@ -7,7 +7,7 @@
     {
      "key": "fastest-completion",
      "label": "fastest completion",
-     "rule": "Timer ends on final input"
+     "rule": "Complete the game as fast as possible. Timer ends on final input."
     }
    ]
   }

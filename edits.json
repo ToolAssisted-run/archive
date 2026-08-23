@@ -3008,6 +3008,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:34:44Z",
    "reason": "Kickstarter page"
+  },
+  {
+   "kind": "category",
+   "key": "genesis/demons-of-asteborg:fastest-completion",
+   "field": "rule",
+   "from": "Timer ends on final input",
+   "to": "Complete the game as fast as possible. Timer ends on final input.",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:38:34Z",
+   "reason": "elaborated on rule"
   }
  ]
 }
