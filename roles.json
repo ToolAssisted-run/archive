@@ -156,6 +156,16 @@
    "date": "2026-08-23",
    "at": "2026-08-23T12:18:36Z",
    "reason": "He has already done invaluable contributions, and he's steering committee"
+  },
+  {
+   "user": "almostmatt1",
+   "role": "expert",
+   "scope": "group:doom",
+   "action": "granted",
+   "by": "Dimon12321",
+   "date": "2026-08-23",
+   "at": "2026-08-23T12:24:15Z",
+   "reason": "This player is a proficient TASer with wide experience in Doom and TAS tools for it."
   }
  ]
 }
