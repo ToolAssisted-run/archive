@@ -3063,6 +3063,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:56:46Z",
    "reason": "PoP1 RTA Leaderboard in speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "dos/prince-of-persia",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.com/invite/0Ss0agDWPoiSvr3E",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:57:29Z",
+   "reason": "PoP Speedrunning Discord"
   }
  ]
 }
