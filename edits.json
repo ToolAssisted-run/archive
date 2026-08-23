@@ -3184,6 +3184,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T01:12:46Z",
    "reason": "PoP Speedrunning Discord"
+  },
+  {
+   "kind": "game",
+   "key": "gc/prince-of-persia-the-sands-of-time",
+   "field": "website",
+   "from": "https://discord.com/invite/0Ss0agDWPoiSvr3E",
+   "to": "https://popruns.github.io/",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T01:12:58Z",
+   "reason": "PoPRuns website"
   }
  ]
 }
