@@ -2898,6 +2898,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:25:15Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "dos/dangerous-dave-in-the-haunted-mansion",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/dangerous_dave_in_the_haunted_mansion",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:25:51Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
