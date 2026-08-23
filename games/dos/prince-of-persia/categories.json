@@ -37,7 +37,7 @@
     {
      "key": "100",
      "label": "100%",
-     "rule": "Imported from TASVideos as \"100%\"; rules to be formalized by the game's experts.",
+     "rule": "Complete the game as fast as possible, while also doing the following:\r\n- Drink all potions (including damaging ones)\r\n- Cause your shadow to drink the life extension potion on level 5 (it later merges with you and so counts as a potion you can \"drink\")\r\n- Kill all guards and bosses\r\n- Drop the skeleton on level 3 into a pit (so that the victory music would be heard)",
      "metrics": [
       {
        "key": "in-game-time",

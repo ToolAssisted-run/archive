@@ -3965,6 +3965,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T17:16:26Z",
    "reason": "Removed redundant category as it's added as subcat"
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia:100",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"100%\"; rules to be formalized by the game's experts.",
+   "to": "Complete the game as fast as possible, while also doing the following:\r\n- Drink all potions (including damaging ones)\r\n- Cause your shadow to drink the life extension potion on level 5 (it later merges with you and so counts as a potion you can \"drink\")\r\n- Kill all guards and bosses\r\n- Drop the skel",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T17:17:37Z",
+   "reason": "Hundo rules"
   }
  ]
 }
