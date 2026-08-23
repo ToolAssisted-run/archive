@@ -22,7 +22,8 @@
    "type": "object",
    "additionalProperties": {
     "type": "string"
-   }
+   },
+   "description": "goal: the category option key; sub: the subcategory key, required iff the option defines subcategories"
   },
   "authors": {
    "type": "array",

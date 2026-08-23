@@ -82,6 +82,34 @@
            }
           }
          }
+        },
+        "subcategories": {
+         "type": "array",
+         "maxItems": 200,
+         "description": "optional second level inside this category (e.g. any%, 100% inside Episode 1): a run in a category that has subcategories names one; its rule composes with the category rule; metrics are the category's",
+         "items": {
+          "type": "object",
+          "required": [
+           "key",
+           "label"
+          ],
+          "additionalProperties": false,
+          "properties": {
+           "key": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+           },
+           "label": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80
+           },
+           "rule": {
+            "type": "string",
+            "maxLength": 500
+           }
+          }
+         }
         }
        }
       }

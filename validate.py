@@ -275,8 +275,22 @@ for gjson in ROOT.glob('games/*/*/game.json'):
         for dk, ok_ in (r.get('category') or {}).items():
             if is_uncl and dk == 'goal':
                 continue
+            if dk == 'sub':
+                continue          # checked against its option below
             if ok_ not in valid_opts.get(dk, set()):
                 err(f'{rdir}: unknown category {dk}={ok_!r}')
+        # a subcategory is required exactly when the option defines some,
+        # and must be one of them
+        if not is_uncl:
+            goal_opt = next((o for d in cats.get('dimensions', []) for o in d['options']
+                             if o['key'] == (r.get('category') or {}).get('goal')), None)
+            subs = {s['key'] for s in (goal_opt or {}).get('subcategories', [])}
+            sub = (r.get('category') or {}).get('sub')
+            if subs and sub not in subs:
+                err(f'{rdir}: category {goal_opt["key"]!r} has subcategories; '
+                    f'the run names {sub!r}, which is not one of them')
+            if sub and not subs:
+                err(f'{rdir}: names subcategory {sub!r} but its category has none')
         if is_uncl:
             if not (r.get('goalDescription') or '').strip():
                 err(f'{rdir}: Unclassified runs must describe their goal '
