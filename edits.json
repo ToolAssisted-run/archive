@@ -3789,6 +3789,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T11:58:11Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "pc/doom-ii-sunlust:uv-speed",
+   "field": "subSelector",
+   "from": "buttons",
+   "to": "dropdown",
+   "by": "Dimon12321",
+   "date": "2026-08-23",
+   "at": "2026-08-23T12:22:29Z",
+   "reason": "Make subcategories a dropdown"
   }
  ]
 }
