@@ -2678,6 +2678,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:01:00Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "nes/castlevania",
+   "field": "website",
+   "from": "",
+   "to": "https://castlevaniaspeedruns.com/Castlevania_(NES)",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:03:34Z",
+   "reason": "Castlevania Speedruns Wiki page"
   }
  ]
 }
