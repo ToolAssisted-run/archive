@@ -3305,6 +3305,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:09:59Z",
    "reason": "PoP Speedrun Discord"
+  },
+  {
+   "kind": "game",
+   "key": "pcecd/prince-of-persia",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.com/invite/0Ss0agDWPoiSvr3E",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:10:45Z",
+   "reason": "PoP Speedrun Discord"
   }
  ]
 }
