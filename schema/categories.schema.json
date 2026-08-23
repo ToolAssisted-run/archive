@@ -39,7 +39,9 @@
          "type": "string"
         },
         "rule": {
-         "type": "string"
+         "type": "string",
+         "maxLength": 2000,
+         "description": "what a verifier holds a run to; markdown (paragraphs, lists, bold, italic, code, links)"
         },
         "metrics": {
          "type": "array",
@@ -106,7 +108,8 @@
            },
            "rule": {
             "type": "string",
-            "maxLength": 500
+            "maxLength": 2000,
+            "description": "a fragment composed after the category rule; markdown"
            }
           }
          }
