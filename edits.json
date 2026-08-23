@@ -3954,6 +3954,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T17:15:38Z",
    "reason": "Tree architecture"
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia:any-no-major-glitches",
+   "field": "removed",
+   "from": "Any% (No Major Glitches)",
+   "to": "",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T17:16:26Z",
+   "reason": "Removed redundant category as it's added as subcat"
   }
  ]
 }
