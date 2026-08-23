@@ -26,6 +26,11 @@
       {
        "key": "standard",
        "label": "Standard"
+      },
+      {
+       "key": "no-major-glitches",
+       "label": "No Major Glitches",
+       "rule": "Complete the game as soon as possible without the usage of major glitches. Glitches are detailed here in this [guide](https://www.speedrun.com/pop1/guide/m4j3u)."
       }
      ]
     },
