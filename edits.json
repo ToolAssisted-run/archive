@@ -3899,6 +3899,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T17:12:31Z",
    "reason": "Adapting the new category architecture"
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia:baseline/standard",
+   "field": "added",
+   "from": "",
+   "to": "Standard",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T17:12:36Z",
+   "reason": "Adapting the new category architecture"
   }
  ]
 }

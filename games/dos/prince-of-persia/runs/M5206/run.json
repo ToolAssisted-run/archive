@@ -2,7 +2,8 @@
  "id": "M5206",
  "game": "dos/prince-of-persia",
  "category": {
-  "goal": "baseline"
+  "goal": "baseline",
+  "sub": "standard"
  },
  "authors": [
   {
