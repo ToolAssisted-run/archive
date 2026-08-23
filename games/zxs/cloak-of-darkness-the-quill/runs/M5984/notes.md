@@ -13,4 +13,4 @@
 
 This run was made with a port by Richard Bos for the ZX Spectrum written in The Quill, a text adventure engine that was very popular in the ZX's lifetime. The port also uses The Illustrator, an add-on that supports graphics. The game's five ports were released as freeware. For more info, I uploaded the game's manual on my [https://cloakthelurker.neocities.org/cloakofdarknesszx|Neocities].
 
-I manually tape skip to the 16K version of the port since it only has text. I used this solution from [https://solutionarchive.com/file/id%2C14027/|CASA]. I also made a [UserFiles/Info/638512144868087719|run] with the port from a BASIC engine created by Peter Gerrard, but it was slower overall.
+I manually tape skip to the 16K version of the port since it only has text. I used this solution from [https://solutionarchive.com/file/id%2C14027/|CASA]. I also made a run with the port from a BASIC engine created by Peter Gerrard, but it was slower overall.

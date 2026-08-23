@@ -41,9 +41,15 @@
   }
  ],
  "submitted": "2024-06-08T02:43:26.210744",
- "attachments": [],
+ "attachments": [
+  {
+   "file": "attachments/CloakOfDarknessGerrardV2.bk2",
+   "role": "supplementary"
+  }
+ ],
  "forum": {
   "topicId": 732,
   "url": "https://forum.toolassisted.run/t/732"
- }
+ },
+ "completed": "2024-05-13"
 }
