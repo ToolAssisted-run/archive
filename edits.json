@@ -2975,6 +2975,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:32:09Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/demons-of-asteborg",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/demons_of_asteborg",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:32:39Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
