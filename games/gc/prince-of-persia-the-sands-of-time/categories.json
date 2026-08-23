@@ -12,7 +12,7 @@
       {
        "key": "no-major-glitches",
        "label": "No Major Glitches",
-       "rule": "The use of major glitches prohibited. Major Glitches - https://www.speedrun.com/pop_sot/guide/6lrg7"
+       "rule": "The use of major glitches is prohibited. The following are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- First Person glitches (e.g., box teleport, ledge turning).\r\n  - Roll cancelling, however, is not considered a first person glitch.\r\n- Lever glitches (instant lever turning)\r\n- Boosts (e.g. damage boosts, box boosts)\r\n- Invisible sword glitch\r\n- Invisible ledges\r\n- Zombie Glitch (Prince having 0 health without being dead)\r\n- Trap fall damage cancel\r\n- Enemy clipping\r\n- Ledge storage\r\n- Canceling a wallrun by pausing\r\n\r\nThe glitches are also explained in [this](https://www.speedrun.com/pop_sot/guide/6lrg7) guide."
       },
       {
        "key": "zipless",

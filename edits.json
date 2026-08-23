@@ -3877,6 +3877,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T15:22:14Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-sands-of-time:glitchless/no-major-glitches",
+   "field": "rule",
+   "from": "The use of major glitches prohibited. Major Glitches - https://www.speedrun.com/pop_sot/guide/6lrg7",
+   "to": "The use of major glitches is prohibited. The following are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- First Person glitches (e.g., box teleport, ledge turning).\r\n  - Roll cancelling, however, is not considered a first person glitch.\r\n- Lever glitches (instant lever turning)\r\n- Boosts (e.",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T17:03:14Z",
+   "reason": "Adding the extended NMG rules back now that it's supported"
   }
  ]
 }
