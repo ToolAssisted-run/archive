@@ -2744,6 +2744,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:15:49Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "snes/castlevania-dracula-x",
+   "field": "website",
+   "from": "",
+   "to": "https://castlevaniaspeedruns.com/Dracx",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:16:56Z",
+   "reason": "Castlevania Speedruns Wiki page"
   }
  ]
 }
