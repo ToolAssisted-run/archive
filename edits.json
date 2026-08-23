@@ -3866,6 +3866,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T15:15:51Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "wii/resident-evil-4:village/wesker",
+   "field": "added",
+   "from": "",
+   "to": "Wesker",
+   "by": "Dimon12321",
+   "date": "2026-08-23",
+   "at": "2026-08-23T15:22:14Z",
+   "reason": "Created it."
   }
  ]
 }

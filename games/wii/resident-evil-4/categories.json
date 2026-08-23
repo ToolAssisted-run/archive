@@ -28,6 +28,13 @@
        "better": "higher",
        "unit": "kills"
       }
+     ],
+     "subcategories": [
+      {
+       "key": "wesker",
+       "label": "Wesker",
+       "rule": "Select Wesker on the character selection screen"
+      }
      ]
     }
    ]
