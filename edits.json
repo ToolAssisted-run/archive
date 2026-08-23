@@ -2854,6 +2854,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:21:03Z",
    "reason": "RTA leaderboard"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/columns-iii-revenge-of-columns",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/columns_iii",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:21:49Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
