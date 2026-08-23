@@ -3690,6 +3690,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T11:08:59Z",
    "reason": "Changed NMG rules to broad Any%"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-sands-of-time:glitchless/zipless",
+   "field": "label",
+   "from": "zipless",
+   "to": "Zipless",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T11:12:24Z",
+   "reason": "Upper Case"
   }
  ]
 }
