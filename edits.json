@@ -2997,6 +2997,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:32:54Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/demons-of-asteborg",
+   "field": "website",
+   "from": "",
+   "to": "https://www.kickstarter.com/projects/neofid-studios/demons-of-asteborg-for-the-sega-mega-drive-genesis",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:34:44Z",
+   "reason": "Kickstarter page"
   }
  ]
 }
