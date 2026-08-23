@@ -15,6 +15,11 @@
        "rule": "Exit as fast as possible on skill 4."
       }
      ]
+    },
+    {
+     "key": "map-2",
+     "label": "Map 2",
+     "rule": "Complete map 2"
     }
    ]
   }

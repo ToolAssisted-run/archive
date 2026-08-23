@@ -3778,6 +3778,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T11:50:18Z",
    "reason": "deleting test cat"
+  },
+  {
+   "kind": "category",
+   "key": "pc/doom-ii-sunlust:map-2",
+   "field": "added",
+   "from": "",
+   "to": "Map 2",
+   "by": "Dimon12321",
+   "date": "2026-08-23",
+   "at": "2026-08-23T11:58:11Z",
+   "reason": "Created it."
   }
  ]
 }
