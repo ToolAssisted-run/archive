@@ -7,7 +7,14 @@
     {
      "key": "uv-speed",
      "label": "UV-Speed",
-     "rule": "Complete the game as fast as possible using the Ultra-Violence difficulty setting."
+     "rule": "Complete the game as fast as possible using the Ultra-Violence difficulty setting.",
+     "subcategories": [
+      {
+       "key": "map-1",
+       "label": "Map 1",
+       "rule": "Exit as fast as possible on skill 4."
+      }
+     ]
     }
    ]
   }

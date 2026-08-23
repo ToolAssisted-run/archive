@@ -2,7 +2,8 @@
  "id": "M100027",
  "game": "pc/doom-ii-sunlust",
  "category": {
-  "goal": "uv-speed"
+  "goal": "uv-speed",
+  "sub": "map-1"
  },
  "authors": [
   {
