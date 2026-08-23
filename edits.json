@@ -3591,6 +3591,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:44:08Z",
    "reason": "Exact date is unknown, but according to Wikipedia it's later than Feb 1994"
+  },
+  {
+   "kind": "run",
+   "key": "M100019",
+   "field": "authors",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "eien86",
+   "date": "2026-08-23",
+   "at": "2026-08-23T05:10:07Z",
+   "reason": "The author's own revision."
   }
  ]
 }
