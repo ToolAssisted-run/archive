@@ -3712,6 +3712,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T11:15:42Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "run",
+   "key": "M6986",
+   "field": "goal",
+   "from": "zipless",
+   "to": "glitchless/zipless",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T11:19:02Z",
+   "reason": "Restructuring the SoT board"
   }
  ]
 }
