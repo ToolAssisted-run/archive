@@ -3503,6 +3503,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T02:30:38Z",
    "reason": "PoP1 speedrun.com boards has a GBC category"
+  },
+  {
+   "kind": "game",
+   "key": "nes/prince-of-persia",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/pop1",
+   "by": "GMP",
+   "date": "2026-08-23",
+   "at": "2026-08-23T02:31:16Z",
+   "reason": "PoP1 speedrun.com boards has a NES category"
   }
  ]
 }
