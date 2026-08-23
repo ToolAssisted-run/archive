@@ -28,7 +28,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -56,5 +56,15 @@
  "forum": {
   "topicId": 673,
   "url": "https://forum.toolassisted.run/t/673"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-23",
+   "at": "2026-08-23T14:47:33Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Ubuntu 24.04 + libTAS 1.4.3 + Ruffle 0.1.0-nightly (b645c01, 2022-02-24)",
+   "notes": "Ruffle executable MD5: 201dde670a7cab019f5f2212bcfbb7b9. Ubuntu 24.04 needs some compatibility work for this old Ruffle build. I extracted Ubuntu's libssl1.1 package locally and launched libTAS with its library path:\r\nLD_LIBRARY_PATH=\"$HOME/TAS/M100005/compat/libssl1.1/usr/lib/x86_64-linux-gnu\". I also had to use an Xorg session rather than Wayland (under Wayland, Ruffle either failed to create the graphics surface or hung at frame 1 under libTAS). Ruffle was launched with \"-g gl /home/tas2404/TAS/M100005/AmazingDozen.swf\" and libTAS was launched with LIBGL_ALWAYS_SOFTWARE=1. The movie synced for me with the_amazing.swf (renamed to AmazingDozen.swf) with SHA1 8571fe468aa60e9fe0a9e341d516dceb156cab24, MD5 897364148f8eae0a826d340b0df30c0c, size 89384 bytes. P.S. Building libTAS 1.4.3 on Ubuntu 24.04 also required adding missing <cstdint> includes to several old source headers due to the newer GCC toolchain."
+  }
+ ]
 }
