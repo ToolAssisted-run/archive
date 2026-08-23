@@ -2667,6 +2667,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T00:00:21Z",
    "reason": "from Speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "nes/castelian",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/castelian",
+   "by": "CloakTheLurker",
+   "date": "2026-08-23",
+   "at": "2026-08-23T00:01:00Z",
+   "reason": "RTA leaderboard"
   }
  ]
 }
