@@ -4350,6 +4350,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:56:08Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/prince-of-persia",
+   "field": "released",
+   "from": "",
+   "to": "1994-01",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:57:39Z",
+   "reason": "Release date"
   }
  ]
 }
