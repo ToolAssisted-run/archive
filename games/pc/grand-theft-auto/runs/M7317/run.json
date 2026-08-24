@@ -2,7 +2,8 @@
  "id": "M7317",
  "game": "pc/grand-theft-auto",
  "category": {
-  "goal": "san-andreas-chapter-1-mandarin-mayhem-100"
+  "goal": "san-andreas-chapter-1-mandarin-mayhem-100",
+  "sub": "100"
  },
  "authors": [
   {

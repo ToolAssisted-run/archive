@@ -31,7 +31,14 @@
     {
      "key": "san-andreas-chapter-1-mandarin-mayhem-100",
      "label": "San Andreas Chapter 1: Mandarin Mayhem",
-     "rule": "Complete the area, at least reaching the required score and exiting"
+     "rule": "Complete the area, at least reaching the required score and exiting",
+     "subcategories": [
+      {
+       "key": "100",
+       "label": "100%",
+       "rule": "complete all missions and activate all secrets (grabing kill frenzies, but no need to succeed in them)"
+      }
+     ]
     },
     {
      "key": "san-andreas-chapter-2-tequila-slammer-100",
