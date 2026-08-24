@@ -6,7 +6,7 @@
    "options": [
     {
      "key": "zipless",
-     "label": "Any% (Zipless)",
+     "label": "Any%",
      "rule": "Beat the game without using zips as fast as possible."
     },
     {
