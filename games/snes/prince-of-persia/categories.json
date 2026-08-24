@@ -5,14 +5,14 @@
    "name": "Goal",
    "options": [
     {
-     "key": "training-mode",
-     "label": "Training mode",
-     "rule": "Complete the training mode as fast as possible."
-    },
-    {
      "key": "baseline",
      "label": "Any%",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "training-mode",
+     "label": "Training mode",
+     "rule": "Complete the training mode as fast as possible."
     }
    ]
   }
