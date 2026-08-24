@@ -19,7 +19,14 @@
     {
      "key": "true-ending-glitchless",
      "label": "True Ending",
-     "rule": "Beat the game while getting the \"true ending\"."
+     "rule": "Beat the game while getting the \"true ending\".",
+     "subcategories": [
+      {
+       "key": "no-major-glitches",
+       "label": "No Major Glitches",
+       "rule": "The use of major glitches is prohibited.\r\nThe following are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- Menu Launch\r\n- Load trigger / Story / Cutscene Manipulation\r\n- Sonic Glitch\r\n- Rewind Wallrun Extension\r\n- Quicksand\r\n- Drop Glitch\r\n- Trap Fall-Damage Cancel\r\n- Silhouette Clipping\r\n- Ledge Storage\r\n- Canceling a wallrun by pausing\r\n\r\nCheck [this guide](https://speedrun.com/pop_ww/guide/eeumn) for detailed explanation of each glitch."
+      }
+     ]
     }
    ]
   }
