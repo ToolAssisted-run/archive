@@ -4438,6 +4438,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T09:37:02Z",
    "reason": "Added category"
+  },
+  {
+   "kind": "game",
+   "key": "dos/prince-of-persia",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T13:47:01Z",
+   "reason": "16:9 Thumbnail"
   }
  ]
 }
