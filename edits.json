@@ -4548,6 +4548,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:00:45Z",
    "reason": "16:9 Thumbnail"
+  },
+  {
+   "kind": "category",
+   "key": "psx/digimon-world-2:defeat-metalgreymon",
+   "field": "added",
+   "from": "",
+   "to": "Defeat MetalGreymon",
+   "by": "Glory_Seeker",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:03:06Z",
+   "reason": "Created it."
   }
  ]
 }
