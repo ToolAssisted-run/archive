@@ -30,7 +30,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -58,6 +58,16 @@
    "user": "Dimon12321",
    "date": "2026-08-20",
    "at": "2026-08-20T19:45:53Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:29:47Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11.2 (currently a development build) + Opera (3DO)",
+   "notes": "The ISO files I used had the following MD5 hashes: Disc 1: 02B71B3B96BF2785CD975BA395A861CD. Disc 2: 862720E5009667E80A7E5BC23843DB31. If the supplied .xml file does not work because your CUE files have different names, either edit the XML to reference your filenames or use Tools > Multi-disk Bundler to create a new multidisc bundle. Also, depending on your ROM dump, you may need to edit the .cue files themselves (right-click > Edit in Notepad) and make sure the FILE line matches the actual ISO filename (else BizHawk reports that it cannot resolve the referenced file)"
   }
  ]
 }
