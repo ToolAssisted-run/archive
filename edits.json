@@ -4273,6 +4273,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:46:59Z",
    "reason": "Overhaul everything"
+  },
+  {
+   "kind": "category",
+   "key": "flash/prince-of-persia-special-edition:all-2-potions-drunk-all-2-guards-defeated",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"all 2 potions drunk, all 2 guards defeated\"; rules to be formalized by the game's experts.",
+   "to": "Best the game with all 2 potions drunk and all 2 guards defeated.",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:47:05Z",
+   "reason": "Overhaul everything"
   }
  ]
 }
