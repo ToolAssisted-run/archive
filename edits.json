@@ -5263,6 +5263,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T18:56:57Z",
    "reason": "added info"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/the-lion-king-god-mode",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/LKGM?h=easy-any-no-bonus-genesis&x=z27q4ezk-2lgk4e38.q5vz9o2l-j84p3kw8.q5vzxe7l",
+   "by": "CloakTheLurker",
+   "date": "2026-08-24",
+   "at": "2026-08-24T18:57:03Z",
+   "reason": "added info"
   }
  ]
 }
