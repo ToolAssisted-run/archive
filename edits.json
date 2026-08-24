@@ -4603,6 +4603,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:26:25Z",
    "reason": "16:9 Thumbnail"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/prince-of-persia-2-the-shadow-and-the-flame",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:29:57Z",
+   "reason": "16:9 Thumbnail"
   }
  ]
 }
