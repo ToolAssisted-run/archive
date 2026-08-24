@@ -4328,6 +4328,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:53:47Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "segacd/prince-of-persia",
+   "field": "released",
+   "from": "",
+   "to": "1993-08-07",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:55:21Z",
+   "reason": "Release date"
   }
  ]
 }
