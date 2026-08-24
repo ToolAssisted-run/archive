@@ -2,7 +2,8 @@
  "id": "M7312",
  "game": "pc/grand-theft-auto",
  "category": {
-  "goal": "liberty-city-chapter-1-gangsta-bang-100"
+  "goal": "liberty-city-chapter-1-gangsta-bang-100",
+  "sub": "100"
  },
  "authors": [
   {

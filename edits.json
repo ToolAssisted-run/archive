@@ -4746,6 +4746,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:35:57Z",
    "reason": "updating GTA1 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:liberty-city-chapter-1-gangsta-bang-100/100",
+   "field": "added",
+   "from": "",
+   "to": "100%",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:36:03Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }
