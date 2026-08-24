@@ -12,7 +12,7 @@
       {
        "key": "no-major-glitches",
        "label": "No Major Glitches",
-       "rule": "Use of major glitches is prohibited. See the list of major glitches here - https://www.speedrun.com/pop_t2t?h=Any-no-major-glitches&rules=game&x=5dw11nkg-7891j0nw.81p25el7"
+       "rule": "The use of major glitches is prohibited.\r\nThe following things are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- Drop Glitches\r\n- Slowmo Boost\r\n- Manipulating Gravity with Slowmo\r\n- Rewind Wallrun Extensions\r\n- Quicksand Glitch\r\n- A.I. Glitch (frozen enemies)\r\n- Menu Glitch\r\n- Canceling a wallrun by pausing\r\n- Loadtrigger Manipulation\r\n- Ledge Storage (abuse)\r\nShutter Storage (abuse)\r\n- Using invisible dagger for 1-hit KO"
       }
      ]
     }
