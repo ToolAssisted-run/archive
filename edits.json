@@ -4295,6 +4295,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:49:40Z",
    "reason": "Release date, label"
+  },
+  {
+   "kind": "category",
+   "key": "snes/prince-of-persia-2-the-shadow-and-the-flame:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:49:52Z",
+   "reason": "Release date, label"
   }
  ]
 }
