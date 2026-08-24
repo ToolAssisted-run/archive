@@ -11,7 +11,7 @@
     },
     {
      "key": "baseline",
-     "label": "fastest completion",
+     "label": "Any%",
      "rule": "Complete the game as fast as possible."
     }
    ]

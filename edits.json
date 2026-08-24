@@ -4141,6 +4141,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:25:41Z",
    "reason": "Move WW to category tree."
+  },
+  {
+   "kind": "category",
+   "key": "snes/prince-of-persia:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:34:10Z",
+   "reason": "Category ordering and rules"
   }
  ]
 }
