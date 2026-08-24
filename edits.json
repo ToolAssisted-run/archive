@@ -4724,6 +4724,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:35:41Z",
    "reason": "16:9 Thumbnail"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:liberty-city-chapter-1-gangsta-bang-100",
+   "field": "label",
+   "from": "Liberty City Chapter 1: Gangsta Bang, 100%",
+   "to": "Liberty City Chapter 1: Gangsta Bang",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:35:51Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }
