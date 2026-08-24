@@ -4680,6 +4680,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:31:55Z",
    "reason": "adjusting GTA2 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto-2:industrial-all-missions",
+   "field": "label",
+   "from": "Industrial, all missions",
+   "to": "Industrial",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:32:00Z",
+   "reason": "adjusting GTA2 subcategories"
   }
  ]
 }
