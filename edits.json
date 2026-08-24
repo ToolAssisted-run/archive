@@ -4933,6 +4933,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:38:03Z",
    "reason": "16:9 Thumbnail"
+  },
+  {
+   "kind": "game",
+   "key": "snes/prince-of-persia-2-the-shadow-and-the-flame",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:44:18Z",
+   "reason": "16:9 Thumbnail"
   }
  ]
 }
