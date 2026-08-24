@@ -1,0 +1,56 @@
+{
+ "id": "M100033",
+ "game": "psx/digimon-world-2",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "Glory_Seeker"
+  }
+ ],
+ "tools": [],
+ "duration": 43469.056,
+ "movie": {
+  "file": "M100033.bk2",
+  "format": "bk2",
+  "sha1": "83f5e17857b5684d16c9cc30edfcf6b13f89f161",
+  "frames": 2590832,
+  "rerecords": 3404,
+  "start": "savestate",
+  "fps": 59.94006013870239
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk-2.3.1",
+  "files": [
+   {
+    "name": "DW2.cue",
+    "sha1": "58e271e27a6c15cbb80829d668d7d15b596d6a22"
+   },
+   {
+    "name": "DW2.bin",
+    "sha1": "d9cb009bc0006e901d8ab1365f764ab71da02115"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-Qy__sjefOU"
+  }
+ ],
+ "attachments": [],
+ "completed": "2022-04-04",
+ "submitted": "2026-08-24T15:28:41Z",
+ "submittedBy": "Glory_Seeker",
+ "forum": {
+  "topicId": 1256,
+  "url": "https://forum.toolassisted.run/t/1256"
+ }
+}
