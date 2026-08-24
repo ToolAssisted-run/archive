@@ -37,7 +37,7 @@
  "encodes": [
   {
    "kind": "youtube",
-   "url": "https://www.youtube.com/watch?v=epkmBlaDyHY"
+   "url": "https://www.youtube.com/watch?v=odcLZkBS1kc"
   }
  ],
  "submitted": "2021-12-26T12:08:19",
@@ -45,5 +45,6 @@
  "forum": {
   "topicId": 666,
   "url": "https://forum.toolassisted.run/t/666"
- }
+ },
+ "duration": 479.084
 }
