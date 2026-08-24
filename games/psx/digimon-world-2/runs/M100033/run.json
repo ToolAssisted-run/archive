@@ -36,7 +36,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -52,5 +52,13 @@
  "forum": {
   "topicId": 1256,
   "url": "https://forum.toolassisted.run/t/1256"
- }
+ },
+ "verifications": [
+  {
+   "user": "KusogeMan",
+   "date": "2026-08-24",
+   "at": "2026-08-24T23:17:55Z",
+   "notes": "this run has 2 encodes, he does reach gaia at the second part:\r\nhttps://www.youtube.com/watch?v=iC0Q6HJ_ZP4\r\n\r\ngood job!"
+  }
+ ]
 }
