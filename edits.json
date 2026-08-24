@@ -4867,6 +4867,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:37:02Z",
    "reason": "updating GTA1 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:vice-city-chapter-1-bent-cop-blues-100",
+   "field": "rule",
+   "from": "Imported as \"Vice City Chapter 1: Bent Cop Blues, 100%\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the area, at least reaching the required score and exiting",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:37:08Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }
