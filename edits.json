@@ -4735,6 +4735,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:35:51Z",
    "reason": "updating GTA1 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:liberty-city-chapter-1-gangsta-bang-100",
+   "field": "rule",
+   "from": "Imported as \"Liberty City Chapter 1: Gangsta Bang, 100%\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the area, at least reaching the required score and exiting",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:35:57Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }
