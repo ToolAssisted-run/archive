@@ -4504,6 +4504,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T15:47:11Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "nes/prince-of-persia",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T15:47:49Z",
+   "reason": "16:9 Thumbnail"
   }
  ]
 }
