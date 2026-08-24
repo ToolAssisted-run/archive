@@ -4108,6 +4108,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:25:23Z",
    "reason": "Move WW to category tree."
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-warrior-within:true-ending-glitchless",
+   "field": "label",
+   "from": "True Ending (No Major Glitches)",
+   "to": "True Ending",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:25:29Z",
+   "reason": "Move WW to category tree."
   }
  ]
 }
