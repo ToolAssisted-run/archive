@@ -4713,6 +4713,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:32:12Z",
    "reason": "adjusting GTA2 subcategories"
+  },
+  {
+   "kind": "game",
+   "key": "wii/prince-of-persia-the-forgotten-sands",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:35:41Z",
+   "reason": "16:9 Thumbnail"
   }
  ]
 }
