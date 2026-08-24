@@ -52,5 +52,12 @@
  "forum": {
   "topicId": 1257,
   "url": "https://forum.toolassisted.run/t/1257"
+ },
+ "withdrawn": {
+  "by": "Glory_Seeker",
+  "date": "2026-08-24",
+  "at": "2026-08-24T16:18:39Z",
+  "reason": "Wrong category",
+  "role": "author"
  }
 }
