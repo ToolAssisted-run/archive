@@ -5120,6 +5120,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T17:33:10Z",
    "reason": "Consistent Label"
+  },
+  {
+   "kind": "category",
+   "key": "gg/prince-of-persia:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T17:33:29Z",
+   "reason": "Consistent Label"
   }
  ]
 }
