@@ -5175,6 +5175,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T17:42:47Z",
    "reason": "Cropping"
+  },
+  {
+   "kind": "game",
+   "key": "wii/prince-of-persia-the-forgotten-sands",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T17:45:25Z",
+   "reason": "Cropping"
   }
  ]
 }
