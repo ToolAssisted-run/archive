@@ -4372,6 +4372,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:58:44Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "gba/prince-of-persia-the-sands-of-time",
+   "field": "released",
+   "from": "",
+   "to": "2008-10-28",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T05:00:24Z",
+   "reason": "Release date"
   }
  ]
 }
