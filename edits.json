@@ -4449,6 +4449,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T13:47:01Z",
    "reason": "16:9 Thumbnail"
+  },
+  {
+   "kind": "game",
+   "key": "amiga/prince-of-persia",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T15:17:50Z",
+   "reason": "16:9 Thumbnail"
   }
  ]
 }
