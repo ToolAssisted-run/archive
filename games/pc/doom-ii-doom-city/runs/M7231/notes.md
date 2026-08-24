@@ -8,7 +8,6 @@
 > without passing through this site's standard procedure. The movie file and these
 > notes were obtained freely from the source and are redistributed in observance
 > of the Creative Commons Attribution 2.0 license under which they were published there.
-
 Doom City is a custom Doom wad, which consists of a single map. Map 2 loads the standard Doom 2 map. %%%
 This map brings custom graphics to give the map a more realistic look, which feels more relatable than official Doom 1/2 city-style maps.
 It can be downloaded from [https://www.doomworld.com/idgames/levels/doom2/d-f/doomcity|idgames] or [https://dsdarchive.com/wads/doomcity|dsdarchive].
@@ -28,7 +27,9 @@ It can be downloaded from [https://www.doomworld.com/idgames/levels/doom2/d-f/do
 * Make a shortcut of dsda-doom.exe or prboom-plus.exe
 * Open the Properties of the shortcut
 * Insert commands at the end of its Target field, so it would look similar to that:
-> D:\dsda-doom-0.25.3\dsda-doom.exe -iwad doom2.wad -file DOOMCITY.wad -playdemo cityx117.lmp
+%%SRC_EMBED 
+D:\dsda-doom-0.25.3\dsda-doom.exe -iwad doom2.wad -file DOOMCITY.wad -playdemo cityx117.lmp 
+%%END_EMBED
 
 ! General comments
 
