@@ -5087,6 +5087,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T17:26:00Z",
    "reason": "Enhanced contrast"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-sands-of-time:glitchless",
+   "field": "order",
+   "from": "no-major-glitches, zipless",
+   "to": "zipless, no-major-glitches",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T17:31:06Z",
+   "reason": "Reorder categories to be fastest first"
   }
  ]
 }
