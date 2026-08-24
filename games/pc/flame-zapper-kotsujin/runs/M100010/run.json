@@ -28,7 +28,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -82,6 +82,16 @@
    "user": "toca",
    "date": "2026-08-24",
    "at": "2026-08-24T04:48:27Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:49:46Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Ubuntu 24.04 + libTAS 1.4.8 + NP2kai (commit 696c03b, SDL2)",
+   "notes": "NP2kai was built from commit 696c03b with -DBUILD_SDL=ON -DBUILD_X=OFF -DUSE_SDL2=ON -DBUILD_I286=OFF -DBUILD_HAXM=OFF. The game file was CO2-Pro (Flame Zapper Kotsujin).hdi, MD5 32d5b2337aae15dbcd39126ce35a339a, SHA1 8e92e7b6ff87c1e45cb586149634a93740317a09. The config expects the HDI at /home/tas2404/pc98roms/CO2-Pro (Flame Zapper Kotsujin).hdi and FONT.ROM at /home/tas2404/sdlnp21kai/FONT.ROM, so using the username tas2404 lets the submitted paths work unchanged. FONT.ROM MD5 was 38d32748ae49d1815b0614970849fd40. I also used the matching six 2608_*.WAV rhythm samples. I did not need the external PC-98 BIOS.ROM/ITF.ROM/etc. files to reproduce the run; NP2kai's fallback BIOS setup worked. [If using VirtualBox, keep the virtual optical drive empty while running NP2kai -- I encountered a crash in NP2kai's CD-ROM path while the Guest Additions ISO was mounted.]"
   }
  ]
 }
