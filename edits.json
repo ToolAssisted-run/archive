@@ -4757,6 +4757,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:36:03Z",
    "reason": "updating GTA1 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:liberty-city-chapter-2-heist-almighty-100",
+   "field": "label",
+   "from": "Liberty City Chapter 2: Heist Almighty, 100%",
+   "to": "Liberty City Chapter 2: Heist Almighty",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:36:08Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }
