@@ -4339,6 +4339,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:55:21Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "gg/prince-of-persia",
+   "field": "released",
+   "from": "",
+   "to": "1992-07",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:56:08Z",
+   "reason": "Release date"
   }
  ]
 }
