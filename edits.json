@@ -5142,6 +5142,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T17:33:59Z",
    "reason": "Consistent Label"
+  },
+  {
+   "kind": "category",
+   "key": "dos/mini-prince:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T17:36:59Z",
+   "reason": "Consistent Label"
   }
  ]
 }
