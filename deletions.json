@@ -45,6 +45,15 @@
    "date": "2026-08-24",
    "at": "2026-08-24T09:19:07Z",
    "reason": "A test of the rebuilt submit flow (movie parsing and page build)"
+  },
+  {
+   "kind": "member",
+   "key": "DuckSquared",
+   "title": "DuckSquared",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T15:29:25Z",
+   "reason": "a duplicate account, deleting by request of its owner"
   }
  ]
 }
