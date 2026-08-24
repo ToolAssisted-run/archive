@@ -4614,6 +4614,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:29:57Z",
    "reason": "16:9 Thumbnail"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto-2:downtown-all-missions",
+   "field": "label",
+   "from": "Downtown, all missions",
+   "to": "Downtown",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:31:25Z",
+   "reason": "adjusting GTA2 subcategories"
   }
  ]
 }
