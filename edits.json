@@ -4801,6 +4801,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:36:26Z",
    "reason": "updating GTA1 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:san-andreas-chapter-1-mandarin-mayhem-100",
+   "field": "rule",
+   "from": "Imported as \"San Andreas Chapter 1: Mandarin Mayhem, 100%\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the area, at least reaching the required score and exiting",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:36:32Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }
