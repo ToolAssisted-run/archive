@@ -5219,6 +5219,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T17:55:27Z",
    "reason": "Cropping"
+  },
+  {
+   "kind": "game",
+   "key": "gc/prince-of-persia-warrior-within",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T17:59:19Z",
+   "reason": "Contrast"
   }
  ]
 }
