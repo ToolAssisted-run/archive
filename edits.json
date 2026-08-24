@@ -4086,6 +4086,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:25:12Z",
    "reason": "Move WW to category tree."
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-warrior-within:zipless",
+   "field": "rule",
+   "from": "Beat the game without using zips as fast as possible.",
+   "to": "Beat the game as fast as possible.",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:25:18Z",
+   "reason": "Move WW to category tree."
   }
  ]
 }
