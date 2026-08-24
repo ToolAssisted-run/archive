@@ -7,7 +7,14 @@
     {
      "key": "zipless",
      "label": "Any%",
-     "rule": "Beat the game as fast as possible."
+     "rule": "Beat the game as fast as possible.",
+     "subcategories": [
+      {
+       "key": "zipless",
+       "label": "Zipless",
+       "rule": "The use of zips is prohibited."
+      }
+     ]
     },
     {
      "key": "true-ending-glitchless",
