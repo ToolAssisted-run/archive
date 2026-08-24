@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "any",
+     "label": "Any%",
+     "rule": "Timing starts on selection of \"New Game\" and ends at the \"Win\"-message after the last hit on OverLord GAIA.  Runs can be done on emulator, ePSXe 1.9 is to be used.  Saving and reloading (while the timer keeps running) is allowed within the game, but not through emulator-savestates."
+    }
+   ]
+  }
+ ]
+}
