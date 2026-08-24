@@ -2,7 +2,8 @@
  "id": "M7313",
  "game": "pc/grand-theft-auto",
  "category": {
-  "goal": "liberty-city-chapter-2-heist-almighty-100"
+  "goal": "liberty-city-chapter-2-heist-almighty-100",
+  "sub": "100"
  },
  "authors": [
   {

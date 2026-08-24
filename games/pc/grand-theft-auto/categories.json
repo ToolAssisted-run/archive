@@ -19,7 +19,14 @@
     {
      "key": "liberty-city-chapter-2-heist-almighty-100",
      "label": "Liberty City Chapter 2: Heist Almighty",
-     "rule": "Complete the area, at least reaching the required score and exiting"
+     "rule": "Complete the area, at least reaching the required score and exiting",
+     "subcategories": [
+      {
+       "key": "100",
+       "label": "100%",
+       "rule": "complete all missions and activate all secrets (grabing kill frenzies, but no need to succeed in them)"
+      }
+     ]
     },
     {
      "key": "san-andreas-chapter-1-mandarin-mayhem-100",
