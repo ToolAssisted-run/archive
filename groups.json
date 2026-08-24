@@ -509,6 +509,17 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "tlk",
+   "title": "The Lion King",
+   "games": [
+    "genesis/the-lion-king",
+    "genesis/the-lion-king-god-mode",
+    "snes/the-lion-king"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-08-24"
+  },
+  {
    "key": "the-lucky-dime-caper",
    "title": "The Lucky Dime Caper",
    "games": [
