@@ -4790,6 +4790,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:36:20Z",
    "reason": "updating GTA1 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:san-andreas-chapter-1-mandarin-mayhem-100",
+   "field": "label",
+   "from": "San Andreas Chapter 1: Mandarin Mayhem, 100%",
+   "to": "San Andreas Chapter 1: Mandarin Mayhem",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:36:26Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }
