@@ -5285,6 +5285,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T19:01:33Z",
    "reason": "Changed from the group form: gb/sinoc-gb moved in"
+  },
+  {
+   "kind": "group",
+   "key": "digimon",
+   "field": "games",
+   "from": "gba/digimon-battle-spirit-2, gba/digimon-racing, gc/digimon-rumble-arena-2, gc/digimon-world-4, psx/digimon-rumble-arena",
+   "to": "gba/digimon-battle-spirit-2, gba/digimon-racing, gc/digimon-rumble-arena-2, gc/digimon-world-4, psx/digimon-rumble-arena, psx/digimon-world-2",
+   "by": "CloakTheLurker",
+   "date": "2026-08-24",
+   "at": "2026-08-24T19:02:34Z",
+   "reason": "Changed from the group form: psx/digimon-world-2 moved in"
   }
  ]
 }
