@@ -5098,6 +5098,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T17:31:06Z",
    "reason": "Reorder categories to be fastest first"
+  },
+  {
+   "kind": "category",
+   "key": "pcecd/prince-of-persia:baseline",
+   "field": "label",
+   "from": "fastest completion",
+   "to": "Any%",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T17:32:43Z",
+   "reason": "Consistent Label"
   }
  ]
 }
