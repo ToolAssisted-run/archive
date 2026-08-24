@@ -76,7 +76,8 @@
       }
      ]
     }
-   ]
+   ],
+   "selector": "dropdown"
   }
  ]
 }

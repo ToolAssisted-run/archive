@@ -4944,6 +4944,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:44:18Z",
    "reason": "16:9 Thumbnail"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:*",
+   "field": "selector",
+   "from": "buttons",
+   "to": "dropdown",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:46:58Z",
+   "reason": "making it dropdown"
   }
  ]
 }
