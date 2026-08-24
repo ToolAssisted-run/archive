@@ -4317,6 +4317,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:52:13Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "pcecd/prince-of-persia",
+   "field": "released",
+   "from": "",
+   "to": "1991-11-06",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:53:47Z",
+   "reason": "Release date"
   }
  ]
 }
