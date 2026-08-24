@@ -4911,6 +4911,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:37:27Z",
    "reason": "updating GTA1 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:vice-city-chapter-2-rasta-blasta-100/100",
+   "field": "added",
+   "from": "",
+   "to": "100%",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:37:33Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }

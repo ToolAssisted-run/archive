@@ -2,7 +2,8 @@
  "id": "M7321",
  "game": "pc/grand-theft-auto",
  "category": {
-  "goal": "vice-city-chapter-2-rasta-blasta-100"
+  "goal": "vice-city-chapter-2-rasta-blasta-100",
+  "sub": "100"
  },
  "authors": [
   {
