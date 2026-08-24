@@ -4856,6 +4856,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:36:55Z",
    "reason": "updating GTA1 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:vice-city-chapter-1-bent-cop-blues-100",
+   "field": "label",
+   "from": "Vice City Chapter 1: Bent Cop Blues, 100%",
+   "to": "Vice City Chapter 1: Bent Cop Blues",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:37:02Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }
