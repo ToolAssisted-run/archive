@@ -4262,6 +4262,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:46:54Z",
    "reason": "Overhaul everything"
+  },
+  {
+   "kind": "category",
+   "key": "flash/prince-of-persia-special-edition:all-2-potions-drunk-all-2-guards-defeated",
+   "field": "label",
+   "from": "all 2 potions drunk, all 2 guards defeated",
+   "to": "Completionist",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:46:59Z",
+   "reason": "Overhaul everything"
   }
  ]
 }
