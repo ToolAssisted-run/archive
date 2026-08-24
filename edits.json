@@ -4361,6 +4361,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:57:39Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "ds/prince-of-persia-the-fallen-king",
+   "field": "released",
+   "from": "",
+   "to": "2008-12-02",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:58:44Z",
+   "reason": "Release date"
   }
  ]
 }
