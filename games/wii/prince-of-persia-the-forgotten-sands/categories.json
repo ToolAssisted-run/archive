@@ -3,7 +3,13 @@
   {
    "key": "goal",
    "name": "Goal",
-   "options": []
+   "options": [
+    {
+     "key": "any",
+     "label": "Any%",
+     "rule": "Complete the game as fast as possible."
+    }
+   ]
   }
  ]
 }
