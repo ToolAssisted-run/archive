@@ -4383,6 +4383,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T05:00:24Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "gc/prince-of-persia-the-sands-of-time",
+   "field": "released",
+   "from": "2003-10-28",
+   "to": "2003-11-18",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T05:01:06Z",
+   "reason": "GC specific release date"
   }
  ]
 }
