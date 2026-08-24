@@ -4185,6 +4185,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:37:40Z",
    "reason": "Subcategory system"
+  },
+  {
+   "kind": "category",
+   "key": "gba/prince-of-persia-the-sands-of-time:baseline/standard",
+   "field": "added",
+   "from": "",
+   "to": "Standard",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:37:46Z",
+   "reason": "Subcategory system"
   }
  ]
 }
