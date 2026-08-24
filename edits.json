@@ -5241,6 +5241,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T18:56:46Z",
    "reason": "added info"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/the-lion-king-god-mode",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "CloakTheLurker",
+   "date": "2026-08-24",
+   "at": "2026-08-24T18:56:51Z",
+   "reason": "added info"
   }
  ]
 }
