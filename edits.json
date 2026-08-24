@@ -5032,6 +5032,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T17:01:51Z",
    "reason": "In-game screenshot"
+  },
+  {
+   "kind": "game",
+   "key": "gc/prince-of-persia-the-two-thrones",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T17:09:27Z",
+   "reason": "In-game screenshot"
   }
  ]
 }
