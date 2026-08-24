@@ -4306,6 +4306,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:49:52Z",
    "reason": "Release date, label"
+  },
+  {
+   "kind": "game",
+   "key": "nes/prince-of-persia",
+   "field": "released",
+   "from": "",
+   "to": "1992-11",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:52:13Z",
+   "reason": "Release date"
   }
  ]
 }
