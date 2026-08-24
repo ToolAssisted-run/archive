@@ -31,7 +31,7 @@
     {
      "key": "industrial-all-missions",
      "label": "Industrial",
-     "rule": "complete all gang missions, including the last one, and exit the area"
+     "rule": "Complete the industrial area of the game"
     }
    ]
   }
