@@ -5230,6 +5230,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T17:59:19Z",
    "reason": "Contrast"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/the-lion-king-god-mode",
+   "field": "released",
+   "from": "",
+   "to": "2020",
+   "by": "CloakTheLurker",
+   "date": "2026-08-24",
+   "at": "2026-08-24T18:56:46Z",
+   "reason": "added info"
   }
  ]
 }
