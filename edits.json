@@ -4229,6 +4229,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:42:08Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/prince-of-persia-2-the-shadow-and-the-flame",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:43:22Z",
+   "reason": "Game is an unfinished leaked port"
   }
  ]
 }
