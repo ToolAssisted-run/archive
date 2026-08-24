@@ -4053,6 +4053,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:11:09Z",
    "reason": "Added the other subcats with rules so that future submissions can use them."
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-two-thrones:glitchless/no-major-glitches",
+   "field": "rule",
+   "from": "The use of major glitches is prohibited.\r\nThe following things are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- Drop Glitches\r\n- Slowmo Boost\r\n- Manipulating Gravity with Slowmo\r\n- Rewind Wallrun Extensions\r\n- Quicksand Glitch\r\n- A.I. Glitch (frozen enemies)\r\n- Menu Glitch\r\n- Canceling a w",
+   "to": "The use of major glitches is prohibited.\r\nThe following things are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- Drop Glitches\r\n- Slowmo Boost\r\n- Manipulating Gravity with Slowmo\r\n- Rewind Wallrun Extensions\r\n- Quicksand Glitch\r\n- A.I. Glitch (frozen enemies)\r\n- Menu Glitch\r\n- Canceling a w",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:11:15Z",
+   "reason": "Added the other subcats with rules so that future submissions can use them."
   }
  ]
 }
