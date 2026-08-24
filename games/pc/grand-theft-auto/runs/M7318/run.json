@@ -2,7 +2,8 @@
  "id": "M7318",
  "game": "pc/grand-theft-auto",
  "category": {
-  "goal": "san-andreas-chapter-2-tequila-slammer-100"
+  "goal": "san-andreas-chapter-2-tequila-slammer-100",
+  "sub": "100"
  },
  "authors": [
   {
