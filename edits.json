@@ -4031,6 +4031,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T03:56:37Z",
    "reason": "Expanded rules now that markdown works"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-two-thrones:glitchless/zipless",
+   "field": "added",
+   "from": "",
+   "to": "Zipless",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:11:03Z",
+   "reason": "Added the other subcats with rules so that future submissions can use them."
   }
  ]
 }

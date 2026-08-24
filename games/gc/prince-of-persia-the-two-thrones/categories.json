@@ -13,6 +13,11 @@
        "key": "no-major-glitches",
        "label": "No Major Glitches",
        "rule": "The use of major glitches is prohibited.\r\nThe following things are considered major glitches:\r\n- Zips\r\n- Rewind Tricks\r\n- Drop Glitches\r\n- Slowmo Boost\r\n- Manipulating Gravity with Slowmo\r\n- Rewind Wallrun Extensions\r\n- Quicksand Glitch\r\n- A.I. Glitch (frozen enemies)\r\n- Menu Glitch\r\n- Canceling a wallrun by pausing\r\n- Loadtrigger Manipulation\r\n- Ledge Storage (abuse)\r\nShutter Storage (abuse)\r\n- Using invisible dagger for 1-hit KO"
+      },
+      {
+       "key": "zipless",
+       "label": "Zipless",
+       "rule": "The use of zips is prohibited."
       }
      ]
     }
