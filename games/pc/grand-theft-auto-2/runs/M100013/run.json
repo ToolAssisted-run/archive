@@ -2,7 +2,8 @@
  "id": "M100013",
  "game": "pc/grand-theft-auto-2",
  "category": {
-  "goal": "residental-all-missions"
+  "goal": "residental-all-missions",
+  "sub": "all-missions"
  },
  "authors": [
   {
