@@ -2,7 +2,8 @@
  "id": "M100012",
  "game": "pc/grand-theft-auto-2",
  "category": {
-  "goal": "downtown-all-missions"
+  "goal": "downtown-all-missions",
+  "sub": "all-missions"
  },
  "authors": [
   {

@@ -7,7 +7,14 @@
     {
      "key": "downtown-all-missions",
      "label": "Downtown",
-     "rule": "Complete the downtown area of the game"
+     "rule": "Complete the downtown area of the game",
+     "subcategories": [
+      {
+       "key": "all-missions",
+       "label": "all missions",
+       "rule": "Complete all gang missions, plus the last one, and exit the area"
+      }
+     ]
     },
     {
      "key": "residental-all-missions",
