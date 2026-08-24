@@ -4416,6 +4416,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T05:03:39Z",
    "reason": "Release date"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/prince-of-persia-2-the-shadow-and-the-flame",
+   "field": "released",
+   "from": "",
+   "to": "1995-02-20",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T05:06:16Z",
+   "reason": "I think it makes sense to add the prototype's build date here."
   }
  ]
 }
