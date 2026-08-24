@@ -7,7 +7,7 @@
     {
      "key": "training-mode",
      "label": "Training mode",
-     "rule": "Imported from TASVideos as \"Training mode\"; rules to be formalized by the game's experts."
+     "rule": "Complete the training mode as fast as possible."
     },
     {
      "key": "baseline",
