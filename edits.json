@@ -3987,6 +3987,17 @@
    "date": "2026-08-23",
    "at": "2026-08-23T17:19:03Z",
    "reason": "NMG rules semantics"
+  },
+  {
+   "kind": "run",
+   "key": "M100010",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CoolHandMike",
+   "date": "2026-08-24",
+   "at": "2026-08-24T03:44:20Z",
+   "reason": "The author's own revision."
   }
  ]
 }

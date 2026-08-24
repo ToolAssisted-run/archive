@@ -1,3 +1,5 @@
+EDIT 20260823: Replaced movie file with correctly truncated end.  I cut off some frames of shooting accidentally.
+
 Platform: PC98
 *骨塵 Flame Zapper Kotsujin - PC-9801 (1996) is a homebrew vertical shooter known to be one of the best shooters on the system made by CO2 Pro.
 
