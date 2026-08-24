@@ -4658,6 +4658,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:31:42Z",
    "reason": "adjusting GTA2 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto-2:residental-all-missions",
+   "field": "rule",
+   "from": "complete all gang missions, including the last one, and exit the area",
+   "to": "Complete the residential area of the game",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:31:48Z",
+   "reason": "adjusting GTA2 subcategories"
   }
  ]
 }
