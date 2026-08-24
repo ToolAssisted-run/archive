@@ -5274,6 +5274,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T18:57:03Z",
    "reason": "added info"
+  },
+  {
+   "kind": "group",
+   "key": "sonic-the-hedgehog",
+   "field": "games",
+   "from": "gba/sonic-battle, gg/sonic-blast, gc/sonic-gems-collection-sonic-r, gc/sonic-gems-collection-sonic-the-fighters",
+   "to": "gb/sinoc-gb, gba/sonic-battle, gc/sonic-gems-collection-sonic-r, gc/sonic-gems-collection-sonic-the-fighters, gg/sonic-blast",
+   "by": "CloakTheLurker",
+   "date": "2026-08-24",
+   "at": "2026-08-24T19:01:33Z",
+   "reason": "Changed from the group form: gb/sinoc-gb moved in"
   }
  ]
 }

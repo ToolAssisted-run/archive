@@ -429,10 +429,11 @@
    "key": "sonic-the-hedgehog",
    "title": "Sonic the Hedgehog",
    "games": [
+    "gb/sinoc-gb",
     "gba/sonic-battle",
-    "gg/sonic-blast",
     "gc/sonic-gems-collection-sonic-r",
-    "gc/sonic-gems-collection-sonic-the-fighters"
+    "gc/sonic-gems-collection-sonic-the-fighters",
+    "gg/sonic-blast"
    ],
    "createdBy": "eien86",
    "createdAt": "2026-08-21"
