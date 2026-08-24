@@ -29,7 +29,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -77,6 +77,11 @@
     "reason": "the movie file changed after this verification",
     "cause": "edit"
    }
+  },
+  {
+   "user": "toca",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:48:27Z"
   }
  ]
 }
