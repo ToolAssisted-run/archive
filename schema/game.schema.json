@@ -191,6 +191,12 @@
    "type": "string",
    "pattern": "^https?://\\S+$",
    "description": "where the RTA (real-time) records for this game live"
+  },
+  "rules": {
+   "type": "string",
+   "minLength": 1,
+   "maxLength": 2000,
+   "description": "game-wide rules, markdown; shown above every category's own rule"
   }
  }
 }
