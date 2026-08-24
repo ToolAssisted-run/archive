@@ -5296,6 +5296,28 @@
    "date": "2026-08-24",
    "at": "2026-08-24T19:02:34Z",
    "reason": "Changed from the group form: psx/digimon-world-2 moved in"
+  },
+  {
+   "kind": "run",
+   "key": "M6874",
+   "field": "encode",
+   "from": "https://www.youtube.com/watch?v=WdNKFR2rtOg",
+   "to": "https://www.youtube.com/watch?v=FE95V8iZkzE",
+   "by": "Challenger",
+   "date": "2026-08-24",
+   "at": "2026-08-24T22:16:57Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6874",
+   "field": "duration",
+   "from": "None",
+   "to": "1351.824",
+   "by": "Challenger",
+   "date": "2026-08-24",
+   "at": "2026-08-24T22:16:57Z",
+   "reason": "The author's own revision."
   }
  ]
 }
