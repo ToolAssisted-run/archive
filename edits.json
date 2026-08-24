@@ -4647,6 +4647,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:31:36Z",
    "reason": "adjusting GTA2 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto-2:residental-all-missions",
+   "field": "label",
+   "from": "Residental, all missions",
+   "to": "Residential",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:31:42Z",
+   "reason": "adjusting GTA2 subcategories"
   }
  ]
 }
