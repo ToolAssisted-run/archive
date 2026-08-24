@@ -6,7 +6,7 @@
    "options": [
     {
      "key": "baseline",
-     "label": "Any% (Standard)",
+     "label": "Any%",
      "rule": "Complete the game as fast as possible."
     }
    ]
