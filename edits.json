@@ -5252,6 +5252,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T18:56:51Z",
    "reason": "added info"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/the-lion-king-god-mode",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/KMPwuzD2Ag",
+   "by": "CloakTheLurker",
+   "date": "2026-08-24",
+   "at": "2026-08-24T18:56:57Z",
+   "reason": "added info"
   }
  ]
 }
