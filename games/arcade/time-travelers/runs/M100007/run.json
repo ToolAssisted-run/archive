@@ -32,7 +32,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -59,6 +59,16 @@
    "user": "CloakTheLurker",
    "date": "2026-08-20",
    "at": "2026-08-20T23:50:17Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-24",
+   "at": "2026-08-24T14:13:03Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Ubuntu 24.04 + libTAS 1.4.8 + MAME 0.264",
+   "notes": "ROM layout: ~/mameroms/timetrv.zip, ~/mameroms/timetrv/timetrv.chd. My timetrv.chd MD5 was abad04368d8c8194f128a68d4d3300d5. My timetrv.zip whole-file MD5 was 62d0c281c966d27cedb393b31abd09b6 and did not match the hashes listed on the run page, but it ended up syncing anyway. Get the TASVideos MAME default.cfg from the submission notes and put it in ~/.mame/cfg/default.cfg. libTAS executable: /usr/games/mame, command-line options: \"timetrv.zip -window -nokeepaspect -skip_gameinfo -nomaximize -nounevenstretch -nonvram_save -rompath /home/tas2404/mameroms/\" (replace /home/tas2404/ with your own home directory if necessary). In libTAS Settings > Runtime, enable Prevent writing to disk."
   }
  ]
 }
