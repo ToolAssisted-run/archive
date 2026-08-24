@@ -36,6 +36,15 @@
    "date": "2026-08-21",
    "at": "2026-08-21T06:55:13Z",
    "reason": "The holding-game mechanism is retired; this placeholder held no runs."
+  },
+  {
+   "kind": "run",
+   "key": "M100033",
+   "title": "nes/prince-of-persia (unclassified)",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T09:19:07Z",
+   "reason": "A test of the rebuilt submit flow (movie parsing and page build)"
   }
  ]
 }
