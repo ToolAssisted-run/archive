@@ -12,6 +12,11 @@
       {
        "key": "standard",
        "label": "Standard"
+      },
+      {
+       "key": "no-zombie-glitch",
+       "label": "No Zombie Glitch",
+       "rule": "The use of [zombie glitch](https://www.youtube.com/watch?v=7A2XkJwdKto) is prohibited."
       }
      ]
     }
