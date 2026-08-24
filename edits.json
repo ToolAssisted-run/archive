@@ -4218,6 +4218,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:38:56Z",
    "reason": "Training mode rules"
+  },
+  {
+   "kind": "game",
+   "key": "dos/prince-of-persia-2-the-shadow-and-the-flame",
+   "field": "released",
+   "from": "",
+   "to": "1993-05",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:42:08Z",
+   "reason": "Release date"
   }
  ]
 }
