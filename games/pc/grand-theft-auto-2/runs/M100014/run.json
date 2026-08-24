@@ -2,7 +2,8 @@
  "id": "M100014",
  "game": "pc/grand-theft-auto-2",
  "category": {
-  "goal": "industrial-all-missions"
+  "goal": "industrial-all-missions",
+  "sub": "all-missions"
  },
  "authors": [
   {
