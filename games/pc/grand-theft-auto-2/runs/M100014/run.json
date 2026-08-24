@@ -17,10 +17,10 @@
   "file": "M100014.bk2",
   "format": "bk2",
   "sha1": "f7be24d24365144e8174bef50badc2e578ec1fe4",
-  "frames": 3133099,
+  "frames": 187986,
   "rerecords": 38635,
   "start": "power-on",
-  "fps": 1000.0
+  "fps": 60.000019150368374
  },
  "thumbnail": "thumb.jpg",
  "contentWarnings": [

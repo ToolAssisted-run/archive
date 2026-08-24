@@ -16,10 +16,10 @@
  "movie": {
   "file": "M7279.bk2",
   "format": "bk2",
-  "frames": 1317419,
+  "frames": 79547,
   "rerecords": 71543,
   "start": "power-on",
-  "fps": 1000.0
+  "fps": 60.3809418264045
  },
  "thumbnail": "thumb.jpg",
  "contract": {

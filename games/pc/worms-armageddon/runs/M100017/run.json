@@ -14,10 +14,10 @@
   "file": "M100017.bk2",
   "format": "bk2",
   "sha1": "8afc5afc7d86e8a4f985646fa78ce57a10346f77",
-  "frames": 3310833,
+  "frames": 198650,
   "rerecords": 32476,
   "start": "power-on",
-  "fps": 1000.0
+  "fps": 60.00000604077584
  },
  "thumbnail": "thumb.jpg",
  "contract": {

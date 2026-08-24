@@ -21,10 +21,10 @@
   "file": "M100012.bk2",
   "format": "bk2",
   "sha1": "b8e2069128d281da473d1be6435df78bdad2e774",
-  "frames": 1891616,
+  "frames": 113497,
   "rerecords": 12678,
   "start": "power-on",
-  "fps": 1000.0
+  "fps": 60.00002114594083
  },
  "thumbnail": "thumb.jpg",
  "contentWarnings": [
