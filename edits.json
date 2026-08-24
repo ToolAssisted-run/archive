@@ -4999,6 +4999,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:51:13Z",
    "reason": "16:9 Thumbnail"
+  },
+  {
+   "kind": "game",
+   "key": "segacd/prince-of-persia",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:53:26Z",
+   "reason": "16:9 Thumbnail"
   }
  ]
 }
