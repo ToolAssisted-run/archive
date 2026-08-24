@@ -2,7 +2,8 @@
  "id": "M7320",
  "game": "pc/grand-theft-auto",
  "category": {
-  "goal": "vice-city-chapter-1-bent-cop-blues-100"
+  "goal": "vice-city-chapter-1-bent-cop-blues-100",
+  "sub": "100"
  },
  "authors": [
   {

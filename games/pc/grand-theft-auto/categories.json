@@ -55,7 +55,14 @@
     {
      "key": "vice-city-chapter-1-bent-cop-blues-100",
      "label": "Vice City Chapter 1: Bent Cop Blues",
-     "rule": "Complete the area, at least reaching the required score and exiting"
+     "rule": "Complete the area, at least reaching the required score and exiting",
+     "subcategories": [
+      {
+       "key": "100",
+       "label": "100%",
+       "rule": "complete all missions and activate all secrets (grabing kill frenzies, but no need to succeed in them)"
+      }
+     ]
     },
     {
      "key": "vice-city-chapter-2-rasta-blasta-100",
