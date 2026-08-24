@@ -4823,6 +4823,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T16:36:38Z",
    "reason": "updating GTA1 subcategories"
+  },
+  {
+   "kind": "category",
+   "key": "pc/grand-theft-auto:san-andreas-chapter-2-tequila-slammer-100",
+   "field": "label",
+   "from": "San Andreas Chapter 2: Tequila Slammer, 100%",
+   "to": "San Andreas Chapter 2: Tequila Slammer",
+   "by": "eien86",
+   "date": "2026-08-24",
+   "at": "2026-08-24T16:36:43Z",
+   "reason": "updating GTA1 subcategories"
   }
  ]
 }
