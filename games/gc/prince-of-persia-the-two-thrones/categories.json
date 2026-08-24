@@ -18,6 +18,10 @@
        "key": "zipless",
        "label": "Zipless",
        "rule": "The use of zips is prohibited."
+      },
+      {
+       "key": "standard",
+       "label": "Standard"
       }
      ]
     }
