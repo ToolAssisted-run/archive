@@ -4240,6 +4240,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T04:43:22Z",
    "reason": "Game is an unfinished leaked port"
+  },
+  {
+   "kind": "game",
+   "key": "flash/prince-of-persia-special-edition",
+   "field": "released",
+   "from": "",
+   "to": "2003-10-14",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T04:46:31Z",
+   "reason": "Overhaul everything"
   }
  ]
 }
