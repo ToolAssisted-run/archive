@@ -5076,6 +5076,17 @@
    "date": "2026-08-24",
    "at": "2026-08-24T17:22:26Z",
    "reason": "Improved thumbnail"
+  },
+  {
+   "kind": "game",
+   "key": "gc/prince-of-persia-the-sands-of-time",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-24",
+   "at": "2026-08-24T17:26:00Z",
+   "reason": "Enhanced contrast"
   }
  ]
 }
