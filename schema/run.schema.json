@@ -677,6 +677,15 @@
     "type": "number",
     "minimum": 0
    }
+  },
+  "related": {
+   "type": "array",
+   "maxItems": 8,
+   "items": {
+    "type": "string",
+    "pattern": "^M[0-9]+$"
+   },
+   "description": "designated You-may-also-like run ids, shown before computed suggestions"
   }
  },
  "allOf": [
