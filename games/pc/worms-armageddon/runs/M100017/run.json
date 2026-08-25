@@ -28,7 +28,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -52,6 +52,16 @@
    "date": "2026-08-22",
    "at": "2026-08-22T22:59:32Z",
    "notes": "Completes the Basic Training mode and earns a gold on all Missions."
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-08-25",
+   "at": "2026-08-25T19:15:22Z",
+   "screenshot": "reproductions/1-Dimon12321.png",
+   "emulator": "BizHawk 2.11.1",
+   "notes": "Follow the reproduction steps. Point 1 reference: https://tasvideos.org/Bizhawk/DOSBox\r\nPoint 2: First, follow this step to install the game itself (see reproduction info to make sure your file is the right one). Once you've done it, export the HDD with the game installed on it. Then do the described point 2, but in the XML bundle, enter the path for that HDD you have just exported.\r\nThe rest of the instructions are correct."
   }
  ]
 }
