@@ -38,7 +38,7 @@
  "encodes": [
   {
    "kind": "youtube",
-   "url": "https://www.youtube.com/watch?v=vrlG0V6Migg"
+   "url": "https://www.youtube.com/watch?v=Gmj8rFkf8do"
   }
  ],
  "submitted": "2022-04-07T14:30:22.184322",
@@ -52,5 +52,6 @@
    "user": "toca",
    "date": "2026-08-18"
   }
- ]
+ ],
+ "duration": 1717.383
 }
