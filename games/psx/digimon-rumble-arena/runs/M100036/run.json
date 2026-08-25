@@ -1,0 +1,38 @@
+{
+ "id": "M100036",
+ "game": "psx/digimon-rumble-arena",
+ "category": {
+  "goal": "unclassified"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "videoOnly": true,
+ "thumbnail": "thumb.jpg",
+ "goalDescription": "ImperialDramonPM Playaround",
+ "contract": {
+  "emulator": "BizHawk 2.10"
+ },
+ "status": {
+  "reproduced": "not-applicable",
+  "verified": "none",
+  "console": "not-applicable"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/Mlm0tdBiTCE?si=Je14MI0X0nvIjAfV"
+  }
+ ],
+ "attachments": [],
+ "completed": "2025-08-04",
+ "submitted": "2026-08-25T02:46:17Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1260,
+  "url": "https://forum.toolassisted.run/t/1260"
+ }
+}
