@@ -2,7 +2,7 @@
  "id": "M5300",
  "game": "gc/prince-of-persia-the-two-thrones",
  "category": {
-  "goal": "glitchless",
+  "goal": "baseline",
   "sub": "no-major-glitches"
  },
  "authors": [

@@ -5,7 +5,7 @@
    "name": "Category",
    "options": [
     {
-     "key": "glitchless",
+     "key": "baseline",
      "label": "Any%",
      "rule": "Complete the game as fast as possible.",
      "subcategories": [

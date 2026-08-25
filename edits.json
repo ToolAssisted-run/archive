@@ -5384,6 +5384,17 @@
    "date": "2026-08-25",
    "at": "2026-08-25T01:01:04Z",
    "reason": "Artifact from import"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-the-two-thrones:glitchless",
+   "field": "key",
+   "from": "glitchless",
+   "to": "baseline",
+   "by": "GMP",
+   "date": "2026-08-25",
+   "at": "2026-08-25T01:45:35Z",
+   "reason": "Remove import artifact"
   }
  ]
 }
