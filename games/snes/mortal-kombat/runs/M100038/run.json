@@ -37,5 +37,12 @@
  "forum": {
   "topicId": 1263,
   "url": "https://forum.toolassisted.run/t/1263"
- }
+ },
+ "likes": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-08-25",
+   "at": "2026-08-25T15:25:15Z"
+  }
+ ]
 }
