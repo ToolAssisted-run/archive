@@ -5395,6 +5395,17 @@
    "date": "2026-08-25",
    "at": "2026-08-25T01:45:35Z",
    "reason": "Remove import artifact"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-warrior-within:zipless",
+   "field": "key",
+   "from": "zipless",
+   "to": "baseline",
+   "by": "GMP",
+   "date": "2026-08-25",
+   "at": "2026-08-25T01:48:27Z",
+   "reason": "Remove import artifacts"
   }
  ]
 }

@@ -2,7 +2,7 @@
  "id": "M5029",
  "game": "gc/prince-of-persia-warrior-within",
  "category": {
-  "goal": "zipless",
+  "goal": "baseline",
   "sub": "zipless"
  },
  "authors": [

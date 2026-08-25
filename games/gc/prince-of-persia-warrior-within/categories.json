@@ -5,7 +5,7 @@
    "name": "Goal",
    "options": [
     {
-     "key": "zipless",
+     "key": "baseline",
      "label": "Any%",
      "rule": "Beat the game as fast as possible.",
      "subcategories": [
