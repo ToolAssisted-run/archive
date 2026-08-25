@@ -5406,6 +5406,17 @@
    "date": "2026-08-25",
    "at": "2026-08-25T01:48:27Z",
    "reason": "Remove import artifacts"
+  },
+  {
+   "kind": "category",
+   "key": "gc/prince-of-persia-warrior-within:true-ending-glitchless",
+   "field": "key",
+   "from": "true-ending-glitchless",
+   "to": "true-ending",
+   "by": "GMP",
+   "date": "2026-08-25",
+   "at": "2026-08-25T01:48:34Z",
+   "reason": "Remove import artifacts"
   }
  ]
 }

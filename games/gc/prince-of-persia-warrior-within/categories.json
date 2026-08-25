@@ -17,7 +17,7 @@
      ]
     },
     {
-     "key": "true-ending-glitchless",
+     "key": "true-ending",
      "label": "True Ending",
      "rule": "Beat the game while getting the \"true ending\".",
      "subcategories": [

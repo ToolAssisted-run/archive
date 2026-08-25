@@ -2,7 +2,7 @@
  "id": "M5063",
  "game": "gc/prince-of-persia-warrior-within",
  "category": {
-  "goal": "true-ending-glitchless",
+  "goal": "true-ending",
   "sub": "no-major-glitches"
  },
  "authors": [
