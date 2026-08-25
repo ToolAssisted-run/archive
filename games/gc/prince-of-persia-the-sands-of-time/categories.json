@@ -5,7 +5,7 @@
    "name": "Goal",
    "options": [
     {
-     "key": "glitchless",
+     "key": "baseline",
      "label": "Any%",
      "rule": "Go to credits as fast as possible.",
      "subcategories": [
