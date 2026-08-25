@@ -1,0 +1,38 @@
+{
+ "id": "M100035",
+ "game": "psx/digimon-rumble-arena",
+ "category": {
+  "goal": "unclassified"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "videoOnly": true,
+ "thumbnail": "thumb.jpg",
+ "goalDescription": "Omnimon Playaround",
+ "contract": {
+  "emulator": "BizHawk 2.10"
+ },
+ "status": {
+  "reproduced": "not-applicable",
+  "verified": "none",
+  "console": "not-applicable"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ejzfM_2ZWKE"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-06-26",
+ "submitted": "2026-08-25T02:24:51Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1259,
+  "url": "https://forum.toolassisted.run/t/1259"
+ }
+}
