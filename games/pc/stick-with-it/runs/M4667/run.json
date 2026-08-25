@@ -38,7 +38,7 @@
  "encodes": [
   {
    "kind": "youtube",
-   "url": "https://www.youtube.com/watch?v=gvLhSF_98R0"
+   "url": "https://www.youtube.com/watch?v=uk5uxDvvmBE"
   }
  ],
  "submitted": "2022-05-07T11:24:28.474027",
@@ -53,5 +53,6 @@
    "date": "2026-08-22",
    "at": "2026-08-22T00:31:06Z"
   }
- ]
+ ],
+ "duration": 480.733
 }
