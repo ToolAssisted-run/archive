@@ -31,7 +31,8 @@
   "emulator": "BizHawk 2.11",
   "files": [
    {
-    "name": "Lion King, The (USA).sfc"
+    "name": "Lion King, The (USA).sfc",
+    "sha1": "e5319132495fd34d03f141962d9d6e3d76fe7b02"
    }
   ]
  },

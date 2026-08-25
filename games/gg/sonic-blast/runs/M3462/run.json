@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.13.0",
   "rom": {
-   "name": "Sonic Blast (U) [!].gg"
+   "name": "Sonic Blast (U) [!].gg",
+   "sha1": "11241be4082f6f9d057488ae75ccdd482f623f8c"
   }
  },
  "status": {

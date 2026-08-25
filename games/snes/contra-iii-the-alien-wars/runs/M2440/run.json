@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "Snes9x 1.51 v6",
   "rom": {
-   "name": "Contra 3 - The Alien Wars (U).sfc"
+   "name": "Contra 3 - The Alien Wars (U).sfc",
+   "sha1": "265886e3f665adf2507e7b2f08b6b2ed9d0018b2"
   }
  },
  "status": {

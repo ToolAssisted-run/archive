@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "JetSetWilly(PCGBugfix).tzx"
+   "name": "JetSetWilly(PCGBugfix).tzx",
+   "sha1": "45d85d4e0f643f4899348b588f32247360583af0"
   }
  },
  "status": {

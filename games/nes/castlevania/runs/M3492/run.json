@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.1.1",
   "rom": {
-   "name": "Castlevania (U) (PRG1).nes"
+   "name": "Castlevania (U) (PRG1).nes",
+   "sha1": "7a20c44f302fb2f1b7adffa6b619e3e1cae7b546"
   }
  },
  "status": {

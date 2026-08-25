@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "HobbitTheV1.2(TextOnly).tzx"
+   "name": "HobbitTheV1.2(TextOnly).tzx",
+   "sha1": "3cdc9f5a541c0e25ceba988dc3a507a26b5369f9"
   }
  },
  "status": {

@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "XDRE 2.20",
   "rom": {
-   "name": "crud.wad"
+   "name": "crud.wad",
+   "sha1": "72540c138ccdc500e7f4f2c43ec36a27af3e8761"
   }
  },
  "status": {

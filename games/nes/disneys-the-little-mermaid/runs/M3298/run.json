@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.2",
   "rom": {
-   "name": "Disney's The Little Mermaid (U).nes"
+   "name": "Disney's The Little Mermaid (U).nes",
+   "sha1": "20622bb297a09e0d4863df21256b25210cbecd8a"
   }
  },
  "status": {

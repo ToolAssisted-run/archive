@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "wizdfire.zip"
+   "name": "wizdfire.zip",
+   "sha1": "4c7ccce4a5dee9d484cd3f170d2822183fd35870"
   }
  },
  "status": {

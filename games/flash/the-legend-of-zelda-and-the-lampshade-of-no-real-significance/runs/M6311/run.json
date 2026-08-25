@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "libTAS v1.4.6 // ruffle-nightly-2024-09-06",
   "rom": {
-   "name": "253819_zelda202c.swf"
+   "name": "253819_zelda202c.swf",
+   "sha1": "6166295d191cd0dd50be9c8e530b5745702d223f"
   }
  },
  "status": {

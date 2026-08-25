@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.8",
   "rom": {
-   "name": "Styx.tzx"
+   "name": "Styx.tzx",
+   "sha1": "769a05e5f0ff7253973d39a7637ae8fd42d22935"
   }
  },
  "status": {

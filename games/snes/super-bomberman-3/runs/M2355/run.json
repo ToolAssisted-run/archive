@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "lsnes rr1-\u039418\u03b53",
   "rom": {
-   "name": "Super Bomberman 3.smc"
+   "name": "Super Bomberman 3.smc",
+   "sha1": "4c5049f84e8c20925b521b93972789fdbf01d22d"
   }
  },
  "status": {

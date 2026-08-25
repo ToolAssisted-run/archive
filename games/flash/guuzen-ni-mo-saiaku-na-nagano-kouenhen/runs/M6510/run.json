@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
   "rom": {
-   "name": "nagano.swf"
+   "name": "nagano.swf",
+   "sha1": "d1a4a8af9a92e784fffff8cbeb56996076cd4675"
   }
  },
  "status": {

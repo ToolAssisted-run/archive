@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "BacktoSkool.tzx"
+   "name": "BacktoSkool.tzx",
+   "sha1": "c5f09657d5608ea25e5cf1dcb53d667b9fcf762d"
   }
  },
  "status": {

@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "DeSmuME 0.9.13",
   "rom": {
-   "name": "Spider-Man - Shattered Dimensions (USA) (En,Fr).nds"
+   "name": "Spider-Man - Shattered Dimensions (USA) (En,Fr).nds",
+   "sha1": "89adaf8bc0d510794dfd0f1dc36dcf0ee3811688"
   }
  },
  "status": {

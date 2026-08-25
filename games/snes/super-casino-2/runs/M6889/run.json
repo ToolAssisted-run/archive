@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Super Casino 2 (J).smc"
+   "name": "Super Casino 2 (J).smc",
+   "sha1": "7a5148cc2029ce786d9d4ae62be3a1f2784e6a46"
   }
  },
  "status": {

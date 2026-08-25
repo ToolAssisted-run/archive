@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "Snes9x 1.52 r185",
   "rom": {
-   "name": "Super Adventure Island (U) [!].smc"
+   "name": "Super Adventure Island (U) [!].smc",
+   "sha1": "74a3671878b1d7c8b3fd5a14677c16b2d5566af0"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Boxing Fever (USA, Europe)"
+   "name": "Boxing Fever (USA, Europe)",
+   "sha1": "20ad5e7d367be3e4220b184947585df7d305b6d3"
   }
  },
  "status": {

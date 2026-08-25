@@ -25,7 +25,8 @@
   "emulator": "BizHawk 2.11",
   "files": [
    {
-    "name": "#0 IGGY'S CASTLE v.3.0.0.sfc"
+    "name": "#0 IGGY'S CASTLE v.3.0.0.sfc",
+    "sha1": "aefd76bc8d94f37d6460c52ac76ce65a50547730"
    }
   ]
  },

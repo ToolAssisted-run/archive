@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.8",
   "rom": {
-   "name": "Porky Pig's Haunted Holiday (USA).sfc"
+   "name": "Porky Pig's Haunted Holiday (USA).sfc",
+   "sha1": "ef20e4ce1b4b6a25aac14613d4bed949017edfc9"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.3.1",
   "rom": {
-   "name": "Advanced Dungeons & Dragons - Dragons of Flame (Japan).nes"
+   "name": "Advanced Dungeons & Dragons - Dragons of Flame (Japan).nes",
+   "sha1": "fba99cd8cfb0d44eaaee300dcd194520b41a92b2"
   }
  },
  "status": {

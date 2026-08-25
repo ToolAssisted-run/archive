@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Dolphin 5.0-20571",
   "rom": {
-   "name": "Yu-Gi-Oh! The Falsebound Kingdom (USA).rvz"
+   "name": "Yu-Gi-Oh! The Falsebound Kingdom (USA).rvz",
+   "sha1": "8d13dbaf4179e8a57f7f67ce50d94972c9e3269b"
   }
  },
  "status": {

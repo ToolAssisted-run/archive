@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Dizzy2-TreasureIslandDizzy.tzx"
+   "name": "Dizzy2-TreasureIslandDizzy.tzx",
+   "sha1": "63e11d020e3f508cebe45c350b4610a36bf61d0e"
   }
  },
  "status": {

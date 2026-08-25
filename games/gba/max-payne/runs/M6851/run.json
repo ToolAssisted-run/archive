@@ -25,7 +25,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Max Payne Advance (Europe) (En,Fr,De).gba"
+   "name": "Max Payne Advance (Europe) (En,Fr,De).gba",
+   "sha1": "7007f087a3022bd0d9d9b0d99489096f877794ff"
   }
  },
  "status": {

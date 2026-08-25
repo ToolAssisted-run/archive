@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.3.1",
   "rom": {
-   "name": "Monster World IV (Japan).md"
+   "name": "Monster World IV (Japan).md",
+   "sha1": "46ba5e8775a2223fe5056f54555d9caa7d04f4e1"
   }
  },
  "status": {

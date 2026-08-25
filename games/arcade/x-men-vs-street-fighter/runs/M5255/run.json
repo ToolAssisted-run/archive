@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FBA-rr 0.0.7",
   "rom": {
-   "name": "xmvsf.zip"
+   "name": "xmvsf.zip",
+   "sha1": "064c206b701174516f0cf00b2802359f257acb51"
   }
  },
  "status": {

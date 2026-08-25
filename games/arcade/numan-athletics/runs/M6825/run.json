@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "numanth.zip"
+   "name": "numanth.zip",
+   "sha1": "51c130943570ca66202fc42c5f9b52431500671a"
   }
  },
  "status": {

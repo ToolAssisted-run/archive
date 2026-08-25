@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.3.1",
   "rom": {
-   "name": "Revenge of Shinobi, The (REV 01) (JUE) [R-USA][!]"
+   "name": "Revenge of Shinobi, The (REV 01) (JUE) [R-USA][!]",
+   "sha1": "a88546e159bc882bf05eba66c09a3b21dee4154e"
   }
  },
  "status": {

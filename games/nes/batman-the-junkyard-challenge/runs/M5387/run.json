@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Batman - The Junkyard Challenge"
+   "name": "Batman - The Junkyard Challenge",
+   "sha1": "316bbbc741011c9f1d165a45d3d9131701935a9e"
   }
  },
  "status": {

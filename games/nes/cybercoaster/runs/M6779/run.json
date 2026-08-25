@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "cybercoaster.nes"
+   "name": "cybercoaster.nes",
+   "sha1": "b90e0ce4005125e814210472cf412adb90dc43bf"
   }
  },
  "status": {

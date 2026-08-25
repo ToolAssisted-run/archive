@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Castlevania - Dracula X (U) [!].smc"
+   "name": "Castlevania - Dracula X (U) [!].smc",
+   "sha1": "3bdaeafa81aa17c91a8b42d0fa8c5b26e3fd6b80"
   }
  },
  "status": {

@@ -24,7 +24,8 @@
  "contract": {
   "emulator": "LibTAS 1.4.5 + PCem 17+st-1 + Late 90's Config",
   "rom": {
-   "name": "Prince of Persia Collection - Limited Edition (USA).bin"
+   "name": "Prince of Persia Collection - Limited Edition (USA).bin",
+   "sha1": "1625c3d448f432afb06ff96b334278f2b930f942"
   }
  },
  "status": {

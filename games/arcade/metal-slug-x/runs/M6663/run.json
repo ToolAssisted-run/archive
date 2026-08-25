@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "mslugx.zip"
+   "name": "mslugx.zip",
+   "sha1": "cf0e1a78600e6bafbbe498eb1c0550df2a90a901"
   }
  },
  "status": {

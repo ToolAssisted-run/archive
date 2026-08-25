@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Batman - The Video Game"
+   "name": "Batman - The Video Game",
+   "sha1": "73b33e67e3c9e1116f9fcb021b10bb1171b8696a"
   }
  },
  "status": {

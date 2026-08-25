@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "anexo01_6.rom"
+   "name": "anexo01_6.rom",
+   "sha1": "a2327e1ae71b431282bfadeb0db4339c884933d7"
   }
  },
  "status": {

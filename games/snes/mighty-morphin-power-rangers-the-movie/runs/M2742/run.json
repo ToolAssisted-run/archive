@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Lsnes rr1-\u039418\u03b53",
   "rom": {
-   "name": "Mighty Morphin Power Rangers - The Movie.smc"
+   "name": "Mighty Morphin Power Rangers - The Movie.smc",
+   "sha1": "82fbe365bc96fe3f03c3eb12e1620910b15f01f9"
   }
  },
  "status": {

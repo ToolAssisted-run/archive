@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.7",
   "rom": {
-   "name": "Addams Family, The (U)"
+   "name": "Addams Family, The (U)",
+   "sha1": "c831410a86a9b759a1e5ec53e8e1ee6789c79569"
   }
  },
  "status": {

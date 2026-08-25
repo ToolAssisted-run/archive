@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.3.1",
   "rom": {
-   "name": "Ikari Warriors II - Victory Road (USA).nes"
+   "name": "Ikari Warriors II - Victory Road (USA).nes",
+   "sha1": "2a43aefd2768874e211b6eba74441bf295c64ba6"
   }
  },
  "status": {

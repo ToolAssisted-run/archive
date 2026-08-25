@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.12.0",
   "rom": {
-   "name": "Fortified Zone (Ikari No Yousai) (U).gb"
+   "name": "Fortified Zone (Ikari No Yousai) (U).gb",
+   "sha1": "232d2f57ab4bef748eb832dfb4085cc3df1fd532"
   }
  },
  "status": {

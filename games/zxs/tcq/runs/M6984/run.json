@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "T.C.Q. (V1.1).tap"
+   "name": "T.C.Q. (V1.1).tap",
+   "sha1": "44dfd34357a2583fd0738a90dd06d0069909f178"
   }
  },
  "status": {

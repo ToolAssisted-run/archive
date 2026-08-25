@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "lsnes rr1-\u039418\u03b53",
   "rom": {
-   "name": "Mortal Kombat (E).smc"
+   "name": "Mortal Kombat (E).smc",
+   "sha1": "1c19155683d2c689c8ccff5df5ce2018ab2a951e"
   }
  },
  "status": {

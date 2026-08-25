@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Monty Python's Flying Circus (Virgin Games)(1991)(3,5'').img"
+   "name": "Monty Python's Flying Circus (Virgin Games)(1991)(3,5'').img",
+   "sha1": "69a03956a15bd3aa171322b2e6f4bb030684f9a8"
   }
  },
  "status": {

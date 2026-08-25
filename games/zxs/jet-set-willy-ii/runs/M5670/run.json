@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Jet Set Willy 2+ (v. +e.22).tzx"
+   "name": "Jet Set Willy 2+ (v. +e.22).tzx",
+   "sha1": "08dee905eadc5eb6c0087d81b021967eed14c3b2"
   }
  },
  "status": {

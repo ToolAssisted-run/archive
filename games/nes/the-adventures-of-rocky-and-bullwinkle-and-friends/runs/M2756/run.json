@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.2",
   "rom": {
-   "name": "Adventures of Rocky and Bullwinkle and Friends, The (U).nes"
+   "name": "Adventures of Rocky and Bullwinkle and Friends, The (U).nes",
+   "sha1": "b9326fa560c074e0eb611478fd2363dd4104b243"
   }
  },
  "status": {

@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
   "rom": {
-   "name": "trollface-quest-1.swf"
+   "name": "trollface-quest-1.swf",
+   "sha1": "4015bcfb2987cd44f1977aca9561fea82b63b52b"
   }
  },
  "status": {

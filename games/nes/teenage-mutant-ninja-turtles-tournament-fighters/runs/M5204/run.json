@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.8",
   "rom": {
-   "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (U) [!].nes"
+   "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (U) [!].nes",
+   "sha1": "182f901142530a509a7c9f5831b5a7f7f4c923a8"
   }
  },
  "status": {

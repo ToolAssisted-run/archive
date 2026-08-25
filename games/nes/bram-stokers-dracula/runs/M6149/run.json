@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Bram Stoker's Dracula (U) [!].nes"
+   "name": "Bram Stoker's Dracula (U) [!].nes",
+   "sha1": "7619bac804f9be52b6411bd54a0af2528511582a"
   }
  },
  "status": {

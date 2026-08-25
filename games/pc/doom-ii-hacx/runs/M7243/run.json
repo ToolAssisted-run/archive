@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "XDRE 2.20",
   "rom": {
-   "name": "HACX12.WAD"
+   "name": "HACX12.WAD",
+   "sha1": "9fd331b9d53006af1884e89eaeb97b17b8572b71"
   }
  },
  "status": {

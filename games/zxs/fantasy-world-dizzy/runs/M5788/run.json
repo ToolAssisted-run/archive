@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Dizzy3-FantasyWorldDizzy"
+   "name": "Dizzy3-FantasyWorldDizzy",
+   "sha1": "e033549d29161c2588aa0fd3faaba94e406e44ca"
   }
  },
  "status": {

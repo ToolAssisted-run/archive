@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Dolphin 5.0-20571",
   "rom": {
-   "name": "Digimon World 4 (USA).rvz"
+   "name": "Digimon World 4 (USA).rvz",
+   "sha1": "8b89bd3309b479d502707104ad457c63c43ea855"
   }
  },
  "status": {

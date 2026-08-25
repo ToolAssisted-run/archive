@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "One Must Fall 2097 (USA).bin"
+   "name": "One Must Fall 2097 (USA).bin",
+   "sha1": "90f8c5d9ffefab6269c079d8a24be9a5a83d0b02"
   }
  },
  "status": {

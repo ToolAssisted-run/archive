@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "hippodrm.zip"
+   "name": "hippodrm.zip",
+   "sha1": "6a00da08992b422313c23e3a998eb1e4554d8b7c"
   }
  },
  "status": {

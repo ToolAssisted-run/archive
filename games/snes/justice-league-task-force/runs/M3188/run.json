@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "lsnes rr1-\u039418\u03b53",
   "rom": {
-   "name": "Justice League Task Force (USA)"
+   "name": "Justice League Task Force (USA)",
+   "sha1": "5f42f74a03e8a7c0145751a6563dec707cbbe37c"
   }
  },
  "status": {

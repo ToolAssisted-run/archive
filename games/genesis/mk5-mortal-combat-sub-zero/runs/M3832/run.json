@@ -24,7 +24,8 @@
  "contract": {
   "emulator": "BizHawk 2.3",
   "rom": {
-   "name": "Mortal Kombat 5 (Unl) [c][!].bin"
+   "name": "Mortal Kombat 5 (Unl) [c][!].bin",
+   "sha1": "8f92ce78be753748daeae6e16e1eed785f99d287"
   }
  },
  "status": {

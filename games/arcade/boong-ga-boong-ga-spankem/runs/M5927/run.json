@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "boonggab.zip"
+   "name": "boonggab.zip",
+   "sha1": "b2b6345490ff10bfe9295f8a9a1cef81be53b7f7"
   }
  },
  "status": {

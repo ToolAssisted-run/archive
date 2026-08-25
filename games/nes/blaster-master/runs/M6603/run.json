@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Chou-Wakusei Senki - MetaFight (J).nes"
+   "name": "Chou-Wakusei Senki - MetaFight (J).nes",
+   "sha1": "3a09ebc56bb1a891a4553d335f44f737cdd90a67"
   }
  },
  "status": {

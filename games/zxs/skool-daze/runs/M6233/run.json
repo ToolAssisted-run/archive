@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Skool Daze.tzx"
+   "name": "Skool Daze.tzx",
+   "sha1": "700aa5549ffc4af9d11e20dbd755919129c5956a"
   }
  },
  "status": {

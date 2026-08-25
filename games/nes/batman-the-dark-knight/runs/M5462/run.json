@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Batman - The Dark Knight"
+   "name": "Batman - The Dark Knight",
+   "sha1": "5ab66fc635cef956637828922917585ced459e7f"
   }
  },
  "status": {

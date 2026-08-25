@@ -24,7 +24,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "ManicMiner(SoftwareProjectsLtd).tzx"
+   "name": "ManicMiner(SoftwareProjectsLtd).tzx",
+   "sha1": "2e282447aab6a32e893767aa30d3c067b5bd45af"
   }
  },
  "status": {

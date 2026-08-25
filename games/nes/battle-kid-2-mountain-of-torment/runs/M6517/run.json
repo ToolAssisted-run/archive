@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Battle Kid 2 - Mountain of Torment (U).nes"
+   "name": "Battle Kid 2 - Mountain of Torment (U).nes",
+   "sha1": "bda3ed3921bb507dea30cde9a609ea2e81ea086d"
   }
  },
  "status": {

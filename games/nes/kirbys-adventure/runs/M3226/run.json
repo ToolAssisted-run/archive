@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.2",
   "rom": {
-   "name": "Kirby's Adventure (U) (PRG0) [!].nes"
+   "name": "Kirby's Adventure (U) (PRG0) [!].nes",
+   "sha1": "e099d688760ff0ce114ca8a9fd083e31e41cfade"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "DeSmuME 0.9.9",
   "rom": {
-   "name": "TFK.nds"
+   "name": "TFK.nds",
+   "sha1": "2d272e3bfe03421834ec57f500496041124b68ed"
   }
  },
  "status": {

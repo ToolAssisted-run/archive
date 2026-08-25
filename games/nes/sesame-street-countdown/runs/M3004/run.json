@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.2",
   "rom": {
-   "name": "Sesame Street Countdown (U).nes"
+   "name": "Sesame Street Countdown (U).nes",
+   "sha1": "55987600a5b220f4b31d3afe8de38f3bff15c238"
   }
  },
  "status": {

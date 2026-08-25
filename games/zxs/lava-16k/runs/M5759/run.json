@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Lava16K.tap"
+   "name": "Lava16K.tap",
+   "sha1": "3623862d764c184bc2e61bb9265cebbaf0294d1f"
   }
  },
  "status": {

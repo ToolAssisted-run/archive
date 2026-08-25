@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "lsnes rr2-\u00df23",
   "rom": {
-   "name": "Mickey to Donald - Magical Adventure 3 (Japan).sfc"
+   "name": "Mickey to Donald - Magical Adventure 3 (Japan).sfc",
+   "sha1": "8a153f92ad2498fbf66e4cb100f6e5b950098044"
   }
  },
  "status": {

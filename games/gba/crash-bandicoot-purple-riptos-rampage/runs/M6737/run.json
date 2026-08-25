@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen! (Japan).gba"
+   "name": "Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen! (Japan).gba",
+   "sha1": "6bc7e3d8db8a56447532a6dc8d065cec243abcb9"
   }
  },
  "status": {

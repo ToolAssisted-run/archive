@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.13.0",
   "rom": {
-   "name": "Cyborg Hunter (UE) [!].sms"
+   "name": "Cyborg Hunter (UE) [!].sms",
+   "sha1": "b6131585cb944d7fae69ad609802a1b5d51b442f"
   }
  },
  "status": {

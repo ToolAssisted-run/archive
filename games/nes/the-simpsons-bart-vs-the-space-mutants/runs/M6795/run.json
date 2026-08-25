@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Simpsons, The - Bart vs. the Space Mutants (USA)"
+   "name": "Simpsons, The - Bart vs. the Space Mutants (USA)",
+   "sha1": "b79509e001ebc22e9f7112d31a91ff6d7e335f88"
   }
  },
  "status": {

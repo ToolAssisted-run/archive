@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Super C (U) [!].nes"
+   "name": "Super C (U) [!].nes",
+   "sha1": "32f706c6222e7ec877c08a1adc6b7c7bbb69f3da"
   }
  },
  "status": {

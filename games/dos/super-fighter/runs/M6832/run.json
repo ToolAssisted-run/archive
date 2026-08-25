@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "FATALEN1.img"
+   "name": "FATALEN1.img",
+   "sha1": "13c208b2359ca7f8ba361ea65da72007b7be7c33"
   }
  },
  "status": {

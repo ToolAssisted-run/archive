@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.4",
   "rom": {
-   "name": "Prince of Persia 2 (USA).sfc"
+   "name": "Prince of Persia 2 (USA).sfc",
+   "sha1": "5a56447af32aaeaa919d2bd22394a515dfcfa6de"
   }
  },
  "status": {

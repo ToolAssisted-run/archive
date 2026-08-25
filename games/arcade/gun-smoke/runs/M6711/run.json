@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "Bizhawk 2.9.1",
   "rom": {
-   "name": "gun.smoke.zip"
+   "name": "gun.smoke.zip",
+   "sha1": "ecbf904390d089ba660ab51586473bdefd6e627f"
   }
  },
  "status": {

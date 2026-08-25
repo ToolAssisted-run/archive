@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Simpsons, The - Bartman Meets Radioactive Man (USA).nes"
+   "name": "Simpsons, The - Bartman Meets Radioactive Man (USA).nes",
+   "sha1": "d238eaded5a32018e215be465763a134eb8f79cf"
   }
  },
  "status": {

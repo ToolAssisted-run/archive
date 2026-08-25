@@ -24,7 +24,8 @@
  "contract": {
   "emulator": "BizHawk 2.9",
   "rom": {
-   "name": "Saint Seiya - Ougon Densetsu (J) [!].nes"
+   "name": "Saint Seiya - Ougon Densetsu (J) [!].nes",
+   "sha1": "2ab12d5520a6ce5bb97c2129990a63c135a82bd7"
   }
  },
  "status": {

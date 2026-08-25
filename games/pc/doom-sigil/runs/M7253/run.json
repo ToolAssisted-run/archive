@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "XDRE 2.20",
   "rom": {
-   "name": "SIGIL_COMPAT.wad"
+   "name": "SIGIL_COMPAT.wad",
+   "sha1": "60641c2519ba95565c714de09b1cf1358c4905fd"
   }
  },
  "status": {

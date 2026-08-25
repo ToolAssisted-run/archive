@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.11.1",
   "rom": {
-   "name": "Apple Cider Spider (1983)(Sierra).dsk"
+   "name": "Apple Cider Spider (1983)(Sierra).dsk",
+   "sha1": "d36837612dd4358a8fe7a445597168af697b26f7"
   }
  },
  "status": {

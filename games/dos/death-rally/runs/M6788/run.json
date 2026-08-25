@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Death Rally (USA).bin"
+   "name": "Death Rally (USA).bin",
+   "sha1": "112433fd6f278ecf3b7beba8eb7462c7a19790e3"
   }
  },
  "status": {

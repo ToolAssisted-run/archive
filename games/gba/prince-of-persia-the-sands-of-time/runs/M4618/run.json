@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.7",
   "rom": {
-   "name": "Prince of Persia - The Sands of Time (U) (M3).gba"
+   "name": "Prince of Persia - The Sands of Time (U) (M3).gba",
+   "sha1": "c169e0c60d3e2dd01b09c478de7bb62cadb516d6"
   }
  },
  "status": {

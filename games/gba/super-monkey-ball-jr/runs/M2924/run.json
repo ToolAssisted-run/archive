@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.11.1",
   "rom": {
-   "name": "Super Monkey Ball Jr (U) [!].gba"
+   "name": "Super Monkey Ball Jr (U) [!].gba",
+   "sha1": "0d994a58b7acdfe9357e5405acebe232128b80fe"
   }
  },
  "status": {

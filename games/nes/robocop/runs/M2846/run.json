@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.2",
   "rom": {
-   "name": "RoboCop (U).nes"
+   "name": "RoboCop (U).nes",
+   "sha1": "9103a9355fe00769bef3fe74f8dfef29fedebabf"
   }
  },
  "status": {

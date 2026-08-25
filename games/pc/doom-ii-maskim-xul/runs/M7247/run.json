@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "XDRE 2.20",
   "rom": {
-   "name": "MaskimXul.wad"
+   "name": "MaskimXul.wad",
+   "sha1": "10bb4b816e42b2d7a64cc1d455dcf7a341f0d377"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Jet Set Willy II+ (2017-03-08)(Rowson, Derrick P.).tap"
+   "name": "Jet Set Willy II+ (2017-03-08)(Rowson, Derrick P.).tap",
+   "sha1": "265b1430d6ee97be8ecb4bc32b945fff0ddea334"
   }
  },
  "status": {

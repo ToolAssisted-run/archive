@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "karnov.zip"
+   "name": "karnov.zip",
+   "sha1": "59f8647276d966a970b4bf419ff4638c79ef74f4"
   }
  },
  "status": {

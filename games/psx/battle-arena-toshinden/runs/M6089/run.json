@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Battle Arena Toshinden (USA).cue"
+   "name": "Battle Arena Toshinden (USA).cue",
+   "sha1": "cb03e66d2a5e68f402f9c64741a94c02ca78d4c5"
   }
  },
  "status": {

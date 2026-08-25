@@ -24,7 +24,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Mighty Bomb Jack (USA)"
+   "name": "Mighty Bomb Jack (USA)",
+   "sha1": "ef82f282c4516e8fc92dbea376015aeb5c1239e6"
   }
  },
  "status": {

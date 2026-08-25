@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.12.1",
   "rom": {
-   "name": "Hudson's Adventure Island (USA).nes"
+   "name": "Hudson's Adventure Island (USA).nes",
+   "sha1": "22ee75b82f4a6412aa6bb940e109704975b95185"
   }
  },
  "status": {

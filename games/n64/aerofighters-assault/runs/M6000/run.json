@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "AeroFighters Assault (USA).zip"
+   "name": "AeroFighters Assault (USA).zip",
+   "sha1": "6742f67d7d2639072e186d240237be1c662cb25a"
   }
  },
  "status": {

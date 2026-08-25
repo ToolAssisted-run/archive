@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.11.9",
   "rom": {
-   "name": "Lucky Dime Caper, The Starring Donald Duck (U) [!].gg"
+   "name": "Lucky Dime Caper, The Starring Donald Duck (U) [!].gg",
+   "sha1": "5cc5caa887a63c580c1e3ff344a4b0ade643f24b"
   }
  },
  "status": {

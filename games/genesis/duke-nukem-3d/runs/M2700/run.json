@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Gens 11a",
   "rom": {
-   "name": "Duke Nukem 3D (B) [!].gen or Duke Nukem 3D.bin"
+   "name": "Duke Nukem 3D (B) [!].gen or Duke Nukem 3D.bin",
+   "sha1": "a4663f2b96787a92db604a92491fa27e2b5ced9e"
   }
  },
  "status": {

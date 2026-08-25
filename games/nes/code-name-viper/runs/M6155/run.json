@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Code Name - Viper (U).nes"
+   "name": "Code Name - Viper (U).nes",
+   "sha1": "3f7428865ea2e95632e32e8c3638207fed12bb52"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Attack of the Killer Tomatoes (U).nes"
+   "name": "Attack of the Killer Tomatoes (U).nes",
+   "sha1": "da40fae301047e33c7be5c3e87c2c0265c1f0751"
   }
  },
  "status": {

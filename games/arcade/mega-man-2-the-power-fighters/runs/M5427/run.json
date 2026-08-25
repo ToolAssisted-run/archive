@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "megaman2.zip"
+   "name": "megaman2.zip",
+   "sha1": "89259d83a0a73f9d3baae6b98cb8ddcc9dfe488b"
   }
  },
  "status": {

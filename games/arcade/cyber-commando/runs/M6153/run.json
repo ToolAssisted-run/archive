@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "cybrcomm.zip"
+   "name": "cybrcomm.zip",
+   "sha1": "76931d8a5ad5617a6f269b63270d0729652815be"
   }
  },
  "status": {

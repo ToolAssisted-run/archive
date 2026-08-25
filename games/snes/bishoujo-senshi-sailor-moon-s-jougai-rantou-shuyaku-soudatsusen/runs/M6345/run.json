@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "Bizhawk 2.9.1",
   "rom": {
-   "name": "Bisyoujyo Senshi Sailor Moon S - Jougai Rantou (J).smc"
+   "name": "Bisyoujyo Senshi Sailor Moon S - Jougai Rantou (J).smc",
+   "sha1": "bc0e29ee383574443226695215496eb0d09aaa1c"
   }
  },
  "status": {

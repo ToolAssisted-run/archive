@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "Bizhawk 2.9.1",
   "rom": {
-   "name": "metmqstr.zip"
+   "name": "metmqstr.zip",
+   "sha1": "9552adf72b85ebc193eee48e9a1d27593b384807"
   }
  },
  "status": {

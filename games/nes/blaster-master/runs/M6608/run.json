@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Blaster Master (E) [!].nes"
+   "name": "Blaster Master (E) [!].nes",
+   "sha1": "116f94ea3f0cdf0124a46ebeaa3ae27cf884e7bc"
   }
  },
  "status": {

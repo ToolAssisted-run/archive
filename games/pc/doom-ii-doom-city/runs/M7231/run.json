@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "XDRE 2.21",
   "rom": {
-   "name": "DOOMCITY.wad"
+   "name": "DOOMCITY.wad",
+   "sha1": "cd167bd18cb43a192bfc4c52c50887cd6bc985bc"
   }
  },
  "status": {

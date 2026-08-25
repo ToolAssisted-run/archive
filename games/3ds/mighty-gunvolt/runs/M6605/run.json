@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Mighty Gunvolt (USA).cci"
+   "name": "Mighty Gunvolt (USA).cci",
+   "sha1": "2e2453efbebbdc05e0dddf5c0da0b342921df5e3"
   }
  },
  "status": {

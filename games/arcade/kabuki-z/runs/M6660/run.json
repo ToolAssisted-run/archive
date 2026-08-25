@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "kabukiz.zip"
+   "name": "kabukiz.zip",
+   "sha1": "2d30359370cecd5c0a48c3f9b01c9160f1e82a59"
   }
  },
  "status": {

@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "libTAS 1.4.3",
   "rom": {
-   "name": "raft-wars.swf"
+   "name": "raft-wars.swf",
+   "sha1": "f158443e7235161dd2c5ffd412e516019c460e89"
   }
  },
  "status": {

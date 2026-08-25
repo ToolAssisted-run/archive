@@ -27,7 +27,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Galaxian (USA).a26"
+   "name": "Galaxian (USA).a26",
+   "sha1": "b081b327ac32d951c36cb4b3ff812be95685d52f"
   }
  },
  "status": {

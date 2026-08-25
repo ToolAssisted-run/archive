@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Bram Stoker's Dracula (1.0) (U).bin"
+   "name": "Bram Stoker's Dracula (1.0) (U).bin",
+   "sha1": "d5ea0ead57bc92d1331b41f17764b7fdf465fa04"
   }
  },
  "status": {

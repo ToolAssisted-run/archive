@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.9",
   "rom": {
-   "name": "sprilo.nes"
+   "name": "sprilo.nes",
+   "sha1": "6ec09b9b51320a536a786d3d4719432b714c5779"
   }
  },
  "status": {

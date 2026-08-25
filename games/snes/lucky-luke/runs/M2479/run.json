@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "lsnes rr1-\u039418",
   "rom": {
-   "name": "Lucky Luke (E).smc"
+   "name": "Lucky Luke (E).smc",
+   "sha1": "82cef93f124906e49c4e9ec6f58e23ef7e9f77f9"
   }
  },
  "status": {

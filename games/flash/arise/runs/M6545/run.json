@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
   "rom": {
-   "name": "Arise_public.swf"
+   "name": "Arise_public.swf",
+   "sha1": "d3c2844155efa12955b4099882eca3fe804eddb1"
   }
  },
  "status": {

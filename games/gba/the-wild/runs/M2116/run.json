@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "VBA-rr v23.4a",
   "rom": {
-   "name": "Wild, The (U) (M4).gba"
+   "name": "Wild, The (U) (M4).gba",
+   "sha1": "a7cf830919081655544a7beb2c1a94bdbab6a72e"
   }
  },
  "status": {

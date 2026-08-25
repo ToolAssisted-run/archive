@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9",
   "rom": {
-   "name": "Dizzy1-TheUltimateCartoonAdventure(48K).tzx"
+   "name": "Dizzy1-TheUltimateCartoonAdventure(48K).tzx",
+   "sha1": "db18566ccca3a7f90e3f57c5ebacea97bfe316fb"
   }
  },
  "status": {

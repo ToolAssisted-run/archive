@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "K-1 Pocket Grand Prix 2 (Japan).gba"
+   "name": "K-1 Pocket Grand Prix 2 (Japan).gba",
+   "sha1": "4901c3426d12abe6257a300e742ca9ac2e9565a6"
   }
  },
  "status": {

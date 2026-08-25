@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.2",
   "rom": {
-   "name": "Kao the Kangaroo (USA) (En,Fr,De,Es,It,Nl).gba"
+   "name": "Kao the Kangaroo (USA) (En,Fr,De,Es,It,Nl).gba",
+   "sha1": "772d323145cb7707cb8792bdfd5c7ef5e1e27c46"
   }
  },
  "status": {

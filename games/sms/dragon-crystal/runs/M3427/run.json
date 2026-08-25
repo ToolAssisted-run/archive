@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.13.0",
   "rom": {
-   "name": "Dragon Crystal (E) [!].sms"
+   "name": "Dragon Crystal (E) [!].sms",
+   "sha1": "021c6983fdab4b0215ca324734deef0d32c29562"
   }
  },
  "status": {

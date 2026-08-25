@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Blaster Master Zero (USA) (En,Ja)  (eShop).cci"
+   "name": "Blaster Master Zero (USA) (En,Ja)  (eShop).cci",
+   "sha1": "410afdc00e518185ff238df9cb500799e365fda8"
   }
  },
  "status": {

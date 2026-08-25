@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "VBA-rr v23.5",
   "rom": {
-   "name": "Castlevania - Harmony Of Dissonance (U).gba"
+   "name": "Castlevania - Harmony Of Dissonance (U).gba",
+   "sha1": "b90da0d9be0b3a0893cd9e2c399056bcf9579e21"
   }
  },
  "status": {

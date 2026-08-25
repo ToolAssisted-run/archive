@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.8",
   "rom": {
-   "name": "Jet Set Willy (PCG Bugfix).tzx"
+   "name": "Jet Set Willy (PCG Bugfix).tzx",
+   "sha1": "45d85d4e0f643f4899348b588f32247360583af0"
   }
  },
  "status": {

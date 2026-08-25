@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.11.4",
   "rom": {
-   "name": "Joe & Mac 2 - Lost in the Tropics (USA).sfc"
+   "name": "Joe & Mac 2 - Lost in the Tropics (USA).sfc",
+   "sha1": "14d4911403854bf0bb59e3a6081181678a23d598"
   }
  },
  "status": {

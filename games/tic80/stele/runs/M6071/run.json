@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "stele.tic"
+   "name": "stele.tic",
+   "sha1": "5c6bc9ee37cd48d00489f2069e70143422965513"
   }
  },
  "status": {

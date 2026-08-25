@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "libTAS 1.4.7 // ruffle-nightly-2026-01-22",
   "rom": {
-   "name": "tetsuo3-3.swf"
+   "name": "tetsuo3-3.swf",
+   "sha1": "a84412ff6961a9484ed138e516cc368c122c41ef"
   }
  },
  "status": {

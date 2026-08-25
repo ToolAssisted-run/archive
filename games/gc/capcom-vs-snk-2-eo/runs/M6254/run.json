@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Dolphin 5.0-20571",
   "rom": {
-   "name": "Capcom vs. SNK 2 EO (USA).rvz"
+   "name": "Capcom vs. SNK 2 EO (USA).rvz",
+   "sha1": "f5ecef62b8a6ed8f76eec3319be7168352c5d5ae"
   }
  },
  "status": {

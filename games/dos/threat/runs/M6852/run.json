@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "threat.iso"
+   "name": "threat.iso",
+   "sha1": "f4346f9d3a792947131d9f9e1977842570b46c13"
   }
  },
  "status": {

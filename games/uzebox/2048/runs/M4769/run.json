@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.8",
   "rom": {
-   "name": "2048.uze"
+   "name": "2048.uze",
+   "sha1": "f78f8bd532e021c7c71e0306593d40b98591ee97"
   }
  },
  "status": {

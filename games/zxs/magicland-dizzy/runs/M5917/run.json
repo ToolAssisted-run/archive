@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Dizzy IV - Magicland Dizzy (1989)(Codemasters)(48-128k).tzx"
+   "name": "Dizzy IV - Magicland Dizzy (1989)(Codemasters)(48-128k).tzx",
+   "sha1": "019b4e4a391c2e8c989b7aad5a7a579e799b5b2b"
   }
  },
  "status": {

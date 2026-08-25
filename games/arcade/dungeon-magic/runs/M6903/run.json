@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "lightbr.zip"
+   "name": "lightbr.zip",
+   "sha1": "0f470d8e2570d9d506059503eb69da4eef183f2a"
   }
  },
  "status": {

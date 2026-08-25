@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Digimon Rumble Arena (USA).cue"
+   "name": "Digimon Rumble Arena (USA).cue",
+   "sha1": "5d1185699ca2787c8ec1945f0abd14103e7145be"
   }
  },
  "status": {

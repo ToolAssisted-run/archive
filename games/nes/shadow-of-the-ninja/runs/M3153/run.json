@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.2",
   "rom": {
-   "name": "Kage (J).nes"
+   "name": "Kage (J).nes",
+   "sha1": "02469509dddc10dff4e452dd4037020f353d228d"
   }
  },
  "status": {

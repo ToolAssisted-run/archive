@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9",
   "rom": {
-   "name": "RoboCop 2 (U) (PRG1) [!].nes"
+   "name": "RoboCop 2 (U) (PRG1) [!].nes",
+   "sha1": "3bb345d9801c60f0d14656f52ee1b593244b6767"
   }
  },
  "status": {

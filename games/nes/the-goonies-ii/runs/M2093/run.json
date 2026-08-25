@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.1.2",
   "rom": {
-   "name": "Goonies 2 - Fratelli Saigo no Chousen  (J).nes"
+   "name": "Goonies 2 - Fratelli Saigo no Chousen  (J).nes",
+   "sha1": "e2f934aa49767dad1f5d62544fbc9037e9215bb3"
   }
  },
  "status": {

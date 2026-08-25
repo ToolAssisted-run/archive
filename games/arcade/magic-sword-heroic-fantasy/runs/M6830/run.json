@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "Bizhawk 2.11",
   "rom": {
-   "name": "msword.zip"
+   "name": "msword.zip",
+   "sha1": "a57efe68670a6c8231d362ff3a43bad34c74a1fb"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "GBAHawk 2.3.2",
   "rom": {
-   "name": "1465 - Serious Sam Advance (U)(Rising Sun).gba"
+   "name": "1465 - Serious Sam Advance (U)(Rising Sun).gba",
+   "sha1": "61fc645024d61ead7526b971e507a1786b358f68"
   }
  },
  "status": {

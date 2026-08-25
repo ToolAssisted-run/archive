@@ -25,7 +25,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "1984-03.d64"
+   "name": "1984-03.d64",
+   "sha1": "9eaf774c729e620635fd79b53d258d84db715e64"
   }
  },
  "status": {

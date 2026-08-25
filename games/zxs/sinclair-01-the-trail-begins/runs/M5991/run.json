@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "SINCLAIR01_English_Deluxe Version 128K (Sequentia Soft).tap"
+   "name": "SINCLAIR01_English_Deluxe Version 128K (Sequentia Soft).tap",
+   "sha1": "59824989c876927955a1cab9b833b34786e80e42"
   }
  },
  "status": {

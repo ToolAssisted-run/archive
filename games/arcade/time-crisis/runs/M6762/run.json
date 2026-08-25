@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "timecris.zip"
+   "name": "timecris.zip",
+   "sha1": "b36745765f3ef4901747d7e636c8d64f2effd22e"
   }
  },
  "status": {

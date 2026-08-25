@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "VBA-rr",
   "rom": {
-   "name": "Tekken Advance (U) [-].gba"
+   "name": "Tekken Advance (U) [-].gba",
+   "sha1": "8b21cd57cacf172f963dfc7ead4fa127a8a63870"
   }
  },
  "status": {

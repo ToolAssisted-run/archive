@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.1",
   "rom": {
-   "name": "Armadillo (J).nes"
+   "name": "Armadillo (J).nes",
+   "sha1": "f7cde006f62164d77d66a6858c46b4f1f9ed1760"
   }
  },
  "status": {

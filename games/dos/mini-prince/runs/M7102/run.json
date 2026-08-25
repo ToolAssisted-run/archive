@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "MiniPrince-DOS.zip"
+   "name": "MiniPrince-DOS.zip",
+   "sha1": "4e424ad9264e6f709efcf38183abe07193107dd4"
   }
  },
  "status": {

@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "disk1.img"
+   "name": "disk1.img",
+   "sha1": "39f7fc2218e31d24fee29329fe9091cda2578bd1"
   }
  },
  "status": {

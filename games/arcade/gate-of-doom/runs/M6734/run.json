@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "darkseal.zip"
+   "name": "darkseal.zip",
+   "sha1": "b9902b9ab879bbc0ec5cef66595ffe11fd00e63e"
   }
  },
  "status": {

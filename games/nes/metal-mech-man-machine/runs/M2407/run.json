@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.0",
   "rom": {
-   "name": "Metal Mech (U).nes"
+   "name": "Metal Mech (U).nes",
+   "sha1": "491f6a151cb43c794f1e0984e3645e946b5f5600"
   }
  },
  "status": {

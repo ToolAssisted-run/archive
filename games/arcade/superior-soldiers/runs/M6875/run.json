@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "psoldier.7z"
+   "name": "psoldier.7z",
+   "sha1": "d7194ba84acf1a1f52edd9b5a8e5fc104912b068"
   }
  },
  "status": {

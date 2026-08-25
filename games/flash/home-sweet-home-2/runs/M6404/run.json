@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
   "rom": {
-   "name": "hsh2-2.swf"
+   "name": "hsh2-2.swf",
+   "sha1": "f5d61dd8a6e72bc8ef65b17625099900fb688be6"
   }
  },
  "status": {

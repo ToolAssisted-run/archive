@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Rockman X3 (Japan).cue"
+   "name": "Rockman X3 (Japan).cue",
+   "sha1": "c58440f8d1d9b5ee6e42c37da99ea8009a29e6fe"
   }
  },
  "status": {

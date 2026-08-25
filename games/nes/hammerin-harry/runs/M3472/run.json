@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.2",
   "rom": {
-   "name": "Daiku no Gen San (J).nes"
+   "name": "Daiku no Gen San (J).nes",
+   "sha1": "95610c432927f8e2179b1a49496a083aed34a322"
   }
  },
  "status": {

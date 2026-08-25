@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "TrucoArbiser.iso"
+   "name": "TrucoArbiser.iso",
+   "sha1": "ce0f0b2b7268c2bd250ce7b734c37074d369f856"
   }
  },
  "status": {

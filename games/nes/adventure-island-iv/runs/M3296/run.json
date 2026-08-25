@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.2",
   "rom": {
-   "name": "Takahashi Meijin no Bouken Shima IV (J).nes"
+   "name": "Takahashi Meijin no Bouken Shima IV (J).nes",
+   "sha1": "e73efd3e932b9e3501ce9c77418bdbf0d59d75cd"
   }
  },
  "status": {

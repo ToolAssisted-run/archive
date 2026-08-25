@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "cybsled.zip"
+   "name": "cybsled.zip",
+   "sha1": "399212b9108c2cb3bca8bc9d00cf336b81e1dcb3"
   }
  },
  "status": {

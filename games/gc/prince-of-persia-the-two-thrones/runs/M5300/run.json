@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "Dolphin 5.0-17995",
   "rom": {
-   "name": "Prince of Persia - The Two Thrones.iso"
+   "name": "Prince of Persia - The Two Thrones.iso",
+   "sha1": "ec028be55c244809a0d29829f9a0c7dffa98cf7a"
   }
  },
  "status": {

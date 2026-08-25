@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
   "rom": {
-   "name": "sakusei27.swf"
+   "name": "sakusei27.swf",
+   "sha1": "1d8968eda2ed6252f60b62fbf81c6c50a1d1d720"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Dizzy VI - Prince Of The Yolkfolk (1991)(Codemasters).tzx"
+   "name": "Dizzy VI - Prince Of The Yolkfolk (1991)(Codemasters).tzx",
+   "sha1": "85afe85bf3fa9cc17d26391f51a2b6cd3b3f1d4d"
   }
  },
  "status": {

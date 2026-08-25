@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Super Adventure Rockman (Japan)"
+   "name": "Super Adventure Rockman (Japan)",
+   "sha1": "c7bb202166613fc870ac3911c80737f783e0fa16"
   }
  },
  "status": {

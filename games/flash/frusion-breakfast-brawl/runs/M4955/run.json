@@ -25,7 +25,8 @@
  "contract": {
   "emulator": "libTAS 1.4.3 + Ruffle nightly 2022 10 26",
   "rom": {
-   "name": "breakfast_brawl.swf"
+   "name": "breakfast_brawl.swf",
+   "sha1": "43d617801814189d9af4874885e3df19fe4f7fd4"
   }
  },
  "status": {

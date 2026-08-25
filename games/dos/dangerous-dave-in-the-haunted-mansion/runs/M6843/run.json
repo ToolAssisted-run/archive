@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "dave.exe"
+   "name": "dave.exe",
+   "sha1": "e244cbe78297ed085038855e28a0902c15d29fe7"
   }
  },
  "status": {

@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.0",
   "rom": {
-   "name": "Bionic Commando (U) [!].nes"
+   "name": "Bionic Commando (U) [!].nes",
+   "sha1": "8f2f7d70ab38fa203651972c7bd4a0cca3638162"
   }
  },
  "status": {

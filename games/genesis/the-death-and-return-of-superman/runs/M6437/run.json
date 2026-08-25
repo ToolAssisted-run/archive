@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "death and return of superman USA"
+   "name": "death and return of superman USA",
+   "sha1": "3534d17801bd5756b10a7f8d7d95f3a8d9b74844"
   }
  },
  "status": {

@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "tophuntr.zip"
+   "name": "tophuntr.zip",
+   "sha1": "9c85678202d9de9a412f7882e7d126fdb82a7fd2"
   }
  },
  "status": {

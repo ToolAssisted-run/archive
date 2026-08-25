@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.9",
   "rom": {
-   "name": "Marvel vs. Capcom - Clash of Super Heroes (USA).cue"
+   "name": "Marvel vs. Capcom - Clash of Super Heroes (USA).cue",
+   "sha1": "b0301419874638bd86689cfbbde6a901585587d0"
   }
  },
  "status": {

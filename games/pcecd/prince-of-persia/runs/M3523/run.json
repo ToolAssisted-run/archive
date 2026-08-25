@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.2.0",
   "rom": {
-   "name": "Prince of Persia [U][SCD][TGXCD1027][Broderbund][1992][PCE][thx-1138-darkwater].cue"
+   "name": "Prince of Persia [U][SCD][TGXCD1027][Broderbund][1992][PCE][thx-1138-darkwater].cue",
+   "sha1": "b3cef2986699202fd931b2ec8495c829947621ef"
   }
  },
  "status": {

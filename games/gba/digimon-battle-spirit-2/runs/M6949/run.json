@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It)"
+   "name": "Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It)",
+   "sha1": "b73352f15d23c09c0280bf1e732feeba8f0e6082"
   }
  },
  "status": {

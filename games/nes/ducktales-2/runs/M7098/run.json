@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Duck Tales 2 (U) [!].nes"
+   "name": "Duck Tales 2 (U) [!].nes",
+   "sha1": "76093ea07a16fdaa8aa58730fd29b4977a264b5e"
   }
  },
  "status": {

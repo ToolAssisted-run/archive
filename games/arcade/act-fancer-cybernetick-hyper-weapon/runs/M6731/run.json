@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "actfancr.zip"
+   "name": "actfancr.zip",
+   "sha1": "f0720c7c3371c58e5b654bfa61a930e57fa8e782"
   }
  },
  "status": {

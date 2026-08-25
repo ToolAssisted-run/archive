@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Air Combat [NTSC-U] [SLUS-00001].cue"
+   "name": "Air Combat [NTSC-U] [SLUS-00001].cue",
+   "sha1": "fba261a0ca69bed3018d00e89a74aa2921cffd51"
   }
  },
  "status": {

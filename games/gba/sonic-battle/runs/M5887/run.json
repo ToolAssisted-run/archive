@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9",
   "rom": {
-   "name": "Sonic Battle (USA) (En,Ja,Fr,De,Es,It).gba"
+   "name": "Sonic Battle (USA) (En,Ja,Fr,De,Es,It).gba",
+   "sha1": "8cf4fbbe73f6b1907ab9997caab4c4e7d9708937"
   }
  },
  "status": {

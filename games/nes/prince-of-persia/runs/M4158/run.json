@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.2.1",
   "rom": {
-   "name": "Prince of Persia (USA).nes"
+   "name": "Prince of Persia (USA).nes",
+   "sha1": "6b58f149f34fa829135619c58700caaa95b9cde3"
   }
  },
  "status": {

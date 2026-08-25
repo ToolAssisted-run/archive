@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "fatfury3.zip"
+   "name": "fatfury3.zip",
+   "sha1": "26ff3a81270be477593f98624fb32b944f0ce7a4"
   }
  },
  "status": {

@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "libTAS v1.4.3",
   "rom": {
-   "name": "SWI_linux0_1_2.zip"
+   "name": "SWI_linux0_1_2.zip",
+   "sha1": "a5f07011bb598582fa6ccf5666f51665b9acd78a"
   }
  },
  "status": {

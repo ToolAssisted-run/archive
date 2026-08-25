@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.3.2",
   "rom": {
-   "name": "Mortal Kombat 4 (U) [!]"
+   "name": "Mortal Kombat 4 (U) [!]",
+   "sha1": "f47d05bbd1bcadddff2ec7a21bc2e795cbef9f9b"
   }
  },
  "status": {

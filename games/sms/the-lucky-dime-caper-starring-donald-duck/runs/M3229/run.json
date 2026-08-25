@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 1.11.4",
   "rom": {
-   "name": "Lucky Dime Caper, The - Starring Donald Duck (E) [!].sms"
+   "name": "Lucky Dime Caper, The - Starring Donald Duck (E) [!].sms",
+   "sha1": "a08815d27e431f0bee70b4ebfb870a3196c2a732"
   }
  },
  "status": {

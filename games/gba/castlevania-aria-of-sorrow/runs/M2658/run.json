@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "VBA-rr v23.5",
   "rom": {
-   "name": "Castlevania - Aria of Sorrow (U).gba"
+   "name": "Castlevania - Aria of Sorrow (U).gba",
+   "sha1": "abd71fe01ebb201bcc133074db1dd8c5253776c7"
   }
  },
  "status": {

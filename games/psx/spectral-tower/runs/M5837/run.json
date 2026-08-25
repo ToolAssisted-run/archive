@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Spectral Tower (Japan).cue"
+   "name": "Spectral Tower (Japan).cue",
+   "sha1": "f2b2f07529886db66b8c2cef86ec20475b253211"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Dolphin 5.0-20571",
   "rom": {
-   "name": "Mortal Kombat - Deadly Alliance (USA).rvz"
+   "name": "Mortal Kombat - Deadly Alliance (USA).rvz",
+   "sha1": "1a1c84e8bc1a5ec1d8a6d3d3c7b6ff2ac6e3e95c"
   }
  },
  "status": {

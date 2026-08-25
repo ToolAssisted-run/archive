@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "TrapDoorThe.tzx"
+   "name": "TrapDoorThe.tzx",
+   "sha1": "bb56e1480a306f047edb48431c9a845e319a6a0e"
   }
  },
  "status": {

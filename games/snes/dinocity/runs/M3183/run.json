@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.11.4",
   "rom": {
-   "name": "Dino City (USA).sfc"
+   "name": "Dino City (USA).sfc",
+   "sha1": "817eac2e9e84f3a2f7263fdee12d09181f14ac09"
   }
  },
  "status": {

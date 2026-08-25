@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.13.1",
   "rom": {
-   "name": "Beetlejuice (U) [!]"
+   "name": "Beetlejuice (U) [!]",
+   "sha1": "cd3c92b7c27940c53da8ed11b905048af439942a"
   }
  },
  "status": {

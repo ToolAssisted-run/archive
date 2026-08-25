@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.12.2",
   "rom": {
-   "name": "Ninja Gaiden (E) [!].sms"
+   "name": "Ninja Gaiden (E) [!].sms",
+   "sha1": "4c65db563e8407444020ab7fd93fc45193ae923a"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.13.1",
   "rom": {
-   "name": "Kyoro-chan Land (Japan).nes"
+   "name": "Kyoro-chan Land (Japan).nes",
+   "sha1": "af568e157b76a61da9b92b2fd2f219cc6e171c90"
   }
  },
  "status": {

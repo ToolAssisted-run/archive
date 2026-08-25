@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Death and Return of Superman, The (USA).sfc"
+   "name": "Death and Return of Superman, The (USA).sfc",
+   "sha1": "a509da90497b3c29c8763fdefd4808e55ea4b35c"
   }
  },
  "status": {

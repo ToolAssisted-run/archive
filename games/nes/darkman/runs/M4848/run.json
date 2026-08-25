@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "FCEUX 2.5.0",
   "rom": {
-   "name": "Darkman (USA).nes"
+   "name": "Darkman (USA).nes",
+   "sha1": "21b4a65356b54815153303f14832bf5b1b8d3b83"
   }
  },
  "status": {

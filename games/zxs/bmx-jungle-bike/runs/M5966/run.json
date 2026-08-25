@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "BMXJungleBike.tzx"
+   "name": "BMXJungleBike.tzx",
+   "sha1": "4e5b8228c08cb31815b7bfdc1c4247cbc6bf58bd"
   }
  },
  "status": {

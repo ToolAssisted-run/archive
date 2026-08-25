@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.11.9",
   "rom": {
-   "name": "Prince of Persia - CD.cue"
+   "name": "Prince of Persia - CD.cue",
+   "sha1": "cc5c3fc15d37698eaaa7bef73a3debec22f4514c"
   }
  },
  "status": {

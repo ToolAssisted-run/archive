@@ -24,7 +24,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Beetlejuice (USA)"
+   "name": "Beetlejuice (USA)",
+   "sha1": "cd3c92b7c27940c53da8ed11b905048af439942a"
   }
  },
  "status": {

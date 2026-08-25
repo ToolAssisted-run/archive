@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.11.9",
   "rom": {
-   "name": "3 Ninjas Kick Back (U) [!].bin"
+   "name": "3 Ninjas Kick Back (U) [!].bin",
+   "sha1": "d634e3f04672b8a01c3a6e13f8722d5cbbc6b900"
   }
  },
  "status": {

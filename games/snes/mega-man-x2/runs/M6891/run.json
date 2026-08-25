@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Rockman X 2 (J).smc"
+   "name": "Rockman X 2 (J).smc",
+   "sha1": "1a0529685d1af13f5af209a8a297832ae433dbcd"
   }
  },
  "status": {

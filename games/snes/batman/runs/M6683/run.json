@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Batman (USA) (Proto).sfc"
+   "name": "Batman (USA) (Proto).sfc",
+   "sha1": "7be714835ec0094aac9fa7952024bd49efed8af3"
   }
  },
  "status": {

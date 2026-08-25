@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.3.2",
   "rom": {
-   "name": "Ultimate Mortal Kombat 3 (USA)"
+   "name": "Ultimate Mortal Kombat 3 (USA)",
+   "sha1": "09c094ca1114bcb6d5917e989686ca79b96cf9ea"
   }
  },
  "status": {

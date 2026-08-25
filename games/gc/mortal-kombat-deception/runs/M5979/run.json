@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "dolphin 20571",
   "rom": {
-   "name": "Mortal Kombat - Deception (USA).rvz"
+   "name": "Mortal Kombat - Deception (USA).rvz",
+   "sha1": "489c6b57b70390933dff7d8d9d12424f58a8f821"
   }
  },
  "status": {

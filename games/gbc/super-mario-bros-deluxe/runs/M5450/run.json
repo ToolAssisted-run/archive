@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Super Mario Bros. Deluxe (U) (V1.1) [C][!].gbc"
+   "name": "Super Mario Bros. Deluxe (U) (V1.1) [C][!].gbc",
+   "sha1": "07295cd60ae44183ebecb013930727e0404169d5"
   }
  },
  "status": {

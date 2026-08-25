@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "Snes9x 1.51",
   "rom": {
-   "name": "Demon's Crest (J) [!].nes"
+   "name": "Demon's Crest (J) [!].nes",
+   "sha1": "a6dc126a1da593d900b33eb74cf33403075e9525"
   }
  },
  "status": {

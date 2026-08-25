@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Lion King, The (World) (patched).md"
+   "name": "Lion King, The (World) (patched).md",
+   "sha1": "35525b385cdbdcb07df855329d0d37369c243b54"
   }
  },
  "status": {

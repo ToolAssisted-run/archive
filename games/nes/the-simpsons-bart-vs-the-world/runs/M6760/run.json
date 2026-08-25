@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Simpsons, The - Bart vs. the World (USA).nes"
+   "name": "Simpsons, The - Bart vs. the World (USA).nes",
+   "sha1": "c28043255655d32e2347be85b834bfaf801b9220"
   }
  },
  "status": {

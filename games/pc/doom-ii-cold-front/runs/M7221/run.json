@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "XDRE 2.22",
   "rom": {
-   "name": "CLDFRNT.wad"
+   "name": "CLDFRNT.wad",
+   "sha1": "e27ff13ff51482e70a9c5fe2a35614b0882cbee7"
   }
  },
  "status": {

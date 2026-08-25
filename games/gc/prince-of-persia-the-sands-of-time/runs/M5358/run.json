@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "Dolphin 5.0-16426",
   "rom": {
-   "name": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (v1.01).iso"
+   "name": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (v1.01).iso",
+   "sha1": "b77c416a068c0ecae17095a46f1c98264b3cbae2"
   }
  },
  "status": {

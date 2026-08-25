@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Dolphin 5.0-16426",
   "rom": {
-   "name": "Teenage Mutant Ninja Turtles (USA).iso"
+   "name": "Teenage Mutant Ninja Turtles (USA).iso",
+   "sha1": "0a6b662897e9162faf6a94eae574382ebeb5d338"
   }
  },
  "status": {

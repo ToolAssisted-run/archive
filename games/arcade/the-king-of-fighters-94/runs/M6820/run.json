@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk-2.11-win-x64",
   "rom": {
-   "name": "kof94.zip"
+   "name": "kof94.zip",
+   "sha1": "4f133cb919cfd748ae1c13a27e77e75d1d98a3d9"
   }
  },
  "status": {

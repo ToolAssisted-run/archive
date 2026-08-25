@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.8",
   "rom": {
-   "name": "Beethoven - The Ultimate Canine Caper! (USA).sfc"
+   "name": "Beethoven - The Ultimate Canine Caper! (USA).sfc",
+   "sha1": "915550964ac5988d9bcb88dc9f74f8fc5c522903"
   }
  },
  "status": {

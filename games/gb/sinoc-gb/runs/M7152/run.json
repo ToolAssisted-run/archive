@@ -26,7 +26,8 @@
   "emulator": "BizHawk 2.11",
   "files": [
    {
-    "name": "Sinoc.gb"
+    "name": "Sinoc.gb",
+    "sha1": "1af296cd1d64d407f8f9b15081d870f375a959ed"
    }
   ]
  },

@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "Bizhawk 2.10",
   "rom": {
-   "name": "Masters Fighter, The (Japan).cue"
+   "name": "Masters Fighter, The (Japan).cue",
+   "sha1": "6e7c9362b7512325081cc43ae52850b19de53b01"
   }
  },
  "status": {

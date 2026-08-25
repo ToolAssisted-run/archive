@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Hunt the Wumpus (2006)(Schroter, Wilko)(16K)(DE)(en).tzx"
+   "name": "Hunt the Wumpus (2006)(Schroter, Wilko)(16K)(DE)(en).tzx",
+   "sha1": "bb68b803800e205d0822086536f168e5b71eae65"
   }
  },
  "status": {

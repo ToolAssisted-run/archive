@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Goonies II, The (U) [!].nes"
+   "name": "Goonies II, The (U) [!].nes",
+   "sha1": "637d894a3704099f8519d1b048219395f14c6bb7"
   }
  },
  "status": {

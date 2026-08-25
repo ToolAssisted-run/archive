@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.11.9",
   "rom": {
-   "name": "Wonder Boy in Monster Land (UE) (V1.1) [!].sms"
+   "name": "Wonder Boy in Monster Land (UE) (V1.1) [!].sms",
+   "sha1": "51715db7a49a18452292dadb2bba0108aa6d6402"
   }
  },
  "status": {

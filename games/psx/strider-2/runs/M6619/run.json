@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Strider 2 (USA).bin"
+   "name": "Strider 2 (USA).bin",
+   "sha1": "c7d1d38260927da21faa55a8b5b4af8ba2026579"
   }
  },
  "status": {

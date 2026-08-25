@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Dolphin 5.0-20571",
   "rom": {
-   "name": "Digimon Rumble Arena 2 (USA).rvz"
+   "name": "Digimon Rumble Arena 2 (USA).rvz",
+   "sha1": "636b1ffc9a14d191b0bda92b2343eb27adf31fde"
   }
  },
  "status": {

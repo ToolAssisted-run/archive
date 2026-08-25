@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Dolphin 5.0-20571",
   "rom": {
-   "name": "Sonic Gems Collection (USA).iso"
+   "name": "Sonic Gems Collection (USA).iso",
+   "sha1": "b140277e283346e1e9b212ef5395f7e23195e724"
   }
  },
  "status": {

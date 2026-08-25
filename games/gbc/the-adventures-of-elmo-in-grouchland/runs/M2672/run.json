@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "lsnes rr2-\u00df20",
   "rom": {
-   "name": "Adventures of Elmo in Grouchland, The (USA).gbc"
+   "name": "Adventures of Elmo in Grouchland, The (USA).gbc",
+   "sha1": "60f240476d2fac81b1efb83e1128e6223c766f15"
   }
  },
  "status": {

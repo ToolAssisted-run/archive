@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.8",
   "rom": {
-   "name": "Kyoro-chan Land (Japan)"
+   "name": "Kyoro-chan Land (Japan)",
+   "sha1": "af568e157b76a61da9b92b2fd2f219cc6e171c90"
   }
  },
  "status": {

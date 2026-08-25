@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Sherlock.nes"
+   "name": "Sherlock.nes",
+   "sha1": "f0c2ac1e27b2ef93b988b62cebefdbc460484055"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Dolphin 5.0 20571",
   "rom": {
-   "name": "Mortal Kombat - Armageddon (USA).rvz"
+   "name": "Mortal Kombat - Armageddon (USA).rvz",
+   "sha1": "9603232ab3a537d8555e2b32362768e6a0881063"
   }
  },
  "status": {

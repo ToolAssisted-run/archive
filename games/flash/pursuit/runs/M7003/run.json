@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "libTAS 1.4.7 // ruffle-nightly-2025-09-22",
   "rom": {
-   "name": "346781_pursuit.swf"
+   "name": "346781_pursuit.swf",
+   "sha1": "a3748c776ab2ff23291099f48d38b55cadaa69c2"
   }
  },
  "status": {

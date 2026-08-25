@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Out of this World (USA).bin"
+   "name": "Out of this World (USA).bin",
+   "sha1": "f326feac15dbff80b426d4628ad26fdea8a815b8"
   }
  },
  "status": {

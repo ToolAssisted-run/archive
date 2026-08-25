@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.3.2",
   "rom": {
-   "name": "Mortal Kombat Trilogy (U) (V1.2) [!]"
+   "name": "Mortal Kombat Trilogy (U) (V1.2) [!]",
+   "sha1": "4092a66080afc03d7bf9779aad047aff1a56ecb6"
   }
  },
  "status": {

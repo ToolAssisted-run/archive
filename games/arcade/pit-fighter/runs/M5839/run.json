@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "pitfight2.zip"
+   "name": "pitfight2.zip",
+   "sha1": "7a6fe0b34dda529670c60ac625fe47d9791d9b63"
   }
  },
  "status": {

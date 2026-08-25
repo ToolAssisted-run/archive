@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Don_Quixote_16K.dsk"
+   "name": "Don_Quixote_16K.dsk",
+   "sha1": "351496cbfa5b8f3bc9ee401ca904e44a333667ea"
   }
  },
  "status": {

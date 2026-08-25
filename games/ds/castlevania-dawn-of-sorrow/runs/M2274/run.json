@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "DeSmuME 0.9.6",
   "rom": {
-   "name": "Castlevania Dawn of Sorrow.nds"
+   "name": "Castlevania Dawn of Sorrow.nds",
+   "sha1": "47530ff87e608f88105a314fdf36dc385f8dec94"
   }
  },
  "status": {

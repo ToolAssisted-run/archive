@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "libTAS 1.4.6 // ruffle-nightly-2025-08-19",
   "rom": {
-   "name": "the-visitor-915.swf"
+   "name": "the-visitor-915.swf",
+   "sha1": "a737168963b46acef3797024ad5459027aac31ef"
   }
  },
  "status": {

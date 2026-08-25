@@ -27,7 +27,8 @@
  "contract": {
   "emulator": "BizHawk 2.8",
   "rom": {
-   "name": "Dragon's Lair (Japan)"
+   "name": "Dragon's Lair (Japan)",
+   "sha1": "ff19d548a92f78cb1024e97128c1aa82b9d0e77e"
   }
  },
  "status": {

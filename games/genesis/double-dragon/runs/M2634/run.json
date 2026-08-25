@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Gens 11a",
   "rom": {
-   "name": "Double Dragon (U) [!].bin"
+   "name": "Double Dragon (U) [!].bin",
+   "sha1": "f054fb2c16a78ce5f5ce20a36bf0f2634f169969"
   }
  },
  "status": {

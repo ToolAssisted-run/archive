@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Gens 11a",
   "rom": {
-   "name": "Zero Tolerance (JUE) [!].bin"
+   "name": "Zero Tolerance (JUE) [!].bin",
+   "sha1": "d6d9733a619ba6be0dd76591d8dec621e4fdc17e"
   }
  },
  "status": {

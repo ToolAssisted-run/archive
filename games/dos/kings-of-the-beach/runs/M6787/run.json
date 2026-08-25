@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "kingsOfTheBeach.ima"
+   "name": "kingsOfTheBeach.ima",
+   "sha1": "fc0963c84698d4445fb2e05546a00076affc987c"
   }
  },
  "status": {

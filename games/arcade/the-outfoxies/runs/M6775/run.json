@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "outfxies.zip"
+   "name": "outfxies.zip",
+   "sha1": "eade74814464ba0b63855e3cfa6804a6a7c96354"
   }
  },
  "status": {

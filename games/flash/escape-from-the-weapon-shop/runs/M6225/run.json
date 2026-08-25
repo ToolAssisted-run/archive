@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-09-06",
   "rom": {
-   "name": "weaponshop_en_520x456.swf"
+   "name": "weaponshop_en_520x456.swf",
+   "sha1": "6824ec5ff6d535b9a0a6cdfc72f1b82ef0bd026b"
   }
  },
  "status": {

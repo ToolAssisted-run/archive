@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "Gens 11a",
   "rom": {
-   "name": "James Bond - The Duel (UEJ) (Tengen).bin"
+   "name": "James Bond - The Duel (UEJ) (Tengen).bin",
+   "sha1": "e880bfad98d0e6f9b73db63ea85fb0a103b0e1e7"
   }
  },
  "status": {

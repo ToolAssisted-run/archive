@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "FastFood.tzx"
+   "name": "FastFood.tzx",
+   "sha1": "03f205a038f5f4f48f0b0a5e040d56cc24c22ae3"
   }
  },
  "status": {

@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Tokoro San no Mamoru mo Semeru mo (J) [!].nes"
+   "name": "Tokoro San no Mamoru mo Semeru mo (J) [!].nes",
+   "sha1": "aef80dedb58085fc4b779e3747d69492f3b666bf"
   }
  },
  "status": {

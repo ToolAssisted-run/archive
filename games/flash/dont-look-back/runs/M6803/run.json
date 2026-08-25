@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
   "rom": {
-   "name": "dont-look-back.swf"
+   "name": "dont-look-back.swf",
+   "sha1": "5eb2ea4076a4c72c615446c66fa6bdcce6c356da"
   }
  },
  "status": {

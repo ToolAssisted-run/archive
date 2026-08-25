@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Killer Instinct (USA) (Rev 1).sfc"
+   "name": "Killer Instinct (USA) (Rev 1).sfc",
+   "sha1": "ee9e2e95d6e99eb1b0e2060a1210a489e88dcc13"
   }
  },
  "status": {

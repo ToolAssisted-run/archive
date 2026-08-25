@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "libTAS 1.4.3 + PCem v17+st-1",
   "rom": {
-   "name": "pop2ir.iso"
+   "name": "pop2ir.iso",
+   "sha1": "012de9b2c0260f3099ad2df42f2b0dd127b1c375"
   }
  },
  "status": {

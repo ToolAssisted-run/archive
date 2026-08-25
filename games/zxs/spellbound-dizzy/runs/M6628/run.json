@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Dizzy V - Spellbound Dizzy (1991)(Codemasters)(48-128k).tzx"
+   "name": "Dizzy V - Spellbound Dizzy (1991)(Codemasters)(48-128k).tzx",
+   "sha1": "0f24fbd94ea67b12b8ed261cf6e7715f4eee6f7c"
   }
  },
  "status": {

@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "rotd.zip"
+   "name": "rotd.zip",
+   "sha1": "0ec1ee77b9ce1d9ac0052f1d250a0cd1bd71ec93"
   }
  },
  "status": {

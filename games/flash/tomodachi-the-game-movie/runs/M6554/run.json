@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "libTAS 1.4.6 // ruffle-nightly-2024-12-15",
   "rom": {
-   "name": "tomodachi.swf"
+   "name": "tomodachi.swf",
+   "sha1": "31bf6fb96dbd596f45db282b53bae257b75a912f"
   }
  },
  "status": {

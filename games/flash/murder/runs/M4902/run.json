@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "libTAS 1.4.3 + Ruffle nightly 2022-09-29",
   "rom": {
-   "name": "648589_mord-019.swf"
+   "name": "648589_mord-019.swf",
+   "sha1": "4f98db8d99a74b421cc7acb9d942c3e4c03a6ce7"
   }
  },
  "status": {

@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Budokan - The Martial Spirit (1990)(Electronic Arts)(Disk 1 of 2)[cr OCL].adf"
+   "name": "Budokan - The Martial Spirit (1990)(Electronic Arts)(Disk 1 of 2)[cr OCL].adf",
+   "sha1": "207a160957911e8eca48bc5151fef9eadbf06e7e"
   }
  },
  "status": {

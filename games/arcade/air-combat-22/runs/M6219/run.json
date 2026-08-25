@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "airco22b.zip"
+   "name": "airco22b.zip",
+   "sha1": "f293ba2fb07655c6c29591cef759299fa73f2999"
   }
  },
  "status": {

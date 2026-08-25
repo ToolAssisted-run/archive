@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Pokemon Snap (USA).n64"
+   "name": "Pokemon Snap (USA).n64",
+   "sha1": "edc7c49cc568c045fe48be0d18011c30f393cbaf"
   }
  },
  "status": {

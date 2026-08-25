@@ -27,7 +27,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Chip 'n Dale Rescue Rangers (U) [!].nes"
+   "name": "Chip 'n Dale Rescue Rangers (U) [!].nes",
+   "sha1": "39a5fdb7efd4425a8769fd3073b00dd85f6cd574"
   }
  },
  "status": {

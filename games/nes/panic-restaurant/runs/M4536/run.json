@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.6.2",
   "rom": {
-   "name": "Wanpaku Kokkun no Gourmet World (Japan).nes"
+   "name": "Wanpaku Kokkun no Gourmet World (Japan).nes",
+   "sha1": "7124b65b810a4e817b9401aa08cd7e8c5cb3029e"
   }
  },
  "status": {

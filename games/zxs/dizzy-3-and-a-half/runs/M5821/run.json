@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.9.1",
   "rom": {
-   "name": "Dizzy III & a Half (1990)(Codemasters).tap"
+   "name": "Dizzy III & a Half (1990)(Codemasters).tap",
+   "sha1": "3a34843ed294192f8cc641d1857e5182768f003b"
   }
  },
  "status": {

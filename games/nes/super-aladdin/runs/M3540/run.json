@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "FCEUX 2.2.3",
   "rom": {
-   "name": "Aladdin (Super Game)(Unl)[!].nes"
+   "name": "Aladdin (Super Game)(Unl)[!].nes",
+   "sha1": "1a2565b9324440655b31f8e8fe19783c35ddd5c6"
   }
  },
  "status": {

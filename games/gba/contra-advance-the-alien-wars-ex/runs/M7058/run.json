@@ -22,7 +22,8 @@
  "contract": {
   "emulator": "BizHawk 2.10",
   "rom": {
-   "name": "Contra Advance - The Alien Wars EX (USA).gba"
+   "name": "Contra Advance - The Alien Wars EX (USA).gba",
+   "sha1": "21b593c0fbdeacfbf0f72895fba2401fd7b60b65"
   }
  },
  "status": {

@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.3",
   "rom": {
-   "name": "Batman Part 2 - HTL - TRM.d64"
+   "name": "Batman Part 2 - HTL - TRM.d64",
+   "sha1": "c40a969b57552b5578117a4a1e2d92b56344d048"
   }
  },
  "status": {

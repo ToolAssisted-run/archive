@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 1.13.1",
   "rom": {
-   "name": "Ikari Warriors (USA).nes"
+   "name": "Ikari Warriors (USA).nes",
+   "sha1": "6eadbbe4c2a1f7ede2978f149b63270c72db281f"
   }
  },
  "status": {

@@ -23,7 +23,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "machbrkrj.zip"
+   "name": "machbrkrj.zip",
+   "sha1": "5dcafc9186a3d1a1b2c336f36bbe801e85975f67"
   }
  },
  "status": {

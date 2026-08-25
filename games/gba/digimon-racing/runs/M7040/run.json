@@ -21,7 +21,8 @@
  "contract": {
   "emulator": "BizHawk 2.11",
   "rom": {
-   "name": "Digimon Racing (USA) (En,Fr,De,Es,It)"
+   "name": "Digimon Racing (USA) (En,Fr,De,Es,It)",
+   "sha1": "37c0bc3c8fc1b79efd18121fec6f2df97ddb3bdf"
   }
  },
  "status": {
