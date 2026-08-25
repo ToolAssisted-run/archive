@@ -31,7 +31,7 @@
   "emulator": "XDRE 2.22a"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -57,5 +57,15 @@
  "forum": {
   "topicId": 1262,
   "url": "https://forum.toolassisted.run/t/1262"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-25",
+   "at": "2026-08-25T11:39:11Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "DSDA-Doom 0.29.4",
+   "notes": "Played back successfully on DSDA-Doom 0.29.4 (using DOOM2.WAD with size 14,604,584 bytes, MD5 25E1459CA71D321525F84628F45CA8CD) with corresponding command \"dsda-doom.exe -iwad DOOM2.WAD -complevel 2 -playdemo M100037.lmp\" ran in cmd in that folder"
+  }
+ ]
 }
