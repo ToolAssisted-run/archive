@@ -1,0 +1,41 @@
+{
+ "id": "M100038",
+ "game": "snes/mortal-kombat",
+ "category": {
+  "goal": "unclassified"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "videoOnly": true,
+ "thumbnail": "thumb.jpg",
+ "goalDescription": "Shang Tsung playaround (hack)",
+ "contentWarnings": [
+  "photosensitivity"
+ ],
+ "contract": {
+  "emulator": ""
+ },
+ "status": {
+  "reproduced": "not-applicable",
+  "verified": "none",
+  "console": "not-applicable"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/-390jaiuWeg?si=JDtv4gqxMb6HDzxk"
+  }
+ ],
+ "attachments": [],
+ "completed": "2021-02-16",
+ "submitted": "2026-08-25T14:45:14Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1263,
+  "url": "https://forum.toolassisted.run/t/1263"
+ }
+}
