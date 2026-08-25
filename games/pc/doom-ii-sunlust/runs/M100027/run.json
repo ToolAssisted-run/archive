@@ -28,7 +28,7 @@
   "emulator": "DSDA-Doom"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -64,6 +64,16 @@
    "user": "KusogeMan",
    "date": "2026-08-24",
    "at": "2026-08-24T23:19:37Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-25",
+   "at": "2026-08-25T07:48:20Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "DSDA-Doom 0.29.4",
+   "notes": "Needed files: DOOM2.WAD (MD5 of my file was 30E3C2D0350B67BFBF47271970B74B2F), sunlust.wad, M100027.lmp, DSDA-Doom. Put everything in the same folder, open Command Prompt in that folder, run: \"dsda-doom.exe -iwad DOOM2.WAD -file sunlust.wad -playdemo M100027.lmp\" [Thanks to Dimon12321 for telling me how to reproduce Doom TASes!]"
   }
  ]
 }
