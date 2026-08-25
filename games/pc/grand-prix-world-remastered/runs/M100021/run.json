@@ -28,7 +28,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -71,6 +71,16 @@
    "user": "CloakTheLurker",
    "date": "2026-08-20",
    "at": "2026-08-20T20:42:38Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-08-25",
+   "at": "2026-08-25T19:03:12Z",
+   "screenshot": "reproductions/1-Dimon12321.png",
+   "emulator": "BizHawk 2.11.1",
+   "notes": "Follow the reproduction steps. Point 1 resource: https://tasvideos.org/Bizhawk/DOSBox\r\nPoint 2. The file you must delete prior to creating an .iso of the game folder in step 2 is called \"ddraw.dll\", not \"dxdraw.dll\".\r\nPoint 3. See dosbox.conf in the attached files."
   }
  ]
 }
