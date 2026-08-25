@@ -5417,6 +5417,17 @@
    "date": "2026-08-25",
    "at": "2026-08-25T01:48:34Z",
    "reason": "Remove import artifacts"
+  },
+  {
+   "kind": "game",
+   "key": "wii/resident-evil-4",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "Dimon12321",
+   "date": "2026-08-25",
+   "at": "2026-08-25T14:50:01Z",
+   "reason": "Apply thumbnail for the official box art"
   }
  ]
 }
