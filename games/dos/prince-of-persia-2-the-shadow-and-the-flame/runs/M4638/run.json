@@ -38,7 +38,7 @@
  "encodes": [
   {
    "kind": "youtube",
-   "url": "https://www.youtube.com/watch?v=bVoebAC-6GQ"
+   "url": "https://www.youtube.com/watch?v=bcptWH_2tcQ"
   }
  ],
  "submitted": "2022-04-24T10:45:41.505744",
@@ -49,5 +49,6 @@
  },
  "metrics": {
   "in-game-time": 812.833
- }
+ },
+ "duration": 887.45
 }
