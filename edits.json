@@ -5428,6 +5428,17 @@
    "date": "2026-08-25",
    "at": "2026-08-25T14:50:01Z",
    "reason": "Apply thumbnail for the official box art"
+  },
+  {
+   "kind": "run",
+   "key": "M4651",
+   "field": "related",
+   "from": "",
+   "to": "M4477, M4535",
+   "by": "eien86",
+   "date": "2026-08-25",
+   "at": "2026-08-25T16:12:42Z",
+   "reason": "The author's own revision."
   }
  ]
 }
