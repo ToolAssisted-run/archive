@@ -35,7 +35,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -66,6 +66,16 @@
    "user": "KusogeMan",
    "date": "2026-08-24",
    "at": "2026-08-24T23:18:10Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-25",
+   "at": "2026-08-25T10:42:01Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.3.1",
+   "notes": "SHA1 checksums of game files I used for reproduction: BIN file D9CB009BC0006E901D8AB1365F764AB71DA02115 (matches submission), CUE file 17886CA306A0496F577AFAD74ABD49EB56EC705E"
   }
  ]
 }
