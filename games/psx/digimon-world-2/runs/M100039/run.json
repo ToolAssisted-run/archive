@@ -35,7 +35,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -52,5 +52,15 @@
  "forum": {
   "topicId": 1264,
   "url": "https://forum.toolassisted.run/t/1264"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-26",
+   "at": "2026-08-26T18:24:06Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.3.1",
+   "notes": "SHA1 checksums of game files I used for reproduction: BIN file D9CB009BC0006E901D8AB1365F764AB71DA02115 (matches submission), CUE file 17886CA306A0496F577AFAD74ABD49EB56EC705E. Last input is around frame 152,500 but given the author submitted an RTA time, truncating the input file wouldn't change much"
+  }
+ ]
 }
