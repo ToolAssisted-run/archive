@@ -69,5 +69,12 @@
    "emulator": "BizHawk 2.11 (DOSBox-X)",
    "notes": "Follow the reproduction steps described in the notes.\r\n\r\n1) Install Windows 98 in BizHawk, export the HDD.\r\n2) Install the game and make sure its hashcode matches the one in Reproduction info -> Files. Use this command, assuming your PowerShell is opened in the extracted game folder: Get-FileHash GTA2.exe -Algorithm SHA1 | Format-List\r\n3) Launch the game as a multi-disk bundle (.xml)\r\n4) In BizHawk, go to File -> Movie -> Play movie... and choose M100013.bk2."
   }
+ ],
+ "likes": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-08-26",
+   "at": "2026-08-26T08:48:01Z"
+  }
  ]
 }
