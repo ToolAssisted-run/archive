@@ -2,7 +2,7 @@
  "id": "M1715",
  "game": "nes/super-mario-bros",
  "category": {
-  "goal": "temp-warps"
+  "goal": "warps"
  },
  "authors": [
   {

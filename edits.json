@@ -6165,6 +6165,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:44:25Z",
    "reason": "Re-arrange categories, rename the temp category to its actual name"
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:temp-warps",
+   "field": "key",
+   "from": "temp-warps",
+   "to": "warps",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:44:31Z",
+   "reason": "Re-arrange categories, rename the temp category to its actual name"
   }
  ]
 }

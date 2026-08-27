@@ -45,7 +45,7 @@
      "rule": "The game ROM of PAL (Europe) region must be used.\r\nComplete the game in the fastest time. Warps are allowed."
     },
     {
-     "key": "temp-warps",
+     "key": "warps",
      "label": "warps",
      "rule": "Complete the game in the fastest time. Warps are allowed.\r\nNTSC region of a game ROM is assumed."
     }
