@@ -6154,6 +6154,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:44:19Z",
    "reason": "Re-arrange categories, rename the temp category to its actual name"
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:temp-warps",
+   "field": "rule",
+   "from": "Complete the game in the fastest time. Warps are allowed.",
+   "to": "Complete the game in the fastest time. Warps are allowed.\r\nNTSC region of a game ROM is assumed.",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:44:25Z",
+   "reason": "Re-arrange categories, rename the temp category to its actual name"
   }
  ]
 }

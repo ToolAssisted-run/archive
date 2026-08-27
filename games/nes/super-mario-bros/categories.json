@@ -47,7 +47,7 @@
     {
      "key": "temp-warps",
      "label": "warps",
-     "rule": "Complete the game in the fastest time. Warps are allowed."
+     "rule": "Complete the game in the fastest time. Warps are allowed.\r\nNTSC region of a game ROM is assumed."
     }
    ]
   }
