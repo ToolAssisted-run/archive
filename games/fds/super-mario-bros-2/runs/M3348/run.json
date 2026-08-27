@@ -1,0 +1,52 @@
+{
+ "id": "M3348",
+ "game": "fds/super-mario-bros-2",
+ "category": {
+  "goal": "warps-mario"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3348.fm2",
+  "format": "fm2",
+  "frames": 29138,
+  "rerecords": 70167,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.1",
+  "files": [
+   {
+    "name": "Super Mario Bros. 2 (1986)(Nintendo)(J).fds",
+    "sha1": "3b8c8998b4887d6dd676965943d69a320738ab9c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3348M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=891IjTzV6XM"
+  }
+ ],
+ "submitted": "2017-03-11T16:21:53",
+ "attachments": [],
+ "forum": {
+  "topicId": 1277,
+  "url": "https://forum.toolassisted.run/t/1277"
+ }
+}

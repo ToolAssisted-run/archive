@@ -1,0 +1,55 @@
+{
+ "id": "M3728",
+ "game": "nes/super-mario-bros",
+ "category": {
+  "goal": "warpless"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  },
+  {
+   "user": "Mars608"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3728.fm2",
+  "format": "fm2",
+  "frames": 67117,
+  "rerecords": 184530,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.1",
+  "files": [
+   {
+    "name": "Super Mario Bros. (JU) [!].nes",
+    "sha1": "ea343f4e445a9050d4b4fbac2c77d0693b1d0922"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3728M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=TjVwAZRRIZA"
+  }
+ ],
+ "submitted": "2018-06-16T13:56:26",
+ "attachments": [],
+ "forum": {
+  "topicId": 1280,
+  "url": "https://forum.toolassisted.run/t/1280"
+ }
+}

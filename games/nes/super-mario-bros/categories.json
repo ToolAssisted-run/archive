@@ -13,6 +13,26 @@
      "key": "warpless-walkathon",
      "label": "warpless, walkathon",
      "rule": "Imported as \"warpless, walkathon\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "maximum-coins",
+     "label": "maximum coins",
+     "rule": "Imported as \"maximum coins\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "warpless",
+     "label": "warpless",
+     "rule": "Imported as \"warpless\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "all-items",
+     "label": "all items",
+     "rule": "Imported as \"all items\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "minimum-a-presses",
+     "label": "minimum A presses",
+     "rule": "Imported as \"minimum A presses\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

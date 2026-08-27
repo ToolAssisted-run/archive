@@ -1,0 +1,52 @@
+{
+ "id": "M3456",
+ "game": "snes/super-mario-all-stars-the-lost-levels",
+ "category": {
+  "goal": "warpless-mario"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3456.bk2",
+  "format": "bk2",
+  "frames": 124802,
+  "rerecords": 132174,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.11.8",
+  "files": [
+   {
+    "name": "Super Mario All-Stars + Super Mario World (U) [!].smc",
+    "sha1": "d245e41a2b590f7d63666b0772cbddfb26f254a2"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3456M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=jNi30RCmv8s"
+  }
+ ],
+ "submitted": "2017-07-04T14:22:50",
+ "attachments": [],
+ "forum": {
+  "topicId": 1279,
+  "url": "https://forum.toolassisted.run/t/1279"
+ }
+}

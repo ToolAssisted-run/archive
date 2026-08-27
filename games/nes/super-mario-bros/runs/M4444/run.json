@@ -1,0 +1,64 @@
+{
+ "id": "M4444",
+ "game": "nes/super-mario-bros",
+ "category": {
+  "goal": "minimum-a-presses"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  },
+  {
+   "user": "Kriller37"
+  },
+  {
+   "user": "DaSmileKat"
+  },
+  {
+   "user": "Kosmic"
+  },
+  {
+   "user": "periwinkle"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4444.fm2",
+  "format": "fm2",
+  "frames": 37525,
+  "rerecords": 62,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "files": [
+   {
+    "name": "Super Mario Bros. (JU) [!].nes",
+    "sha1": "ea343f4e445a9050d4b4fbac2c77d0693b1d0922"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4444M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2_HCxmj9LJE"
+  }
+ ],
+ "submitted": "2021-05-03T00:36:19",
+ "attachments": [],
+ "forum": {
+  "topicId": 1282,
+  "url": "https://forum.toolassisted.run/t/1282"
+ }
+}

@@ -8,6 +8,11 @@
      "key": "warps-luigi",
      "label": "warps, Luigi",
      "rule": "Imported as \"warps, Luigi\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "warps-mario",
+     "label": "warps, Mario",
+     "rule": "Imported as \"warps, Mario\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }
