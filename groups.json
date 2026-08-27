@@ -262,16 +262,19 @@
    "key": "mario",
    "title": "Mario",
    "games": [
-    "nes/super-mario-bros",
     "fds/super-mario-bros",
-    "nes/super-mario-bros-special-35th-anniversary-edition",
     "fds/super-mario-bros-2",
-    "snes/super-mario-all-stars-the-lost-levels",
-    "snes/super-mario-all-stars-super-mario-bros",
-    "nes/super-mario-bros-the-mystery-of-luigi",
+    "gbc/super-mario-bros-deluxe",
+    "nes/bob-omb-mario",
     "nes/extra-mario-bros",
     "nes/hard-relay-mario",
-    "nes/bob-omb-mario"
+    "nes/super-mario-bros",
+    "nes/super-mario-bros-special-35th-anniversary-edition",
+    "nes/super-mario-bros-the-mystery-of-luigi",
+    "nes/super-mario-bros-two-players-hack",
+    "nes/superfast-mario-bros",
+    "snes/super-mario-all-stars-super-mario-bros",
+    "snes/super-mario-all-stars-the-lost-levels"
    ],
    "createdBy": "GMP",
    "createdAt": "2026-08-27"
@@ -470,10 +473,7 @@
   {
    "key": "super-mario-bros",
    "title": "Super Mario Bros.",
-   "games": [
-    "gbc/super-mario-bros-deluxe",
-    "nes/superfast-mario-bros"
-   ],
+   "games": [],
    "createdBy": "eien86",
    "createdAt": "2026-08-21"
   },
