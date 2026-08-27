@@ -5912,6 +5912,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:21:11Z",
    "reason": "Better clarity"
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:maximum-score",
+   "field": "rule",
+   "from": "Imported as \"maximum score\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Finish the game with 000000 points (by overflowing the edge of 9999950 points)",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:21:17Z",
+   "reason": "Better clarity"
   }
  ]
 }
