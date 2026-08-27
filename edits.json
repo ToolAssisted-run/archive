@@ -6099,6 +6099,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:39:34Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M1715",
+   "field": "goal",
+   "from": "warps/ntsc",
+   "to": "temp-warps",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:39:41Z",
+   "reason": "A workaround movement"
   }
  ]
 }
