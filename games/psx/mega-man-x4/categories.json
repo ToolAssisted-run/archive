@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "x-ultimate-armor",
+     "label": "X, Ultimate Armor",
+     "rule": "Imported as \"X, Ultimate Armor\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "zero",
+     "label": "Zero",
+     "rule": "Imported as \"Zero\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

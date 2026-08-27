@@ -1,0 +1,53 @@
+{
+ "id": "M6205",
+ "game": "psx/mega-man-x4",
+ "category": {
+  "goal": "x-ultimate-armor"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6205.bk2",
+  "format": "bk2",
+  "frames": 133385,
+  "fps": 59.826570896962245,
+  "rerecords": 207685,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Mega Man X4 (USA).bin",
+    "sha1": "26ffe24a79384b24af7571674251ee575e889b38"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6205M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=weL3gmQPM9U"
+  }
+ ],
+ "submitted": "2024-09-30T03:02:34.97459",
+ "attachments": [],
+ "forum": {
+  "topicId": 1289,
+  "url": "https://forum.toolassisted.run/t/1289"
+ }
+}

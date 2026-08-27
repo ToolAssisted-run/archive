@@ -1,0 +1,52 @@
+{
+ "id": "M4849",
+ "game": "nes/bob-omb-mario",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4849.fm2",
+  "format": "fm2",
+  "frames": 15818,
+  "rerecords": 2034,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "files": [
+   {
+    "name": "Bob-Omb_Mario.nes",
+    "sha1": "16f773d53ae46ddce18c7727ebe67a3b1c606bd9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4849M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=h6UYkArzmoU"
+  }
+ ],
+ "submitted": "2022-10-02T05:30:25.912895",
+ "attachments": [],
+ "forum": {
+  "topicId": 1286,
+  "url": "https://forum.toolassisted.run/t/1286"
+ }
+}

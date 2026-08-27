@@ -1,0 +1,53 @@
+{
+ "id": "M6448",
+ "game": "psx/mega-man-x5",
+ "category": {
+  "goal": "training-zero"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6448.bk2",
+  "format": "bk2",
+  "frames": 6170,
+  "fps": 59.833383146217365,
+  "rerecords": 307,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "Mega Man X5 (USA).bin",
+    "sha1": "10709231f857636b5ccd3cd9acebc91458dcb5fd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6448M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=elEAZDZ7FBQ"
+  }
+ ],
+ "submitted": "2025-03-22T14:06:08.623134",
+ "attachments": [],
+ "forum": {
+  "topicId": 1292,
+  "url": "https://forum.toolassisted.run/t/1292"
+ }
+}

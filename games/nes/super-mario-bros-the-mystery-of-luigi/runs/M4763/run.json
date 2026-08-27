@@ -1,0 +1,52 @@
+{
+ "id": "M4763",
+ "game": "nes/super-mario-bros-the-mystery-of-luigi",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4763.fm2",
+  "format": "fm2",
+  "frames": 4844,
+  "rerecords": 11914,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "files": [
+   {
+    "name": "SMB The Mystery of Luigi.nes",
+    "sha1": "f7a0678d2537f8a46f34dcd0c61a4b8a2f003e04"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4763M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7kNby3MCQtc"
+  }
+ ],
+ "submitted": "2022-07-10T04:57:48.879788",
+ "attachments": [],
+ "forum": {
+  "topicId": 1284,
+  "url": "https://forum.toolassisted.run/t/1284"
+ }
+}
