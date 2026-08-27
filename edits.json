@@ -5736,6 +5736,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T15:33:14Z",
    "reason": "Unofficial game"
+  },
+  {
+   "kind": "game",
+   "key": "nes/extra-mario-bros",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "GMP",
+   "date": "2026-08-27",
+   "at": "2026-08-27T15:33:37Z",
+   "reason": "ROM Hack"
   }
  ]
 }
