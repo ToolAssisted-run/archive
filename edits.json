@@ -5758,6 +5758,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T15:34:14Z",
    "reason": "ROM Hack"
+  },
+  {
+   "kind": "game",
+   "key": "nes/super-mario-bros-two-players-hack",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "GMP",
+   "date": "2026-08-27",
+   "at": "2026-08-27T15:35:57Z",
+   "reason": "ROM Hack"
   }
  ]
 }
