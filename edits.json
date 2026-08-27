@@ -6077,6 +6077,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:37:18Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:temp-warps",
+   "field": "added",
+   "from": "",
+   "to": "temp warps",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:38:49Z",
+   "reason": "Created it."
   }
  ]
 }

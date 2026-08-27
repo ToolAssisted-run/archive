@@ -60,6 +60,11 @@
      "key": "pal-warps",
      "label": "PAL, warps",
      "rule": "The game ROM of PAL (Europe) region must be used.\r\nComplete the game in the fastest time. Warps are allowed."
+    },
+    {
+     "key": "temp-warps",
+     "label": "temp warps",
+     "rule": "Complete the game in the fastest time. Warps are allowed."
     }
    ]
   }
