@@ -6055,6 +6055,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:35:57Z",
    "reason": "\"PAL, warps\" is now a separate category"
+  },
+  {
+   "kind": "run",
+   "key": "M6622",
+   "field": "goal",
+   "from": "warps/pal",
+   "to": "pal-warps",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:36:03Z",
+   "reason": "\"PAL, warps\" is now a separate category"
   }
  ]
 }
