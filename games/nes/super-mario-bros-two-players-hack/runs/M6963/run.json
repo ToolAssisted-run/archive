@@ -1,0 +1,55 @@
+{
+ "id": "M6963",
+ "game": "nes/super-mario-bros-two-players-hack",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  },
+  {
+   "user": "Kzwbz"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6963.fm2",
+  "format": "fm2",
+  "frames": 17374,
+  "rerecords": 13222,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.4",
+  "files": [
+   {
+    "name": "Super Mario Bros. (Two Players Hack).nes",
+    "sha1": "645a31824ab270e064a6a928a18b9e21dd45c370"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6963M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=A4wNSZd_Co8"
+  }
+ ],
+ "submitted": "2026-02-01T17:13:01.193582",
+ "attachments": [],
+ "forum": {
+  "topicId": 1303,
+  "url": "https://forum.toolassisted.run/t/1303"
+ }
+}

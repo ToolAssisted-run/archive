@@ -1,0 +1,64 @@
+{
+ "id": "M7167",
+ "game": "fds/super-mario-bros",
+ "category": {
+  "goal": "game-end-glitch"
+ },
+ "authors": [
+  {
+   "user": "threecreepio"
+  },
+  {
+   "user": "OnehundredthCoin"
+  },
+  {
+   "user": "HappyLee"
+  },
+  {
+   "user": "Simplistic6502"
+  },
+  {
+   "user": "Kosmic"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7167.bk2",
+  "format": "bk2",
+  "frames": 19830,
+  "rerecords": 17053,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "Super Mario Bros. (1985)(Nintendo)(J).fds",
+    "sha1": "41cf327605ccc7b65f1891427abe4f64218354a1"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7167M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IomvLoMmUj0"
+  }
+ ],
+ "submitted": "2026-06-01T22:53:09.802324",
+ "attachments": [],
+ "forum": {
+  "topicId": 1306,
+  "url": "https://forum.toolassisted.run/t/1306"
+ }
+}

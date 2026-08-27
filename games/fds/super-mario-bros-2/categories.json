@@ -18,6 +18,11 @@
      "key": "worlds-a-d-warps-mario",
      "label": "Worlds A-D, warps, Mario",
      "rule": "Imported as \"Worlds A-D, warps, Mario\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "game-end-glitch",
+     "label": "game end glitch",
+     "rule": "Imported as \"game end glitch\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }
