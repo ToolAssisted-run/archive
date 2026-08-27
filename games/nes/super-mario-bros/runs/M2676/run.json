@@ -1,0 +1,55 @@
+{
+ "id": "M2676",
+ "game": "nes/super-mario-bros",
+ "category": {
+  "goal": "warpless-walkathon"
+ },
+ "authors": [
+  {
+   "user": "Mars608"
+  },
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2676.fm2",
+  "format": "fm2",
+  "frames": 91304,
+  "rerecords": 36419,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.1",
+  "files": [
+   {
+    "name": "Super Mario Bros. (JU) [!].nes",
+    "sha1": "ea343f4e445a9050d4b4fbac2c77d0693b1d0922"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2676M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=vXFPuJ4fMoI"
+  }
+ ],
+ "submitted": "2014-08-25T07:58:40",
+ "attachments": [],
+ "forum": {
+  "topicId": 1275,
+  "url": "https://forum.toolassisted.run/t/1275"
+ }
+}

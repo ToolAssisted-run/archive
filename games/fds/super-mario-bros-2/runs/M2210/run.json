@@ -1,0 +1,55 @@
+{
+ "id": "M2210",
+ "game": "fds/super-mario-bros-2",
+ "category": {
+  "goal": "warps-luigi"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  },
+  {
+   "user": "KFCMARIO"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2210.fm2",
+  "format": "fm2",
+  "frames": 29675,
+  "rerecords": 30308,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX (from FCEU 0.98.28)",
+  "files": [
+   {
+    "name": "Super Mario Bros. 2.fds",
+    "sha1": "20e50128742162ee47561db9e82b2836399c880c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2210M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7defts2HENI"
+  }
+ ],
+ "submitted": "2012-12-13T04:55:36",
+ "attachments": [],
+ "forum": {
+  "topicId": 1272,
+  "url": "https://forum.toolassisted.run/t/1272"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M2627",
+ "game": "nes/hard-relay-mario",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2627.fm2",
+  "format": "fm2",
+  "frames": 29746,
+  "rerecords": 109718,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.1",
+  "files": [
+   {
+    "name": "Hard Relay Mario.nes",
+    "sha1": "c921b3083aced215f0faa83bcddfef9616523f96"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2627M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=iMS0o2cSKw4"
+  }
+ ],
+ "submitted": "2014-07-01T22:34:24",
+ "attachments": [],
+ "forum": {
+  "topicId": 1274,
+  "url": "https://forum.toolassisted.run/t/1274"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M1365",
+ "game": "fds/super-mario-bros",
+ "category": {
+  "goal": "3-stage-ending"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1365.fm2",
+  "format": "fm2",
+  "frames": 9893,
+  "rerecords": 6283,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Super Mario Bros. (1985)(Nintendo)(J).fds",
+    "sha1": "41cf327605ccc7b65f1891427abe4f64218354a1"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1365M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=a_iPGPPrMyU"
+  }
+ ],
+ "submitted": "2009-10-23T14:29:01",
+ "attachments": [],
+ "forum": {
+  "topicId": 1268,
+  "url": "https://forum.toolassisted.run/t/1268"
+ }
+}

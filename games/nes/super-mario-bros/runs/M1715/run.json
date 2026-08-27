@@ -1,0 +1,52 @@
+{
+ "id": "M1715",
+ "game": "nes/super-mario-bros",
+ "category": {
+  "goal": "warps"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1715.fm2",
+  "format": "fm2",
+  "frames": 17868,
+  "rerecords": 9739,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Super Mario Bros. (JU) [!].nes",
+    "sha1": "ea343f4e445a9050d4b4fbac2c77d0693b1d0922"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1715M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=siYert4HOSo"
+  }
+ ],
+ "submitted": "2011-01-06T18:40:18",
+ "attachments": [],
+ "forum": {
+  "topicId": 1270,
+  "url": "https://forum.toolassisted.run/t/1270"
+ }
+}

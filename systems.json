@@ -143,5 +143,9 @@
  "appleii": {
   "name": "AppleII",
   "fps": 60.0
+ },
+ "fds": {
+  "name": "Famicom Disk System",
+  "fps": 60.0988138974405
  }
 }

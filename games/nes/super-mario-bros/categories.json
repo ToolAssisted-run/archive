@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "warps",
+     "label": "warps",
+     "rule": "Imported as \"warps\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "warpless-walkathon",
+     "label": "warpless, walkathon",
+     "rule": "Imported as \"warpless, walkathon\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}
