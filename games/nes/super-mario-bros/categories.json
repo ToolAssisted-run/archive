@@ -13,6 +13,11 @@
        "key": "pal",
        "label": "PAL",
        "rule": "PAL (Europe) region of the game ROM must be used."
+      },
+      {
+       "key": "ntsc",
+       "label": "NTSC",
+       "rule": "NTSC region of the game ROM must be used."
       }
      ]
     },
