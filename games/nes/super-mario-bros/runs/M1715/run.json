@@ -3,7 +3,7 @@
  "game": "nes/super-mario-bros",
  "category": {
   "goal": "warps",
-  "sub": "pal"
+  "sub": "ntsc"
  },
  "authors": [
   {

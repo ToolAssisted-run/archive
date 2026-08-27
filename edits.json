@@ -6000,6 +6000,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:30:04Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "run",
+   "key": "M1715",
+   "field": "goal",
+   "from": "warps/pal",
+   "to": "warps/ntsc",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:31:13Z",
+   "reason": "Clarify the category for the run"
   }
  ]
 }
