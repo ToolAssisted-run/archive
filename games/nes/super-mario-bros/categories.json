@@ -46,7 +46,7 @@
     },
     {
      "key": "temp-warps",
-     "label": "temp warps",
+     "label": "warps",
      "rule": "Complete the game in the fastest time. Warps are allowed."
     }
    ]
