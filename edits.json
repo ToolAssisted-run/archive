@@ -5945,6 +5945,28 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:21:47Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M4763",
+   "field": "contentWarnings",
+   "from": "",
+   "to": "photosensitivity",
+   "by": "HappyLee",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:22:50Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M4763",
+   "field": "encode",
+   "from": "https://www.youtube.com/watch?v=7kNby3MCQtc",
+   "to": "https://www.youtube.com/watch?v=g1DHUsQWGfM",
+   "by": "HappyLee",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:22:50Z",
+   "reason": "The author's own revision."
   }
  ]
 }

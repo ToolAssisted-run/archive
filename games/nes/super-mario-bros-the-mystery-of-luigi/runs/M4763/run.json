@@ -40,7 +40,7 @@
  "encodes": [
   {
    "kind": "youtube",
-   "url": "https://www.youtube.com/watch?v=7kNby3MCQtc"
+   "url": "https://www.youtube.com/watch?v=g1DHUsQWGfM"
   }
  ],
  "submitted": "2022-07-10T04:57:48.879788",
@@ -48,5 +48,8 @@
  "forum": {
   "topicId": 1284,
   "url": "https://forum.toolassisted.run/t/1284"
- }
+ },
+ "contentWarnings": [
+  "photosensitivity"
+ ]
 }
