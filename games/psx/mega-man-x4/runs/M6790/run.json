@@ -1,0 +1,53 @@
+{
+ "id": "M6790",
+ "game": "psx/mega-man-x4",
+ "category": {
+  "goal": "x-no-items"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6790.bk2",
+  "format": "bk2",
+  "frames": 143342,
+  "fps": 59.82653123469519,
+  "rerecords": 157614,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "Mega Man X4 (USA).bin",
+    "sha1": "26ffe24a79384b24af7571674251ee575e889b38"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6790M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=oYHSppGSerM"
+  }
+ ],
+ "submitted": "2025-10-26T20:13:13.792233",
+ "attachments": [],
+ "forum": {
+  "topicId": 1301,
+  "url": "https://forum.toolassisted.run/t/1301"
+ }
+}

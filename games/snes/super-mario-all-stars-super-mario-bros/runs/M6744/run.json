@@ -1,0 +1,55 @@
+{
+ "id": "M6744",
+ "game": "snes/super-mario-all-stars-super-mario-bros",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Niftski"
+  },
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6744.bk2",
+  "format": "bk2",
+  "frames": 18235,
+  "rerecords": 15024,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "Super Mario Collection (J) (V1.0) [!].sfc",
+    "sha1": "bee927b5ffe277ebd537b0872d2424eeac37b8e3"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6744M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ReQdH6HK4-E"
+  }
+ ],
+ "submitted": "2025-09-20T14:35:40.585931",
+ "attachments": [],
+ "forum": {
+  "topicId": 1300,
+  "url": "https://forum.toolassisted.run/t/1300"
+ }
+}

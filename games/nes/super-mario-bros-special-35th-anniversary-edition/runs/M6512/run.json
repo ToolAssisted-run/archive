@@ -1,0 +1,55 @@
+{
+ "id": "M6512",
+ "game": "nes/super-mario-bros-special-35th-anniversary-edition",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Kzwbz"
+  },
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6512.fm2",
+  "format": "fm2",
+  "frames": 72068,
+  "rerecords": 21826,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "files": [
+   {
+    "name": "SMB Special - 35th Anniversary v1.3.nes",
+    "sha1": "5948159fec36b5c1ea310f79fd166cb094ea7646"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6512M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rkonGk4VGUg"
+  }
+ ],
+ "submitted": "2025-04-27T02:26:15.145903",
+ "attachments": [],
+ "forum": {
+  "topicId": 1294,
+  "url": "https://forum.toolassisted.run/t/1294"
+ }
+}

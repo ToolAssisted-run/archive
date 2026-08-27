@@ -1,0 +1,52 @@
+{
+ "id": "M6559",
+ "game": "nes/vs-air-man",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6559.fm2",
+  "format": "fm2",
+  "frames": 4282,
+  "rerecords": 3224,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.4",
+  "files": [
+   {
+    "name": "SMB_vsairman1.01.nes",
+    "sha1": "ba15b323aa1441d961bef1a59cbefde514c2cea7"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6559M",
+  "importedBy": "HappyLee",
+  "importedAt": "2026-08-27"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Qr71iYenbvY"
+  }
+ ],
+ "submitted": "2025-05-26T17:48:23.438849",
+ "attachments": [],
+ "forum": {
+  "topicId": 1297,
+  "url": "https://forum.toolassisted.run/t/1297"
+ }
+}

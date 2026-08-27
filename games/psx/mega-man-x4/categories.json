@@ -13,6 +13,11 @@
      "key": "zero",
      "label": "Zero",
      "rule": "Imported as \"Zero\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "x-no-items",
+     "label": "X, no items",
+     "rule": "Imported as \"X, no items\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }
