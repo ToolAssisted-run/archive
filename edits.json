@@ -5714,6 +5714,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T15:23:51Z",
    "reason": "Changed from the group form: nes/super-mario-bros-two-players-hack moved in gbc/super-mario-bros-deluxe moved in from super-mario-bros nes/superfast-mario-bros moved in from super-mario-bros"
+  },
+  {
+   "kind": "run",
+   "key": "M6963",
+   "field": "duration",
+   "from": "289.009",
+   "to": "289.09",
+   "by": "HappyLee",
+   "date": "2026-08-27",
+   "at": "2026-08-27T15:24:50Z",
+   "reason": "The author's own revision."
   }
  ]
 }
