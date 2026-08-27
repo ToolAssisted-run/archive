@@ -6022,6 +6022,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:34:25Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:pal-warps",
+   "field": "added",
+   "from": "",
+   "to": "PAL, warps",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:35:06Z",
+   "reason": "Created it."
   }
  ]
 }
