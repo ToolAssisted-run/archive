@@ -6187,6 +6187,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:44:35Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:*",
+   "field": "order",
+   "from": "warpless-walkathon, maximum-coins, warpless, all-items, minimum-a-presses, 000000-points, warps-walkathon, pal-warps, warps",
+   "to": "warps, pal-warps, warps-walkathon, warpless, warpless-walkathon, maximum-coins, 000000-points, all-items, minimum-a-presses",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:44:41Z",
+   "reason": "Re-arrange categories, rename the temp category to its actual name"
   }
  ]
 }

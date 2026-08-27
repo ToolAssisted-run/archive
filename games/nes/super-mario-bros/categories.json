@@ -5,6 +5,26 @@
    "name": "Category",
    "options": [
     {
+     "key": "warps",
+     "label": "warps",
+     "rule": "Complete the game in the fastest time. Warps are allowed.\r\nNTSC region of a game ROM is assumed."
+    },
+    {
+     "key": "pal-warps",
+     "label": "PAL, warps",
+     "rule": "The game ROM of PAL (Europe) region must be used.\r\nComplete the game in the fastest time. Warps are allowed."
+    },
+    {
+     "key": "warps-walkathon",
+     "label": "warps, walkathon",
+     "rule": "Imported as \"warps, walkathon\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "warpless",
+     "label": "warpless",
+     "rule": "Imported as \"warpless\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
      "key": "warpless-walkathon",
      "label": "warpless, walkathon",
      "rule": "Imported as \"warpless, walkathon\" from the source it was published at; rules to be formalized by the game's experts."
@@ -15,9 +35,9 @@
      "rule": "Imported as \"maximum coins\" from the source it was published at; rules to be formalized by the game's experts."
     },
     {
-     "key": "warpless",
-     "label": "warpless",
-     "rule": "Imported as \"warpless\" from the source it was published at; rules to be formalized by the game's experts."
+     "key": "000000-points",
+     "label": "000000 points",
+     "rule": "Finish the game with 000000 points (by overflowing the edge of 9999950 points)"
     },
     {
      "key": "all-items",
@@ -28,26 +48,6 @@
      "key": "minimum-a-presses",
      "label": "minimum A presses",
      "rule": "Imported as \"minimum A presses\" from the source it was published at; rules to be formalized by the game's experts."
-    },
-    {
-     "key": "000000-points",
-     "label": "000000 points",
-     "rule": "Finish the game with 000000 points (by overflowing the edge of 9999950 points)"
-    },
-    {
-     "key": "warps-walkathon",
-     "label": "warps, walkathon",
-     "rule": "Imported as \"warps, walkathon\" from the source it was published at; rules to be formalized by the game's experts."
-    },
-    {
-     "key": "pal-warps",
-     "label": "PAL, warps",
-     "rule": "The game ROM of PAL (Europe) region must be used.\r\nComplete the game in the fastest time. Warps are allowed."
-    },
-    {
-     "key": "warps",
-     "label": "warps",
-     "rule": "Complete the game in the fastest time. Warps are allowed.\r\nNTSC region of a game ROM is assumed."
     }
    ]
   }
