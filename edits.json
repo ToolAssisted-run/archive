@@ -6066,6 +6066,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:36:03Z",
    "reason": "\"PAL, warps\" is now a separate category"
+  },
+  {
+   "kind": "run",
+   "key": "M1715",
+   "field": "encode",
+   "from": "https://www.youtube.com/watch?v=siYert4HOSo",
+   "to": "https://www.youtube.com/watch?v=mDUmUW346sA",
+   "by": "HappyLee",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:37:18Z",
+   "reason": "The author's own revision."
   }
  ]
 }
