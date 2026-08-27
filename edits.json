@@ -5923,6 +5923,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:21:17Z",
    "reason": "Better clarity"
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:maximum-score",
+   "field": "key",
+   "from": "maximum-score",
+   "to": "000000-points",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:21:23Z",
+   "reason": "Better clarity"
   }
  ]
 }

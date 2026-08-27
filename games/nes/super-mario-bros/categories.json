@@ -35,7 +35,7 @@
      "rule": "Imported as \"minimum A presses\" from the source it was published at; rules to be formalized by the game's experts."
     },
     {
-     "key": "maximum-score",
+     "key": "000000-points",
      "label": "000000 points",
      "rule": "Finish the game with 000000 points (by overflowing the edge of 9999950 points)"
     },

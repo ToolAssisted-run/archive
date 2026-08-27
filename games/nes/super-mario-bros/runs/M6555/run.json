@@ -2,7 +2,7 @@
  "id": "M6555",
  "game": "nes/super-mario-bros",
  "category": {
-  "goal": "maximum-score"
+  "goal": "000000-points"
  },
  "authors": [
   {
