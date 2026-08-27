@@ -6110,6 +6110,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T19:39:41Z",
    "reason": "A workaround movement"
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:warps",
+   "field": "removed",
+   "from": "warps",
+   "to": "",
+   "by": "Dimon12321",
+   "date": "2026-08-27",
+   "at": "2026-08-27T19:40:49Z",
+   "reason": "Delete group to rename another one"
   }
  ]
 }
