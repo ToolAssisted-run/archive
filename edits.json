@@ -5725,6 +5725,17 @@
    "date": "2026-08-27",
    "at": "2026-08-27T15:24:50Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "nes/bob-omb-mario",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "GMP",
+   "date": "2026-08-27",
+   "at": "2026-08-27T15:33:14Z",
+   "reason": "Unofficial game"
   }
  ]
 }
