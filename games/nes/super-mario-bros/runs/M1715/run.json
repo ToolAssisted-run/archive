@@ -2,7 +2,8 @@
  "id": "M1715",
  "game": "nes/super-mario-bros",
  "category": {
-  "goal": "warps"
+  "goal": "warps",
+  "sub": "pal"
  },
  "authors": [
   {

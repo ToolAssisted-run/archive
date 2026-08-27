@@ -7,7 +7,14 @@
     {
      "key": "warps",
      "label": "warps",
-     "rule": "Imported as \"warps\" from the source it was published at; rules to be formalized by the game's experts."
+     "rule": "Imported as \"warps\" from the source it was published at; rules to be formalized by the game's experts.",
+     "subcategories": [
+      {
+       "key": "pal",
+       "label": "PAL",
+       "rule": "PAL (Europe) region of the game ROM must be used."
+      }
+     ]
     },
     {
      "key": "warpless-walkathon",
