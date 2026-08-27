@@ -5648,6 +5648,61 @@
    "date": "2026-08-25",
    "at": "2026-08-25T19:14:53Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6963",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "HappyLee",
+   "date": "2026-08-27",
+   "at": "2026-08-27T15:08:57Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6963",
+   "field": "emulator",
+   "from": "FCEUX 2.6.4",
+   "to": "",
+   "by": "HappyLee",
+   "date": "2026-08-27",
+   "at": "2026-08-27T15:08:57Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6963",
+   "field": "files",
+   "from": "Super Mario Bros. (Two Players Hack).nes 645a31824ab270e064a6a928a18b9e21dd45c370",
+   "to": "",
+   "by": "HappyLee",
+   "date": "2026-08-27",
+   "at": "2026-08-27T15:08:57Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6963",
+   "field": "encode",
+   "from": "https://www.youtube.com/watch?v=A4wNSZd_Co8",
+   "to": "https://www.youtube.com/watch?v=FXHvNyQN0D0",
+   "by": "HappyLee",
+   "date": "2026-08-27",
+   "at": "2026-08-27T15:08:57Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6963",
+   "field": "duration",
+   "from": "None",
+   "to": "289.009",
+   "by": "HappyLee",
+   "date": "2026-08-27",
+   "at": "2026-08-27T15:08:57Z",
+   "reason": "The author's own revision."
   }
  ]
 }
