@@ -54,6 +54,15 @@
    "date": "2026-08-24",
    "at": "2026-08-24T15:29:25Z",
    "reason": "a duplicate account, deleting by request of its owner"
+  },
+  {
+   "kind": "group",
+   "key": "super-mario-bros",
+   "title": "Super Mario Bros.",
+   "by": "GMP",
+   "date": "2026-08-28",
+   "at": "2026-08-28T00:30:18Z",
+   "reason": "I moved some games to the broader \"Mario\" group, without realising this group exists. Either way I think that one fits better."
   }
  ]
 }
