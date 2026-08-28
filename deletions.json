@@ -81,6 +81,15 @@
    "date": "2026-08-28",
    "at": "2026-08-28T09:15:51Z",
    "reason": "Removal requested from one of the co-authors and got consent from the submitter."
+  },
+  {
+   "kind": "run",
+   "key": "M6987",
+   "title": "snes/the-lion-king (baseline)",
+   "by": "GMP",
+   "date": "2026-08-28",
+   "at": "2026-08-28T09:16:06Z",
+   "reason": "Removal requested from one of the co-authors and got consent from the submitter."
   }
  ]
 }
