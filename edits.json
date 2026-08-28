@@ -6319,6 +6319,17 @@
    "date": "2026-08-28",
    "at": "2026-08-28T11:21:08Z",
    "reason": "Cropping try 2"
+  },
+  {
+   "kind": "run",
+   "key": "M100041",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "KusogeMan",
+   "date": "2026-08-28",
+   "at": "2026-08-28T13:15:45Z",
+   "reason": "The author's own revision."
   }
  ]
 }
