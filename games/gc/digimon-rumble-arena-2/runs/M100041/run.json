@@ -1,0 +1,38 @@
+{
+ "id": "M100041",
+ "game": "gc/digimon-rumble-arena-2",
+ "category": {
+  "goal": "unclassified"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "videoOnly": true,
+ "thumbnail": "thumb.jpg",
+ "goalDescription": "Palmon playaround",
+ "contract": {
+  "emulator": ""
+ },
+ "status": {
+  "reproduced": "not-applicable",
+  "verified": "none",
+  "console": "not-applicable"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=KCjpShGwNBY"
+  }
+ ],
+ "attachments": [],
+ "completed": "2021-05-08",
+ "submitted": "2026-08-28T13:13:46Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1308,
+  "url": "https://forum.toolassisted.run/t/1308"
+ }
+}
