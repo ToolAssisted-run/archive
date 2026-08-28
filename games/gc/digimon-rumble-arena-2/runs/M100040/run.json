@@ -1,0 +1,38 @@
+{
+ "id": "M100040",
+ "game": "gc/digimon-rumble-arena-2",
+ "category": {
+  "goal": "unclassified"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "videoOnly": true,
+ "thumbnail": "thumb.jpg",
+ "goalDescription": "Gatomon playaround",
+ "contract": {
+  "emulator": ""
+ },
+ "status": {
+  "reproduced": "not-applicable",
+  "verified": "none",
+  "console": "not-applicable"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8vwjXeSLmiY"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-05-12",
+ "submitted": "2026-08-28T13:09:17Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1307,
+  "url": "https://forum.toolassisted.run/t/1307"
+ }
+}
