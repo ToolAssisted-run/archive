@@ -1,0 +1,45 @@
+{
+ "id": "M100045",
+ "game": "snes/the-devious-four-chronicles-the-crater-retold",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 24383.777,
+ "movie": {
+  "file": "M100045.bk2",
+  "format": "bk2",
+  "sha1": "fbb36146ddc3d745e583c8598dbd52893209943a",
+  "frames": 1465436,
+  "rerecords": 4295,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=FpcWPF7O_WY&pp=0gcJCRMMAYcqIYzv"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-02-24",
+ "submitted": "2026-08-29T21:01:27Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1319,
+  "url": "https://forum.toolassisted.run/t/1319"
+ }
+}
