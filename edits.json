@@ -6506,6 +6506,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T15:38:59Z",
    "reason": "Enriched meta fields"
+  },
+  {
+   "kind": "game",
+   "key": "flash/the-amazing-dare-dozen",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/The_Amazing_DareDozen",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T15:39:05Z",
+   "reason": "Enriched meta fields"
   }
  ]
 }
