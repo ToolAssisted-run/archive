@@ -6517,6 +6517,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T15:39:05Z",
    "reason": "Enriched meta fields"
+  },
+  {
+   "kind": "game",
+   "key": "flash/the-amazing-dare-dozen",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T15:39:11Z",
+   "reason": "Enriched meta fields"
   }
  ]
 }
