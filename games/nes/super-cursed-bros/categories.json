@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "warps",
+     "label": "warps",
+     "rule": "Beat The Game With Glitches"
+    }
+   ]
+  }
+ ]
+}
