@@ -147,5 +147,20 @@
  "fds": {
   "name": "Famicom Disk System",
   "fps": 60.0988138974405
+ },
+ "ps2": {
+  "name": "PlayStation 2",
+  "fps": 59.94005994005994,
+  "hardToReproduce": true
+ },
+ "psp": {
+  "name": "PlayStation Portable",
+  "fps": 59.9400599400599,
+  "hardToReproduce": true
+ },
+ "dreamcast": {
+  "name": "Sega Dreamcast",
+  "fps": 59.94005994005994,
+  "hardToReproduce": true
  }
 }
