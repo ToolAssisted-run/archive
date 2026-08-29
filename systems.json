@@ -1,59 +1,71 @@
 {
  "a2600": {
+  "wikidata": "Q206261",
   "name": "Atari 2600",
   "fps": 59.9227510135505,
   "hardwareVerifiable": true
  },
  "nes": {
+  "wikidata": "Q172742",
   "name": "Nintendo Entertainment System",
   "fps": 60.0988138974405,
   "hardwareVerifiable": true
  },
  "c64": {
+  "wikidata": "Q99775",
   "name": "Commodore 64",
   "fps": 50.1245421245421,
   "hardToReproduce": true
  },
  "dos": {
+  "wikidata": "Q170434",
   "name": "DOS",
   "fps": 60.0,
   "hardToReproduce": true
  },
  "genesis": {
+  "wikidata": "Q10676",
   "name": "Sega Genesis",
   "fps": 59.922751013551,
   "hardwareVerifiable": true
  },
  "snes": {
+  "wikidata": "Q183259",
   "name": "Super Nintendo Entertainment System",
   "fps": 60.0988118623484,
   "hardwareVerifiable": true
  },
  "amiga": {
+  "wikidata": "Q100047",
   "name": "Amiga",
   "fps": 49.92041015625,
   "hardToReproduce": true
  },
  "gbc": {
+  "wikidata": "Q203992",
   "name": "Game Boy Color",
   "fps": 59.7275005696058,
   "hardwareVerifiable": true
  },
  "gg": {
+  "wikidata": "Q751719",
   "name": "Sega Game Gear",
   "fps": 59.922751013551
  },
  "gba": {
+  "wikidata": "Q188642",
   "name": "Game Boy Advance",
   "fps": 59.7275005696058,
   "hardwareVerifiable": true
  },
  "psx": {
+  "wikidata": "Q10677",
   "name": "PlayStation",
   "fps": 59.29286256195557,
   "hardToReproduce": true
  },
  "3do": {
+  "wikidata": "Q229429",
   "name": "3DO",
   "fps": 60.0,
   "hardToReproduce": true
@@ -64,106 +76,129 @@
   "hardToReproduce": true
  },
  "pce": {
+  "wikidata": "Q1057377",
   "name": "PC Engine / TurboGrafx-16",
   "fps": 59.8261054534819
  },
  "arcade": {
+  "wikidata": "Q192851",
   "name": "Arcade",
   "fps": 59.63740458015267,
   "hardToReproduce": true
  },
  "n64": {
+  "wikidata": "Q184839",
   "name": "Nintendo 64",
   "fps": 60.0,
   "hardwareVerifiable": true
  },
  "tic80": {
+  "wikidata": "Q56473777",
   "name": "TIC80",
   "fps": 60.0
  },
  "zxs": {
+  "wikidata": "Q23882",
   "name": "ZX Spectrum",
   "fps": 50.080128205,
   "hardToReproduce": true
  },
  "flash": {
+  "wikidata": "Q165658",
   "name": "Flash",
   "fps": 24.0
  },
  "ds": {
+  "wikidata": "Q170323",
   "name": "Nintendo DS",
   "fps": 59.82609828808082
  },
  "gb": {
+  "wikidata": "Q186437",
   "name": "Game Boy",
   "fps": 59.7275005696058,
   "hardwareVerifiable": true
  },
  "3ds": {
+  "wikidata": "Q203597",
   "name": "3DS",
   "fps": 59.83122493939037
  },
  "gc": {
+  "wikidata": "Q182172",
   "name": "GameCube",
   "fps": 60.0,
   "hardToReproduce": true
  },
  "wii": {
+  "wikidata": "Q8079",
   "name": "Wii",
   "fps": 60.0,
   "hardToReproduce": true
  },
  "sms": {
+  "wikidata": "Q209868",
   "name": "Sega Master System",
   "fps": 59.922751013551
  },
  "segacd": {
+  "wikidata": "Q1047516",
   "name": "Sega CD",
   "fps": 59.922751013550524,
   "hardToReproduce": true
  },
  "pcecd": {
+  "wikidata": "Q10854461",
   "name": "PC Engine CD",
   "fps": 59.8261054534819,
   "hardToReproduce": true
  },
  "wswan": {
+  "wikidata": "Q1065792",
   "name": "WonderSwan",
   "fps": 75.4716981132075
  },
  "uzebox": {
+  "wikidata": "Q579739",
   "name": "Uzebox",
   "fps": 60.01631993960238
  },
  "msx": {
+  "wikidata": "Q853547",
   "name": "MSX",
   "fps": 59.9227510135505,
   "hardToReproduce": true
  },
  "appleii": {
+  "wikidata": "Q201652",
   "name": "AppleII",
   "fps": 60.0
  },
  "fds": {
+  "wikidata": "Q135321",
   "name": "Famicom Disk System",
   "fps": 60.0988138974405
  },
  "ps2": {
+  "wikidata": "Q10680",
   "name": "PlayStation 2",
   "fps": 59.94005994005994,
   "hardToReproduce": true
  },
  "psp": {
+  "wikidata": "Q170325",
   "name": "PlayStation Portable",
   "fps": 59.94005994005994,
   "hardToReproduce": true
  },
  "dreamcast": {
+  "wikidata": "Q184198",
   "name": "Sega Dreamcast",
   "fps": 59.94005994005994,
   "hardToReproduce": true
  },
  "terebikko": {
+  "wikidata": "Q3518305",
   "name": "Bandai Terebikko",
   "fps": 29.97002997002997,
   "hardToReproduce": true
