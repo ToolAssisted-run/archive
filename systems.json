@@ -162,5 +162,10 @@
   "name": "Sega Dreamcast",
   "fps": 59.94005994005994,
   "hardToReproduce": true
+ },
+ "terebikko": {
+  "name": "Bandai Terebikko",
+  "fps": 29.97002997002997,
+  "hardToReproduce": true
  }
 }
