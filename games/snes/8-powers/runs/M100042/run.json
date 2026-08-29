@@ -33,7 +33,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -50,5 +50,15 @@
   "topicId": 1314,
   "url": "https://forum.toolassisted.run/t/1314"
  },
- "completed": "2026-02-04"
+ "completed": "2026-02-04",
+ "reproductions": [
+  {
+   "user": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T14:31:55Z",
+   "screenshot": "reproductions/1-GMP.png",
+   "emulator": "BizHawk 2.11",
+   "notes": "I had to inspect the network tab to down a 7z file named \"873.7z\" and then extract it to get the rom file of the game from a certain site."
+  }
+ ]
 }
