@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "tool": "TerebikkoEmu TAS",
+  "created": "2026-07-10T21:26:57.140Z",
+  "fps": 30,
+  "videoFile": "[VHS修復更新] マリオとヨッシーの冒険ランド (2018 UPDATE) Mario to Yoshi no Bouken Land VHS Restoration.mp4",
+  "videoSize": 92785335,
+  "mode": "easy",
+  "inputCount": 20,
+  "inputs": [
+    {
+      "frame": 3276,
+      "action": "pickup",
+      "value": null,
+      "time": 109.21
+    },
+    {
+      "frame": 6712,
+      "action": "pickup",
+      "value": null,
+      "time": 223.74
+    },
+    {
+      "frame": 7072,
+      "action": "ans1",
+      "value": 1,
+      "time": 235.74
+    },
+    {
+      "frame": 10696,
+      "action": "pickup",
+      "value": null,
+      "time": 356.54
+    },
+    {
+      "frame": 11465,
+      "action": "ans2",
+      "value": 2,
+      "time": 382.17
+    },
+    {
+      "frame": 16268,
+      "action": "pickup",
+      "value": null,
+      "time": 542.27
+    },
+    {
+      "frame": 17172,
+      "action": "ans1",
+      "value": 1,
+      "time": 572.4
+    },
+    {
+      "frame": 18989,
+      "action": "ans1",
+      "value": 1,
+      "time": 632.96
+    },
+    {
+      "frame": 20994,
+      "action": "pickup",
+      "value": null,
+      "time": 699.79
+    },
+    {
+      "frame": 22032,
+      "action": "ans2",
+      "value": 2,
+      "time": 734.39
+    },
+    {
+      "frame": 25748,
+      "action": "pickup",
+      "value": null,
+      "time": 858.25
+    },
+    {
+      "frame": 26689,
+      "action": "ans2",
+      "value": 2,
+      "time": 889.64
+    },
+    {
+      "frame": 29368,
+      "action": "pickup",
+      "value": null,
+      "time": 978.95
+    },
+    {
+      "frame": 30285,
+      "action": "ans3",
+      "value": 3,
+      "time": 1009.49
+    },
+    {
+      "frame": 31689,
+      "action": "pickup",
+      "value": null,
+      "time": 1056.31
+    },
+    {
+      "frame": 36606,
+      "action": "pickup",
+      "value": null,
+      "time": 1220.2
+    },
+    {
+      "frame": 37111,
+      "action": "ans4",
+      "value": 4,
+      "time": 1237.04
+    },
+    {
+      "frame": 41089,
+      "action": "ans2",
+      "value": 2,
+      "time": 1369.65
+    },
+    {
+      "frame": 47492,
+      "action": "ans1",
+      "value": 1,
+      "time": 1583.07
+    },
+    {
+      "frame": 49209,
+      "action": "pickup",
+      "value": null,
+      "time": 1640.28
+    }
+  ]
+}

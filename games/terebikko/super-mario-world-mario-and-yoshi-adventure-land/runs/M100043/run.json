@@ -1,0 +1,48 @@
+{
+ "id": "M100043",
+ "game": "terebikko/super-mario-world-mario-and-yoshi-adventure-land",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "CalebeGamesRom"
+  }
+ ],
+ "tools": [],
+ "videoOnly": true,
+ "duration": 1623.39,
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "terebikkotasemu",
+  "files": [
+   {
+    "name": "[VHS\u4fee\u5fa9\u66f4\u65b0] \u30de\u30ea\u30aa\u3068\u30e8\u30c3\u30b7\u30fc\u306e\u5192\u967a\u30e9\u30f3\u30c9  (2018 UPDATE) Mario to Yoshi no Bouken Land VHS Restoration.mp4",
+    "sha1": "ad5a984ceef3e45ab65758d331c8eaabff09dad3"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "not-applicable",
+  "verified": "none",
+  "console": "not-applicable"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=uFXCODm76_8"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/_VHS______________________2018_UPDATE__Mario_to_Yoshi_no_Bouken_Land_VHS_Restoration_1783718817141.tas",
+   "role": "submitted attachment"
+  }
+ ],
+ "submitted": "2026-08-29T14:39:52Z",
+ "submittedBy": "CalebeGamesRom",
+ "forum": {
+  "topicId": 1315,
+  "url": "https://forum.toolassisted.run/t/1315"
+ }
+}
