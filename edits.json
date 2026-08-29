@@ -6352,6 +6352,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T13:47:59Z",
    "reason": "Enriched meta fields"
+  },
+  {
+   "kind": "game",
+   "key": "nes/super-mario-bros",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/NWs2CjrFdu",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T13:48:06Z",
+   "reason": "Enriched meta fields"
   }
  ]
 }
