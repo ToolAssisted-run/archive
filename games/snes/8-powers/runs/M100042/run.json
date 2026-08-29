@@ -24,7 +24,13 @@
   "photosensitivity"
  ],
  "contract": {
-  "emulator": "BizHawk 2.11"
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "8 Powers (Fix Update 1) (English) by Mizuno + THFTT [2019-02-22] (SMW Hack).sfc",
+    "sha1": "f28379c7ea53eff18f20944a59d56dad289a9707"
+   }
+  ]
  },
  "status": {
   "reproduced": "none",

@@ -6462,6 +6462,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T14:17:16Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100042",
+   "field": "files",
+   "from": "",
+   "to": "8 Powers (Fix Update 1) (English) by Mizuno + THFTT [2019-02-22] (SMW Hack).sfc f28379c7ea53eff18f20944a59d56dad289a9707",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T14:25:19Z",
+   "reason": "Update ROM info"
   }
  ]
 }
