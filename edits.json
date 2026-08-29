@@ -6363,6 +6363,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T13:48:06Z",
    "reason": "Enriched meta fields"
+  },
+  {
+   "kind": "game",
+   "key": "nes/super-mario-bros",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/smb1",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T13:48:12Z",
+   "reason": "Enriched meta fields"
   }
  ]
 }
