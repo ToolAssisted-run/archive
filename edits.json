@@ -6484,6 +6484,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T15:33:02Z",
    "reason": "Changed from the group form: nes/super-cursed-bros moved in"
+  },
+  {
+   "kind": "game",
+   "key": "flash/the-amazing-dare-dozen",
+   "field": "title",
+   "from": "The Amazing Dare Dozen",
+   "to": "The Amazing Dare-Dozen",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T15:38:53Z",
+   "reason": "Enriched meta fields"
   }
  ]
 }
