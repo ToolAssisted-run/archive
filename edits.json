@@ -6330,6 +6330,17 @@
    "date": "2026-08-28",
    "at": "2026-08-28T13:15:45Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100038",
+   "field": "game/category",
+   "from": "snes/mortal-kombat:unclassified",
+   "to": "snes/mortal-kombat-champion-edition:unclassified",
+   "by": "Dimon12321",
+   "date": "2026-08-29",
+   "at": "2026-08-29T12:25:23Z",
+   "reason": "The run of a ROM hack was present in the official game. Moving to its own page"
   }
  ]
 }
