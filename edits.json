@@ -6396,6 +6396,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T14:01:16Z",
    "reason": "Enriched meta fields"
+  },
+  {
+   "kind": "game",
+   "key": "snes/8-powers",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T14:01:23Z",
+   "reason": "Enriched meta fields"
   }
  ]
 }
