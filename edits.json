@@ -6374,6 +6374,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T13:48:12Z",
    "reason": "Enriched meta fields"
+  },
+  {
+   "kind": "group",
+   "key": "mario",
+   "field": "games",
+   "from": "fds/super-mario-bros, fds/super-mario-bros-2, gbc/super-mario-bros-deluxe, nes/bob-omb-mario, nes/extra-mario-bros, nes/hard-relay-mario, nes/super-mario-bros, nes/super-mario-bros-special-35th-anniversary-edition, nes/super-mario-bros-the-mystery-of-luigi, nes/super-mario-bros-two-players-hack, nes",
+   "to": "fds/super-mario-bros, fds/super-mario-bros-2, gbc/super-mario-bros-deluxe, nes/bob-omb-mario, nes/extra-mario-bros, nes/hard-relay-mario, nes/super-mario-bros, nes/super-mario-bros-special-35th-anniversary-edition, nes/super-mario-bros-the-mystery-of-luigi, nes/super-mario-bros-two-players-hack, nes",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T13:58:16Z",
+   "reason": "Changed from the group form: snes/8-powers moved in snes/super-mario-world moved in terebikko/super-mario-world-mario-and-yoshi-adventure-land moved in"
   }
  ]
 }
