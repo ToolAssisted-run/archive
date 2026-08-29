@@ -6407,6 +6407,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T14:01:23Z",
    "reason": "Enriched meta fields"
+  },
+  {
+   "kind": "game",
+   "key": "snes/8-powers",
+   "field": "rules",
+   "from": "",
+   "to": "8 Powers is a ROM hack of [Super Mario World](/games/snes/super-mario-world)",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T14:01:29Z",
+   "reason": "Enriched meta fields"
   }
  ]
 }
