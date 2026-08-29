@@ -6418,6 +6418,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T14:01:29Z",
    "reason": "Enriched meta fields"
+  },
+  {
+   "kind": "game",
+   "key": "terebikko/super-mario-world-mario-and-yoshi-adventure-land",
+   "field": "released",
+   "from": "",
+   "to": "1991",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T14:03:30Z",
+   "reason": "Enriched meta fields"
   }
  ]
 }
