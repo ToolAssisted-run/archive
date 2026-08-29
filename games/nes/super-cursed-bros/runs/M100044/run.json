@@ -1,0 +1,59 @@
+{
+ "id": "M100044",
+ "game": "nes/super-cursed-bros",
+ "category": {
+  "goal": "warps"
+ },
+ "authors": [
+  {
+   "user": "BLGHA"
+  },
+  {
+   "user": "duckthegun0"
+  }
+ ],
+ "tools": [],
+ "duration": 698.071,
+ "movie": {
+  "file": "M100044.fm2",
+  "format": "fm2",
+  "sha1": "a0bfe881616c1f46357ede361a5fbb4a82b5fa6e",
+  "frames": 42290,
+  "rerecords": 1425,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.6",
+  "files": [
+   {
+    "name": "Super dude.nes",
+    "sha1": "65831d211465b75e0fd519779dd55118b67b7216"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/embed/ouRA9WdGXE8?si=FN0vkcVhc25vP1sg"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/Super_dude_11_38.100__1__1_.fm2",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-08-26",
+ "submitted": "2026-08-29T15:32:18Z",
+ "submittedBy": "duckthegun0",
+ "forum": {
+  "topicId": 1317,
+  "url": "https://forum.toolassisted.run/t/1317"
+ }
+}
