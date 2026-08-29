@@ -6341,6 +6341,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T12:25:23Z",
    "reason": "The run of a ROM hack was present in the official game. Moving to its own page"
+  },
+  {
+   "kind": "game",
+   "key": "nes/super-mario-bros",
+   "field": "released",
+   "from": "",
+   "to": "1985-09-13",
+   "by": "GMP",
+   "date": "2026-08-29",
+   "at": "2026-08-29T13:47:59Z",
+   "reason": "Enriched meta fields"
   }
  ]
 }
