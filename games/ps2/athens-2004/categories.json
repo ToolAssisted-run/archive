@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "pole-vault",
+     "label": "Pole Vault",
+     "rule": "Clear the largest height (6.40m) in the Pole Vault discipline as quickly as possible"
+    }
+   ]
+  }
+ ]
+}
