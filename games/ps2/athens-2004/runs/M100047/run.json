@@ -1,0 +1,46 @@
+{
+ "id": "M100047",
+ "game": "ps2/athens-2004",
+ "category": {
+  "goal": "weightlifting"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "duration": 101.585,
+ "movie": {
+  "file": "M100047.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "53d1424a4f3030817fc41f8724bc2b995e8978e4",
+  "frames": 5554,
+  "rerecords": 1095,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera development build 595de1ee"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/LqwRXneGVjY"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-08-30",
+ "submitted": "2026-08-30T08:26:50Z",
+ "submittedBy": "toca",
+ "forum": {
+  "topicId": 1322,
+  "url": "https://forum.toolassisted.run/t/1322"
+ }
+}

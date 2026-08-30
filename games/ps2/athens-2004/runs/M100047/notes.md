@@ -1,0 +1,1 @@
+(Made using Chimera development build 595de1ee, last input on frame 5553) I traded some speed for entertainment by naming the player "TAS". Also going for not the EU/AUS ROM but the US or maybe the JPN ROM might save time as well, haven't checked
