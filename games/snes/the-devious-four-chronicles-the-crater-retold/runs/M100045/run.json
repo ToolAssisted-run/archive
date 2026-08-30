@@ -34,7 +34,12 @@
    "url": "https://www.youtube.com/watch?v=FpcWPF7O_WY&pp=0gcJCRMMAYcqIYzv"
   }
  ],
- "attachments": [],
+ "attachments": [
+  {
+   "file": "attachments/CraterReTold_Release_v1_3.bk2",
+   "role": "supplementary"
+  }
+ ],
  "completed": "2026-02-24",
  "submitted": "2026-08-29T21:01:27Z",
  "submittedBy": "thegugafa",

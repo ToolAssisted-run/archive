@@ -6638,6 +6638,17 @@
    "date": "2026-08-30",
    "at": "2026-08-30T14:46:47Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100045",
+   "field": "attachments",
+   "from": "(previous value in git history)",
+   "to": "CraterReTold_Release_v1_3.bk2",
+   "by": "thegugafa",
+   "date": "2026-08-30",
+   "at": "2026-08-30T17:47:15Z",
+   "reason": "The author's own revision."
   }
  ]
 }
