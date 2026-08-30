@@ -1,0 +1,52 @@
+{
+ "id": "M7304",
+ "game": "fds/super-mario-bros-2",
+ "category": {
+  "goal": "all-levels-luigi"
+ },
+ "authors": [
+  {
+   "user": "JQJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7304.bk2",
+  "format": "bk2",
+  "frames": 128307,
+  "rerecords": 91991,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "files": [
+   {
+    "name": "Super Mario Bros. 2 (J).fds",
+    "sha1": "20e50128742162ee47561db9e82b2836399c880c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7304M",
+  "importedBy": "JQJ",
+  "importedAt": "2026-08-30"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=V-WM0TUe5i4"
+  }
+ ],
+ "submitted": "2026-08-07T05:38:16.058548",
+ "attachments": [],
+ "forum": {
+  "topicId": 1327,
+  "url": "https://forum.toolassisted.run/t/1327"
+ }
+}

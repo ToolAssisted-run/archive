@@ -23,6 +23,11 @@
      "key": "game-end-glitch",
      "label": "game end glitch",
      "rule": "Imported as \"game end glitch\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "all-levels-luigi",
+     "label": "all levels, Luigi",
+     "rule": "Imported as \"all levels, Luigi\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }
