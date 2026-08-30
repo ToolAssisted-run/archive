@@ -13,6 +13,11 @@
      "key": "weightlifting",
      "label": "Weightlifting",
      "rule": "Complete the Weightlifting discipline as quickly as possible while lifting the heaviest weight (280kg) at least once"
+    },
+    {
+     "key": "vault",
+     "label": "Vault",
+     "rule": "Complete the Vault discipline as quickly as possible while reaching 10.00 points in total"
     }
    ]
   }

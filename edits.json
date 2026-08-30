@@ -6704,6 +6704,17 @@
    "date": "2026-08-30",
    "at": "2026-08-30T18:58:42Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "ps2/athens-2004:vault",
+   "field": "added",
+   "from": "",
+   "to": "Vault",
+   "by": "toca",
+   "date": "2026-08-30",
+   "at": "2026-08-30T19:32:32Z",
+   "reason": "Created it."
   }
  ]
 }
