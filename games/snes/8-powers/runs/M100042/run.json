@@ -34,7 +34,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -59,6 +59,13 @@
    "screenshot": "reproductions/1-GMP.png",
    "emulator": "BizHawk 2.11",
    "notes": "I had to inspect the network tab to down a 7z file named \"873.7z\" and then extract it to get the rom file of the game from a certain site."
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-08-30",
+   "at": "2026-08-30T18:08:02Z"
   }
  ]
 }
