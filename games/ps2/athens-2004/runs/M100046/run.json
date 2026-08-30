@@ -10,7 +10,6 @@
   }
  ],
  "tools": [],
- "videoOnly": true,
  "duration": 60.561,
  "thumbnail": "thumb.jpg",
  "contract": {
@@ -23,9 +22,9 @@
   ]
  },
  "status": {
-  "reproduced": "not-applicable",
+  "reproduced": "none",
   "verified": "none",
-  "console": "not-applicable"
+  "console": "none"
  },
  "encodes": [
   {
@@ -40,5 +39,14 @@
  "forum": {
   "topicId": 1321,
   "url": "https://forum.toolassisted.run/t/1321"
+ },
+ "movie": {
+  "file": "M100046.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "6f7bf3e1a0394b1a76646f01807f7f5b3babd058",
+  "frames": 3299,
+  "rerecords": 476,
+  "start": "power-on",
+  "fps": 59.94005994005994
  }
 }
