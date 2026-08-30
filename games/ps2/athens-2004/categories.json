@@ -8,6 +8,11 @@
      "key": "pole-vault",
      "label": "Pole Vault",
      "rule": "Clear the largest height (6.40m) in the Pole Vault discipline as quickly as possible"
+    },
+    {
+     "key": "weightlifting",
+     "label": "Weightlifting",
+     "rule": "Complete the Weightlifting discipline as quickly as possible while lifting the heaviest weight (280kg) at least once"
     }
    ]
   }

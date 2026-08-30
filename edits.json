@@ -6550,6 +6550,17 @@
    "date": "2026-08-29",
    "at": "2026-08-29T21:05:14Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "ps2/athens-2004:weightlifting",
+   "field": "added",
+   "from": "",
+   "to": "Weightlifting",
+   "by": "toca",
+   "date": "2026-08-30",
+   "at": "2026-08-30T08:20:40Z",
+   "reason": "Created it."
   }
  ]
 }
