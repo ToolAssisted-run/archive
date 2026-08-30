@@ -1,0 +1,51 @@
+{
+ "id": "M7350",
+ "game": "zxs/panic-dizzy",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7350.bk2",
+  "format": "bk2",
+  "frames": 89592,
+  "rerecords": 49140,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "files": [
+   {
+    "name": "Panic Dizzy (1991)(Codemasters).tzx"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7350M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-30"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8VlcQZhSEUw"
+  }
+ ],
+ "submitted": "2026-08-27T13:47:56.330642",
+ "attachments": [],
+ "forum": {
+  "topicId": 1326,
+  "url": "https://forum.toolassisted.run/t/1326"
+ }
+}

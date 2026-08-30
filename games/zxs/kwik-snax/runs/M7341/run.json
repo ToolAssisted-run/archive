@@ -1,0 +1,52 @@
+{
+ "id": "M7341",
+ "game": "zxs/kwik-snax",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7341.bk2",
+  "format": "bk2",
+  "frames": 66709,
+  "rerecords": 51030,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "files": [
+   {
+    "name": "Kwik Snax (1990)(Codemasters).tzx",
+    "sha1": "70e1751e139dd769a73adbfcb82070f37dcbf3ed"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7341M",
+  "importedBy": "DigitalDuck",
+  "importedAt": "2026-08-30"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=CVgzLcVuFkE"
+  }
+ ],
+ "submitted": "2026-08-23T16:51:02.400943",
+ "attachments": [],
+ "forum": {
+  "topicId": 1324,
+  "url": "https://forum.toolassisted.run/t/1324"
+ }
+}
