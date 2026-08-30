@@ -34,7 +34,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -64,6 +64,13 @@
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "FCEUX 2.6.6",
    "notes": "The ROM was provided on the corresponding TASVideos submission 10694S"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-08-30",
+   "at": "2026-08-30T15:49:41Z"
   }
  ]
 }
