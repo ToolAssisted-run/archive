@@ -32,7 +32,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -48,5 +48,14 @@
  "forum": {
   "topicId": 1322,
   "url": "https://forum.toolassisted.run/t/1322"
- }
+ },
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-08-30",
+   "at": "2026-08-30T09:48:30Z",
+   "expert": true,
+   "notes": "The author performs initial game setup, fast-fails 2 attempts to lift 120 kg, successfully lifts 280 kg."
+  }
+ ]
 }
