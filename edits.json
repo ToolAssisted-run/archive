@@ -6583,6 +6583,17 @@
    "date": "2026-08-30",
    "at": "2026-08-30T08:28:32Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100047",
+   "field": "emulator",
+   "from": "Chimera development build 595de1ee",
+   "to": "Chimera (development build 595de1ee)",
+   "by": "toca",
+   "date": "2026-08-30",
+   "at": "2026-08-30T08:29:04Z",
+   "reason": "The author's own revision."
   }
  ]
 }
