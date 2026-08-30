@@ -23,7 +23,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -48,5 +48,13 @@
   "rerecords": 476,
   "start": "power-on",
   "fps": 59.94005994005994
- }
+ },
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-08-30",
+   "at": "2026-08-30T09:50:28Z",
+   "expert": true
+  }
+ ]
 }
