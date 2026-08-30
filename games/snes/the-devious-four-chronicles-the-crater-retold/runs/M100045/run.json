@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -46,5 +46,15 @@
  "forum": {
   "topicId": 1319,
   "url": "https://forum.toolassisted.run/t/1319"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-08-30",
+   "at": "2026-08-30T18:03:26Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "ROM SHA1 for the .smc game file: 386301B7CB5D8D88648F3B42654BBFD5AD1DD775. The submitted movie did not reach the credits, but after I pointed this out to the author they attached an update movie file (CraterReTold_Release_v1_3.bk2) to this run which syncs all the way to the credits"
+  }
+ ]
 }
