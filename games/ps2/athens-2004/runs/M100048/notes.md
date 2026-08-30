@@ -1,0 +1,1 @@
+Note: The power bar you can build up in this discipline decides how much slowmo the game applies afterwards when you have to press the buttons, so having an empty counter is fastest there. Other than that, I traded some speed for entertainment by naming the player "TAS". Also going for not the EU/AUS ROM but the US or maybe the JPN ROM might save time as well, haven't checked
