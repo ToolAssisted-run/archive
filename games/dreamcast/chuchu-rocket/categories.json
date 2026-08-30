@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "stage-challenge",
+     "label": "Stage Challenge",
+     "rule": "Complete Stage Challenge mode as quickly as possible."
+    }
+   ]
+  }
+ ]
+}
