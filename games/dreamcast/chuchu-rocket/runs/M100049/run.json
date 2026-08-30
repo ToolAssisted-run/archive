@@ -1,0 +1,46 @@
+{
+ "id": "M100049",
+ "game": "dreamcast/chuchu-rocket",
+ "category": {
+  "goal": "stage-challenge"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "duration": 497.113,
+ "movie": {
+  "file": "M100049.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "6c654129840980114f94a93ada1311faef5b5066",
+  "frames": 29797,
+  "rerecords": 840,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly 2026-08-30 (747a1ee5)"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Q_Rch87eI4E"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-08-30",
+ "submitted": "2026-08-30T23:10:06Z",
+ "submittedBy": "DigitalDuck",
+ "forum": {
+  "topicId": 1330,
+  "url": "https://forum.toolassisted.run/t/1330"
+ }
+}
