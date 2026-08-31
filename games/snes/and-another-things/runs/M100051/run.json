@@ -21,7 +21,7 @@
  },
  "thumbnail": "thumb.jpg",
  "contract": {
-  "emulator": "BizHawk 2.11 BSNESv115+"
+  "emulator": "BizHawk 2.11 Snes9x"
  },
  "status": {
   "reproduced": "none",

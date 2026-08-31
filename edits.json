@@ -6726,6 +6726,17 @@
    "date": "2026-08-30",
    "at": "2026-08-30T22:06:08Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100051",
+   "field": "emulator",
+   "from": "BizHawk 2.11 BSNESv115+",
+   "to": "BizHawk 2.11 Snes9x",
+   "by": "thegugafa",
+   "date": "2026-08-31",
+   "at": "2026-08-31T16:42:01Z",
+   "reason": "The author's own revision."
   }
  ]
 }
