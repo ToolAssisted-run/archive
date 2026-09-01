@@ -6803,6 +6803,17 @@
    "date": "2026-09-01",
    "at": "2026-09-01T05:23:41Z",
    "reason": "Changed from the group form: psx/mega-man-x4 moved in psx/mega-man-x5 moved in"
+  },
+  {
+   "kind": "group",
+   "key": "mortal-kombat",
+   "field": "games",
+   "from": "snes/mortal-kombat, snes/mortal-kombat-3, snes/ultimate-mortal-kombat-3, n64/mortal-kombat-4, n64/mortal-kombat-trilogy, gc/mortal-kombat-deadly-alliance, gc/mortal-kombat-deception, wii/mortal-kombat-armageddon, genesis/mk5-mortal-combat-sub-zero",
+   "to": "gc/mortal-kombat-deadly-alliance, gc/mortal-kombat-deception, genesis/mk5-mortal-combat-sub-zero, n64/mortal-kombat-4, n64/mortal-kombat-trilogy, snes/mortal-kombat, snes/mortal-kombat-3, snes/mortal-kombat-champion-edition, snes/ultimate-mortal-kombat-3, wii/mortal-kombat-armageddon",
+   "by": "CloakTheLurker",
+   "date": "2026-09-01",
+   "at": "2026-09-01T05:25:01Z",
+   "reason": "Changed from the group form: snes/mortal-kombat-champion-edition moved in"
   }
  ]
 }
