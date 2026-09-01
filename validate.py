@@ -25,6 +25,7 @@ Structural rules plus anti-abuse limits:
 """
 import hashlib
 import json
+import re
 import os
 import pathlib
 import sys
@@ -148,7 +149,11 @@ if (ROOT / 'claims.json').exists():
                 f'nobody who answered it')
         if _r['status'] == 'denied' and not _r.get('note'):
             err(f'claims.json: the denied claim for {_r["identity"]!r} gives no reason')
-        if '@' in json.dumps(_r):
+        # an address, not merely an at sign: a Matrix id (@pas:example.org), a
+        # handle (@someone) and a mention are none of anybody's business to
+        # refuse, and the rule is about where a person can be WRITTEN to
+        if re.search(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}',
+                     json.dumps(_r)):
             err(f'claims.json: the claim for {_r["identity"]!r} looks like it carries '
                 f'an email address; addresses never go in the archive')
 
