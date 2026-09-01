@@ -6748,6 +6748,17 @@
    "date": "2026-09-01",
    "at": "2026-09-01T05:05:28Z",
    "reason": "Changed from the group form: zxs/kwik-snax moved in zxs/panic-dizzy moved in"
+  },
+  {
+   "kind": "group",
+   "key": "doom",
+   "field": "games",
+   "from": "pc/doom-ii-cold-front, pc/doom-ii-crud, pc/doom-ii-doom-city, pc/doom-ii-hacx, pc/doom-ii-maskim-xul, pc/doom-ii-sunlust, pc/doom-sigil",
+   "to": "pc/doom-ii-cold-front, pc/doom-ii-crud, pc/doom-ii-doom-city, pc/doom-ii-hacx, pc/doom-ii-hell-on-earth, pc/doom-ii-maskim-xul, pc/doom-ii-sunlust, pc/doom-sigil",
+   "by": "CloakTheLurker",
+   "date": "2026-09-01",
+   "at": "2026-09-01T05:10:28Z",
+   "reason": "Changed from the group form: pc/doom-ii-hell-on-earth moved in"
   }
  ]
 }
