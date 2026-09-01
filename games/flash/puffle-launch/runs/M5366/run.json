@@ -1,0 +1,55 @@
+{
+ "id": "M5366",
+ "game": "flash/puffle-launch",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Randomno"
+  },
+  {
+   "user": "PASRC"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5366.ltm",
+  "format": "ltm",
+  "frames": 13913,
+  "rerecords": 4405,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.4 + ruffle-nightly-2023_05_08",
+  "files": [
+   {
+    "name": "cp_pufflelaunch.swf",
+    "sha1": "44ce677721f1b95843c6b3a93c7aff77ce08c544"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5366M",
+  "importedBy": "PASRC",
+  "importedAt": "2026-09-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=fbjsWAPXozs"
+  }
+ ],
+ "submitted": "2023-06-24T23:52:08.745596",
+ "attachments": [],
+ "forum": {
+  "topicId": 1337,
+  "url": "https://forum.toolassisted.run/t/1337"
+ }
+}
