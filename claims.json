@@ -116,7 +116,10 @@
    "evidence": "Send a message to my Discord account (same username) or Matrix (@pas:merrycorps.xyz), or see this screenshot: https://litter.catbox.moe/ui45gn.png",
    "date": "2026-09-01",
    "at": "2026-09-01T06:23:50Z",
-   "status": "open"
+   "status": "approved",
+   "decidedBy": "eien86",
+   "decidedAt": "2026-09-01",
+   "note": ""
   }
  ]
 }
