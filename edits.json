@@ -6781,6 +6781,17 @@
    "date": "2026-09-01",
    "at": "2026-09-01T05:21:39Z",
    "reason": "added links"
+  },
+  {
+   "kind": "game",
+   "key": "pc/doom-sigil",
+   "field": "rta",
+   "from": "",
+   "to": "https://dsdarchive.com/wads/sigil",
+   "by": "CloakTheLurker",
+   "date": "2026-09-01",
+   "at": "2026-09-01T05:21:46Z",
+   "reason": "added links"
   }
  ]
 }
