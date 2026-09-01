@@ -105,7 +105,10 @@
    "evidence": "tasvideos.org",
    "date": "2026-08-31",
    "at": "2026-08-31T03:20:16Z",
-   "status": "open"
+   "status": "approved",
+   "decidedBy": "eien86",
+   "decidedAt": "2026-09-01",
+   "note": ""
   },
   {
    "member": "PASRC67",
