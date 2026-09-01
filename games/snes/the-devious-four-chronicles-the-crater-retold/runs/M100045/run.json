@@ -10,13 +10,13 @@
   }
  ],
  "tools": [],
- "duration": 24383.777,
+ "duration": 24402.313,
  "movie": {
   "file": "M100045.bk2",
   "format": "bk2",
-  "sha1": "fbb36146ddc3d745e583c8598dbd52893209943a",
-  "frames": 1465436,
-  "rerecords": 4295,
+  "sha1": "a580d92415fa0b04d6544e84274ac3be8253bfe2",
+  "frames": 1466550,
+  "rerecords": 4312,
   "start": "power-on"
  },
  "thumbnail": "thumb.jpg",
@@ -24,8 +24,8 @@
   "emulator": "BizHawk 2.11"
  },
  "status": {
-  "reproduced": "community",
-  "verified": "provisional",
+  "reproduced": "none",
+  "verified": "none",
   "console": "none"
  },
  "encodes": [
@@ -54,14 +54,28 @@
    "at": "2026-08-30T18:03:26Z",
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "BizHawk 2.11",
-   "notes": "ROM SHA1 for the .smc game file: 386301B7CB5D8D88648F3B42654BBFD5AD1DD775. The submitted movie did not reach the credits, but after I pointed this out to the author they attached an update movie file (CraterReTold_Release_v1_3.bk2) to this run which syncs all the way to the credits"
+   "notes": "ROM SHA1 for the .smc game file: 386301B7CB5D8D88648F3B42654BBFD5AD1DD775. The submitted movie did not reach the credits, but after I pointed this out to the author they attached an update movie file (CraterReTold_Release_v1_3.bk2) to this run which syncs all the way to the credits",
+   "invalidated": {
+    "by": "thegugafa",
+    "date": "2026-09-01",
+    "at": "2026-09-01T11:03:51Z",
+    "cause": "edit",
+    "reason": "the movie file changed after this reproduction"
+   }
   }
  ],
  "verifications": [
   {
    "user": "toca",
    "date": "2026-08-30",
-   "at": "2026-08-30T18:03:45Z"
+   "at": "2026-08-30T18:03:45Z",
+   "invalidated": {
+    "by": "thegugafa",
+    "date": "2026-09-01",
+    "at": "2026-09-01T11:03:51Z",
+    "cause": "edit",
+    "reason": "the scoring changed after this verification"
+   }
   }
  ]
 }
