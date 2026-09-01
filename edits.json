@@ -6737,6 +6737,17 @@
    "date": "2026-08-31",
    "at": "2026-08-31T16:42:01Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "group",
+   "key": "dizzy",
+   "field": "games",
+   "from": "zxs/dizzy-3-and-a-half, zxs/dizzy-prince-of-the-yolkfolk, zxs/dizzy-the-ultimate-cartoon-adventure, zxs/fantasy-world-dizzy, zxs/magicland-dizzy, zxs/spellbound-dizzy, zxs/treasure-island-dizzy, zxs/fast-food",
+   "to": "zxs/dizzy-3-and-a-half, zxs/dizzy-prince-of-the-yolkfolk, zxs/dizzy-the-ultimate-cartoon-adventure, zxs/fantasy-world-dizzy, zxs/fast-food, zxs/kwik-snax, zxs/magicland-dizzy, zxs/panic-dizzy, zxs/spellbound-dizzy, zxs/treasure-island-dizzy",
+   "by": "CloakTheLurker",
+   "date": "2026-09-01",
+   "at": "2026-09-01T05:05:28Z",
+   "reason": "Changed from the group form: zxs/kwik-snax moved in zxs/panic-dizzy moved in"
   }
  ]
 }
