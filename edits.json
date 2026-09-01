@@ -6770,6 +6770,17 @@
    "date": "2026-09-01",
    "at": "2026-09-01T05:21:33Z",
    "reason": "added links"
+  },
+  {
+   "kind": "game",
+   "key": "pc/doom-sigil",
+   "field": "website",
+   "from": "",
+   "to": "https://doomwiki.org/wiki/SIGIL",
+   "by": "CloakTheLurker",
+   "date": "2026-09-01",
+   "at": "2026-09-01T05:21:39Z",
+   "reason": "added links"
   }
  ]
 }
