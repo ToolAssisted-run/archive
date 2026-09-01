@@ -6792,6 +6792,17 @@
    "date": "2026-09-01",
    "at": "2026-09-01T05:21:46Z",
    "reason": "added links"
+  },
+  {
+   "kind": "group",
+   "key": "mega-man",
+   "field": "games",
+   "from": "arcade/mega-man-2-the-power-fighters, psx/mega-man-x3, psx/super-adventure-rockman, snes/mega-man-7, snes/mega-man-x2",
+   "to": "arcade/mega-man-2-the-power-fighters, psx/mega-man-x3, psx/mega-man-x4, psx/mega-man-x5, psx/super-adventure-rockman, snes/mega-man-7, snes/mega-man-x2",
+   "by": "CloakTheLurker",
+   "date": "2026-09-01",
+   "at": "2026-09-01T05:23:41Z",
+   "reason": "Changed from the group form: psx/mega-man-x4 moved in psx/mega-man-x5 moved in"
   }
  ]
 }
