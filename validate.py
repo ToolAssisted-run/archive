@@ -38,7 +38,19 @@ except ImportError:
 ROOT = pathlib.Path(__file__).parent
 ALLOWED_ATTACH_EXT = {'.txt', '.md', '.ini', '.cfg', '.conf', '.toml', '.json',
                       '.yaml', '.yml', '.xml', '.lua', '.sync', '.properties'}
-MOVIE_ATTACH_EXT = {'.3ct', '.bk2', '.ctas', '.ctm', '.dft', '.dsm', '.dtm', '.fbm', '.fm2', '.fm3', '.gbmv', '.gmv', '.gzm', '.jrsr', '.lmp', '.lsmv', '.ltm', '.m64', '.mar', '.omr', '.p2m2', '.tas', '.tasproj', '.vbm', '.wtf'}
+# Every movie format the archivist knows, parsed or merely recognised: an
+# author may attach a second movie of any of them, and intake accepts what
+# this list refuses at its peril (a .chimeraProject attachment archived
+# fine and then failed the archive here). Regenerated from
+# movieparse.PARSERS | movieparse.KNOWN_UNPARSED.
+MOVIE_ATTACH_EXT = {
+    '.3ct', '.bk2', '.bkm', '.chimeraproject', '.ctas', '.ctm', '.dft',
+    '.dof', '.dsm', '.dtm', '.fbm', '.fcm', '.fm2', '.fm3', '.fmv', '.gbmv',
+    '.gmtas', '.gmv', '.gzm', '.hltas', '.htas', '.inputs', '.itf', '.jrsr',
+    '.lmp', '.lsmv', '.ltm', '.m64', '.mar', '.mc2', '.mcm', '.mctas',
+    '.mmv', '.nmv', '.omr', '.otts', '.p2m2', '.p2tas', '.pjm', '.pxm',
+    '.qtas', '.rec', '.replay', '.ronr', '.smv', '.srctas', '.tas',
+    '.tasproj', '.vbm', '.vmv', '.wtf', '.ymv', '.zmv'}
 # What a git host will actually hold, not what we invite: intake stops at
 # 32 MB (archivist and selfimport), so anything larger is here because a person
 # decided it should be. GitHub refuses a file over 100 MB outright.
