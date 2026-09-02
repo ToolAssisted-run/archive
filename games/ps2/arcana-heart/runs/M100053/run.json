@@ -1,0 +1,51 @@
+{
+ "id": "M100053",
+ "game": "ps2/arcana-heart",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "duration": 463.983,
+ "movie": {
+  "file": "M100053.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "57489e1dab8cae955538dd30f9dbb1e9b32151fe",
+  "frames": 27839,
+  "rerecords": 4374,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera version x64-747a1ee5"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/7Wxl8p7VR_E"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/Arcana_Heart__USA__COMPLETE_27839_CREDITS.chimeraProject",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-09-02",
+ "submitted": "2026-09-02T07:57:55Z",
+ "submittedBy": "CoolHandMike",
+ "forum": {
+  "topicId": 1433,
+  "url": "https://forum.toolassisted.run/t/1433"
+ }
+}
