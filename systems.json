@@ -170,7 +170,7 @@
  },
  "xbox": {
   "name": "Xbox",
-  "fps": 60.0,
+  "fps": 59.94005994005994,
   "hardToReproduce": true
  }
 }
