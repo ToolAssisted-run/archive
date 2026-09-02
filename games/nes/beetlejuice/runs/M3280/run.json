@@ -1,0 +1,52 @@
+{
+ "id": "M3280",
+ "game": "nes/beetlejuice",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3280.fm3",
+  "format": "fm3",
+  "frames": 31309,
+  "rerecords": 13887,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Beetlejuice (U) [!].nes",
+    "sha1": "cd3c92b7c27940c53da8ed11b905048af439942a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3280M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=foNT5RVm-e8"
+  }
+ ],
+ "submitted": "2016-12-11T19:08:12",
+ "attachments": [],
+ "forum": {
+  "topicId": 1342,
+  "url": "https://forum.toolassisted.run/t/1342"
+ }
+}

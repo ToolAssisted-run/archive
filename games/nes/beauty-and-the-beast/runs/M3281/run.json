@@ -1,0 +1,53 @@
+{
+ "id": "M3281",
+ "game": "nes/beauty-and-the-beast",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3281.fm3",
+  "format": "fm3",
+  "frames": 49756,
+  "fps": 50.0069789081886,
+  "rerecords": 7536,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Beauty and the Beast (E) [!].nes",
+    "sha1": "8bd8815ac4c09077145f2640bc37a5ac0e2b41ef"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3281M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=o67rvKgU-Vw"
+  }
+ ],
+ "submitted": "2016-12-11T23:15:53",
+ "attachments": [],
+ "forum": {
+  "topicId": 1344,
+  "url": "https://forum.toolassisted.run/t/1344"
+ }
+}

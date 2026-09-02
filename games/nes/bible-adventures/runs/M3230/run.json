@@ -1,0 +1,52 @@
+{
+ "id": "M3230",
+ "game": "nes/bible-adventures",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3230.fm3",
+  "format": "fm3",
+  "frames": 65810,
+  "rerecords": 25409,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Bible Adventures (Wisdom Tree) (V1.3) [!].nes",
+    "sha1": "d5affff8e726832c70752ecc9e27a9552e8c402a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3230M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=BeM6Tol1EuY"
+  }
+ ],
+ "submitted": "2016-10-03T15:27:32",
+ "attachments": [],
+ "forum": {
+  "topicId": 1341,
+  "url": "https://forum.toolassisted.run/t/1341"
+ }
+}

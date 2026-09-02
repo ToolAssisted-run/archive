@@ -1,0 +1,52 @@
+{
+ "id": "M3393",
+ "game": "nes/circus-caper",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3393.fm3",
+  "format": "fm3",
+  "frames": 25467,
+  "rerecords": 13205,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Circus Caper (U) [!].nes",
+    "sha1": "43e94e0eb5c9f568ae78149963a9118506bfdf9d"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3393M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=P5nN4jJ0nKs"
+  }
+ ],
+ "submitted": "2017-05-13T19:54:19",
+ "attachments": [],
+ "forum": {
+  "topicId": 1348,
+  "url": "https://forum.toolassisted.run/t/1348"
+ }
+}
