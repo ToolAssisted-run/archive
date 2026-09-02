@@ -1,0 +1,25 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "dance-aerobics",
+     "label": "Dance Aerobics",
+     "rule": "Imported as \"Dance Aerobics\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "ditto",
+     "label": "Ditto",
+     "rule": "Imported as \"Ditto\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "mat-melodies",
+     "label": "Mat Melodies",
+     "rule": "Imported as \"Mat Melodies\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

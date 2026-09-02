@@ -1,0 +1,52 @@
+{
+ "id": "M7283",
+ "game": "nes/dance-aerobics",
+ "category": {
+  "goal": "dance-aerobics"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7283.bk2",
+  "format": "bk2",
+  "frames": 197409,
+  "rerecords": 3297,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "Dance Aerobics (U) [!].nes",
+    "sha1": "eebc75e9de3001c8cc69f2f8a7f58048ab42d2d8"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7283M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=PKwFd7hbtnE"
+  }
+ ],
+ "submitted": "2026-07-29T18:24:21.758321",
+ "attachments": [],
+ "forum": {
+  "topicId": 1427,
+  "url": "https://forum.toolassisted.run/t/1427"
+ }
+}

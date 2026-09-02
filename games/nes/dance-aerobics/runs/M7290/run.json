@@ -1,0 +1,52 @@
+{
+ "id": "M7290",
+ "game": "nes/dance-aerobics",
+ "category": {
+  "goal": "mat-melodies"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7290.bk2",
+  "format": "bk2",
+  "frames": 10933,
+  "rerecords": 412,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "files": [
+   {
+    "name": "Dance Aerobics (U) [!].nes",
+    "sha1": "eebc75e9de3001c8cc69f2f8a7f58048ab42d2d8"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7290M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0VTVRty1Ehg"
+  }
+ ],
+ "submitted": "2026-08-01T20:13:02.481646",
+ "attachments": [],
+ "forum": {
+  "topicId": 1429,
+  "url": "https://forum.toolassisted.run/t/1429"
+ }
+}
