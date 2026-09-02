@@ -28,7 +28,7 @@
   }
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -64,6 +64,16 @@
    "user": "toca",
    "date": "2026-08-21",
    "at": "2026-08-21T19:32:42Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-02",
+   "at": "2026-09-02T19:13:41Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11.1",
+   "notes": "Reproduced successfully using the supplied install.bk2 and XML files. The resulting install.hdd had MD5 CAB40C978703649702E006FB3624A54D. The \"create an .ISO file with the patch\" step was not necessary for me; the supplied install.xml only mounts w95.hdd and the game ISO, and the installation movie synced successfully without any additional patch ISO"
   }
  ]
 }
