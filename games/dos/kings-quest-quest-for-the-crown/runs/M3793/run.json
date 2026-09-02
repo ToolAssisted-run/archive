@@ -1,0 +1,56 @@
+{
+ "id": "M3793",
+ "game": "dos/kings-quest-quest-for-the-crown",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3793.jrsr",
+  "format": "jrsr",
+  "frames": 1098,
+  "rerecords": 498,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "JPC-rr 11.2",
+  "files": [
+   {
+    "name": "KQ1.COM",
+    "sha1": "a02cb2525ec177a37c0bcb5482f18b1b5f7a9fc7"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3793M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=XAg25m2iA5M"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=fu_giyIOE9Y"
+  }
+ ],
+ "submitted": "2018-09-24T18:24:05",
+ "attachments": [],
+ "forum": {
+  "topicId": 1373,
+  "url": "https://forum.toolassisted.run/t/1373"
+ }
+}

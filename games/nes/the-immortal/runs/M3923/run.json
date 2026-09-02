@@ -1,0 +1,52 @@
+{
+ "id": "M3923",
+ "game": "nes/the-immortal",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3923.bk2",
+  "format": "bk2",
+  "frames": 33978,
+  "rerecords": 8436,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "files": [
+   {
+    "name": "Immortal, The (U) [!].nes",
+    "sha1": "e8e8120f4db2eb26549b04634b13a1abf5a6f3d3"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3923M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=21lNjGrhn7M"
+  }
+ ],
+ "submitted": "2019-03-21T18:45:56",
+ "attachments": [],
+ "forum": {
+  "topicId": 1380,
+  "url": "https://forum.toolassisted.run/t/1380"
+ }
+}

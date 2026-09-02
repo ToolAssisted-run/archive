@@ -1,0 +1,53 @@
+{
+ "id": "M3887",
+ "game": "c64/donkey-kong-atarisoft",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3887.bk2",
+  "format": "bk2",
+  "frames": 6450,
+  "fps": 59.826089499853765,
+  "rerecords": 5525,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3",
+  "files": [
+   {
+    "name": "DONKEYKO.CRT",
+    "sha1": "b51383eadcca653414460b72500c4edcad6303d4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3887M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=F2cYJyXbNCE"
+  }
+ ],
+ "submitted": "2019-01-09T12:59:53",
+ "attachments": [],
+ "forum": {
+  "topicId": 1375,
+  "url": "https://forum.toolassisted.run/t/1375"
+ }
+}

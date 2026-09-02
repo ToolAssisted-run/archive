@@ -1,0 +1,52 @@
+{
+ "id": "M3727",
+ "game": "nes/castelian",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3727.fm3",
+  "format": "fm3",
+  "frames": 53471,
+  "rerecords": 10389,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Castelian (U) [!].nes",
+    "sha1": "3def6ccb01b4e571939d57bd65658db27da71d4f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3727M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=HtypXJxFLXs"
+  }
+ ],
+ "submitted": "2018-06-16T10:45:46",
+ "attachments": [],
+ "forum": {
+  "topicId": 1371,
+  "url": "https://forum.toolassisted.run/t/1371"
+ }
+}

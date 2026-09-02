@@ -1,0 +1,53 @@
+{
+ "id": "M3915",
+ "game": "c64/portal",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3915.bk2",
+  "format": "bk2",
+  "frames": 13670,
+  "fps": 59.826089499853765,
+  "rerecords": 3606,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "files": [
+   {
+    "name": "portal_v1_ntsc.prg",
+    "sha1": "155ec5bca89cdc47e3518223a8ba1c203c0986ef"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3915M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=5lL3tpDtmvc"
+  }
+ ],
+ "submitted": "2019-03-06T22:09:56",
+ "attachments": [],
+ "forum": {
+  "topicId": 1377,
+  "url": "https://forum.toolassisted.run/t/1377"
+ }
+}
