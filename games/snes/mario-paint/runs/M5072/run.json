@@ -1,0 +1,52 @@
+{
+ "id": "M5072",
+ "game": "snes/mario-paint",
+ "category": {
+  "goal": "gnat-attack"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5072.bk2",
+  "format": "bk2",
+  "frames": 9245,
+  "rerecords": 13624,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Mario Paint (JU) [!].sfc",
+    "sha1": "d027c03eb2faefa07640ec828b2a46f601f7b15f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5072M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=f8KJKQ--mUc"
+  }
+ ],
+ "submitted": "2023-02-04T15:54:28.638619",
+ "attachments": [],
+ "forum": {
+  "topicId": 1400,
+  "url": "https://forum.toolassisted.run/t/1400"
+ }
+}

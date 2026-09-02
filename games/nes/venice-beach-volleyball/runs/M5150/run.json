@@ -1,0 +1,52 @@
+{
+ "id": "M5150",
+ "game": "nes/venice-beach-volleyball",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5150.bk2",
+  "format": "bk2",
+  "frames": 5947,
+  "rerecords": 1892,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Venice Beach Volleyball (AVE) [!].nes",
+    "sha1": "f5f5312d7cb079a12dafd3b4f6ec3fb2fa845b22"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5150M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=z_AR0Ed_ZZU"
+  }
+ ],
+ "submitted": "2023-03-10T13:34:40.953397",
+ "attachments": [],
+ "forum": {
+  "topicId": 1402,
+  "url": "https://forum.toolassisted.run/t/1402"
+ }
+}

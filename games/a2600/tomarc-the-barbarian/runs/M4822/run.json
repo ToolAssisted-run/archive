@@ -1,0 +1,52 @@
+{
+ "id": "M4822",
+ "game": "a2600/tomarc-the-barbarian",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4822.bk2",
+  "format": "bk2",
+  "frames": 433,
+  "rerecords": 1545,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Tomarc the Barbarian (1983) (Xonox).a26",
+    "sha1": "489c9b572535721a0516a2b759e0b9c7f7a5b3cc"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4822M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=YeVhJ5MWals"
+  }
+ ],
+ "submitted": "2022-09-01T13:32:57.904831",
+ "attachments": [],
+ "forum": {
+  "topicId": 1398,
+  "url": "https://forum.toolassisted.run/t/1398"
+ }
+}

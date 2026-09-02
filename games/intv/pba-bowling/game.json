@@ -1,5 +1,9 @@
 {
  "title": "PBA Bowling",
  "system": "intv",
- "tasvideosGameId": 2294
+ "tasvideosGameId": 2294,
+ "forum": {
+  "topicId": 1403,
+  "url": "https://forum.toolassisted.run/t/1403"
+ }
 }

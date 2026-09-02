@@ -5,11 +5,6 @@
    "name": "Category",
    "options": [
     {
-     "key": "pick-up-spares",
-     "label": "Pick-Up Spares",
-     "rule": "Imported as \"Pick-Up Spares\" from the source it was published at; rules to be formalized by the game's experts."
-    },
-    {
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."

@@ -1,0 +1,52 @@
+{
+ "id": "M5151",
+ "game": "intv/pba-bowling",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5151.bk2",
+  "format": "bk2",
+  "frames": 10064,
+  "rerecords": 4080,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "PBA Bowling (1980) (Mattel).int",
+    "sha1": "71a2bf83f18fdbf4db3af66681fcfa506bf0d31c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5151M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=FS0znh7WHjM"
+  }
+ ],
+ "submitted": "2023-03-10T22:00:29.76475",
+ "attachments": [],
+ "forum": {
+  "topicId": 1404,
+  "url": "https://forum.toolassisted.run/t/1404"
+ }
+}

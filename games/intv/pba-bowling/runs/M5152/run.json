@@ -1,0 +1,52 @@
+{
+ "id": "M5152",
+ "game": "intv/pba-bowling",
+ "category": {
+  "goal": "pick-up-spares"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5152.bk2",
+  "format": "bk2",
+  "frames": 8243,
+  "rerecords": 2001,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "PBA Bowling (1980) (Mattel).int",
+    "sha1": "71a2bf83f18fdbf4db3af66681fcfa506bf0d31c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5152M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-rgVF1DLnvk"
+  }
+ ],
+ "submitted": "2023-03-11T06:16:38.227035",
+ "attachments": [],
+ "forum": {
+  "topicId": 1405,
+  "url": "https://forum.toolassisted.run/t/1405"
+ }
+}
