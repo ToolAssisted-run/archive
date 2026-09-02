@@ -1,0 +1,52 @@
+{
+ "id": "M5940",
+ "game": "nes/world-champ",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5940.bk2",
+  "format": "bk2",
+  "frames": 14304,
+  "rerecords": 7271,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "World Champ (U) [!].nes",
+    "sha1": "3a0a1480c435921580ff0100573f8f988db65ffd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5940M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8q7z9a_WnwA"
+  }
+ ],
+ "submitted": "2024-05-07T15:19:54.570993",
+ "attachments": [],
+ "forum": {
+  "topicId": 1417,
+  "url": "https://forum.toolassisted.run/t/1417"
+ }
+}

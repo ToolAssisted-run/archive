@@ -1,0 +1,52 @@
+{
+ "id": "M7148",
+ "game": "nes/roadblasters",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7148.bk2",
+  "format": "bk2",
+  "frames": 77749,
+  "rerecords": 26955,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "RoadBlasters (U) [!].nes",
+    "sha1": "9652d375e9ce2dc4a0e51e1e5b6d8ddba9ff0cfa"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7148M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=voiYwsPv4Tc"
+  }
+ ],
+ "submitted": "2026-05-18T08:45:13.61824",
+ "attachments": [],
+ "forum": {
+  "topicId": 1425,
+  "url": "https://forum.toolassisted.run/t/1425"
+ }
+}

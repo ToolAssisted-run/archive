@@ -1,0 +1,52 @@
+{
+ "id": "M5985",
+ "game": "a2600/kaboom",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5985.bk2",
+  "format": "bk2",
+  "frames": 596304,
+  "rerecords": 166154,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "Kaboom! (1981) (Activision) [!].a26",
+    "sha1": "40d4df4f8e4a69a299ae7678c17e72bedeb70105"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5985M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3fgNrv5ne9U"
+  }
+ ],
+ "submitted": "2024-06-09T02:40:50.681093",
+ "attachments": [],
+ "forum": {
+  "topicId": 1419,
+  "url": "https://forum.toolassisted.run/t/1419"
+ }
+}

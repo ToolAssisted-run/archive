@@ -1,0 +1,52 @@
+{
+ "id": "M6736",
+ "game": "nes/commando",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6736.bk2",
+  "format": "bk2",
+  "frames": 73998,
+  "rerecords": 8383,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "Commando (U) [!].nes",
+    "sha1": "15028e3e122374197a83b0803e3e47f9f84e5cca"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6736M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OYF7PXf1E_o"
+  }
+ ],
+ "submitted": "2025-09-15T21:24:02.753095",
+ "attachments": [],
+ "forum": {
+  "topicId": 1423,
+  "url": "https://forum.toolassisted.run/t/1423"
+ }
+}

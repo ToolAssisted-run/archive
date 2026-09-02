@@ -1,0 +1,53 @@
+{
+ "id": "M5796",
+ "game": "c64/pegs",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5796.bk2",
+  "format": "bk2",
+  "frames": 1065,
+  "fps": 59.826089499853765,
+  "rerecords": 25780,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1986-12.d64",
+    "sha1": "eaf8899c861a090f01c678174dd30f3e7532e325"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5796M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-gQf-18Yfp8"
+  }
+ ],
+ "submitted": "2024-02-09T16:35:41.94205",
+ "attachments": [],
+ "forum": {
+  "topicId": 1415,
+  "url": "https://forum.toolassisted.run/t/1415"
+ }
+}
