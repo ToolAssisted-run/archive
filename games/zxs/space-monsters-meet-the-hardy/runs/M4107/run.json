@@ -1,0 +1,52 @@
+{
+ "id": "M4107",
+ "game": "zxs/space-monsters-meet-the-hardy",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4107.bk2",
+  "format": "bk2",
+  "frames": 31572,
+  "rerecords": 3,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.4",
+  "files": [
+   {
+    "name": "hardy.tap",
+    "sha1": "93f74cbfe3cdd5032594d7db2e3c23e7160fff64"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4107M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=l4EyMXhcFWU"
+  }
+ ],
+ "submitted": "2020-02-09T01:05:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 1394,
+  "url": "https://forum.toolassisted.run/t/1394"
+ }
+}

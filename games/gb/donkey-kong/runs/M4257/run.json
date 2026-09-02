@@ -1,0 +1,53 @@
+{
+ "id": "M4257",
+ "game": "gb/donkey-kong",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4257.bk2",
+  "format": "bk2",
+  "frames": 194828,
+  "fps": 59.84693918299166,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.4.2",
+  "files": [
+   {
+    "name": "Donkey Kong (JU) (V1.0) [S][!].gb",
+    "sha1": "6ed661bd1d6d8cdd48e1c10f8ca4e8dcba49128e"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4257M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=GT04nNmfjWY"
+  }
+ ],
+ "submitted": "2020-08-02T18:30:33",
+ "attachments": [],
+ "forum": {
+  "topicId": 1396,
+  "url": "https://forum.toolassisted.run/t/1396"
+ }
+}

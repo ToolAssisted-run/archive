@@ -1,0 +1,49 @@
+{
+ "id": "M4584",
+ "game": "arcade/vs-pinball",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4584.bk2",
+  "format": "bk2",
+  "frames": 1017,
+  "fps": 60.0988138974405,
+  "rerecords": 1248,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.6.2",
+  "files": [
+   {
+    "name": "Pinball (VS).nes",
+    "sha1": "5238350685fbc9476e09a937b7b60a0bad3d55b4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4584M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=EMTe-uTZCZM"
+  }
+ ],
+ "submitted": "2022-02-05T14:35:49.825266",
+ "attachments": []
+}

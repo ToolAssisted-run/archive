@@ -1,0 +1,48 @@
+{
+ "id": "M4760",
+ "game": "a2600/crazy-climber",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4760.bk2",
+  "format": "bk2",
+  "frames": 23142,
+  "rerecords": 2905,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Crazy Climber (1983) (Atari).a26",
+    "sha1": "70e723aa67d68f8549d9bd8f96d8b1262cbdac3c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4760M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qP8nt6GVsQU"
+  }
+ ],
+ "submitted": "2022-07-08T11:32:03.690938",
+ "attachments": []
+}

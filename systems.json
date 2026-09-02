@@ -172,5 +172,9 @@
   "name": "Xbox",
   "fps": 59.94005994005994,
   "hardToReproduce": true
+ },
+ "intv": {
+  "name": "Intellivision",
+  "fps": 59.92
  }
 }
