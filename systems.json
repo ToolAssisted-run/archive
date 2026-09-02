@@ -167,5 +167,10 @@
   "name": "Bandai Terebikko",
   "fps": 29.97002997002997,
   "hardToReproduce": true
+ },
+ "xbox": {
+  "name": "Xbox",
+  "fps": 60.0,
+  "hardToReproduce": true
  }
 }
