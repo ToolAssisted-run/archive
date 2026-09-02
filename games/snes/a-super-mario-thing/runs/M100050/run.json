@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 BSNESv115+"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -47,6 +47,16 @@
    "user": "toca",
    "date": "2026-09-02",
    "at": "2026-09-02T06:22:32Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-02",
+   "at": "2026-09-02T06:23:46Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "ROM MD5 hash: BD41F48CD378FF6ACBEFB95FC7A96A80"
   }
  ]
 }
