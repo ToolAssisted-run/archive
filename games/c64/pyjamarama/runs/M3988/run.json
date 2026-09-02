@@ -1,0 +1,56 @@
+{
+ "id": "M3988",
+ "game": "c64/pyjamarama",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "ktwo"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3988.bk2",
+  "format": "bk2",
+  "frames": 38645,
+  "fps": 59.826089499853765,
+  "rerecords": 13367,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "files": [
+   {
+    "name": "Pyjamarama (1984)(Mikro-Gen).tap",
+    "sha1": "a580f67d031a0221b1fa28fedc61d995bb00cfec"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3988M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtube.com/watch?v=-eFpITfvx04"
+  }
+ ],
+ "submitted": "2019-07-03T01:59:01",
+ "attachments": [],
+ "forum": {
+  "topicId": 1435,
+  "url": "https://forum.toolassisted.run/t/1435"
+ }
+}
