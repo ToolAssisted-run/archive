@@ -1,0 +1,53 @@
+{
+ "id": "M3504",
+ "game": "c64/congo-bongo",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3504.bk2",
+  "format": "bk2",
+  "frames": 1762,
+  "fps": 59.826089499853765,
+  "rerecords": 396,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.1",
+  "files": [
+   {
+    "name": "CNGOBNGO.CRT",
+    "sha1": "8a69939f3ebd75e58c737009a8f9d2a0f3f7da23"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3504M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Zct7_CxtWik"
+  }
+ ],
+ "submitted": "2017-08-25T18:35:44",
+ "attachments": [],
+ "forum": {
+  "topicId": 1360,
+  "url": "https://forum.toolassisted.run/t/1360"
+ }
+}

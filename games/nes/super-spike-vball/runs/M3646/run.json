@@ -1,0 +1,52 @@
+{
+ "id": "M3646",
+ "game": "nes/super-spike-vball",
+ "category": {
+  "goal": "world-cup"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3646.bk2",
+  "format": "bk2",
+  "frames": 20803,
+  "rerecords": 6616,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.1",
+  "files": [
+   {
+    "name": "Super Spike V'Ball (U) [!].nes",
+    "sha1": "5187384bd5694e38e96f2695e251b08717c63f81"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3646M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OBg4wQU2DLA"
+  }
+ ],
+ "submitted": "2018-03-03T10:52:17",
+ "attachments": [],
+ "forum": {
+  "topicId": 1368,
+  "url": "https://forum.toolassisted.run/t/1368"
+ }
+}

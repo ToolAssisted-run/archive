@@ -1,0 +1,55 @@
+{
+ "id": "M3569",
+ "game": "dos/space-quest-ii-chapter-ii-vohauls-revenge",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3569.jrsr",
+  "format": "jrsr",
+  "frames": 10227,
+  "rerecords": 1926,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "JPC-rr 11.2",
+  "files": [
+   {
+    "name": "SIERRA.COM"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3569M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8pvqrjRhInA"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=g043mrkrfBM"
+  }
+ ],
+ "submitted": "2017-12-09T18:17:10",
+ "attachments": [],
+ "forum": {
+  "topicId": 1364,
+  "url": "https://forum.toolassisted.run/t/1364"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "world-cup",
+     "label": "World Cup",
+     "rule": "Imported as \"World Cup\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

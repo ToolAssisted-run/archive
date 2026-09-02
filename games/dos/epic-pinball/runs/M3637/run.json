@@ -1,0 +1,52 @@
+{
+ "id": "M3637",
+ "game": "dos/epic-pinball",
+ "category": {
+  "goal": "enigma"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3637.jrsr",
+  "format": "jrsr",
+  "frames": 5808,
+  "rerecords": 404,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "JPC-rr 11.2 (Modified for Mouse Support)",
+  "files": [
+   {
+    "name": "PINBALL.EXE",
+    "sha1": "fa4d5b6d9389b1b8479a8f8b81ec1d2a253898fc"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3637M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OLd7LQp9gYU"
+  }
+ ],
+ "submitted": "2018-02-17T19:27:45",
+ "attachments": [],
+ "forum": {
+  "topicId": 1366,
+  "url": "https://forum.toolassisted.run/t/1366"
+ }
+}

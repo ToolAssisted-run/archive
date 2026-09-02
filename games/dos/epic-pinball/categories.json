@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "enigma",
+     "label": "Enigma",
+     "rule": "Imported as \"Enigma\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

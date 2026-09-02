@@ -1,0 +1,53 @@
+{
+ "id": "M3510",
+ "game": "c64/frogger",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3510.bk2",
+  "format": "bk2",
+  "frames": 12641,
+  "fps": 59.826089499853765,
+  "rerecords": 20,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.1",
+  "files": [
+   {
+    "name": "FROGGER.CRT",
+    "sha1": "0040121f6d3cf91e37810f3335f85dcb20049364"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3510M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=NY0hkIg7oCc"
+  }
+ ],
+ "submitted": "2017-09-03T11:37:34",
+ "attachments": [],
+ "forum": {
+  "topicId": 1362,
+  "url": "https://forum.toolassisted.run/t/1362"
+ }
+}
