@@ -1,0 +1,52 @@
+{
+ "id": "M5280",
+ "game": "nes/duck-hunt",
+ "category": {
+  "goal": "game-a-maximum-score"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5280.bk2",
+  "format": "bk2",
+  "frames": 64825,
+  "rerecords": 1823,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Duck Hunt (W) [!].nes",
+    "sha1": "8e18068823635a115e2fc0925ff3bda209ec6a42"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5280M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Mt9Ft_gYaKM"
+  }
+ ],
+ "submitted": "2023-05-19T09:39:29.991094",
+ "attachments": [],
+ "forum": {
+  "topicId": 1411,
+  "url": "https://forum.toolassisted.run/t/1411"
+ }
+}

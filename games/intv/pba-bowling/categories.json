@@ -13,6 +13,11 @@
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "pick-up-spares-maximum-score",
+     "label": "Pick-Up Spares, maximum score",
+     "rule": "Imported as \"Pick-Up Spares, maximum score\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

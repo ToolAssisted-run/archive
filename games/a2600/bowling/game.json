@@ -1,5 +1,9 @@
 {
  "title": "Bowling",
  "system": "a2600",
- "tasvideosGameId": 2391
+ "tasvideosGameId": 2391,
+ "forum": {
+  "topicId": 1406,
+  "url": "https://forum.toolassisted.run/t/1406"
+ }
 }

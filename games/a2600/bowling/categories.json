@@ -8,6 +8,11 @@
      "key": "game-5",
      "label": "Game 5",
      "rule": "Imported as \"Game 5\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "game-3",
+     "label": "Game 3",
+     "rule": "Imported as \"Game 3\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

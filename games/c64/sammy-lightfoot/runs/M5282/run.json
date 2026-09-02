@@ -1,0 +1,53 @@
+{
+ "id": "M5282",
+ "game": "c64/sammy-lightfoot",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5282.bk2",
+  "format": "bk2",
+  "frames": 366606,
+  "fps": 59.826089499853765,
+  "rerecords": 10045,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Sammy Lightfoot (1983)(Sierra Online).crt",
+    "sha1": "704cd126d2b283d2c960a2080244fcd9d47f3d03"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5282M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=V7uYoMhc1nM"
+  }
+ ],
+ "submitted": "2023-05-19T19:16:31.201897",
+ "attachments": [],
+ "forum": {
+  "topicId": 1412,
+  "url": "https://forum.toolassisted.run/t/1412"
+ }
+}

@@ -8,6 +8,11 @@
      "key": "game-b",
      "label": "Game B",
      "rule": "Imported as \"Game B\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "game-a-maximum-score",
+     "label": "Game A, maximum score",
+     "rule": "Imported as \"Game A, maximum score\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

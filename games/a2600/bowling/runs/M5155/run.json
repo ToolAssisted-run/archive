@@ -1,0 +1,52 @@
+{
+ "id": "M5155",
+ "game": "a2600/bowling",
+ "category": {
+  "goal": "game-3"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5155.bk2",
+  "format": "bk2",
+  "frames": 4660,
+  "rerecords": 131951,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Bowling (1978) (Atari) [!].a26",
+    "sha1": "cf6ce244b3edaad7ad5e9ca5f01668135c2f93d0"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5155M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=yQa_R0HT55k"
+  }
+ ],
+ "submitted": "2023-03-12T00:33:50.44337",
+ "attachments": [],
+ "forum": {
+  "topicId": 1407,
+  "url": "https://forum.toolassisted.run/t/1407"
+ }
+}
