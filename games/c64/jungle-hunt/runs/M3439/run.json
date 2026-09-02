@@ -1,0 +1,52 @@
+{
+ "id": "M3439",
+ "game": "c64/jungle-hunt",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3439.bk2",
+  "format": "bk2",
+  "frames": 8861,
+  "rerecords": 1683,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.0",
+  "files": [
+   {
+    "name": "JUNGLHNT.CRT",
+    "sha1": "048f08709fdc4fe7fe38d68f551ddb8baa78a8b4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3439M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=5F0MjccL4wk"
+  }
+ ],
+ "submitted": "2017-06-19T04:29:45",
+ "attachments": [],
+ "forum": {
+  "topicId": 1352,
+  "url": "https://forum.toolassisted.run/t/1352"
+ }
+}

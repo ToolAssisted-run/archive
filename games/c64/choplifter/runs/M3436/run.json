@@ -1,0 +1,52 @@
+{
+ "id": "M3436",
+ "game": "c64/choplifter",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3436.bk2",
+  "format": "bk2",
+  "frames": 7674,
+  "rerecords": 2074,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.0",
+  "files": [
+   {
+    "name": "CHOPLIFT.CRT",
+    "sha1": "6f940af10a3a23e2c120a7f7b72cbf572e0cda8a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3436M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ESaqdd360rc"
+  }
+ ],
+ "submitted": "2017-06-18T12:38:21",
+ "attachments": [],
+ "forum": {
+  "topicId": 1350,
+  "url": "https://forum.toolassisted.run/t/1350"
+ }
+}

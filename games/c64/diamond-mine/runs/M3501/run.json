@@ -1,0 +1,52 @@
+{
+ "id": "M3501",
+ "game": "c64/diamond-mine",
+ "category": {
+  "goal": "all-diamonds"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3501.bk2",
+  "format": "bk2",
+  "frames": 53718,
+  "rerecords": 6184,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.13.0",
+  "files": [
+   {
+    "name": "DIAMOND_.CRT",
+    "sha1": "b7a82eeb467e5717e2952abeb20049fd86d2ba3d"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3501M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3NH7HwUcA9Y"
+  }
+ ],
+ "submitted": "2017-08-20T20:08:46",
+ "attachments": [],
+ "forum": {
+  "topicId": 1359,
+  "url": "https://forum.toolassisted.run/t/1359"
+ }
+}
