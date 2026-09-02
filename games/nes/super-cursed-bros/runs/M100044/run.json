@@ -72,5 +72,12 @@
    "date": "2026-08-30",
    "at": "2026-08-30T15:49:41Z"
   }
- ]
+ ],
+ "withdrawn": {
+  "by": "duckthegun0",
+  "date": "2026-09-02",
+  "at": "2026-09-02T01:19:01Z",
+  "reason": "This site is AI and I'm not using it again",
+  "role": "author"
+ }
 }
