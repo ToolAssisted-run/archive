@@ -1,0 +1,52 @@
+{
+ "id": "M3990",
+ "game": "a2600/montezumas-revenge",
+ "category": {
+  "goal": "all-items"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3990.bk2",
+  "format": "bk2",
+  "frames": 20141,
+  "rerecords": 5263,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "files": [
+   {
+    "name": "Montezuma's Revenge - Starring Panama Joe (1983) (Parker Bros).bin",
+    "sha1": "7dfeb1a8ec863c1e0f297113a1cc4185c215e81c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3990M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=pFB0kuPx5mQ"
+  }
+ ],
+ "submitted": "2019-07-04T14:38:31",
+ "attachments": [],
+ "forum": {
+  "topicId": 1384,
+  "url": "https://forum.toolassisted.run/t/1384"
+ }
+}

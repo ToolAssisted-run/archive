@@ -1,0 +1,52 @@
+{
+ "id": "M4106",
+ "game": "zxs/aliens-neoplasma",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4106.bk2",
+  "format": "bk2",
+  "frames": 52249,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.2",
+  "files": [
+   {
+    "name": "Aliens_Neoplasma_1_2_EN_TAP_v1_2.tap",
+    "sha1": "59d719af6bd4ae46b8f22db76119260f515057c7"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4106M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=LQuQxcmGP1A"
+  }
+ ],
+ "submitted": "2020-02-08T20:32:14",
+ "attachments": [],
+ "forum": {
+  "topicId": 1392,
+  "url": "https://forum.toolassisted.run/t/1392"
+ }
+}

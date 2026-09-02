@@ -1,0 +1,52 @@
+{
+ "id": "M4003",
+ "game": "nes/duck-hunt",
+ "category": {
+  "goal": "game-b"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4003.bk2",
+  "format": "bk2",
+  "frames": 42766,
+  "rerecords": 18775,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "files": [
+   {
+    "name": "Duck Hunt (W) [!].nes",
+    "sha1": "8e18068823635a115e2fc0925ff3bda209ec6a42"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4003M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=CjAQTTFpDyE"
+  }
+ ],
+ "submitted": "2019-07-25T15:23:31",
+ "attachments": [],
+ "forum": {
+  "topicId": 1386,
+  "url": "https://forum.toolassisted.run/t/1386"
+ }
+}

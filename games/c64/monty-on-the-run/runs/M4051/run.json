@@ -1,0 +1,52 @@
+{
+ "id": "M4051",
+ "game": "c64/monty-on-the-run",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4051.bk2",
+  "format": "bk2",
+  "frames": 36282,
+  "rerecords": 144432,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.2",
+  "files": [
+   {
+    "name": "Monty on the Run (1985)(Gremlin Graphics).tap",
+    "sha1": "133c708f2c61c938b0033e67650fe471f5acbdcc"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4051M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=YeP1908OZ-A"
+  }
+ ],
+ "submitted": "2019-10-13T09:26:35",
+ "attachments": [],
+ "forum": {
+  "topicId": 1388,
+  "url": "https://forum.toolassisted.run/t/1388"
+ }
+}

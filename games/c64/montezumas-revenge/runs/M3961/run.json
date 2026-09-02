@@ -1,0 +1,53 @@
+{
+ "id": "M3961",
+ "game": "c64/montezumas-revenge",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3961.bk2",
+  "format": "bk2",
+  "frames": 15898,
+  "fps": 59.826089499853765,
+  "rerecords": 11258,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "files": [
+   {
+    "name": "Montezumas_Revenge_1984_Parker_Brothers.d64",
+    "sha1": "809725559c77a6a6eabfa197062f16d794b24e2e"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3961M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=J4zL7E6IrWY"
+  }
+ ],
+ "submitted": "2019-05-12T13:04:25",
+ "attachments": [],
+ "forum": {
+  "topicId": 1382,
+  "url": "https://forum.toolassisted.run/t/1382"
+ }
+}

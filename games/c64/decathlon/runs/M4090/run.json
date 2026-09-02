@@ -1,0 +1,53 @@
+{
+ "id": "M4090",
+ "game": "c64/decathlon",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4090.bk2",
+  "format": "bk2",
+  "frames": 34401,
+  "fps": 59.826089499853765,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.2",
+  "files": [
+   {
+    "name": "Decathlon (1983)(Activision).crt",
+    "sha1": "f128119c7f91d77975e25f726ec939d980f25e8f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4090M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=9vzVJx3fj-g"
+  }
+ ],
+ "submitted": "2019-12-26T13:10:34",
+ "attachments": [],
+ "forum": {
+  "topicId": 1390,
+  "url": "https://forum.toolassisted.run/t/1390"
+ }
+}
