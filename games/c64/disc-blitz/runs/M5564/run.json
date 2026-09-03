@@ -1,0 +1,56 @@
+{
+ "id": "M5564",
+ "game": "c64/disc-blitz",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5564.bk2",
+  "format": "bk2",
+  "frames": 6653,
+  "fps": 59.826089499853765,
+  "rerecords": 3634,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1989-01.d64",
+    "sha1": "074b4a47d06280b637c2a7ef7a2c306483fa306c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5564M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=LRu5N_Jx-VI"
+  }
+ ],
+ "submitted": "2023-09-13T22:29:52.783863",
+ "attachments": [],
+ "forum": {
+  "topicId": 1452,
+  "url": "https://forum.toolassisted.run/t/1452"
+ }
+}

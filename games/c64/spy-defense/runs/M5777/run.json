@@ -1,0 +1,56 @@
+{
+ "id": "M5777",
+ "game": "c64/spy-defense",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5777.bk2",
+  "format": "bk2",
+  "frames": 8527,
+  "fps": 59.826089499853765,
+  "rerecords": 21383,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1988-04.d64",
+    "sha1": "d342667c2d81271cc7a785d4c0a3ce7d47255a79"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5777M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ZZ0k7_vR4KA"
+  }
+ ],
+ "submitted": "2024-01-28T09:02:07.09719",
+ "attachments": [],
+ "forum": {
+  "topicId": 1454,
+  "url": "https://forum.toolassisted.run/t/1454"
+ }
+}

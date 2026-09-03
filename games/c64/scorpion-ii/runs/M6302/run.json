@@ -1,0 +1,56 @@
+{
+ "id": "M6302",
+ "game": "c64/scorpion-ii",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6302.bk2",
+  "format": "bk2",
+  "frames": 8636,
+  "fps": 59.826089499853765,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1988-10.d64",
+    "sha1": "32f4e5f1f15ab976e051ee633eb36d3ada0436c0"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6302M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=5ucmZonhwMg"
+  }
+ ],
+ "submitted": "2024-12-23T19:44:23.917994",
+ "attachments": [],
+ "forum": {
+  "topicId": 1460,
+  "url": "https://forum.toolassisted.run/t/1460"
+ }
+}

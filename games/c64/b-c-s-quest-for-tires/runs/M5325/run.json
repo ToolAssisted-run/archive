@@ -1,0 +1,56 @@
+{
+ "id": "M5325",
+ "game": "c64/b-c-s-quest-for-tires",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5325.bk2",
+  "format": "bk2",
+  "frames": 8486,
+  "fps": 59.826089499853765,
+  "rerecords": 1659,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "BC's_Quest_for_Tires.crt",
+    "sha1": "141cc05ebf2a7a13e29a8280613bfe35933b84a0"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5325M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Hucf8h4NItg"
+  }
+ ],
+ "submitted": "2023-06-10T21:14:17.2969",
+ "attachments": [],
+ "forum": {
+  "topicId": 1450,
+  "url": "https://forum.toolassisted.run/t/1450"
+ }
+}

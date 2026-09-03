@@ -1,0 +1,56 @@
+{
+ "id": "M6170",
+ "game": "c64/10th-frame",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6170.bk2",
+  "format": "bk2",
+  "frames": 26055,
+  "fps": 59.826089499853765,
+  "rerecords": 654,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "10th_Frame_(Kixx).tap",
+    "sha1": "e21028be87f6aa0e5c6c3419b982bfbf07c35b65"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6170M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=JFh3iPiUYY8"
+  }
+ ],
+ "submitted": "2024-09-19T00:39:39.976108",
+ "attachments": [],
+ "forum": {
+  "topicId": 1458,
+  "url": "https://forum.toolassisted.run/t/1458"
+ }
+}

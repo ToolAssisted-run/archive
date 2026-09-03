@@ -1,0 +1,56 @@
+{
+ "id": "M5886",
+ "game": "c64/omega-race",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5886.bk2",
+  "format": "bk2",
+  "frames": 3597,
+  "fps": 59.826089499853765,
+  "rerecords": 6055,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.9.1",
+  "files": [
+   {
+    "name": "omega_race.crt",
+    "sha1": "f086ea7d8ad6136de45da41b7ff4c0f9bb7c7521"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5886M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=eHT65xMuspk"
+  }
+ ],
+ "submitted": "2024-04-01T01:17:15.488957",
+ "attachments": [],
+ "forum": {
+  "topicId": 1456,
+  "url": "https://forum.toolassisted.run/t/1456"
+ }
+}
