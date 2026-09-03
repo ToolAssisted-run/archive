@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -62,6 +62,14 @@
     "cause": "edit",
     "reason": "the movie file changed after this reproduction"
    }
+  },
+  {
+   "user": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T07:44:28Z",
+   "screenshot": "reproductions/2-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "ROM (.smc) SHA1 hash: 386301B7CB5D8D88648F3B42654BBFD5AD1DD775"
   }
  ],
  "verifications": [
