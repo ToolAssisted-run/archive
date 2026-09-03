@@ -23,7 +23,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -62,6 +62,12 @@
     "cause": "edit",
     "reason": "the scoring changed after this verification"
    }
+  },
+  {
+   "user": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T17:25:03Z",
+   "expert": true
   }
  ]
 }
