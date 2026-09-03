@@ -1,0 +1,45 @@
+{
+ "id": "M100056",
+ "game": "genesis/steel-empire",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 1935.325,
+ "movie": {
+  "file": "M100056.bk2",
+  "format": "bk2",
+  "sha1": "1e4f0fa3dbbf1120798123ecd18f3de66467a4a2",
+  "frames": 115970,
+  "rerecords": 2190,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": ""
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=uiq8gttvb84"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-01-26",
+ "submitted": "2026-09-03T21:45:34Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1468,
+  "url": "https://forum.toolassisted.run/t/1468"
+ }
+}
