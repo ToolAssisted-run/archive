@@ -1,0 +1,45 @@
+{
+ "id": "M100054",
+ "game": "snes/the-devious-four-chronicles-3-the-crater",
+ "category": {
+  "goal": "100-exits"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 13826.746,
+ "movie": {
+  "file": "M100054.bk2",
+  "format": "bk2",
+  "sha1": "3612df7a268423254daa2ac34200382ccd3fd4a0",
+  "frames": 830971,
+  "rerecords": 20227,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 Snes9x"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=TxAp7junSvQ"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-02-05",
+ "submitted": "2026-09-03T14:19:50Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1464,
+  "url": "https://forum.toolassisted.run/t/1464"
+ }
+}
