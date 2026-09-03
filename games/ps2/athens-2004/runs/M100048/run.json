@@ -10,19 +10,19 @@
   }
  ],
  "tools": [],
- "duration": 73.357,
+ "duration": 66.65,
  "movie": {
   "file": "M100048.chimeraproject",
   "format": "chimeraproject",
-  "sha1": "394cd35f75bd9a977f6a890d8d1b389854020763",
-  "frames": 3998,
-  "rerecords": 349,
+  "sha1": "7a63bc9c48ecdbb4598a07b7608fc63cea35fe9b",
+  "frames": 3995,
+  "rerecords": 50,
   "start": "power-on",
   "fps": 59.94005994005994
  },
  "thumbnail": "thumb.jpg",
  "contract": {
-  "emulator": "Chimera (Nightly 2026-08-30, 747a1ee5)",
+  "emulator": "Chimera (Nightly 2026-09-02, cf1e60bc)",
   "files": [
    {
     "name": "Athens 2004 (Europe, Australia) (En,Fr,De,Es,It,Pt).iso",
