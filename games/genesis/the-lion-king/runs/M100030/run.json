@@ -28,7 +28,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -52,6 +52,13 @@
    "at": "2026-08-23T17:52:07Z",
    "screenshot": "reproductions/1-DigitalDuck.png",
    "emulator": "BizHawk 2.11, GensPlus-GX"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T17:23:42Z"
   }
  ]
 }
