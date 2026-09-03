@@ -1,0 +1,49 @@
+{
+ "id": "M100055",
+ "game": "wii/the-house-of-the-dead-overkill",
+ "category": {
+  "goal": "papas-palace-of-pain"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "duration": 457.0,
+ "movie": {
+  "file": "M100055.dtm",
+  "format": "dtm",
+  "sha1": "97261d7fe6fafb4ca200da4f9b0509e40315906d",
+  "frames": 44816,
+  "rerecords": 3671,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence",
+  "strong-language"
+ ],
+ "contract": {
+  "emulator": "Dolphin-4.0 9390"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=okc5p154B28"
+  }
+ ],
+ "attachments": [],
+ "completed": "2016-09-21",
+ "submitted": "2026-09-03T20:30:08Z",
+ "submittedBy": "Dimon12321",
+ "forum": {
+  "topicId": 1466,
+  "url": "https://forum.toolassisted.run/t/1466"
+ }
+}
