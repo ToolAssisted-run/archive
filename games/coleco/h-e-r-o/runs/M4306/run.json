@@ -1,0 +1,55 @@
+{
+ "id": "M4306",
+ "game": "coleco/h-e-r-o",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  },
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4306.bk2",
+  "format": "bk2",
+  "frames": 33576,
+  "rerecords": 17343,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.5",
+  "files": [
+   {
+    "name": "H.E.R.O. (1984) (Activision) [!].col",
+    "sha1": "1febd0de031402c2d2dc88f0c60d18c35feee6f3"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4306M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=JmsSsTKcBME"
+  }
+ ],
+ "submitted": "2020-10-18T08:24:33",
+ "attachments": [],
+ "forum": {
+  "topicId": 1442,
+  "url": "https://forum.toolassisted.run/t/1442"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "id": "M4624",
+ "game": "c64/anarchy",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4624.bk2",
+  "format": "bk2",
+  "frames": 31887,
+  "rerecords": 2430806,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.6.3",
+  "files": [
+   {
+    "name": "Anarchy.tap",
+    "sha1": "dd82f076be0a79ca81904b3fafb588de5611cbdf"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4624M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=blN2KMyZEu8"
+  }
+ ],
+ "submitted": "2022-04-10T15:57:48.106517",
+ "attachments": [],
+ "forum": {
+  "topicId": 1446,
+  "url": "https://forum.toolassisted.run/t/1446"
+ }
+}

@@ -176,5 +176,9 @@
  "intv": {
   "name": "Intellivision",
   "fps": 59.92
+ },
+ "coleco": {
+  "name": "ColecoVision",
+  "fps": 59.9227510135505
  }
 }

@@ -1,0 +1,56 @@
+{
+ "id": "M5247",
+ "game": "c64/mole-attack",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5247.bk2",
+  "format": "bk2",
+  "frames": 6215,
+  "fps": 59.826089499853765,
+  "rerecords": 394,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Mole Attack Max (1982)(Commodore).crt",
+    "sha1": "92305031375f0cfc2495d5252010c1f5823c7b6b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5247M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=R48OqWJC33E"
+  }
+ ],
+ "submitted": "2023-05-02T03:47:51.770383",
+ "attachments": [],
+ "forum": {
+  "topicId": 1448,
+  "url": "https://forum.toolassisted.run/t/1448"
+ }
+}

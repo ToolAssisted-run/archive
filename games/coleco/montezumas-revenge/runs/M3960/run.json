@@ -1,0 +1,55 @@
+{
+ "id": "M3960",
+ "game": "coleco/montezumas-revenge",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "DrD2k9"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3960.bk2",
+  "format": "bk2",
+  "frames": 40654,
+  "rerecords": 22093,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "files": [
+   {
+    "name": "Montezuma's Revenge (1984) (Parker Bros) [!].col",
+    "sha1": "b0c02e594dd965af5045d4e3de19c61fa5b6d0ca"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3960M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=mJ5hmR4hWi0"
+  }
+ ],
+ "submitted": "2019-05-12T08:54:45",
+ "attachments": [],
+ "forum": {
+  "topicId": 1438,
+  "url": "https://forum.toolassisted.run/t/1438"
+ }
+}

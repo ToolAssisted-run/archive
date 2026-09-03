@@ -1,0 +1,55 @@
+{
+ "id": "M4304",
+ "game": "a2600/h-e-r-o",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "DrD2k9"
+  },
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4304.bk2",
+  "format": "bk2",
+  "frames": 35251,
+  "rerecords": 32556,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.5",
+  "files": [
+   {
+    "name": "H.E.R.O. (1984) (Activision) [!].a26",
+    "sha1": "282f94817401e3725c622b73a0c05685ce761783"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4304M",
+  "importedBy": "DrD2k9",
+  "importedAt": "2026-09-03"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=g-3BmLc9IAQ"
+  }
+ ],
+ "submitted": "2020-10-13T16:34:16",
+ "attachments": [],
+ "forum": {
+  "topicId": 1440,
+  "url": "https://forum.toolassisted.run/t/1440"
+ }
+}
