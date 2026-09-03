@@ -25,7 +25,7 @@
  },
  "status": {
   "reproduced": "not-applicable",
-  "verified": "none",
+  "verified": "provisional",
   "console": "not-applicable"
  },
  "encodes": [
@@ -41,5 +41,12 @@
  "forum": {
   "topicId": 1240,
   "url": "https://forum.toolassisted.run/t/1240"
- }
+ },
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T17:25:20Z"
+  }
+ ]
 }
