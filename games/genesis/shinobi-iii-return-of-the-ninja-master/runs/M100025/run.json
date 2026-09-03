@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -55,6 +55,13 @@
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "BizHawk 2.4.2",
    "notes": "ROM MD5: 691EEFF9C5741724A8751EC0FA9CFBF0"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T17:23:24Z"
   }
  ]
 }
