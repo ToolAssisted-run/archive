@@ -10,19 +10,19 @@
   }
  ],
  "tools": [],
- "duration": 101.585,
+ "duration": 92.576,
  "movie": {
   "file": "M100047.chimeraproject",
   "format": "chimeraproject",
-  "sha1": "53d1424a4f3030817fc41f8724bc2b995e8978e4",
-  "frames": 5554,
-  "rerecords": 1095,
+  "sha1": "c52bf95baca9ab5530049cf5f73217e9c47d9ef3",
+  "frames": 5549,
+  "rerecords": 193,
   "start": "power-on",
   "fps": 59.94005994005994
  },
  "thumbnail": "thumb.jpg",
  "contract": {
-  "emulator": "Chimera (development build 595de1ee)",
+  "emulator": "Chimera (Nightly 2026-09-02, cf1e60bc)",
   "files": [
    {
     "name": "Athens 2004 (Europe, Australia) (En,Fr,De,Es,It,Pt).iso",
@@ -32,7 +32,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "confirmed",
+  "verified": "none",
   "console": "none"
  },
  "encodes": [
@@ -55,7 +55,14 @@
    "date": "2026-08-30",
    "at": "2026-08-30T09:48:30Z",
    "expert": true,
-   "notes": "The author performs initial game setup, fast-fails 2 attempts to lift 120 kg, successfully lifts 280 kg."
+   "notes": "The author performs initial game setup, fast-fails 2 attempts to lift 120 kg, successfully lifts 280 kg.",
+   "invalidated": {
+    "by": "toca",
+    "date": "2026-09-03",
+    "at": "2026-09-03T17:03:23Z",
+    "cause": "edit",
+    "reason": "the scoring changed after this verification"
+   }
   }
  ]
 }
