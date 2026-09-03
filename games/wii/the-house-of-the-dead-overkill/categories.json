@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "papas-palace-of-pain",
+     "label": "Papa's Palace of Pain",
+     "rule": "Complete Mission 1 in the fastest time. Extra zombies option must be on."
+    }
+   ]
+  }
+ ]
+}
