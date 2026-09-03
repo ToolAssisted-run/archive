@@ -10,10 +10,10 @@
   }
  ],
  "tools": [],
- "duration": 60.561,
+ "duration": 52.869,
  "thumbnail": "thumb.jpg",
  "contract": {
-  "emulator": "Chimera (Development build f9b69ad6)",
+  "emulator": "Chimera (Nightly 2026-09-02, cf1e60bc)",
   "files": [
    {
     "name": "Athens 2004 (Europe, Australia) (En,Fr,De,Es,It,Pt).iso",
@@ -23,7 +23,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "confirmed",
+  "verified": "none",
   "console": "none"
  },
  "encodes": [
@@ -43,9 +43,9 @@
  "movie": {
   "file": "M100046.chimeraproject",
   "format": "chimeraproject",
-  "sha1": "6f7bf3e1a0394b1a76646f01807f7f5b3babd058",
-  "frames": 3299,
-  "rerecords": 476,
+  "sha1": "76c57695e40dcf96659b5c239c03c1246e97c421",
+  "frames": 3169,
+  "rerecords": 129,
   "start": "power-on",
   "fps": 59.94005994005994
  },
@@ -54,7 +54,14 @@
    "user": "Dimon12321",
    "date": "2026-08-30",
    "at": "2026-08-30T09:50:28Z",
-   "expert": true
+   "expert": true,
+   "invalidated": {
+    "by": "toca",
+    "date": "2026-09-03",
+    "at": "2026-09-03T16:52:17Z",
+    "cause": "edit",
+    "reason": "the scoring changed after this verification"
+   }
   }
  ]
 }

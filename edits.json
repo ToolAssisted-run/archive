@@ -7166,6 +7166,50 @@
    "date": "2026-09-03",
    "at": "2026-09-03T14:55:13Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100046",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T16:52:17Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100046",
+   "field": "emulator",
+   "from": "Chimera (Development build f9b69ad6)",
+   "to": "Chimera (Nightly 2026-09-02, cf1e60bc)",
+   "by": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T16:52:17Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100046",
+   "field": "movie",
+   "from": "M100046.chimeraproject (sha1 6f7bf3e1a039)",
+   "to": "",
+   "by": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T16:52:17Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100046",
+   "field": "duration",
+   "from": "60.561",
+   "to": "52.869",
+   "by": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T16:52:17Z",
+   "reason": "The author's own revision."
   }
  ]
 }
