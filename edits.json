@@ -7320,6 +7320,17 @@
    "date": "2026-09-03",
    "at": "2026-09-03T17:11:07Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "group",
+   "key": "donkey-kong",
+   "field": "games",
+   "from": "",
+   "to": "c64/donkey-kong-atarisoft, gb/donkey-kong",
+   "by": "CloakTheLurker",
+   "date": "2026-09-03",
+   "at": "2026-09-03T19:29:17Z",
+   "reason": "Changed from the group form: gb/donkey-kong moved in c64/donkey-kong-atarisoft moved in"
   }
  ]
 }
