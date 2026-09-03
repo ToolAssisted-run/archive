@@ -2,7 +2,8 @@
  "id": "M100055",
  "game": "wii/the-house-of-the-dead-overkill",
  "category": {
-  "goal": "papas-palace-of-pain"
+  "goal": "papas-palace-of-pain",
+  "sub": "100"
  },
  "authors": [
   {

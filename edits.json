@@ -7331,6 +7331,17 @@
    "date": "2026-09-03",
    "at": "2026-09-03T19:29:17Z",
    "reason": "Changed from the group form: gb/donkey-kong moved in c64/donkey-kong-atarisoft moved in"
+  },
+  {
+   "kind": "category",
+   "key": "wii/the-house-of-the-dead-overkill:papas-palace-of-pain/100",
+   "field": "added",
+   "from": "",
+   "to": "100%",
+   "by": "Dimon12321",
+   "date": "2026-09-03",
+   "at": "2026-09-03T20:33:47Z",
+   "reason": "Add the \"100%\" condition details"
   }
  ]
 }
