@@ -25,7 +25,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -76,6 +76,11 @@
     "cause": "edit",
     "reason": "the scoring changed after this verification"
    }
+  },
+  {
+   "user": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T07:43:51Z"
   }
  ]
 }
