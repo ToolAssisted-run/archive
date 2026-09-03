@@ -25,7 +25,7 @@
   "emulator": "Chimera version x64-cf1e60bc"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -57,6 +57,16 @@
    "user": "eien86",
    "date": "2026-09-02",
    "at": "2026-09-02T08:24:24Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T16:12:10Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-02, cf1e60bc)",
+   "notes": "MD5 hash of the .chd file: 3D2688EF97C86527AC66C996E0BB3534/ SHA1 hash of the .chd file: 1AD91BA23E5CC7FA6FF5528516BC7F8638B1058F"
   }
  ]
 }
