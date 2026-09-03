@@ -252,6 +252,17 @@
    "ratifiedAtTime": "2026-08-19T17:26:33Z"
   },
   {
+   "key": "hero",
+   "title": "H.E.R.O.",
+   "games": [
+    "a2600/h-e-r-o",
+    "c64/h-e-r-o",
+    "coleco/h-e-r-o"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-09-03"
+  },
+  {
    "key": "home-sweet-home",
    "title": "Home Sweet Home",
    "games": [
