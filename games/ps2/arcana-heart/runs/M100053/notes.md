@@ -1,3 +1,5 @@
+Edit 20260903: Replaced movie file to sync on Chimera version x64-cf1e60bc.
+
 Arcana Heart is a 2D fighting game for the PS2 released in 2007.  
 
 The strategy here is choose Fiona similar to the current WR here : https://www.speedrun.com/arcana_heart/runs/zxwe41em

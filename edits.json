@@ -7089,6 +7089,72 @@
    "date": "2026-09-02",
    "at": "2026-09-02T06:16:46Z",
    "reason": "wrong game title"
+  },
+  {
+   "kind": "run",
+   "key": "M100053",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T13:56:41Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100053",
+   "field": "emulator",
+   "from": "Chimera version x64-747a1ee5",
+   "to": "Chimera version x64-cf1e60bc",
+   "by": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T13:56:41Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100053",
+   "field": "movie",
+   "from": "M100053.chimeraproject (sha1 57489e1dab8c)",
+   "to": "",
+   "by": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T13:56:41Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100053",
+   "field": "encode",
+   "from": "https://youtu.be/7Wxl8p7VR_E",
+   "to": "https://www.youtube.com/watch?v=dkP6aioyD_k",
+   "by": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T13:56:41Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100053",
+   "field": "duration",
+   "from": "463.983",
+   "to": "463.933",
+   "by": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T13:56:41Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100053",
+   "field": "attachments",
+   "from": "(previous value in git history)",
+   "to": "Arcana_Heart__USA__Resynced_COMPLETE_CREDITS_27836.chimeraProject",
+   "by": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T13:56:41Z",
+   "reason": "The author's own revision."
   }
  ]
 }
