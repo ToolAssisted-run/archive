@@ -22,7 +22,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -68,6 +68,15 @@
    "date": "2026-09-03",
    "at": "2026-09-03T17:25:03Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T17:30:34Z",
+   "screenshot": "reproductions/1-CoolHandMike.png",
+   "emulator": "G:\\chimera-win-x64-cf1e60bc"
   }
  ]
 }
