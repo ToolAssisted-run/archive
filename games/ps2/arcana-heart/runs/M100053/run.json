@@ -26,7 +26,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -67,6 +67,13 @@
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "Chimera (Nightly 2026-09-02, cf1e60bc)",
    "notes": "MD5 hash of the .chd file: 3D2688EF97C86527AC66C996E0BB3534/ SHA1 hash of the .chd file: 1AD91BA23E5CC7FA6FF5528516BC7F8638B1058F"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T16:12:16Z"
   }
  ]
 }
