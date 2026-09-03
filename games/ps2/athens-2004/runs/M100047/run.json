@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -69,6 +69,15 @@
    "date": "2026-09-03",
    "at": "2026-09-03T17:58:41Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T17:59:07Z",
+   "screenshot": "reproductions/1-CoolHandMike.png",
+   "emulator": "Chimera version x64-cf1e60bc"
   }
  ]
 }
