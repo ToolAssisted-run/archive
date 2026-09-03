@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 Snes9x"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -41,5 +41,15 @@
  "forum": {
   "topicId": 1464,
   "url": "https://forum.toolassisted.run/t/1464"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-03",
+   "at": "2026-09-03T17:22:11Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "MD5 hash of ROM: BC1C3764B83884292B602C49407541C0"
+  }
+ ]
 }
