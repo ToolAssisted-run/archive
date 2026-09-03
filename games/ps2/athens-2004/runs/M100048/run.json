@@ -32,7 +32,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -48,5 +48,13 @@
  "forum": {
   "topicId": 1328,
   "url": "https://forum.toolassisted.run/t/1328"
- }
+ },
+ "verifications": [
+  {
+   "user": "CoolHandMike",
+   "date": "2026-09-03",
+   "at": "2026-09-03T18:10:01Z",
+   "expert": true
+  }
+ ]
 }
