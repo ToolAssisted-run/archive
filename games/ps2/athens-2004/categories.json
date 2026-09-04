@@ -18,6 +18,11 @@
      "key": "vault",
      "label": "Vault",
      "rule": "Complete the Vault discipline as quickly as possible while reaching 10.00 points in total"
+    },
+    {
+     "key": "100m",
+     "label": "100m",
+     "rule": "Finish the 100m discipline as quickly as possible"
     }
    ]
   }
