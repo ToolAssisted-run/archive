@@ -30,7 +30,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -55,6 +55,13 @@
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "Dolphin-4.0 9390",
    "notes": "MD5 hash of House of the Dead, The - Overkill (USA) (En,Fr,Es).iso is BC092D04E7EE32DEF5AF8BE1E7D98DE6"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-04",
+   "at": "2026-09-04T09:42:06Z"
   }
  ]
 }
