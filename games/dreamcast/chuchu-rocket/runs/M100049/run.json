@@ -25,7 +25,7 @@
   "emulator": "Chimera Nightly 2026-08-30 (747a1ee5)"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -48,6 +48,16 @@
    "user": "toca",
    "date": "2026-09-04",
    "at": "2026-09-04T06:09:48Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-04",
+   "at": "2026-09-04T16:38:23Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-08-30, 747a1ee5)",
+   "notes": "After downloading the movie file, rename it to M100049.chimeraProject (note the capitalized P in the file extension) because else it won't load. MD5 hash of ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).cue is ABDDE3F166061C25F338F2DF288E2841, and the first of the 19 bin files (\"ChuChu Rocket! (USA) (En,Ja,Fr,De,Es) (Track 01).bin\") has MD5 hash EE1356C0558EF9671B4A07606BEC95A5"
   }
  ]
 }
