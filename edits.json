@@ -7364,6 +7364,17 @@
    "date": "2026-09-04",
    "at": "2026-09-04T09:14:36Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "wii/the-house-of-the-dead-overkill:papas-palace-of-pain/100",
+   "field": "rule",
+   "from": "100% conditions:\r\n- all golden brains destroyed, \r\n- all civilians rescued, \r\n- all zombies killed, \r\n- 100% accuracy.",
+   "to": "100% conditions:\r\n- all golden brains destroyed, \r\n- all civilians rescued, \r\n- all zombies killed.",
+   "by": "Dimon12321",
+   "date": "2026-09-04",
+   "at": "2026-09-04T09:41:09Z",
+   "reason": "I didn't pay attention there are breakable objects throughout the game shooting which lowers your accuracy rate. For actual 100% accuracy, you would need to wait until enemies become shootable."
   }
  ]
 }

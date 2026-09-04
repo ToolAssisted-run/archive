@@ -12,7 +12,7 @@
       {
        "key": "100",
        "label": "100%",
-       "rule": "100% conditions:\r\n- all golden brains destroyed, \r\n- all civilians rescued, \r\n- all zombies killed, \r\n- 100% accuracy."
+       "rule": "100% conditions:\r\n- all golden brains destroyed, \r\n- all civilians rescued, \r\n- all zombies killed."
       }
      ]
     },
