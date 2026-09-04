@@ -1,0 +1,52 @@
+{
+ "id": "M100058",
+ "game": "ps2/athens-2004",
+ "category": {
+  "goal": "100m"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "duration": 46.129,
+ "movie": {
+  "file": "M100058.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "fa00316bab62e0b61d4ae29ee05e176f9a576df2",
+  "frames": 2765,
+  "rerecords": 326,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera (Nightly 2026-09-02, cf1e60bc)",
+  "files": [
+   {
+    "name": "Athens 2004 (Europe, Australia) (En,Fr,De,Es,It,Pt).iso",
+    "sha1": "379de1cddfdac0f392f615e4adfcd50b61cbb115"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtube.com/watch?v=MzZgsJp9jDI"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-04",
+ "submitted": "2026-09-04T12:10:27Z",
+ "submittedBy": "toca",
+ "forum": {
+  "topicId": 1470,
+  "url": "https://forum.toolassisted.run/t/1470"
+ }
+}
