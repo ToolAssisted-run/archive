@@ -24,7 +24,7 @@
   "emulator": ""
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -47,6 +47,16 @@
    "user": "toca",
    "date": "2026-09-04",
    "at": "2026-09-04T08:36:00Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-04",
+   "at": "2026-09-04T08:36:34Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "ROM hashes: MD5 9105A05E3E2E0AE261789FDAFCA676A2, SHA1 45C0B9D85B4A8053C3F3432828626DAE47022634"
   }
  ]
 }
