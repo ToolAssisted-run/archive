@@ -29,7 +29,7 @@
   "emulator": "Dolphin-4.0 9390"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -52,6 +52,16 @@
    "user": "toca",
    "date": "2026-09-04",
    "at": "2026-09-04T08:58:31Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-04",
+   "at": "2026-09-04T09:19:45Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Dolphin-4.0 9390",
+   "notes": "MD5 hash of House of the Dead, The - Overkill (USA) (En,Fr,Es).iso is BC092D04E7EE32DEF5AF8BE1E7D98DE6. The movie syncs successfully and beats the level. Unlike the encode, however, it does not stop on the score screen and instead skips it as quickly as possible. To capture the required ending screenshot, I made a savestate during the synced movie playback shortly before the end and loaded it afterward (the savestate initially refused to load with the message \"State is incompatible with current DSP engine\" because the movie had been running with Dolphin's DSP LLE audio emulation, while Dolphin had subsequently switched back to a different DSP engine. To successfully load the state, first stop the game, then from Dolphin's main window, open Config, go to the Audio tab, and under DSP Emulator Engine select DSP LLE Recompiler). After switching back to LLE, the savestate loaded correctly and I was able to capture the score screen shown in the reproduction screenshot."
   }
  ]
 }
