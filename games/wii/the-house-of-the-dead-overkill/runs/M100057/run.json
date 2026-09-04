@@ -1,0 +1,50 @@
+{
+ "id": "M100057",
+ "game": "wii/the-house-of-the-dead-overkill",
+ "category": {
+  "goal": "ballistic-trauma",
+  "sub": "100"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "duration": 404.0,
+ "movie": {
+  "file": "M100057.dtm",
+  "format": "dtm",
+  "sha1": "19e438162bb42e5e1c61686bf5006870642cb57a",
+  "frames": 82582,
+  "rerecords": 8064,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence",
+  "strong-language"
+ ],
+ "contract": {
+  "emulator": "Dolphin 4.0-9390"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=NNpjwSB1cjc"
+  }
+ ],
+ "attachments": [],
+ "completed": "2016-11-19",
+ "submitted": "2026-09-04T09:21:47Z",
+ "submittedBy": "Dimon12321",
+ "forum": {
+  "topicId": 1469,
+  "url": "https://forum.toolassisted.run/t/1469"
+ }
+}
