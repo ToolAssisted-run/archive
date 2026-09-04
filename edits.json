@@ -7342,6 +7342,17 @@
    "date": "2026-09-03",
    "at": "2026-09-03T20:33:47Z",
    "reason": "Add the \"100%\" condition details"
+  },
+  {
+   "kind": "category",
+   "key": "wii/the-house-of-the-dead-overkill:ballistic-trauma",
+   "field": "added",
+   "from": "",
+   "to": "Ballistic Trauma",
+   "by": "Dimon12321",
+   "date": "2026-09-04",
+   "at": "2026-09-04T09:13:43Z",
+   "reason": "Created it."
   }
  ]
 }

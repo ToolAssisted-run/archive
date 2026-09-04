@@ -15,6 +15,11 @@
        "rule": "100% conditions:\r\n- all golden brains destroyed, \r\n- all civilians rescued, \r\n- all zombies killed, \r\n- 100% accuracy."
       }
      ]
+    },
+    {
+     "key": "ballistic-trauma",
+     "label": "Ballistic Trauma",
+     "rule": "Complete Ballistic Trauma (Mission 2) in the fastest time. \r\n\r\n\"Extra mutants\" option must be on."
     }
    ]
   }
