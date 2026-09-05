@@ -39,8 +39,18 @@ except ImportError:
     jsonschema = None   # fatal below unless explicitly waived
 
 ROOT = pathlib.Path(__file__).parent
-ALLOWED_ATTACH_EXT = {'.txt', '.md', '.ini', '.cfg', '.conf', '.toml', '.json',
-                      '.yaml', '.yml', '.xml', '.lua', '.sync', '.properties'}
+# Every text attachment intake accepts: documentation, configuration,
+# scripts, memory watches, cheats, subtitles, logs and diffs. Same peril as
+# the movie list below, and the same cure: regenerated from
+# archivist/settings.py ATTACH_EXTS in the website repository.
+ALLOWED_ATTACH_EXT = {
+    '.ahk', '.asm', '.ass', '.avs', '.bat', '.bpt', '.c', '.cfg',
+    '.cht', '.clt', '.conf', '.cpp', '.cs', '.csv', '.dbg', '.diff',
+    '.gdb', '.h', '.htm', '.html', '.ini', '.java', '.js', '.json',
+    '.lay', '.log', '.lst', '.lua', '.map', '.md', '.nl', '.pat',
+    '.patch', '.pl', '.properties', '.ps1', '.py', '.rb', '.sh',
+    '.srt', '.ssa', '.sym', '.sync', '.tcl', '.toml', '.ts', '.txt',
+    '.uae', '.vbs', '.watch', '.wch', '.xml', '.yaml', '.yml', '.ytt'}
 # Every movie format the archivist knows, parsed or merely recognised: an
 # author may attach a second movie of any of them, and intake accepts what
 # this list refuses at its peril (a .chimeraProject attachment archived
