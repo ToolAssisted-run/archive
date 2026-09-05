@@ -13,7 +13,7 @@ Structural rules plus anti-abuse limits:
 - community rosters: reproduction screenshots are real images (magic bytes
   checked) under reproductions/, console-verification ones under console/,
   <= 512 KB each / <= 8 MB per run; no author may reproduce, verify or
-  console-verify their own run; one act per user per roster; console
+  console-verify their own run; one live act per user per roster; console
   verification carries a public proof link; the stored status field must match
   what the rosters derive (status cannot lie)
 - dispute cases: verifier snapshot is fixed at open time and every listed
@@ -29,6 +29,9 @@ import re
 import os
 import pathlib
 import sys
+
+if sys.platform == 'win32' and hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
 
 try:
     import jsonschema
@@ -92,10 +95,17 @@ if jsonschema is None and not os.environ.get('VALIDATE_WITHOUT_JSONSCHEMA'):
 if not schemas:
     sys.exit(f'validate.py: no schemas found in {ROOT / "schema"}')
 
+validators = {}
+if jsonschema:
+    for kind, s in schemas.items():
+        cls = jsonschema.validators.validator_for(s)
+        cls.check_schema(s)
+        validators[kind] = cls(s)
+
 def check_schema(kind, data, where):
-    if jsonschema and kind in schemas:
+    if kind in validators:
         try:
-            jsonschema.validate(data, schemas[kind])
+            validators[kind].validate(data)
         except jsonschema.ValidationError as e:
             err(f'{where}: schema violation: {e.message}')
 
@@ -397,9 +407,10 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                 if u in author_names and not act.get('invalidated'):
                     err(f'{rdir}: {kind[:-1]} by {act["user"]!r} — authors cannot '
                         f'act on their own run')
-                if u in seen_users:
-                    err(f'{rdir}: duplicate {kind[:-1]} by {act["user"]!r} — one per user')
-                seen_users.add(u)
+                if not act.get('invalidated'):
+                    if u in seen_users:
+                        err(f'{rdir}: duplicate {kind[:-1]} by {act["user"]!r} — one per user')
+                    seen_users.add(u)
                 shot = act.get('screenshot')
                 if shot:
                     want_dir = ('console/' if kind == 'consoleVerifications'
@@ -587,7 +598,7 @@ for gjson in ROOT.glob('games/*/*/game.json'):
             allowed.add(r['thumbnail'])
         for f in rdir.rglob('*'):
             if f.is_file():
-                relp = str(f.relative_to(rdir))
+                relp = f.relative_to(rdir).as_posix()
                 if relp not in allowed:
                     err(f'{rdir}: undeclared file {relp!r} — every file must be the '
                         f'movie, notes.md, run.json, or a declared attachment')
