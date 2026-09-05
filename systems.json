@@ -180,5 +180,10 @@
  "coleco": {
   "name": "ColecoVision",
   "fps": 59.9227510135505
+ },
+ "ps3": {
+  "name": "PlayStation 3",
+  "fps": 59.94005994005994,
+  "hardToReproduce": true
  }
 }
