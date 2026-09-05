@@ -51,6 +51,14 @@
   {
    "file": "attachments/solarplex_partial_tas.dtm",
    "role": "supplementary"
+  },
+  {
+   "file": "attachments/SoT-Coords.wch",
+   "role": "supplementary"
+  },
+  {
+   "file": "attachments/SoT-Loads.wch",
+   "role": "supplementary"
   }
  ],
  "forum": {

@@ -7408,6 +7408,17 @@
    "date": "2026-09-04",
    "at": "2026-09-04T17:30:31Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6986",
+   "field": "attachments",
+   "from": "sot_zipless.bk2, solarplex_partial_tas.dtm",
+   "to": "sot_zipless.bk2, solarplex_partial_tas.dtm, SoT-Coords.wch, SoT-Loads.wch",
+   "by": "GMP",
+   "date": "2026-09-05",
+   "at": "2026-09-05T02:12:35Z",
+   "reason": "The author's own revision."
   }
  ]
 }
