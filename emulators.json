@@ -1,0 +1,1057 @@
+{
+ "systems": {},
+ "catalog": [
+  {
+   "id": "chimera",
+   "name": "Chimera",
+   "kind": "emulator",
+   "url": "https://github.com/ToolAssisted-run/chimera",
+   "formats": ".chimeraProject",
+   "parsed": true,
+   "multi": true,
+   "has_cores": true,
+   "aliases": [
+    "chimera"
+   ],
+   "systems_display": "multi-system (NES, SNES, GameCube, Wii, Genesis, Dreamcast, PS2, PSP, PS3, Xbox, 3DO, Atari 2600, DOS, Flash, …)"
+  },
+  {
+   "id": "bizhawk",
+   "name": "BizHawk",
+   "kind": "emulator",
+   "url": "https://github.com/TASEmulators/BizHawk",
+   "formats": ".bk2, .tasproj",
+   "parsed": true,
+   "multi": true,
+   "has_cores": true,
+   "aliases": [
+    "bizhawk-",
+    "bizhawk",
+    "emuhawk",
+    "gbahawk"
+   ],
+   "systems_display": "multi-system (NES, SNES, Genesis, GB/GBA, N64, PSX, Saturn, …)"
+  },
+  {
+   "id": "fceux",
+   "name": "FCEUX",
+   "kind": "emulator",
+   "url": "https://github.com/TASEmulators/fceux",
+   "formats": ".fm2, .fm3",
+   "parsed": true,
+   "aliases": [
+    "fceux",
+    "fceu"
+   ],
+   "systems_display": "NES / Famicom"
+  },
+  {
+   "id": "snes9x",
+   "name": "Snes9x",
+   "kind": "emulator",
+   "url": "https://github.com/snes9xgit/snes9x",
+   "formats": ".smv",
+   "parsed": true,
+   "aliases": [
+    "snes9x"
+   ],
+   "systems_display": "SNES"
+  },
+  {
+   "id": "lsnes",
+   "name": "lsnes",
+   "kind": "emulator",
+   "url": "https://repo.or.cz/lsnes.git",
+   "formats": ".lsmv",
+   "parsed": true,
+   "aliases": [
+    "lsnes"
+   ],
+   "systems_display": "SNES"
+  },
+  {
+   "id": "gens-rr",
+   "name": "Gens-rr",
+   "kind": "emulator",
+   "url": "https://github.com/TASEmulators/gens-rerecording",
+   "formats": ".gmv",
+   "parsed": true,
+   "aliases": [
+    "gens-rr",
+    "gens-rr"
+   ],
+   "systems_display": "Genesis / Mega Drive"
+  },
+  {
+   "id": "vba-rr",
+   "name": "VBA-rr",
+   "kind": "emulator",
+   "url": "https://github.com/TASEmulators/vba-rerecording",
+   "formats": ".vbm",
+   "parsed": true,
+   "aliases": [
+    "vba-rr",
+    "visualboyadvance",
+    "vba"
+   ],
+   "systems_display": "Game Boy / Color / Advance"
+  },
+  {
+   "id": "gambatte",
+   "name": "Gambatte",
+   "kind": "emulator",
+   "url": "https://github.com/sinamas/gambatte",
+   "formats": ".gbmv",
+   "parsed": true,
+   "aliases": [
+    "gambatte",
+    "gambatte"
+   ],
+   "systems_display": "Game Boy / Color"
+  },
+  {
+   "id": "mgba",
+   "name": "mGBA",
+   "kind": "emulator",
+   "url": "https://mgba.io",
+   "formats": "",
+   "parsed": false,
+   "aliases": [
+    "mgba"
+   ],
+   "systems_display": "Game Boy Advance"
+  },
+  {
+   "id": "desmume",
+   "name": "DeSmuME",
+   "kind": "emulator",
+   "url": "https://github.com/TASEmulators/desmume",
+   "formats": ".dsm",
+   "parsed": true,
+   "aliases": [
+    "desmume"
+   ],
+   "systems_display": "Nintendo DS"
+  },
+  {
+   "id": "melonds",
+   "name": "MelonDS",
+   "kind": "emulator",
+   "url": "https://melonds.kuribo64.net",
+   "formats": "",
+   "parsed": false,
+   "aliases": [
+    "melonds"
+   ],
+   "systems_display": "Nintendo DS"
+  },
+  {
+   "id": "mupen64",
+   "name": "Mupen64-rr",
+   "kind": "emulator",
+   "url": "https://github.com/mkdasher/mupen64-rr-lua-",
+   "formats": ".m64",
+   "parsed": true,
+   "aliases": [
+    "mupen64",
+    "mupen64plus",
+    "mupen64-rr"
+   ]
+  },
+  {
+   "id": "dolphin",
+   "name": "Dolphin",
+   "kind": "emulator",
+   "url": "https://github.com/dolphin-emu/dolphin",
+   "formats": ".dtm",
+   "parsed": true,
+   "aliases": [
+    "dolphin",
+    "dolphin-"
+   ],
+   "systems_display": "GameCube / Wii"
+  },
+  {
+   "id": "libtas",
+   "name": "libTAS",
+   "kind": "emulator",
+   "url": "https://github.com/clementgallet/libTAS",
+   "formats": ".ltm",
+   "parsed": true,
+   "aliases": [
+    "libtas"
+   ],
+   "systems_display": "Linux (native games and emulators)"
+  },
+  {
+   "id": "hourglass",
+   "name": "Hourglass",
+   "kind": "emulator",
+   "url": "https://github.com/Hourglass-Resurrection/Hourglass-Resurrection",
+   "formats": ".wtf",
+   "parsed": true,
+   "aliases": [
+    "hourglass"
+   ],
+   "systems_display": "Windows"
+  },
+  {
+   "id": "jpc-rr",
+   "name": "JPC-rr",
+   "kind": "emulator",
+   "url": "https://repo.or.cz/jpcrr.git",
+   "formats": ".jrsr",
+   "parsed": true,
+   "aliases": [
+    "jpc-rr",
+    "jpc-"
+   ]
+  },
+  {
+   "id": "citra",
+   "name": "Citra",
+   "kind": "emulator",
+   "url": "https://github.com/citra-mirror/citra",
+   "formats": ".ctm",
+   "parsed": true,
+   "aliases": [
+    "citra",
+    "citra"
+   ],
+   "systems_display": "Nintendo 3DS"
+  },
+  {
+   "id": "pcsx2",
+   "name": "PCSX2-rr",
+   "kind": "emulator",
+   "url": "https://github.com/pcsx2/pcsx2",
+   "formats": ".p2m2",
+   "parsed": true,
+   "aliases": [
+    "pcsx2"
+   ]
+  },
+  {
+   "id": "openmsx",
+   "name": "openMSX",
+   "kind": "emulator",
+   "url": "https://github.com/openMSX/openMSX",
+   "formats": ".omr",
+   "parsed": true,
+   "aliases": [
+    "openmsx",
+    "openmsx"
+   ],
+   "systems_display": "MSX"
+  },
+  {
+   "id": "duckstation",
+   "name": "DuckStation",
+   "kind": "emulator",
+   "url": "https://github.com/stenzek/duckstation",
+   "formats": "",
+   "parsed": false,
+   "aliases": [
+    "duckstation"
+   ],
+   "systems_display": "PlayStation"
+  },
+  {
+   "id": "genesis-plus-gx",
+   "name": "Genesis Plus GX",
+   "kind": "emulator",
+   "url": "https://github.com/ekeeke/Genesis-Plus-GX",
+   "formats": "",
+   "parsed": false,
+   "aliases": [
+    "genesis plus gx",
+    "genplus-gx",
+    "genesis-plus-gx"
+   ],
+   "systems_display": "Genesis / Mega Drive / Master System / Game Gear / Sega CD"
+  },
+  {
+   "id": "mednafen",
+   "name": "Mednafen",
+   "kind": "emulator",
+   "url": "https://mednafen.github.io",
+   "formats": "",
+   "parsed": false,
+   "multi": true,
+   "aliases": [
+    "mednafen"
+   ],
+   "systems_display": "multi-system (PSX, PC Engine, Saturn, GBA, …)"
+  },
+  {
+   "id": "ares",
+   "name": "Ares",
+   "kind": "emulator",
+   "url": "https://ares-emulator.github.io",
+   "formats": "",
+   "parsed": false,
+   "multi": true,
+   "aliases": [
+    "ares"
+   ],
+   "systems_display": "multi-system"
+  },
+  {
+   "id": "mame-rr",
+   "name": "MAME-rr",
+   "kind": "emulator",
+   "url": "https://github.com/TASEmulators/mame-rr",
+   "formats": ".mar",
+   "parsed": true,
+   "aliases": [
+    "mame-rr",
+    "mame"
+   ],
+   "systems_display": "Arcade"
+  },
+  {
+   "id": "fba",
+   "name": "FBNeo / FB Alpha",
+   "kind": "emulator",
+   "url": "https://github.com/finalburnneo/FBNeo",
+   "formats": ".fbm",
+   "parsed": true,
+   "aliases": [
+    "finalburn neo",
+    "fb neo",
+    "fbneo",
+    "fb alpha",
+    "fba-rr",
+    "fba"
+   ]
+  },
+  {
+   "id": "snes9x-rr",
+   "name": "Snes9x-rr",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/EmulatorResources/Snes9x",
+   "formats": ".smv",
+   "parsed": true,
+   "aliases": [
+    "snes9x-rr",
+    "snes9x-rr"
+   ],
+   "systems_display": "SNES"
+  },
+  {
+   "id": "zsnes-rr",
+   "name": "ZSNES-rr",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/OtherEmulators/ZMV",
+   "formats": ".zmv",
+   "parsed": true,
+   "aliases": [
+    "zsnes-rr",
+    "zsnes-rr"
+   ],
+   "systems_display": "SNES"
+  },
+  {
+   "id": "fceu-098",
+   "name": "FCEU 0.98",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/EmulatorResources/FCEU",
+   "formats": ".fcm",
+   "parsed": true,
+   "aliases": [
+    "fceu-098",
+    "fceu 0.98"
+   ],
+   "systems_display": "NES / Famicom"
+  },
+  {
+   "id": "famtasia",
+   "name": "Famtasia",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/EmulatorResources/Famtasia",
+   "formats": ".fmv",
+   "parsed": true,
+   "aliases": [
+    "famtasia",
+    "famtasia"
+   ],
+   "systems_display": "NES / Famicom"
+  },
+  {
+   "id": "virtuanes",
+   "name": "VirtuaNES",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/OtherEmulators/VMV",
+   "formats": ".vmv",
+   "parsed": true,
+   "aliases": [
+    "virtuanes",
+    "virtuanes"
+   ],
+   "systems_display": "NES / Famicom"
+  },
+  {
+   "id": "nintendulator",
+   "name": "Nintendulator",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/OtherEmulators/NMV",
+   "formats": ".nmv",
+   "parsed": true,
+   "aliases": [
+    "nintendulator",
+    "nintendulator"
+   ],
+   "systems_display": "NES / Famicom"
+  },
+  {
+   "id": "dega",
+   "name": "Dega",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/EmulatorResources/MMV",
+   "formats": ".mmv",
+   "parsed": true,
+   "aliases": [
+    "dega",
+    "dega"
+   ],
+   "systems_display": "Master System / Game Gear"
+  },
+  {
+   "id": "mednafen-rr",
+   "name": "Mednafen-rr",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/EmulatorResources/Mednafen",
+   "formats": ".mcm, .mc2",
+   "parsed": true,
+   "aliases": [
+    "mednafen-rr",
+    "mednafen-rr"
+   ],
+   "systems_display": "PC Engine, PC-FX, WonderSwan, Neo Geo Pocket, Lynx"
+  },
+  {
+   "id": "psxjin",
+   "name": "PSXjin",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/EmulatorResources/PSXjin",
+   "formats": ".pjm",
+   "parsed": true,
+   "aliases": [
+    "psxjin",
+    "psxjin"
+   ],
+   "systems_display": "PlayStation"
+  },
+  {
+   "id": "pcsx-rr",
+   "name": "PCSX-rr",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/EmulatorResources/PCSX",
+   "formats": ".pxm",
+   "parsed": true,
+   "aliases": [
+    "pcsx-rr",
+    "pcsx"
+   ],
+   "systems_display": "PlayStation"
+  },
+  {
+   "id": "yabause-rr",
+   "name": "Yabause-rr",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/EmulatorResources/Yabause",
+   "formats": ".ymv",
+   "parsed": true,
+   "aliases": [
+    "yabause-rr",
+    "yabause-rr"
+   ],
+   "systems_display": "Sega Saturn"
+  },
+  {
+   "id": "bizhawk-1x",
+   "name": "BizHawk 1.x",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/Bizhawk/BKMFormat",
+   "formats": ".bkm",
+   "parsed": true,
+   "multi": true,
+   "aliases": [
+    "bizhawk-1x",
+    "bizhawk 1.x"
+   ],
+   "systems_display": "multi-system"
+  },
+  {
+   "id": "dosbox-rr",
+   "name": "DOSBox-rr (Bisqwit's patch)",
+   "kind": "legacy",
+   "url": "https://tasvideos.org/EmulatorResources/DOSBox",
+   "formats": ".dof",
+   "parsed": true,
+   "aliases": [
+    "dosbox-rr",
+    "dosbox-rr (bisqwit's patch)"
+   ],
+   "systems_display": "DOS"
+  },
+  {
+   "id": "hattas",
+   "name": "hatTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/doesthisusername/hat-tas",
+   "formats": ".htas",
+   "parsed": true,
+   "aliases": [
+    "hattas",
+    "hattas"
+   ],
+   "game": "A Hat in Time"
+  },
+  {
+   "id": "ballancemodloader",
+   "name": "BallanceModLoader (TASSupport)",
+   "kind": "game_tool",
+   "url": "https://github.com/Gamepiaynmo/BML-Mods",
+   "formats": ".tas",
+   "parsed": true,
+   "aliases": [
+    "ballancemodloader",
+    "ballancemodloader (tassupport)"
+   ],
+   "game": "Ballance"
+  },
+  {
+   "id": "greasemonkey-candybox2",
+   "name": "Greasemonkey TAS script",
+   "kind": "game_tool",
+   "url": "https://pastebin.com/d0RHZHn2",
+   "formats": "no movie file (runs are video-only)",
+   "parsed": false,
+   "aliases": [
+    "greasemonkey-candybox2",
+    "greasemonkey tas script"
+   ],
+   "game": "Candy Box 2"
+  },
+  {
+   "id": "celestetas",
+   "name": "CelesteTAS + Celeste Studio",
+   "kind": "game_tool",
+   "url": "https://github.com/EverestAPI/CelesteTAS-EverestInterop",
+   "formats": ".tas",
+   "parsed": true,
+   "aliases": [
+    "celestetas",
+    "celestetas + celeste studio"
+   ],
+   "game": "Celeste"
+  },
+  {
+   "id": "classictas",
+   "name": "UniversalClassicTas / ClassicTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/CelesteClassic/UniversalClassicTas",
+   "formats": ".tas",
+   "parsed": true,
+   "aliases": [
+    "classictas",
+    "universalclassictas / classictas"
+   ],
+   "game": "Celeste Classic (PICO-8)"
+  },
+  {
+   "id": "darksouls-tas",
+   "name": "DarkSouls-TAS",
+   "kind": "game_tool",
+   "url": "https://github.com/DavidCEllis/DarkSouls-TAS",
+   "formats": "JSON key lists (.txt)",
+   "parsed": false,
+   "aliases": [
+    "darksouls-tas",
+    "darksouls-tas"
+   ],
+   "game": "Dark Souls"
+  },
+  {
+   "id": "dsda-doom",
+   "name": "DSDA-Doom / PrBoom+",
+   "kind": "game_tool",
+   "url": "https://github.com/kraflab/dsda-doom",
+   "formats": ".lmp",
+   "parsed": true,
+   "aliases": [
+    "dsda-doom",
+    "dsda-doom / prboom+"
+   ],
+   "game": "Doom engine (Doom, Doom II, Heretic, Hexen)"
+  },
+  {
+   "id": "xdre",
+   "name": "XDRE",
+   "kind": "game_tool",
+   "url": "https://github.com/RockyGaming4725/XDRE-R",
+   "formats": ".lmp",
+   "parsed": true,
+   "aliases": [
+    "xdre"
+   ],
+   "game": "Doom engine (Doom, Doom II)"
+  },
+  {
+   "id": "dustmod",
+   "name": "Dustmod",
+   "kind": "game_tool",
+   "url": "https://dustmod.com",
+   "formats": ".dft",
+   "parsed": true,
+   "aliases": [
+    "dustmod",
+    "dustmod"
+   ],
+   "game": "Dustforce"
+  },
+  {
+   "id": "factorio-tas-playback",
+   "name": "factorio-tas-playback",
+   "kind": "game_tool",
+   "url": "https://github.com/Bilka2/factorio-tas-playback",
+   "formats": "run scripts",
+   "parsed": false,
+   "aliases": [
+    "factorio-tas-playback",
+    "factorio-tas-playback"
+   ],
+   "game": "Factorio"
+  },
+  {
+   "id": "tas-helper-factorio",
+   "name": "TAS-Helper-for-Factorio",
+   "kind": "game_tool",
+   "url": "https://github.com/MortenTobiasNielsen/TAS-Helper-for-Factorio",
+   "formats": "run scripts",
+   "parsed": false,
+   "aliases": [
+    "tas-helper-factorio",
+    "tas-helper-for-factorio"
+   ],
+   "game": "Factorio"
+  },
+  {
+   "id": "factorio-anypct-tas",
+   "name": "Factorio-AnyPct-TAS",
+   "kind": "game_tool",
+   "url": "https://github.com/gotyoke/Factorio-AnyPct-TAS",
+   "formats": "run scripts",
+   "parsed": false,
+   "aliases": [
+    "factorio-anypct-tas",
+    "factorio-anypct-tas"
+   ],
+   "game": "Factorio"
+  },
+  {
+   "id": "fireboywatergirl-tas",
+   "name": "FireBoyWaterGirlTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/pixelchai/FireBoyWaterGirlTAS",
+   "formats": "input scripts",
+   "parsed": false,
+   "aliases": [
+    "fireboywatergirl-tas",
+    "fireboywatergirltas"
+   ],
+   "game": "Fireboy & Watergirl"
+  },
+  {
+   "id": "soulstas",
+   "name": "SoulsTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/Vinjul1704/SoulsTAS",
+   "formats": "TAS scripts (.txt)",
+   "parsed": false,
+   "aliases": [
+    "soulstas",
+    "soulstas"
+   ],
+   "game": "FromSoftware games (Dark Souls III, Sekiro, Elden Ring)"
+  },
+  {
+   "id": "opengmk",
+   "name": "OpenGMK / GM8emulator",
+   "kind": "game_tool",
+   "url": "https://github.com/OpenGMK/OpenGMK",
+   "formats": ".gmtas",
+   "parsed": true,
+   "aliases": [
+    "opengmk",
+    "opengmk / gm8emulator"
+   ],
+   "game": "GameMaker 8 games"
+  },
+  {
+   "id": "replaybot",
+   "name": "ReplayBot",
+   "kind": "game_tool",
+   "url": "https://github.com/matcool/ReplayBot",
+   "formats": ".replay",
+   "parsed": true,
+   "aliases": [
+    "replaybot",
+    "replaybot"
+   ],
+   "game": "Geometry Dash"
+  },
+  {
+   "id": "bunnymod-xt",
+   "name": "Bunnymod XT",
+   "kind": "game_tool",
+   "url": "https://github.com/YaLTeR/BunnymodXT",
+   "formats": ".hltas",
+   "parsed": true,
+   "aliases": [
+    "bunnymod-xt",
+    "bunnymod xt"
+   ],
+   "game": "Half-Life and other GoldSrc games"
+  },
+  {
+   "id": "iji-tas-mod",
+   "name": "Iji TAS mod",
+   "kind": "game_tool",
+   "url": "https://github.com/Kataiser/Iji-TAS-mod",
+   "formats": ".itf",
+   "parsed": true,
+   "aliases": [
+    "iji-tas-mod",
+    "iji tas mod"
+   ],
+   "game": "Iji"
+  },
+  {
+   "id": "jazz2tas",
+   "name": "jazz2tas",
+   "kind": "game_tool",
+   "url": "https://github.com/BinaryBlob92/jazz2tas",
+   "formats": "TAS projects (.xml)",
+   "parsed": false,
+   "aliases": [
+    "jazz2tas",
+    "jazz2tas"
+   ],
+   "game": "Jazz Jackrabbit 2"
+  },
+  {
+   "id": "jumpkingtas",
+   "name": "JumpKingTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/ShootMe/JumpKingTAS",
+   "formats": ".tas",
+   "parsed": true,
+   "aliases": [
+    "jumpkingtas",
+    "jumpkingtas"
+   ],
+   "game": "Jump King"
+  },
+  {
+   "id": "kalimbatas",
+   "name": "KalimbaTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/ShootMe/KalimbaTAS",
+   "formats": ".tas",
+   "parsed": true,
+   "aliases": [
+    "kalimbatas",
+    "kalimbatas"
+   ],
+   "game": "Kalimba"
+  },
+  {
+   "id": "lamulanatas",
+   "name": "LaMulanaTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/worsety/LaMulanaTAS",
+   "formats": "script.txt",
+   "parsed": false,
+   "aliases": [
+    "lamulanatas",
+    "lamulanatas"
+   ],
+   "game": "La-Mulana (remake)"
+  },
+  {
+   "id": "left4tas",
+   "name": "Left4TAS",
+   "kind": "game_tool",
+   "url": "https://github.com/sw1ft747/Left4TAS",
+   "formats": "TAS scripts",
+   "parsed": false,
+   "aliases": [
+    "left4tas",
+    "left4tas"
+   ],
+   "game": "Left 4 Dead 1 & 2"
+  },
+  {
+   "id": "lotas",
+   "name": "LoTAS",
+   "kind": "game_tool",
+   "url": "https://www.curseforge.com/minecraft/mc-mods/lotas",
+   "formats": "no movie file (runs are video-only)",
+   "parsed": false,
+   "aliases": [
+    "lotas",
+    "lotas"
+   ],
+   "game": "Minecraft (Java Edition)"
+  },
+  {
+   "id": "tasmod",
+   "name": "TASmod",
+   "kind": "game_tool",
+   "url": "https://github.com/MinecraftTAS/TASmod",
+   "formats": ".mctas",
+   "parsed": true,
+   "aliases": [
+    "tasmod",
+    "tasmod"
+   ],
+   "game": "Minecraft (Java Edition)"
+  },
+  {
+   "id": "oridetas",
+   "name": "OriDETAS",
+   "kind": "game_tool",
+   "url": "https://github.com/ShootMe/OriDETAS",
+   "formats": ".tas",
+   "parsed": true,
+   "aliases": [
+    "oridetas",
+    "oridetas"
+   ],
+   "game": "Ori and the Blind Forest (Definitive Edition)"
+  },
+  {
+   "id": "ots-tas-tool",
+   "name": "OTS TAS Tool",
+   "kind": "game_tool",
+   "url": "https://github.com/thisishowmymindworks/ots-tas-tool",
+   "formats": ".otts",
+   "parsed": true,
+   "aliases": [
+    "ots-tas-tool",
+    "ots tas tool"
+   ],
+   "game": "Out There Somewhere"
+  },
+  {
+   "id": "sourceautorecord",
+   "name": "SourceAutoRecord",
+   "kind": "game_tool",
+   "url": "https://sar.portal2.sr/",
+   "formats": ".p2tas",
+   "parsed": true,
+   "aliases": [
+    "sourceautorecord",
+    "sourceautorecord"
+   ],
+   "game": "Portal 2"
+  },
+  {
+   "id": "tasquake",
+   "name": "TASQuake",
+   "kind": "game_tool",
+   "url": "https://github.com/lipsanen/TASQuake",
+   "formats": ".qtas",
+   "parsed": true,
+   "aliases": [
+    "tasquake",
+    "tasquake"
+   ],
+   "game": "Quake"
+  },
+  {
+   "id": "racket-science",
+   "name": "racket science",
+   "kind": "game_tool",
+   "url": "https://github.com/doesthisusername/racket-science",
+   "formats": "input scripts",
+   "parsed": false,
+   "aliases": [
+    "racket-science",
+    "racket science"
+   ],
+   "game": "Ratchet & Clank"
+  },
+  {
+   "id": "refunct-tas-tool",
+   "name": "Refunct TAS Tool",
+   "kind": "game_tool",
+   "url": "https://github.com/oberien/refunct-tas",
+   "formats": "Lua scripts",
+   "parsed": false,
+   "aliases": [
+    "refunct-tas-tool",
+    "refunct tas tool"
+   ],
+   "game": "Refunct"
+  },
+  {
+   "id": "naezith-tas",
+   "name": "naezith_tas",
+   "kind": "game_tool",
+   "url": "https://github.com/negative-seven/naezith_tas",
+   "formats": "replay text (.ronr in-game)",
+   "parsed": false,
+   "aliases": [
+    "naezith-tas",
+    "naezith_tas"
+   ],
+   "game": "Remnants of Naezith"
+  },
+  {
+   "id": "smoltas",
+   "name": "SmolTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/Sh1r0Yaksha/SmolTAS",
+   "formats": "per-level key lists (.txt)",
+   "parsed": false,
+   "aliases": [
+    "smoltas",
+    "smoltas"
+   ],
+   "game": "Smol Ame"
+  },
+  {
+   "id": "sourcepausetool",
+   "name": "SourcePauseTool (SPT)",
+   "kind": "game_tool",
+   "url": "https://github.com/YaLTeR/SourcePauseTool",
+   "formats": ".srctas",
+   "parsed": true,
+   "aliases": [
+    "sourcepausetool",
+    "sourcepausetool (spt)"
+   ],
+   "game": "Source engine (Half-Life 2, Portal)"
+  },
+  {
+   "id": "splashertas",
+   "name": "SplasherTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/ShootMe/SplasherTAS",
+   "formats": ".tas",
+   "parsed": true,
+   "aliases": [
+    "splashertas",
+    "splashertas"
+   ],
+   "game": "Splasher"
+  },
+  {
+   "id": "wafel",
+   "name": "wafel",
+   "kind": "game_tool",
+   "url": "https://github.com/branpk/wafel",
+   "formats": ".m64 (standard Mupen movies)",
+   "parsed": true,
+   "aliases": [
+    "wafel",
+    "wafel"
+   ],
+   "game": "Super Mario 64"
+  },
+  {
+   "id": "tas-plugin",
+   "name": "TAS Plugin",
+   "kind": "game_tool",
+   "url": "https://jump.tf/forum/index.php/topic,1350.0.html",
+   "formats": "plugin recordings",
+   "parsed": false,
+   "aliases": [
+    "tas-plugin",
+    "tas plugin"
+   ],
+   "game": "Team Fortress 2"
+  },
+  {
+   "id": "teslagradtas",
+   "name": "TeslagradTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/ShootMe/TeslagradTAS",
+   "formats": ".tas",
+   "parsed": true,
+   "aliases": [
+    "teslagradtas",
+    "teslagradtas"
+   ],
+   "game": "Teslagrad"
+  },
+  {
+   "id": "tinertiatas",
+   "name": "TinertiaTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/ShootMe/TinertiaTAS",
+   "formats": ".tas",
+   "parsed": true,
+   "aliases": [
+    "tinertiatas",
+    "tinertiatas"
+   ],
+   "game": "Tinertia"
+  },
+  {
+   "id": "tminterface",
+   "name": "TMInterface",
+   "kind": "game_tool",
+   "url": "https://donadigo.com/tminterface",
+   "formats": ".inputs",
+   "parsed": true,
+   "aliases": [
+    "tminterface",
+    "tminterface"
+   ],
+   "game": "TrackMania Nations / United Forever"
+  },
+  {
+   "id": "unitas",
+   "name": "UniTAS",
+   "kind": "game_tool",
+   "url": "https://github.com/eddio0141/UniTAS",
+   "formats": "Lua movie scripts",
+   "parsed": false,
+   "aliases": [
+    "unitas",
+    "unitas"
+   ],
+   "game": "Unity games (generic; in development)"
+  },
+  {
+   "id": "elasto-mania",
+   "name": "Elasto Mania (built-in replays)",
+   "kind": "game_tool",
+   "url": "https://elmaonline.net",
+   "formats": ".rec",
+   "parsed": true,
+   "aliases": [
+    "elasto-mania",
+    "elasto mania (built-in replays)"
+   ],
+   "game": "Elasto Mania"
+  },
+  {
+   "id": "gz",
+   "name": "gz / practice macros",
+   "kind": "game_tool",
+   "url": "https://github.com/glankk/gz",
+   "formats": ".gzm",
+   "parsed": true,
+   "aliases": [
+    "gz",
+    "gz / practice macros"
+   ],
+   "game": "Zelda: Ocarina of Time and Majora's Mask (N64)"
+  }
+ ]
+}
