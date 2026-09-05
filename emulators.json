@@ -1,5 +1,33 @@
 {
  "systems": {
+  "3do": {
+   "quick_chips": [
+    "Chimera Nightly-2026-XX-XX (Core: Opera)",
+    "BizHawk 2.11 (Core: Opera)",
+    "BizHawk 2.11 (Core: FourDO)"
+   ],
+   "tools": [
+    {
+     "id": "bizhawk",
+     "versions": [
+      "2.11"
+     ],
+     "cores": [
+      "FourDO",
+      "Opera"
+     ]
+    },
+    {
+     "id": "chimera",
+     "versions": [
+      "Nightly-2026-XX-XX"
+     ],
+     "cores": [
+      "Opera"
+     ]
+    }
+   ]
+  },
   "nes": {
    "quick_chips": [],
    "tools": [
