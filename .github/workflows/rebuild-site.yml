@@ -1,0 +1,50 @@
+name: Tell the site, and sweep for drift
+
+# The archive changes without the website repository changing: a submission,
+# a reproduction, an expert act, a system created by hand. Pages can only be
+# published from the repository that owns it, so this is where the archive
+# says "content landed, rebuild".
+#
+# Correctness is not decided here any more. The archivist runs the archive's
+# own validate.py before it commits, so a write that would break the rules
+# never becomes a commit and the member is told why. What is left here is a
+# daily sweep, for the writers that do not pass through the archivist: our
+# own pushes, a merged pull request, the self-import.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * *'
+
+jobs:
+  # Nothing gates this and nothing precedes it: every second here is a second
+  # between a member's act and the site showing it. The archivist fires the
+  # same dispatch itself the moment it pushes; this covers the commits it did
+  # not make, and the days its token has expired. The website's deploy
+  # concurrency group coalesces the pair into one build.
+  rebuild-site:
+    if: github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tell the website to rebuild
+        env:
+          GH_TOKEN: ${{ secrets.ARCHIVE_ACTION_WRITE_SECRET }}
+        run: |
+          gh workflow run deploy.yml -R ToolAssisted-run/website \
+            --ref main -f reason=archive-content
+          echo "asked the website to rebuild from this archive"
+
+  # The daily sweep. Not on the push path, so it delays nobody: it reports
+  # what reached the archive around the archivist's gate, and a red run here
+  # is a thing to go and fix, never a thing that stopped a member writing.
+  sweep:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate the content
+        run: |
+          pip install --quiet jsonschema
+          python3 validate.py
