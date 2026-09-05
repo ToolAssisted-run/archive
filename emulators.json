@@ -28,6 +28,30 @@
     }
    ]
   },
+  "3ds": {
+   "quick_chips": [],
+   "tools": [
+    {
+     "id": "bizhawk",
+     "versions": [
+      "2.11.1",
+      "2.11",
+      "2.10"
+     ],
+     "cores": [
+      "Encore"
+     ]
+    },
+    {
+     "id": "citra",
+     "versions": [
+      "Canary-XXXX",
+      "Nightly-XXXX",
+      "XXXX"
+     ]
+    }
+   ]
+  },
   "nes": {
    "quick_chips": [],
    "tools": [

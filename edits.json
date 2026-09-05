@@ -7441,6 +7441,17 @@
    "date": "2026-09-05",
    "at": "2026-09-05T15:25:38Z",
    "reason": "Added emulator presets for 3DO"
+  },
+  {
+   "kind": "system",
+   "key": "3ds",
+   "field": "emulators (quick_chips, tools)",
+   "from": "previous",
+   "to": "updated",
+   "by": "GMP",
+   "date": "2026-09-05",
+   "at": "2026-09-05T15:36:37Z",
+   "reason": "Emu preset maps for 3DS"
   }
  ]
 }
