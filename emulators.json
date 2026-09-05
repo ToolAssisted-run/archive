@@ -29,7 +29,10 @@
    ]
   },
   "3ds": {
-   "quick_chips": [],
+   "quick_chips": [
+    "BizHawk 2.11.1 (Core: Encore)",
+    "Citra Canary-XXXX"
+   ],
    "tools": [
     {
      "id": "bizhawk",
