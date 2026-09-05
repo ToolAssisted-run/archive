@@ -7419,6 +7419,17 @@
    "date": "2026-09-05",
    "at": "2026-09-05T02:12:35Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "system",
+   "key": "nes",
+   "field": "emulators (quick_chips, tools)",
+   "from": "previous",
+   "to": "updated",
+   "by": "GMP",
+   "date": "2026-09-05",
+   "at": "2026-09-05T15:10:12Z",
+   "reason": "Mapping emu preset for NES"
   }
  ]
 }

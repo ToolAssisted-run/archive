@@ -1,5 +1,21 @@
 {
- "systems": {},
+ "systems": {
+  "nes": {
+   "quick_chips": [],
+   "tools": [
+    {
+     "id": "chimera",
+     "versions": [
+      "Nightly 2026-XX-XX"
+     ],
+     "cores": [
+      "quickerNES",
+      "QuickerNesHawk"
+     ]
+    }
+   ]
+  }
+ },
  "catalog": [
   {
    "id": "chimera",
