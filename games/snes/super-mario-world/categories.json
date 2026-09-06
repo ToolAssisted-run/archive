@@ -5,7 +5,7 @@
    "name": "Category",
    "options": [
     {
-     "key": "fastest-completion",
+     "key": "warps",
      "label": "warps",
      "rule": "Complete the game as fast as possible. Warps are allowed."
     },
