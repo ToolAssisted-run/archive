@@ -7672,6 +7672,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:09:22Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/don-quixote-16k",
+   "field": "released",
+   "from": "",
+   "to": "2022-09-29",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:11:58Z",
+   "reason": "added info and link"
   }
  ]
 }
