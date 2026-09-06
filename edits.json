@@ -8101,6 +8101,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:56:39Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/jet-set-willy-ii-the-final-frontier",
+   "field": "released",
+   "from": "",
+   "to": "1985",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T04:35:22Z",
+   "reason": "added info and links"
   }
  ]
 }
