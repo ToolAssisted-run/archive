@@ -7540,6 +7540,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T02:59:10Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/adventure-guide",
+   "field": "released",
+   "from": "",
+   "to": "1991",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:00:31Z",
+   "reason": "added info and link"
   }
  ]
 }
