@@ -8035,6 +8035,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:45:07Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/treasure-island-dizzy",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/dizzy2",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:45:13Z",
+   "reason": "added info and links"
   }
  ]
 }
