@@ -7551,6 +7551,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:00:31Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/adventure-guide",
+   "field": "website",
+   "from": "",
+   "to": "https://spectrumcomputing.co.uk/entry/25049/ZX-Spectrum/Adventure_Guide",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:00:38Z",
+   "reason": "added info and link"
   }
  ]
 }
