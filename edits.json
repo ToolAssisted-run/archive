@@ -8134,6 +8134,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T04:35:36Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/jet-set-willy-ii-the-final-frontier",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/jet_set_willy_ii_the_final_frontier",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T04:35:43Z",
+   "reason": "added info and links"
   }
  ]
 }
