@@ -7947,6 +7947,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:39:44Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/magicland-dizzy",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/magicland_dizzy",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:39:51Z",
+   "reason": "added info and links"
   }
  ]
 }
