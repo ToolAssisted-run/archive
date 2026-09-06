@@ -8189,6 +8189,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T04:40:07Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/jet-set-willy-ii",
+   "field": "website",
+   "from": "",
+   "to": "https://jswcentral.org/jsw2-02_jsw2plus.html",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T04:40:14Z",
+   "reason": "added info and links"
   }
  ]
 }
