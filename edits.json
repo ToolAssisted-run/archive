@@ -7694,6 +7694,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:12:05Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/fast-food",
+   "field": "released",
+   "from": "",
+   "to": "1989-04",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:15:09Z",
+   "reason": "added info and links"
   }
  ]
 }
