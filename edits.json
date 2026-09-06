@@ -7969,6 +7969,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:41:29Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/panic-dizzy",
+   "field": "website",
+   "from": "",
+   "to": "https://www.olivertwins.com/dizzypanic",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:41:36Z",
+   "reason": "added info and link"
   }
  ]
 }
