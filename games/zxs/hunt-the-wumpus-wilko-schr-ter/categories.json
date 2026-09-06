@@ -7,7 +7,7 @@
     {
      "key": "baseline",
      "label": "fastest completion",
-     "rule": "Complete the game as fast as possible."
+     "rule": "Kill the Wumpus as fast as possible."
     }
    ]
   }

@@ -7749,6 +7749,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:17:34Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "category",
+   "key": "zxs/hunt-the-wumpus-wilko-schr-ter:baseline",
+   "field": "rule",
+   "from": "Complete the game as fast as possible.",
+   "to": "Kill the Wumpus as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:17:41Z",
+   "reason": "added info and link"
   }
  ]
 }
