@@ -7782,6 +7782,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:25:39Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/dizzy-prince-of-the-yolkfolk",
+   "field": "released",
+   "from": "",
+   "to": "1991-05",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:29:07Z",
+   "reason": "added info and links"
   }
  ]
 }
