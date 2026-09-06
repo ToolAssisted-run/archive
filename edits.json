@@ -7529,6 +7529,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T02:59:04Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/aliens-neoplasma",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/aliens_neoplasma",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T02:59:10Z",
+   "reason": "added info and links"
   }
  ]
 }
