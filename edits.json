@@ -7804,6 +7804,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:29:14Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/dizzy-prince-of-the-yolkfolk",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/yolkfolk",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:29:21Z",
+   "reason": "added info and links"
   }
  ]
 }
