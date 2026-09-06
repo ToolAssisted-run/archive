@@ -7617,6 +7617,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:04:51Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/circus-digital-fantasia",
+   "field": "released",
+   "from": "",
+   "to": "1983",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:06:04Z",
+   "reason": "added info and link"
   }
  ]
 }
