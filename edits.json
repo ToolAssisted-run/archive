@@ -7991,6 +7991,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:43:02Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/spellbound-dizzy",
+   "field": "website",
+   "from": "",
+   "to": "https://www.olivertwins.com/spellbounddizzy",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:43:09Z",
+   "reason": "added info and links"
   }
  ]
 }
