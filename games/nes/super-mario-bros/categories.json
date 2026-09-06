@@ -22,7 +22,7 @@
     {
      "key": "warpless",
      "label": "warpless",
-     "rule": "Imported as \"warpless\" from the source it was published at; rules to be formalized by the game's experts."
+     "rule": "Complete the game in the fastest time without using warps."
     },
     {
      "key": "warpless-walkathon",

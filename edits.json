@@ -8233,6 +8233,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T15:13:31Z",
    "reason": "added rules"
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:warpless",
+   "field": "rule",
+   "from": "Imported as \"warpless\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the game in the fastest time without using warps.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T15:13:41Z",
+   "reason": "added rules"
   }
  ]
 }
