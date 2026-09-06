@@ -8266,6 +8266,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T15:13:55Z",
    "reason": "added rules"
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:all-items",
+   "field": "rule",
+   "from": "Imported as \"all items\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the game in the fastest time while collecting every mushroom/flower, star, and 1-up.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T15:14:01Z",
+   "reason": "added rules"
   }
  ]
 }
