@@ -7474,6 +7474,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T00:44:37Z",
    "reason": "Emulator preset mapping for NES"
+  },
+  {
+   "kind": "system",
+   "key": "nes",
+   "field": "emulators (tools)",
+   "from": "previous",
+   "to": "updated",
+   "by": "GMP",
+   "date": "2026-09-06",
+   "at": "2026-09-06T00:46:32Z",
+   "reason": "Fixed VirtuaNES versions"
   }
  ]
 }
