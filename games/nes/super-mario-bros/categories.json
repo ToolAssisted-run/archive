@@ -32,7 +32,7 @@
     {
      "key": "maximum-coins",
      "label": "maximum coins",
-     "rule": "Imported as \"maximum coins\" from the source it was published at; rules to be formalized by the game's experts."
+     "rule": "Complete the game in the fastest time while collecting the maximum amount of coins possible."
     },
     {
      "key": "000000-points",
