@@ -8002,6 +8002,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:43:09Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/spellbound-dizzy",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/dizzy5",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:43:16Z",
+   "reason": "added info and links"
   }
  ]
 }
