@@ -7925,6 +7925,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:38:14Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/magicland-dizzy",
+   "field": "released",
+   "from": "",
+   "to": "1991-03",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:39:37Z",
+   "reason": "added info and links"
   }
  ]
 }
