@@ -56,16 +56,89 @@
    ]
   },
   "nes": {
-   "quick_chips": [],
+   "quick_chips": [
+    "Chimera Nightly-2026-XX-XX (Core: quickerNES)",
+    "BizHawk 2.11.1 (Core: NESHawk)"
+   ],
    "tools": [
+    {
+     "id": "bizhawk",
+     "versions": [
+      "2.11.1",
+      "2.11",
+      "2.10",
+      "2.9.2",
+      "2.9.1",
+      "2.9",
+      "2.8",
+      "2.7",
+      "2.X"
+     ],
+     "cores": [
+      "NESHawk",
+      "QuickerNES",
+      "QuickNES"
+     ]
+    },
     {
      "id": "chimera",
      "versions": [
-      "Nightly 2026-XX-XX"
+      "Nightly-2026-XX-XX"
      ],
      "cores": [
       "quickerNES",
       "QuickerNesHawk"
+     ]
+    },
+    {
+     "id": "fceux",
+     "versions": [
+      "2.6.6",
+      "2.6.5",
+      "2.6.4",
+      "2.6.3",
+      "2.6.2",
+      "2.6.1",
+      "2.6.0",
+      "2.5.0",
+      "2.4.0",
+      "2.3.0",
+      "2.2.X",
+      "2.1.X",
+      "2.0.X"
+     ]
+    },
+    {
+     "id": "famtasia",
+     "versions": [
+      "5.1",
+      "5.11"
+     ]
+    },
+    {
+     "id": "fceu-098",
+     "versions": [
+      ".28",
+      ".27",
+      ".26",
+      ".25",
+      ".24",
+      ".23",
+      ".17",
+      ".16",
+      ".15",
+      ".13",
+      ".12"
+     ]
+    },
+    {
+     "id": "virtuanes",
+     "versions": [
+      "0.97. 0.96",
+      "0.95",
+      "0.94",
+      "0.93",
+      "0.92"
      ]
     }
    ]
