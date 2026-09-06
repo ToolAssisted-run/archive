@@ -7683,6 +7683,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:11:58Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/don-quixote-16k",
+   "field": "website",
+   "from": "",
+   "to": "https://spectrumcomputing.co.uk/entry/38706/ZX-Spectrum/Don_Quixote_16K",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:12:05Z",
+   "reason": "added info and link"
   }
  ]
 }
