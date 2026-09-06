@@ -8090,6 +8090,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:56:33Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "category",
+   "key": "zxs/jet-set-willy:writetyper",
+   "field": "rule",
+   "from": "Imported as \"WRITETYPER\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the game using the \"WRITETYPER\" in-game room select cheat as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:56:39Z",
+   "reason": "added info and links"
   }
  ]
 }
