@@ -7661,6 +7661,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:09:15Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/cloak-of-darkness-the-quill",
+   "field": "website",
+   "from": "",
+   "to": "https://web.archive.org/web/20200224021328/http://www.firthworks.com/roger/cloak/",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:09:22Z",
+   "reason": "added info and link"
   }
  ]
 }
