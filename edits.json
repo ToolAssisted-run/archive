@@ -7848,6 +7848,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:32:34Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/fantasy-world-dizzy",
+   "field": "released",
+   "from": "",
+   "to": "1989-10",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:34:49Z",
+   "reason": "added info and links"
   }
  ]
 }
