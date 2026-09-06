@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -54,6 +54,16 @@
    "user": "Truncated1",
    "date": "2026-09-05",
    "at": "2026-09-05T19:23:08Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "GMP",
+   "date": "2026-09-06",
+   "at": "2026-09-06T06:58:29Z",
+   "screenshot": "reproductions/1-GMP.png",
+   "emulator": "Chimera Nightly-2026-09-02 (Core: PCSX2)",
+   "notes": "Following the instructions in the run notes helped. Specifically the step of creating a New Chimera Project with emulation core PCSX2 seemed redundant and counter-productive, but it's necessary in this version of Chimera."
   }
  ]
 }
