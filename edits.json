@@ -7562,6 +7562,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:00:38Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/back-to-skool",
+   "field": "released",
+   "from": "",
+   "to": "1985",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:03:30Z",
+   "reason": "added info and links"
   }
  ]
 }
