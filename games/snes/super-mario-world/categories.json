@@ -7,7 +7,7 @@
     {
      "key": "fastest-completion",
      "label": "warps",
-     "rule": "Complete the game as fast as possible."
+     "rule": "Complete the game as fast as possible. Warps are allowed."
     },
     {
      "key": "all-96-exits",

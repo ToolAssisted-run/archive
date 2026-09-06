@@ -8343,6 +8343,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T15:27:49Z",
    "reason": "added categories"
+  },
+  {
+   "kind": "category",
+   "key": "snes/super-mario-world:fastest-completion",
+   "field": "rule",
+   "from": "Complete the game as fast as possible.",
+   "to": "Complete the game as fast as possible. Warps are allowed.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T15:27:55Z",
+   "reason": "added categories"
   }
  ]
 }
