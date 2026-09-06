@@ -7727,6 +7727,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:15:23Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/hunt-the-wumpus-wilko-schr-ter",
+   "field": "released",
+   "from": "",
+   "to": "2006",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:17:28Z",
+   "reason": "added info and link"
   }
  ]
 }
