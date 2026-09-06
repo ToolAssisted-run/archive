@@ -8079,6 +8079,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:56:26Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/jet-set-willy",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/jet_set_willy",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:56:33Z",
+   "reason": "added info and links"
   }
  ]
 }
