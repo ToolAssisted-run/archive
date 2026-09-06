@@ -7815,6 +7815,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:29:21Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/dizzy-the-ultimate-cartoon-adventure",
+   "field": "released",
+   "from": "",
+   "to": "1987-06",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:32:20Z",
+   "reason": "added info and links"
   }
  ]
 }
