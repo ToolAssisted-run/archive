@@ -8145,6 +8145,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T04:35:43Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "category",
+   "key": "zxs/jet-set-willy-ii-the-final-frontier:100",
+   "field": "rule",
+   "from": "Imported as \"100%\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the game with all accessible rooms visited and all items collected as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T04:35:49Z",
+   "reason": "added info and links"
   }
  ]
 }
