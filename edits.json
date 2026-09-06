@@ -7518,6 +7518,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T02:58:57Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/aliens-neoplasma",
+   "field": "website",
+   "from": "",
+   "to": "https://spectrumcomputing.co.uk/entry/34720/ZX-Spectrum/Aliens_Neoplasma",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T02:59:04Z",
+   "reason": "added info and links"
   }
  ]
 }
