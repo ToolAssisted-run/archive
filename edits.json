@@ -7892,6 +7892,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:35:10Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/kwik-snax",
+   "field": "released",
+   "from": "",
+   "to": "1990-11",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:38:00Z",
+   "reason": "added info and links"
   }
  ]
 }
