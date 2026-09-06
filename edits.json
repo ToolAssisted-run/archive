@@ -7573,6 +7573,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:03:30Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/back-to-skool",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/daHENpd",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:03:37Z",
+   "reason": "added info and links"
   }
  ]
 }
