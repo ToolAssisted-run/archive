@@ -8310,6 +8310,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T15:20:13Z",
    "reason": "added image from cbr.com"
+  },
+  {
+   "kind": "category",
+   "key": "snes/super-mario-world:all-96-exits",
+   "field": "added",
+   "from": "",
+   "to": "all 96 exits",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T15:27:36Z",
+   "reason": "added categories"
   }
  ]
 }

@@ -8,6 +8,11 @@
      "key": "fastest-completion",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "all-96-exits",
+     "label": "all 96 exits",
+     "rule": "Complete the game as fast as possible while clearing every intended exit."
     }
    ]
   }
