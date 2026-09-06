@@ -185,5 +185,10 @@
   "name": "PlayStation 3",
   "fps": 59.94005994005994,
   "hardToReproduce": true
+ },
+ "symbian": {
+  "name": "Symbian",
+  "fps": 60.0,
+  "hardToReproduce": true
  }
 }
