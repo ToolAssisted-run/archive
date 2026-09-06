@@ -8057,6 +8057,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:56:12Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/jet-set-willy",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/daHENpd",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:56:19Z",
+   "reason": "added info and links"
   }
  ]
 }
