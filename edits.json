@@ -8288,6 +8288,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T15:14:08Z",
    "reason": "added rules"
+  },
+  {
+   "kind": "game",
+   "key": "nes/super-mario-bros",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T15:16:54Z",
+   "reason": "added image from Nintendo.com"
   }
  ]
 }
