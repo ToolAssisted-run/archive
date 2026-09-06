@@ -8222,6 +8222,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T04:40:27Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "category",
+   "key": "nes/super-mario-bros:warps-walkathon",
+   "field": "rule",
+   "from": "Imported as \"warps, walkathon\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the game in the fastest time without running. Warps are allowed.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T15:13:31Z",
+   "reason": "added rules"
   }
  ]
 }
