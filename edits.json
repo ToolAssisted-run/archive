@@ -7771,6 +7771,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:25:32Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/dizzy-3-and-a-half",
+   "field": "website",
+   "from": "",
+   "to": "https://spectrumcomputing.co.uk/entry/9334/ZX-Spectrum/Dizzy_3_and_a_Half",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:25:39Z",
+   "reason": "added info and link"
   }
  ]
 }
