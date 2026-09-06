@@ -8068,6 +8068,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:56:19Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/jet-set-willy",
+   "field": "website",
+   "from": "",
+   "to": "https://spectrumcomputing.co.uk/entry/2589/ZX-Spectrum/Jet_Set_Willy",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:56:26Z",
+   "reason": "added info and links"
   }
  ]
 }
