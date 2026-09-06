@@ -7595,6 +7595,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:03:44Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/bmx-jungle-bike",
+   "field": "released",
+   "from": "",
+   "to": "1985",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:04:45Z",
+   "reason": "added info and link"
   }
  ]
 }
