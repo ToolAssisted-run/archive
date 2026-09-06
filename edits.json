@@ -7914,6 +7914,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:38:07Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/kwik-snax",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/kwik_snax",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:38:14Z",
+   "reason": "added info and links"
   }
  ]
 }
