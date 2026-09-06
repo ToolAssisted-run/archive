@@ -7903,6 +7903,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:38:00Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/kwik-snax",
+   "field": "website",
+   "from": "",
+   "to": "https://www.olivertwins.com/kwiksnax",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:38:07Z",
+   "reason": "added info and links"
   }
  ]
 }
