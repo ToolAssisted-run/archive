@@ -6,7 +6,7 @@
    "options": [
     {
      "key": "fastest-completion",
-     "label": "fastest completion",
+     "label": "warps",
      "rule": "Complete the game as fast as possible."
     },
     {
