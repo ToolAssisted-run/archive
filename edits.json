@@ -8321,6 +8321,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T15:27:36Z",
    "reason": "added categories"
+  },
+  {
+   "kind": "category",
+   "key": "snes/super-mario-world:game-end-glitch",
+   "field": "added",
+   "from": "",
+   "to": "game end glitch",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T15:27:43Z",
+   "reason": "added categories"
   }
  ]
 }

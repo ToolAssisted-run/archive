@@ -13,6 +13,11 @@
      "key": "all-96-exits",
      "label": "all 96 exits",
      "rule": "Complete the game as fast as possible while clearing every intended exit."
+    },
+    {
+     "key": "game-end-glitch",
+     "label": "game end glitch",
+     "rule": "Glitch to the ending as fast as possible. Arbitrary code execution is allowed."
     }
    ]
   }
