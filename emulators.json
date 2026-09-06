@@ -55,6 +55,46 @@
     }
    ]
   },
+  "arcade": {
+   "quick_chips": [],
+   "tools": [
+    {
+     "id": "bizhawk",
+     "versions": [
+      "2.11.1",
+      "2.11",
+      "2.10",
+      "2.9.1",
+      "2.9",
+      "2.8",
+      "2.7",
+      "2.6"
+     ],
+     "cores": [
+      "MAME"
+     ]
+    },
+    {
+     "id": "libtas",
+     "versions": [
+      "1.4.8",
+      "1.4.7",
+      "1.4.6",
+      "1.4.5",
+      "1.4.4",
+      "1.4.3"
+     ]
+    },
+    {
+     "id": "mame-rr",
+     "versions": [
+      "0.139-v0.1-beta",
+      "0.139-v0.1-alpha",
+      "interim-14cc1b0"
+     ]
+    }
+   ]
+  },
   "nes": {
    "quick_chips": [
     "Chimera Nightly-2026-XX-XX (Core: quickerNES)",

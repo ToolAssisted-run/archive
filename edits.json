@@ -7485,6 +7485,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T00:46:32Z",
    "reason": "Fixed VirtuaNES versions"
+  },
+  {
+   "kind": "system",
+   "key": "arcade",
+   "field": "emulators (quick_chips, tools)",
+   "from": "previous",
+   "to": "updated",
+   "by": "GMP",
+   "date": "2026-09-06",
+   "at": "2026-09-06T00:54:21Z",
+   "reason": "Emu preset mappings for Arcade"
   }
  ]
 }
