@@ -7958,6 +7958,17 @@
    "date": "2026-09-06",
    "at": "2026-09-06T03:39:51Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/panic-dizzy",
+   "field": "released",
+   "from": "",
+   "to": "1991-06",
+   "by": "CloakTheLurker",
+   "date": "2026-09-06",
+   "at": "2026-09-06T03:41:29Z",
+   "reason": "added info and link"
   }
  ]
 }
