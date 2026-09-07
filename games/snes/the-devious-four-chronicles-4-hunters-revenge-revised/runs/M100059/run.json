@@ -1,0 +1,45 @@
+{
+ "id": "M100059",
+ "game": "snes/the-devious-four-chronicles-4-hunters-revenge-revised",
+ "category": {
+  "goal": "all-exits"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 11801.015,
+ "movie": {
+  "file": "M100059.bk2",
+  "format": "bk2",
+  "sha1": "c1b946f8245397274d576d07a171a1facb3e16ae",
+  "frames": 709227,
+  "rerecords": 19265,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 (Core: Snes9x)"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=F7Z8eMUkTK4"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-02-10",
+ "submitted": "2026-09-07T16:54:07Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1473,
+  "url": "https://forum.toolassisted.run/t/1473"
+ }
+}
