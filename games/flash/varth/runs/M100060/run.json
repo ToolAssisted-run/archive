@@ -1,0 +1,45 @@
+{
+ "id": "M100060",
+ "game": "flash/varth",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 78.0,
+ "movie": {
+  "file": "M100060.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "a060acf3ae20fab90aedb084f89a18401f1675ef",
+  "frames": 4724,
+  "rerecords": 76,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-XX-XX (Core: Ruffle)"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qDZjUxmMuac"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-08",
+ "submitted": "2026-09-08T13:15:04Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1475,
+  "url": "https://forum.toolassisted.run/t/1475"
+ }
+}
