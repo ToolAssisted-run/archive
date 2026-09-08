@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -47,5 +47,15 @@
  "forum": {
   "topicId": 1479,
   "url": "https://forum.toolassisted.run/t/1479"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-08",
+   "at": "2026-09-08T18:10:49Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera Nightly-2026-09-08",
+   "notes": "Found the game (with same hash) on dan-dare"
+  }
+ ]
 }
