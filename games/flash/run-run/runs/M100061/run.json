@@ -2,7 +2,7 @@
  "id": "M100061",
  "game": "flash/run-run",
  "category": {
-  "goal": "fastest-completion"
+  "goal": "baseline"
  },
  "authors": [
   {

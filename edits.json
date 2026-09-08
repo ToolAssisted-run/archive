@@ -8420,6 +8420,17 @@
    "date": "2026-09-08",
    "at": "2026-09-08T16:16:21Z",
    "reason": "Change category name"
+  },
+  {
+   "kind": "category",
+   "key": "flash/run-run:fastest-completion",
+   "field": "key",
+   "from": "fastest-completion",
+   "to": "baseline",
+   "by": "GMP",
+   "date": "2026-09-08",
+   "at": "2026-09-08T16:16:28Z",
+   "reason": "Change category name"
   }
  ]
 }
