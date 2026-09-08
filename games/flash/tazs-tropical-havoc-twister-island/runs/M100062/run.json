@@ -1,0 +1,51 @@
+{
+ "id": "M100062",
+ "game": "flash/tazs-tropical-havoc-twister-island",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "duration": 47.767,
+ "movie": {
+  "file": "M100062.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "77db1347997dd4d6e4aab44a3b2206877e417c6e",
+  "frames": 1433,
+  "rerecords": 235,
+  "start": "power-on",
+  "fps": 30.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-08 (Core: Ruffle-cbf257ee)",
+  "files": [
+   {
+    "name": "taztropicalhavoc.swf",
+    "sha1": "f721b303041b3b5ddc7a24283ffaa0b1019da0a5"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/Tbdkwf31IVM"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-09-08T17:30:08Z",
+ "submittedBy": "GMP",
+ "forum": {
+  "topicId": 1479,
+  "url": "https://forum.toolassisted.run/t/1479"
+ }
+}
