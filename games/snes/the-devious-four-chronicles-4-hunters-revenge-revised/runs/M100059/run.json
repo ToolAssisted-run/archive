@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 (Core: Snes9x)"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -47,6 +47,16 @@
    "user": "toca",
    "date": "2026-09-08",
    "at": "2026-09-08T14:00:29Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-08",
+   "at": "2026-09-08T14:02:13Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "MD5 hash of #4-Hunter'sRevenge 1_1.smc: 5367E613201EF98CF63E600347B715A7"
   }
  ]
 }
