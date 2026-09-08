@@ -24,7 +24,7 @@
   "emulator": "Chimera (Core: Ruffle)"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -47,6 +47,16 @@
    "user": "toca",
    "date": "2026-09-08",
    "at": "2026-09-08T13:57:03Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-08",
+   "at": "2026-09-08T13:59:34Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-08, 4237c31a)",
+   "notes": "Took me a minute to find the game (because I had to get past the original arcade game), but shoutouts to classicfreearcade. MD5 hash of varth.swf: D69C9CBC6D4A59512B58CB2D041F909C"
   }
  ]
 }
