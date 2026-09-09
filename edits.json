@@ -8563,6 +8563,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T23:43:04Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/manic-miner",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/daHENpd",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T23:43:10Z",
+   "reason": "added info and links"
   }
  ]
 }
