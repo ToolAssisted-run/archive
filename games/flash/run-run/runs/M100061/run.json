@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -53,6 +53,16 @@
    "user": "toca",
    "date": "2026-09-09",
    "at": "2026-09-09T12:10:46Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-09",
+   "at": "2026-09-09T12:12:51Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-08, 4237c31a)",
+   "notes": "Shoutouts to Digerati Vinizinho (google it!) for featuring the correct version of the game. And some F12 also helped"
   }
  ]
 }
