@@ -8475,6 +8475,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T18:17:56Z",
    "reason": "added category and rules"
+  },
+  {
+   "kind": "category",
+   "key": "pc/doom-ii-doom-city:100",
+   "field": "rule",
+   "from": "Imported as \"100%\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the map as fast as possible on Ultra-Violence difficulty while killing all initially placed monsters and revealing all secrets.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T18:18:02Z",
+   "reason": "added category and rules"
   }
  ]
 }
