@@ -8662,6 +8662,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T23:53:13Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/space-monsters-meet-the-hardy",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/space_monsters_meet_the_hardy",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T23:53:20Z",
+   "reason": "added info and links"
   }
  ]
 }
