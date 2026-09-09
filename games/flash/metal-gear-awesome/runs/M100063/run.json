@@ -35,7 +35,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -58,6 +58,15 @@
    "user": "toca",
    "date": "2026-09-09",
    "at": "2026-09-09T12:15:20Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-09",
+   "at": "2026-09-09T12:15:35Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-08, 4237c31a)"
   }
  ]
 }
