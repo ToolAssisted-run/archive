@@ -8464,6 +8464,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T13:16:32Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "pc/doom-ii-doom-city:fastest-completion",
+   "field": "added",
+   "from": "",
+   "to": "fastest completion",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T18:17:56Z",
+   "reason": "added category and rules"
   }
  ]
 }
