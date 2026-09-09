@@ -8596,6 +8596,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T23:43:23Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/sinclair-01-the-trail-begins",
+   "field": "released",
+   "from": "",
+   "to": "2021-09-20",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T23:45:57Z",
+   "reason": "added info and link"
   }
  ]
 }
