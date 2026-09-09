@@ -8607,6 +8607,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T23:45:57Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/sinclair-01-the-trail-begins",
+   "field": "website",
+   "from": "",
+   "to": "https://sequentia-soft.itch.io/sinclair-1-the-trail-begins-english",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T23:46:03Z",
+   "reason": "added info and link"
   }
  ]
 }
