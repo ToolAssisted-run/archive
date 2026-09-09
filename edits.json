@@ -8673,6 +8673,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T23:53:20Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/styx",
+   "field": "released",
+   "from": "",
+   "to": "1983",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T23:55:57Z",
+   "reason": "added info and link"
   }
  ]
 }
