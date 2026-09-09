@@ -8695,6 +8695,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T23:56:04Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/tcq",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T23:57:33Z",
+   "reason": "added image from itch.io"
   }
  ]
 }
