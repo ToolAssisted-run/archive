@@ -8618,6 +8618,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T23:46:03Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/skool-daze",
+   "field": "released",
+   "from": "",
+   "to": "1984",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T23:50:57Z",
+   "reason": "added info and link"
   }
  ]
 }
