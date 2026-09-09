@@ -8552,6 +8552,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T23:40:06Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/manic-miner",
+   "field": "released",
+   "from": "",
+   "to": "1983-06",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T23:43:04Z",
+   "reason": "added info and links"
   }
  ]
 }
