@@ -1,0 +1,56 @@
+{
+ "id": "M100063",
+ "game": "flash/metal-gear-awesome",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "duration": 0.066,
+ "movie": {
+  "file": "M100063.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "22a9c000aff6395962e9e1205cad24c520ddc27e",
+  "frames": 2,
+  "rerecords": 13,
+  "start": "power-on",
+  "fps": 20.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence",
+  "strong-language"
+ ],
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-08",
+  "files": [
+   {
+    "name": "297383_MetalGearAwesome.swf",
+    "sha1": "97c3f2444c8449c4230e2e9659f4f6de0e65eb41"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Xq-mYP1-I30"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-08",
+ "submitted": "2026-09-09T03:41:50Z",
+ "submittedBy": "CoolHandMike",
+ "forum": {
+  "topicId": 1481,
+  "url": "https://forum.toolassisted.run/t/1481"
+ }
+}

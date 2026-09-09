@@ -1,0 +1,45 @@
+{
+	"title":	"297383_MetalGearAwesome",
+	"description":	"",
+	"core":	{
+		"name":	"Ruffle",
+		"version":	"cbf257eed35722e204e6f14d5499dc9d41c9630f",
+		"sha1":	"41B9ABA6A9624C5A4962D568CD41A311A61BB2F3"
+	},
+	"rerecords":	13,
+	"files":	[{
+			"name":	"297383_MetalGearAwesome.swf",
+			"sha1":	"97C3F2444C8449C4230E2E9659F4F6DE0E65EB41",
+			"slot":	"movie"
+		}],
+	"settings":	{
+		"spoofUrl":	"",
+		"pageUrl":	"",
+		"playerVersion":	0,
+		"playerRuntime":	"flashPlayer",
+		"quality":	"high",
+		"loadBehavior":	"streaming",
+		"compatibilityRules":	false,
+		"defaultFont":	true,
+		"fps":	0,
+		"renderer":	"wgpu-hw"
+	},
+	"firmware":	[],
+	"coreCache":	[],
+	"input":	"[Input]\nLogKey:#Mouse X|Mouse Y|Mouse Left Button|Mouse Middle Button|Mouse Right Button|Key A|Key B|Key C|Key D|Key E|Key F|Key G|Key H|Key I|Key J|Key K|Key L|Key M|Key N|Key O|Key P|Key Q|Key R|Key S|Key T|Key U|Key V|Key W|Key X|Key Y|Key Z|Key 1|Key 2|Key 3|Key 4|Key 5|Key 6|Key 7|Key 8|Key 9|Key 0|Key Space|Key Enter|Key Escape|Key Tab|Key Backspace|Key Delete|Key Insert|Key Home|Key End|Key Page Up|Key Page Down|Key Up|Key Down|Key Left|Key Right|Key Left Shift|Key Right Shift|Key Left Control|Key Right Control|Key Left Alt|Key Right Alt|Key Caps Lock|Key Num Lock|Key Scroll Lock|Key Pause|Key F1|Key F2|Key F3|Key F4|Key F5|Key F6|Key F7|Key F8|Key F9|Key F10|Key F11|Key F12|Key Minus|Key Equals|Key Left Bracket|Key Right Bracket|Key Backslash|Key Semicolon|Key Quote|Key Comma|Key Period|Key Slash|Key Backquote|Numpad 0|Numpad 1|Numpad 2|Numpad 3|Numpad 4|Numpad 5|Numpad 6|Numpad 7|Numpad 8|Numpad 9|Numpad Add|Numpad Subtract|Numpad Multiply|Numpad Divide|Numpad Decimal|Numpad Enter|\n| 4096, 4096,.......................................................................................................|\n| 6926, 4813,B......................................................................................................|\n[/Input]\n",
+	"markers":	[],
+	"branches":	[],
+	"headers":	{
+		"MovieVersion":	"Chimera Project File v1.1",
+		"Platform":	"Flash",
+		"WaterboxHost":	"{\"component\":\"miniBox host\",\"commit\":\"17d5f7f64359\",\"compiler\":\"gcc 13.0.0\",\"builtOn\":\"ubuntu 24.04\",\"target\":\"windows-x86_64\"}",
+		"emuVersion":	"Commit 4237c31ac",
+		"OriginalEmuVersion":	"Commit 4237c31ac",
+		"SHA1":	"97C3F2444C8449C4230E2E9659F4F6DE0E65EB41",
+		"LastInputFrame":	"1",
+		"GpuRenderer":	"4.6.0 NVIDIA 576.28 on NVIDIA GeForce RTX 3060/PCIe/SSE2",
+		"GpuStatesSurvive":	"1",
+		"VsyncNumerator":	"20",
+		"VsyncDenominator":	"1"
+	}
+}
