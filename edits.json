@@ -8486,6 +8486,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T18:18:02Z",
    "reason": "added category and rules"
+  },
+  {
+   "kind": "game",
+   "key": "pc/doom-ii-doom-city",
+   "field": "released",
+   "from": "",
+   "to": "1995-10-12",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T18:20:47Z",
+   "reason": "added info and links"
   }
  ]
 }
