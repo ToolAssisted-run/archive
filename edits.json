@@ -8585,6 +8585,17 @@
    "date": "2026-09-09",
    "at": "2026-09-09T23:43:17Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/manic-miner",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/manic_miner",
+   "by": "CloakTheLurker",
+   "date": "2026-09-09",
+   "at": "2026-09-09T23:43:23Z",
+   "reason": "added info and links"
   }
  ]
 }
