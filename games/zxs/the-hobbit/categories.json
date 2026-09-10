@@ -8,6 +8,11 @@
      "key": "game-end-glitch",
      "label": "game end glitch",
      "rule": "Imported as \"game end glitch\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "any",
+     "label": "any%",
+     "rule": "Complete the game as fast as possible."
     }
    ]
   }
