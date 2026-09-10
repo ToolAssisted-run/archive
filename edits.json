@@ -8959,6 +8959,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T01:46:33Z",
    "reason": "added key art (Spectrum Computing)"
+  },
+  {
+   "kind": "game",
+   "key": "c64/b-c-s-quest-for-tires",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T01:51:44Z",
+   "reason": "added image (game screenshot)"
   }
  ]
 }
