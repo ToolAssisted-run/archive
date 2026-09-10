@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "geese",
+     "label": "Geese",
+     "rule": "defeat the secret boss Geese Howard"
+    }
+   ]
+  }
+ ]
+}
