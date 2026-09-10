@@ -9014,6 +9014,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:00:20Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/congo-bongo",
+   "field": "website",
+   "from": "",
+   "to": "https://www.lemon64.com/game/congo-bongo-83",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:00:27Z",
+   "reason": "added info and link"
   }
  ]
 }
