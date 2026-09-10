@@ -9157,6 +9157,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:19:08Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/frogger",
+   "field": "released",
+   "from": "",
+   "to": "1983-08",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:27:24Z",
+   "reason": "added info and links"
   }
  ]
 }
