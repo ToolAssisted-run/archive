@@ -7,7 +7,7 @@
     {
      "key": "baseline",
      "label": "fastest completion",
-     "rule": "Complete the game as fast as possible."
+     "rule": "Complete all unique sub-stages as fast as possible."
     }
    ]
   }
