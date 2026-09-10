@@ -1,0 +1,4 @@
+Finally a game with combos from the Fatal Fury series! Unfortunately combos are slower but some enemies need combos for lack of cooperation( too many invencible moves). Franco Bash is a factory worker part time kickboxer and has the greatest normals for range and damage and can hold his super for more range and a little bit more damage. This is the best SNK game from old school SNK imo, go play it! This game has a lot more juicy combos you won't see here that need glitches or being cornered against the wall, the wall can break and you stun the enemy.
+
+We can't use super DMs cause we never take big damage, this game is so beautiful dear god... enjoy the TAS, this should be a little bit more entertaining since enemy behavior made combos useful a handful of times. Nightmare Geese is a secret boss that fights you if your score is too high, normally Krauser is the last boss.
+Hardest settings as always.

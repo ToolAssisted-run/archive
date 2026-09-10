@@ -1,0 +1,52 @@
+{
+ "id": "M100064",
+ "game": "arcade/real-bout-fatal-fury-special",
+ "category": {
+  "goal": "nightmare-geese"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "duration": 407.819,
+ "movie": {
+  "file": "M100064.bk2",
+  "format": "bk2",
+  "sha1": "79611f048fe93bce0979d6c6d74dd64f962eefe8",
+  "frames": 24137,
+  "rerecords": 2508,
+  "start": "power-on",
+  "fps": 59.1856060608428
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "rbffs.zip",
+    "sha1": "5cd18e0b53ea2459b44ab9c0640b6fbae3c1842b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/fGyc4oGSmcs?si=1E3uwJooFpyGi6ah"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-01",
+ "submitted": "2026-09-10T16:27:09Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1483,
+  "url": "https://forum.toolassisted.run/t/1483"
+ }
+}
