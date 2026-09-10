@@ -190,5 +190,10 @@
   "name": "Symbian (N-Gage)",
   "fps": 60.0,
   "hardToReproduce": true
+ },
+ "a5200": {
+  "name": "Atari 5200",
+  "fps": 59.9227510135505,
+  "hardToReproduce": true
  }
 }
