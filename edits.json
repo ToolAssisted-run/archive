@@ -9432,6 +9432,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:03:13Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/choplifter",
+   "field": "website",
+   "from": "",
+   "to": "https://www.lemon64.com/game/choplifter",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:03:20Z",
+   "reason": "added info and link"
   }
  ]
 }
