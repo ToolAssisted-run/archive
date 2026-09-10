@@ -9113,6 +9113,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:14:10Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/decathlon",
+   "field": "website",
+   "from": "",
+   "to": "https://www.lemon64.com/game/decathlon",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:14:17Z",
+   "reason": "added info and link"
   }
  ]
 }
