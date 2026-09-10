@@ -8937,6 +8937,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T01:37:48Z",
    "reason": "added image (game screenshot)"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/circus-digital-fantasia",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T01:40:45Z",
+   "reason": "added key art (Spectrum Computing)"
   }
  ]
 }
