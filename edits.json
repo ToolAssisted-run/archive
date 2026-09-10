@@ -9344,6 +9344,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:46:24Z",
    "reason": "added image (game screenshot)"
+  },
+  {
+   "kind": "game",
+   "key": "c64/batman-the-caped-crusader",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:52:48Z",
+   "reason": "added image (game screenshot)"
   }
  ]
 }
