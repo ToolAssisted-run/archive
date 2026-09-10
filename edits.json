@@ -9047,6 +9047,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:02:14Z",
    "reason": "added image (game screenshot)"
+  },
+  {
+   "kind": "game",
+   "key": "c64/b-c-s-quest-for-tires",
+   "field": "released",
+   "from": "1984",
+   "to": "1984-01",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:03:14Z",
+   "reason": "edited info"
   }
  ]
 }
