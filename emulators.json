@@ -208,7 +208,7 @@
    "aliases": [
     "chimera"
    ],
-   "systems_display": "multi-system (NES, SNES, GameCube, Wii, Genesis, Dreamcast, PS2, PSP, PS3, Xbox, 3DO, Atari 2600, DOS, Flash, Symbian, …)"
+   "systems_display": "multi-system (NES, SNES, N64, GameCube, Wii, GB/GBC, GBA, Genesis, Master System, Dreamcast, PSX, PS2, PSP, PS3, Xbox, 3DO, Atari 2600, MSX, Neo Geo, WonderSwan, DOS, Flash, Symbian, …)"
   },
   {
    "id": "bizhawk",
