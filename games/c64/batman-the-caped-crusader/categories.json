@@ -8,6 +8,11 @@
      "key": "the-joker-a-fete-worse-than-death",
      "label": "The Joker: A Fete Worse than Death",
      "rule": "Complete \"A Fete Worse than Death\" as fast as possible."
+    },
+    {
+     "key": "the-penguin-a-bird-in-the-hand",
+     "label": "The Penguin: A Bird in the Hand",
+     "rule": "Complete \"A Bird in the Hand\" as fast as possible."
     }
    ]
   }

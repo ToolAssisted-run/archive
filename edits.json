@@ -9366,6 +9366,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:53:29Z",
    "reason": "edited rule"
+  },
+  {
+   "kind": "category",
+   "key": "c64/batman-the-caped-crusader:the-penguin-a-bird-in-the-hand",
+   "field": "added",
+   "from": "",
+   "to": "The Penguin: A Bird in the Hand",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:54:36Z",
+   "reason": "added rule"
   }
  ]
 }
