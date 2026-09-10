@@ -9476,6 +9476,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:10:25Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/disc-blitz",
+   "field": "released",
+   "from": "",
+   "to": "1989-01",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:15:48Z",
+   "reason": "added info and link"
   }
  ]
 }
