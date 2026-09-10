@@ -9245,6 +9245,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:34:50Z",
    "reason": "added image (game screenshot)"
+  },
+  {
+   "kind": "game",
+   "key": "c64/donkey-kong-atarisoft",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:37:50Z",
+   "reason": "added image (game screenshot)"
   }
  ]
 }
