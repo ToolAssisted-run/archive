@@ -19,7 +19,7 @@
  },
  "thumbnail": "thumb.jpg",
  "contract": {
-  "emulator": "BizHawk 2.9.1",
+  "emulator": "BizHawk 2.9.1 (Core: ZXHawk)",
   "rom": {
    "name": "Circus (1983)(Digital Fantasia)[a].tzx",
    "sha1": "92a105c89967dbd3171378e91330a36acd7cacf1"
