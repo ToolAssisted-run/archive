@@ -9641,6 +9641,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T04:00:21Z",
    "reason": "added key art (https://archive.org/details/1984-03-computegazette/page/n47/mode/2up)"
+  },
+  {
+   "kind": "run",
+   "key": "M100065",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "KusogeMan",
+   "date": "2026-09-10",
+   "at": "2026-09-10T22:36:53Z",
+   "reason": "The author's own revision."
   }
  ]
 }
