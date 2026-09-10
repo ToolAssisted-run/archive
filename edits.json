@@ -9322,6 +9322,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:45:38Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "c64/monty-on-the-run",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/monty_on_the_run",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:45:46Z",
+   "reason": "added info and links"
   }
  ]
 }
