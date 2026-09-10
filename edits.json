@@ -9564,6 +9564,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:37:36Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M5923",
+   "field": "emulator",
+   "from": "BizHawk 2.9.1",
+   "to": "BizHawk 2.9.1 (Core: ZXHawk)",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:46:19Z",
+   "reason": "The author's own revision."
   }
  ]
 }
