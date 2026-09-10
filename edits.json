@@ -8728,6 +8728,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T00:00:02Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/tcq",
+   "field": "website",
+   "from": "",
+   "to": "https://amaweks.itch.io/tcq",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T00:00:09Z",
+   "reason": "added info and links"
   }
  ]
 }
