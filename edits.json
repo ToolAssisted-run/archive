@@ -9179,6 +9179,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:27:31Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "c64/frogger",
+   "field": "website",
+   "from": "",
+   "to": "https://www.lemon64.com/game/frogger-parker-brothers",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:27:37Z",
+   "reason": "added info and links"
   }
  ]
 }
