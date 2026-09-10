@@ -9619,6 +9619,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:57:43Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "category",
+   "key": "c64/cut-off:maximum-score",
+   "field": "rule",
+   "from": "Imported as \"maximum score\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the game with the maximum score as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:58:07Z",
+   "reason": "edited rule"
   }
  ]
 }
