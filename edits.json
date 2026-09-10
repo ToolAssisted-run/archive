@@ -9267,6 +9267,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:38:11Z",
    "reason": "edited rule"
+  },
+  {
+   "kind": "game",
+   "key": "c64/donkey-kong-atarisoft",
+   "field": "released",
+   "from": "",
+   "to": "1983-12",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:40:42Z",
+   "reason": "added info and links"
   }
  ]
 }
