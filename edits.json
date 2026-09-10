@@ -9190,6 +9190,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:27:37Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "category",
+   "key": "c64/frogger:baseline",
+   "field": "rule",
+   "from": "Complete the game as fast as possible.",
+   "to": "Complete the first 7 stages as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:28:17Z",
+   "reason": "edited rule"
   }
  ]
 }
