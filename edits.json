@@ -9080,6 +9080,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:06:44Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/anarchy",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:08:18Z",
+   "reason": "added image (game screenshot)"
   }
  ]
 }
