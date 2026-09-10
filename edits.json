@@ -9487,6 +9487,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:15:48Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/disc-blitz",
+   "field": "website",
+   "from": "",
+   "to": "https://www.computesgazette.com/2026/07/19/january-1989/",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:15:56Z",
+   "reason": "added info and link"
   }
  ]
 }
