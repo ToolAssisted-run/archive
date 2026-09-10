@@ -1,0 +1,52 @@
+{
+ "id": "M7374",
+ "game": "sms/acerte-o-alvo",
+ "category": {
+  "goal": "all-difficulties"
+ },
+ "authors": [
+  {
+   "user": "ShgofcTAS"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7374.bk2",
+  "format": "bk2",
+  "frames": 11006,
+  "rerecords": 1594,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "Acerte o Alvo MSE2SMS Hack.sms",
+    "sha1": "0904975757713116b918805e17988955de2102e6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported",
+  "console": "none"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7374M",
+  "importedBy": "ShgofcTAS",
+  "importedAt": "2026-09-10"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=K08NbES0NXA"
+  }
+ ],
+ "submitted": "2026-09-08T17:02:57.034535",
+ "attachments": [],
+ "forum": {
+  "topicId": 1485,
+  "url": "https://forum.toolassisted.run/t/1485"
+ }
+}
