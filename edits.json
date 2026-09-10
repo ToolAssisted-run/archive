@@ -9421,6 +9421,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:00:48Z",
    "reason": "added image (GB64.com)"
+  },
+  {
+   "kind": "game",
+   "key": "c64/choplifter",
+   "field": "released",
+   "from": "",
+   "to": "1983-09",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:03:13Z",
+   "reason": "added info and link"
   }
  ]
 }
