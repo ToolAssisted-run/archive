@@ -9377,6 +9377,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:54:36Z",
    "reason": "added rule"
+  },
+  {
+   "kind": "game",
+   "key": "c64/batman-the-caped-crusader",
+   "field": "released",
+   "from": "",
+   "to": "1988",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:56:08Z",
+   "reason": "added info and links"
   }
  ]
 }
