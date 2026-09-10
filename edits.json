@@ -9498,6 +9498,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:15:56Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/disc-blitz",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:16:56Z",
+   "reason": "added key art (https://archive.org/details/1989-01-computegazette/page/n47/mode/2up)"
   }
  ]
 }
