@@ -9597,6 +9597,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:48:52Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "c64/cut-off",
+   "field": "released",
+   "from": "",
+   "to": "1984-03",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:57:37Z",
+   "reason": "added info and link"
   }
  ]
 }
