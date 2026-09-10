@@ -8992,6 +8992,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T01:53:55Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "c64/b-c-s-quest-for-tires",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/bcs_quest_for_tires",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T01:54:02Z",
+   "reason": "added info and links"
   }
  ]
 }
