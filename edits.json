@@ -9003,6 +9003,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T01:54:02Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "c64/congo-bongo",
+   "field": "released",
+   "from": "",
+   "to": "1983-12",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:00:20Z",
+   "reason": "added info and link"
   }
  ]
 }
