@@ -9102,6 +9102,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:11:18Z",
    "reason": "added rule"
+  },
+  {
+   "kind": "game",
+   "key": "c64/decathlon",
+   "field": "released",
+   "from": "",
+   "to": "1984-08",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:14:10Z",
+   "reason": "added info and link"
   }
  ]
 }
