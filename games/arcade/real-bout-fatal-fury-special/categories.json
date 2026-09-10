@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "nightmare-geese",
+     "label": "Nightmare Geese",
+     "rule": "Complete the game with the secret fight against Geese"
+    }
+   ]
+  }
+ ]
+}
