@@ -9388,6 +9388,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:56:08Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "c64/batman-the-caped-crusader",
+   "field": "website",
+   "from": "",
+   "to": "https://www.lemon64.com/game/batman-the-caped-crusader",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:56:14Z",
+   "reason": "added info and links"
   }
  ]
 }
