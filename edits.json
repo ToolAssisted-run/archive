@@ -9135,6 +9135,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:16:11Z",
    "reason": "added key art (Lemon64)"
+  },
+  {
+   "kind": "game",
+   "key": "c64/diamond-mine",
+   "field": "released",
+   "from": "",
+   "to": "1983-12",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:19:01Z",
+   "reason": "added info and link"
   }
  ]
 }
