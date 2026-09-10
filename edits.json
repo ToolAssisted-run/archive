@@ -9630,6 +9630,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:58:07Z",
    "reason": "edited rule"
+  },
+  {
+   "kind": "game",
+   "key": "c64/cut-off",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T04:00:21Z",
+   "reason": "added key art (https://archive.org/details/1984-03-computegazette/page/n47/mode/2up)"
   }
  ]
 }
