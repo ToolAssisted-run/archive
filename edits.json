@@ -9454,6 +9454,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:07:55Z",
    "reason": "added key art (Lemon64)"
+  },
+  {
+   "kind": "game",
+   "key": "c64/football-manager",
+   "field": "released",
+   "from": "",
+   "to": "1984-07",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:10:18Z",
+   "reason": "added info and link"
   }
  ]
 }
