@@ -9355,6 +9355,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:52:48Z",
    "reason": "added image (game screenshot)"
+  },
+  {
+   "kind": "category",
+   "key": "c64/batman-the-caped-crusader:the-joker-a-fete-worse-than-death",
+   "field": "rule",
+   "from": "Imported as \"The Joker: A Fete Worse than Death\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete \"A Fete Worse than Death\" as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:53:29Z",
+   "reason": "edited rule"
   }
  ]
 }
