@@ -8904,6 +8904,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T00:50:18Z",
    "reason": "added image (game screenshot)"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/jet-set-willy",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T00:53:01Z",
+   "reason": "added image (game screenshot)"
   }
  ]
 }
