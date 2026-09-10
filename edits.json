@@ -8750,6 +8750,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T00:00:16Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/the-hobbit",
+   "field": "released",
+   "from": "",
+   "to": "1982",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T00:06:25Z",
+   "reason": "added info and links"
   }
  ]
 }
