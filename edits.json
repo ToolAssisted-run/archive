@@ -8871,6 +8871,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T00:41:35Z",
    "reason": "added image (game screenshot)"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/aliens-neoplasma",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T00:43:29Z",
+   "reason": "added image (game screenshot)"
   }
  ]
 }
