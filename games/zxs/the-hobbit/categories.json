@@ -12,7 +12,14 @@
     {
      "key": "any",
      "label": "any%",
-     "rule": "Complete the game as fast as possible."
+     "rule": "Complete the game as fast as possible.",
+     "subcategories": [
+      {
+       "key": "glitches",
+       "label": "glitches",
+       "rule": "Glitches are allowed."
+      }
+     ]
     }
    ]
   }
