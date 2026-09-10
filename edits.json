@@ -8783,6 +8783,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T00:06:39Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/the-hobbit",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/hobbitsa",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T00:06:45Z",
+   "reason": "added info and links"
   }
  ]
 }
