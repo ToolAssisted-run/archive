@@ -95,6 +95,16 @@
     }
    ]
   },
+  "c64": {
+   "quick_chips": [
+    "BizHawk 2.9.1 (Core:C64Hawk)",
+    "BizHawk 2.9 (Core:C64Hawk)",
+    "BizHawk 2.8 (Core:C64Hawk)",
+    "BizHawk 2.10 (Core:C64Hawk)",
+    "BizHawk 2.11 (Core:C64Hawk)"
+   ],
+   "tools": []
+  },
   "nes": {
    "quick_chips": [
     "Chimera Nightly-2026-XX-XX (Core: quickerNES)",
