@@ -8761,6 +8761,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T00:06:25Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/the-hobbit",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/urMJXue",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T00:06:32Z",
+   "reason": "added info and links"
   }
  ]
 }
