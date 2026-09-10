@@ -9531,6 +9531,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:32:36Z",
    "reason": "edited quick chips"
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "emulator",
+   "from": "BizHawk 2.9.1",
+   "to": "BizHawk 2.9.1 (Core: ZXHawk)",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:35:51Z",
+   "reason": "The author's own revision."
   }
  ]
 }
