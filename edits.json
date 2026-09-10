@@ -8827,6 +8827,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T00:22:06Z",
    "reason": "added categories and rules"
+  },
+  {
+   "kind": "category",
+   "key": "zxs/the-hobbit:game-end-glitch",
+   "field": "rule",
+   "from": "Imported as \"game end glitch\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Glitch to the ending as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T00:22:13Z",
+   "reason": "added categories and rules"
   }
  ]
 }
