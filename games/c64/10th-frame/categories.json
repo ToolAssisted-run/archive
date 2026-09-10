@@ -7,7 +7,7 @@
     {
      "key": "maximum-score",
      "label": "maximum score",
-     "rule": "Imported as \"maximum score\" from the source it was published at; rules to be formalized by the game's experts."
+     "rule": "Finish the game with a maximum score of 300 in the fastest time possible."
     }
    ]
   }

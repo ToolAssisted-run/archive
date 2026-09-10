@@ -9201,6 +9201,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:28:17Z",
    "reason": "edited rule"
+  },
+  {
+   "kind": "category",
+   "key": "c64/10th-frame:maximum-score",
+   "field": "rule",
+   "from": "Imported as \"maximum score\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Finish the game with a maximum score of 300 in the fastest time possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:33:26Z",
+   "reason": "edited rule"
   }
  ]
 }
