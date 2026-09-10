@@ -9069,6 +9069,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:06:38Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/anarchy",
+   "field": "website",
+   "from": "",
+   "to": "https://www.lemon64.com/game/anarchy",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:06:44Z",
+   "reason": "added info and link"
   }
  ]
 }
