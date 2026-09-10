@@ -9399,6 +9399,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:56:14Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "c64/batman-the-caped-crusader",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/btcc",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:56:21Z",
+   "reason": "added info and links"
   }
  ]
 }
