@@ -18,6 +18,11 @@
        "key": "glitches",
        "label": "glitches",
        "rule": "Glitches are allowed."
+      },
+      {
+       "key": "glitchless",
+       "label": "glitchless",
+       "rule": "Glitches are not allowed."
       }
      ]
     }
