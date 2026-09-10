@@ -9311,6 +9311,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:45:31Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "c64/monty-on-the-run",
+   "field": "website",
+   "from": "",
+   "to": "https://www.lemon64.com/game/monty-on-the-run",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:45:38Z",
+   "reason": "added info and links"
   }
  ]
 }
