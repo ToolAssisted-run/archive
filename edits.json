@@ -9025,6 +9025,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:00:27Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "category",
+   "key": "c64/congo-bongo:baseline",
+   "field": "rule",
+   "from": "Complete the game as fast as possible.",
+   "to": "Complete 1 stage as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:00:34Z",
+   "reason": "added info and link"
   }
  ]
 }
