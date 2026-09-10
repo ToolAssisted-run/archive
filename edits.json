@@ -9465,6 +9465,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T03:10:18Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "c64/football-manager",
+   "field": "website",
+   "from": "",
+   "to": "https://www.lemon64.com/game/football-manager",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T03:10:25Z",
+   "reason": "added info and link"
   }
  ]
 }
