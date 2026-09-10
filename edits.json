@@ -8893,6 +8893,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T00:47:50Z",
    "reason": "added image (loading screenshot from 48K version)"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/hunt-the-wumpus-wilko-schr-ter",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T00:50:18Z",
+   "reason": "added image (game screenshot)"
   }
  ]
 }
