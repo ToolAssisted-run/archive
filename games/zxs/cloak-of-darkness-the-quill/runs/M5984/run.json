@@ -19,7 +19,7 @@
  },
  "thumbnail": "thumb.jpg",
  "contract": {
-  "emulator": "BizHawk 2.9.1",
+  "emulator": "BizHawk 2.9.1 (Core: ZXHawk)",
   "rom": {
    "name": "CoD Quill.tzx",
    "sha1": "b84f0c070a5c5cd67e098f6b3b23234f736b3f21"
