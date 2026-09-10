@@ -9212,6 +9212,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T02:33:26Z",
    "reason": "edited rule"
+  },
+  {
+   "kind": "game",
+   "key": "c64/10th-frame",
+   "field": "released",
+   "from": "",
+   "to": "1986-10",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T02:34:14Z",
+   "reason": "added info and link"
   }
  ]
 }
