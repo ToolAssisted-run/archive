@@ -8838,6 +8838,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T00:22:13Z",
    "reason": "added categories and rules"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/the-hobbit",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-10",
+   "at": "2026-09-10T00:28:47Z",
+   "reason": "added image (https://www.youtube.com/watch?v=oCGG39APAWU)"
   }
  ]
 }
