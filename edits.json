@@ -9696,6 +9696,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T15:23:52Z",
    "reason": "title + rom hack"
+  },
+  {
+   "kind": "game",
+   "key": "genesis/steel-empire",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:24:38Z",
+   "reason": "rom hack"
   }
  ]
 }
