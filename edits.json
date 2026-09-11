@@ -9916,6 +9916,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T16:10:57Z",
    "reason": "community mod"
+  },
+  {
+   "kind": "game",
+   "key": "pc/doom-ii-crud",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T16:11:12Z",
+   "reason": "custom wad"
   }
  ]
 }
