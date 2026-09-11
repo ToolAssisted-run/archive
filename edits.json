@@ -9828,6 +9828,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T15:57:37Z",
    "reason": "Changed from the group form: ps2/grand-theft-auto-san-andreas moved in"
+  },
+  {
+   "kind": "game",
+   "key": "c64/portal",
+   "field": "released",
+   "from": "",
+   "to": "2018",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:59:45Z",
+   "reason": "\"rom hack\""
   }
  ]
 }
