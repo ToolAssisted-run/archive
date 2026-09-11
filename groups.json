@@ -330,6 +330,15 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "james-bond",
+   "title": "James Bond",
+   "games": [
+    "genesis/james-bond-007-the-duel"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "k-1-pocket-grand-prix",
    "title": "K-1 Pocket Grand Prix",
    "games": [
