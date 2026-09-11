@@ -786,6 +786,15 @@
    ]
   },
   {
+   "key": "yu-gi-oh",
+   "title": "Yu-Gi-Oh!",
+   "games": [
+    "gc/yu-gi-oh-the-falsebound-kingdom"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "zelda",
    "title": "Zelda",
    "games": [
