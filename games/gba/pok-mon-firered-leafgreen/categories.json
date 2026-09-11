@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "fastest-shiny-starter",
+     "label": "Fastest shiny starter",
+     "rule": "Obtain a shiny starter Pok\u00e9mon as fast as possible."
+    }
+   ]
+  }
+ ]
+}
