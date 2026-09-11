@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 BSNESv115+"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -48,6 +48,16 @@
    "date": "2026-09-11",
    "at": "2026-09-11T15:39:46Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:40:55Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "SHA1 hash of Mushroom Kingdom Meltdown 2 - Fixed.smc: 539A16560D8B4BFEEDACEE5DFB58B6DC8B80BB72"
   }
  ]
 }
