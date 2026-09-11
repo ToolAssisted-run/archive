@@ -9729,6 +9729,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T15:24:57Z",
    "reason": "rom hack"
+  },
+  {
+   "kind": "game",
+   "key": "snes/the-devious-four-chronicles-the-crater-retold",
+   "field": "title",
+   "from": "the Devious Four Chronicles The Crater ReTold",
+   "to": "The Devious Four Chronicles The Crater ReTold",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:25:06Z",
+   "reason": "title + rom hack"
   }
  ]
 }
