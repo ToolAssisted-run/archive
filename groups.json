@@ -775,6 +775,15 @@
     "flash/kissaten-kara-no-dasshutsu-2",
     "flash/simple-room-3"
    ]
+  },
+  {
+   "key": "zelda",
+   "title": "Zelda",
+   "games": [
+    "flash/the-legend-of-zelda-and-the-lampshade-of-no-real-significance"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
   }
  ]
 }
