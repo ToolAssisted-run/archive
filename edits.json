@@ -9652,6 +9652,17 @@
    "date": "2026-09-10",
    "at": "2026-09-10T22:36:53Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "3do/space-megaforce",
+   "field": "title",
+   "from": "space megaforce",
+   "to": "Space Megaforce",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T14:53:26Z",
+   "reason": "title and release year"
   }
  ]
 }
