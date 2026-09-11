@@ -195,5 +195,15 @@
   "name": "Atari 5200",
   "fps": 59.9227510135505,
   "hardToReproduce": true
+ },
+ "neogeo": {
+  "name": "Neo Geo AES",
+  "fps": 59.18560606060606,
+  "hardToReproduce": true
+ },
+ "ngp": {
+  "name": "Neo Geo Pocket",
+  "fps": 59.95023661999317,
+  "hardToReproduce": true
  }
 }
