@@ -9905,6 +9905,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T16:10:14Z",
    "reason": "Changed from the group form: gba/pok-mon-firered-leafgreen moved in"
+  },
+  {
+   "kind": "game",
+   "key": "pc/doom-ii-sunlust",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T16:10:57Z",
+   "reason": "community mod"
   }
  ]
 }
