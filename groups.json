@@ -258,6 +258,15 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "fatal-fury",
+   "title": "Fatal Fury",
+   "games": [
+    "arcade/fatal-fury-3-road-to-the-final-victory"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "frogger",
    "title": "Frogger",
    "games": [
