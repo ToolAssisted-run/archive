@@ -343,6 +343,15 @@
    "createdAt": "2026-08-27"
   },
   {
+   "key": "max-payne",
+   "title": "Max Payne",
+   "games": [
+    "gba/max-payne"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "mega-man",
    "title": "Mega Man",
    "games": [
