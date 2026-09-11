@@ -576,6 +576,15 @@
    ]
   },
   {
+   "key": "resident-evil",
+   "title": "Resident Evil",
+   "games": [
+    "wii/resident-evil-4"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "robocop",
    "title": "RoboCop",
    "games": [
