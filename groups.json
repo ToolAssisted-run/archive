@@ -646,6 +646,15 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "super-monkey-ball",
+   "title": "Super Monkey Ball",
+   "games": [
+    "gba/super-monkey-ball-jr"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "superman",
    "title": "Superman",
    "games": [
