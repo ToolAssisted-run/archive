@@ -9674,6 +9674,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T14:53:32Z",
    "reason": "title and release year"
+  },
+  {
+   "kind": "game",
+   "key": "snes/ynt-mario",
+   "field": "title",
+   "from": "YNT mario",
+   "to": "YNT Mario",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:23:45Z",
+   "reason": "title + rom hack"
   }
  ]
 }
