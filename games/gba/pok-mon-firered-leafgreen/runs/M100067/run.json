@@ -1,0 +1,56 @@
+{
+ "id": "M100067",
+ "game": "gba/pok-mon-firered-leafgreen",
+ "category": {
+  "goal": "fastest-shiny-starter"
+ },
+ "authors": [
+  {
+   "user": "izumi"
+  }
+ ],
+ "tools": [],
+ "duration": 90.383,
+ "movie": {
+  "file": "M100067.vbm",
+  "format": "vbm",
+  "sha1": "eb4b3845372a5ac041fa3f16a30543719c24d6c2",
+  "frames": 6163,
+  "rerecords": 587,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v23.6",
+  "files": [
+   {
+    "name": "Pokemon - FireRed Version (USA).gba",
+    "sha1": "41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=6niH642yJNE"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/hook_wild.lua",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-09-10",
+ "submitted": "2026-09-11T11:26:36Z",
+ "submittedBy": "izumi",
+ "forum": {
+  "topicId": 1491,
+  "url": "https://forum.toolassisted.run/t/1491"
+ }
+}
