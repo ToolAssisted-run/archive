@@ -9707,6 +9707,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T15:24:38Z",
    "reason": "rom hack"
+  },
+  {
+   "kind": "game",
+   "key": "snes/the-devious-four-chronicles-3-the-crater",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:24:50Z",
+   "reason": "rom hack"
   }
  ]
 }
