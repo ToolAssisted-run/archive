@@ -9663,6 +9663,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T14:53:26Z",
    "reason": "title and release year"
+  },
+  {
+   "kind": "game",
+   "key": "3do/space-megaforce",
+   "field": "released",
+   "from": "",
+   "to": "1992",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T14:53:32Z",
+   "reason": "title and release year"
   }
  ]
 }
