@@ -479,6 +479,15 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "portal",
+   "title": "Portal",
+   "games": [
+    "c64/portal"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "prince-of-persia",
    "title": "Prince of Persia",
    "games": [
