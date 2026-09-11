@@ -1,0 +1,45 @@
+{
+ "id": "M100068",
+ "game": "snes/ynt-mario",
+ "category": {
+  "goal": "113-exits"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 11168.723,
+ "movie": {
+  "file": "M100068.bk2",
+  "format": "bk2",
+  "sha1": "019718248f9218c4d95f86ea3c78b7615fd6a7d7",
+  "frames": 671227,
+  "rerecords": 3289,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 BSNESv115+"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xI9A9EjfRdA&lc"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-04-09",
+ "submitted": "2026-09-11T15:01:32Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1494,
+  "url": "https://forum.toolassisted.run/t/1494"
+ }
+}
