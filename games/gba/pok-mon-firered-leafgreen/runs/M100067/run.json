@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -59,6 +59,15 @@
    "date": "2026-09-11",
    "at": "2026-09-11T13:36:48Z",
    "notes": "Verified that the colours match the shiny sprite, available on Bulbapedia"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:36:22Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "VBA-rr v23.6 sv480"
   }
  ]
 }
