@@ -1,0 +1,56 @@
+{
+ "id": "M100066",
+ "game": "ps2/grand-theft-auto-san-andreas",
+ "category": {
+  "goal": "maximum-money"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "duration": 1058.858,
+ "movie": {
+  "file": "M100066.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "11f84a8ccd0a5009f2f5a260d6a1640e90b3074d",
+  "frames": 63468,
+  "rerecords": 287,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence",
+  "strong-language"
+ ],
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-08",
+  "files": [
+   {
+    "name": "Grand Theft Auto - San Andreas (USA) (v3.00).iso",
+    "sha1": "31933aae559944c9189af67d3902a5e5f7a97a43"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/SScSpgFse2s"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-10",
+ "submitted": "2026-09-11T07:51:37Z",
+ "submittedBy": "Dimon12321",
+ "forum": {
+  "topicId": 1489,
+  "url": "https://forum.toolassisted.run/t/1489"
+ }
+}
