@@ -9773,6 +9773,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T15:25:24Z",
    "reason": "rom hack"
+  },
+  {
+   "kind": "game",
+   "key": "snes/sayonara-mario-world-2",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:25:31Z",
+   "reason": "rom hack"
   }
  ]
 }
