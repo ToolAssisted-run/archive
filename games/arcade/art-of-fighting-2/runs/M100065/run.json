@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -53,6 +53,16 @@
    "user": "Truncated",
    "date": "2026-09-11",
    "at": "2026-09-11T05:03:09Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T07:43:19Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "Original SHA1 hash of my aof2.zip was 3CB37342AF98FC4EABBEAEF2AD0606844FFCA2A1, and after I added 000-lo.lo, sfix.sfix, sm1.sm1, and sp-s2.sp1 to it, the SHA1 hash became B7FFFBC13C0DEC5586B007BCB1AD162B7CB4CCD8"
   }
  ]
 }
