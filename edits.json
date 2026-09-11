@@ -9817,6 +9817,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T15:56:51Z",
    "reason": "Changed from the group form: snes/mario-paint moved in snes/a-super-mario-thing moved in snes/sayonara-mario-world-2 moved in snes/ynt-mario moved in"
+  },
+  {
+   "kind": "group",
+   "key": "grand-theft-auto",
+   "field": "games",
+   "from": "pc/grand-theft-auto, pc/grand-theft-auto-2",
+   "to": "pc/grand-theft-auto, pc/grand-theft-auto-2, ps2/grand-theft-auto-san-andreas",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:57:37Z",
+   "reason": "Changed from the group form: ps2/grand-theft-auto-san-andreas moved in"
   }
  ]
 }
