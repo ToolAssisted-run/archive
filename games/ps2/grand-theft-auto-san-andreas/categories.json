@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "maximum-money",
+     "label": "Maximum money",
+     "rule": "Get 999,999,999 dollars as fast as possible. Show the statistics proving the income."
+    }
+   ]
+  }
+ ]
+}
