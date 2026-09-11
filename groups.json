@@ -359,6 +359,15 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "kirby",
+   "title": "Kirby",
+   "games": [
+    "nes/kirbys-adventure"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "looney-tunes",
    "title": "Looney Tunes",
    "games": [
