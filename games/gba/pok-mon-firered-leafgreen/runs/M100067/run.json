@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "provisional",
   "console": "none"
  },
  "encodes": [
@@ -52,5 +52,13 @@
  "forum": {
   "topicId": 1491,
   "url": "https://forum.toolassisted.run/t/1491"
- }
+ },
+ "verifications": [
+  {
+   "user": "Truncated",
+   "date": "2026-09-11",
+   "at": "2026-09-11T13:36:48Z",
+   "notes": "Verified that the colours match the shiny sprite, available on Bulbapedia"
+  }
+ ]
 }
