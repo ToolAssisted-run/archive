@@ -767,6 +767,15 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "worms",
+   "title": "Worms",
+   "games": [
+    "pc/worms-armageddon"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "yomino-kagura-puzzle-games",
    "title": "Yomino Kagura Puzzle Games",
    "games": [
