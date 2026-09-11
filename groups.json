@@ -45,6 +45,16 @@
    ]
   },
   {
+   "key": "art-of-fighting",
+   "title": "Art of Fighting",
+   "games": [
+    "arcade/art-of-fighting-2",
+    "arcade/art-of-fighting-3-the-path-of-the-warrior"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "barbarian",
    "title": "Barbarian",
    "games": [
