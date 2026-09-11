@@ -533,6 +533,7 @@
    "key": "pokemon",
    "title": "Pok\u00e9mon",
    "games": [
+    "gba/pok-mon-firered-leafgreen",
     "gbc/pok-mon-pinball",
     "n64/pok-mon-snap"
    ],

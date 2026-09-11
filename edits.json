@@ -9894,6 +9894,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T16:03:23Z",
    "reason": "Changed from the group form: snes/the-devious-four-chronicles-3-the-crater moved in snes/the-devious-four-chronicles-4-hunters-revenge-revised moved in snes/the-devious-four-chronicles-the-crater-retold moved in"
+  },
+  {
+   "kind": "group",
+   "key": "pokemon",
+   "field": "games",
+   "from": "gbc/pok-mon-pinball, n64/pok-mon-snap",
+   "to": "gba/pok-mon-firered-leafgreen, gbc/pok-mon-pinball, n64/pok-mon-snap",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T16:10:14Z",
+   "reason": "Changed from the group form: gba/pok-mon-firered-leafgreen moved in"
   }
  ]
 }
