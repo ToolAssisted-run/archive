@@ -204,6 +204,16 @@
    "date": "2026-09-03",
    "at": "2026-09-03T11:15:36Z",
    "reason": "Seated by the Founder. He's steering committee"
+  },
+  {
+   "user": "toca",
+   "role": "expert",
+   "scope": "site",
+   "action": "granted",
+   "by": "GMP",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:37:40Z",
+   "reason": "He is already editor and done some invaluable contributions"
   }
  ]
 }
