@@ -153,6 +153,15 @@
    ]
   },
   {
+   "key": "crash-bandicoot",
+   "title": "Crash Bandicoot",
+   "games": [
+    "gba/crash-bandicoot-purple-riptos-rampage"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "digimon",
    "title": "Digimon",
    "games": [
