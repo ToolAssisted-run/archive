@@ -1,0 +1,45 @@
+{
+ "id": "M100070",
+ "game": "snes/space-megaforce",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 3170.013,
+ "movie": {
+  "file": "M100070.bk2",
+  "format": "bk2",
+  "sha1": "5d58179e300462e5396cab15bceeab176647d3ec",
+  "frames": 190514,
+  "rerecords": 2020,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 BSNESv115+"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wpUBEMzqUXM"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-02-08",
+ "submitted": "2026-09-11T16:02:52Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1498,
+  "url": "https://forum.toolassisted.run/t/1498"
+ }
+}
