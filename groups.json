@@ -239,6 +239,15 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "duke-nukem",
+   "title": "Duke Nukem",
+   "games": [
+    "genesis/duke-nukem-3d"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-09-11"
+  },
+  {
    "key": "emma",
    "title": "Emma",
    "games": [
