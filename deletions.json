@@ -90,6 +90,15 @@
    "date": "2026-08-28",
    "at": "2026-08-28T09:16:06Z",
    "reason": "Removal requested from one of the co-authors and got consent from the submitter."
+  },
+  {
+   "kind": "game",
+   "key": "3do/space-megaforce",
+   "title": "Space Megaforce",
+   "by": "GMP",
+   "date": "2026-09-11",
+   "at": "2026-09-11T15:35:20Z",
+   "reason": "Created under wrong platform"
   }
  ]
 }
