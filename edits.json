@@ -9938,6 +9938,17 @@
    "date": "2026-09-11",
    "at": "2026-09-11T16:11:38Z",
    "reason": "custom wad"
+  },
+  {
+   "kind": "game",
+   "key": "pc/doom-ii-maskim-xul",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "toca",
+   "date": "2026-09-11",
+   "at": "2026-09-11T16:12:18Z",
+   "reason": "custom wad"
   }
  ]
 }
