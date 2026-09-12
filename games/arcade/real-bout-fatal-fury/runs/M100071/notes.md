@@ -1,0 +1,3 @@
+This game is full of combos infinites and tricks, all characters are powerful but Franco is the most versatile of them all, this beats douglas salazar TAS even though his is more beautiful
+When you push the enemy to other lanes in this game, they cannot block, which creates pseudo combos with franco bash toolkit everywhere, different solutions are used because of characters hitboxes being very small (lots of midgets and characters that stand down when they get stunned), frame data is also very generous for linking moves with a lot of characters, this game deserves a playaround. The walls in this game can break and cause ringouts, but we kill so fast we can't use it besides the subway round 3 which has no walls to break.
+Hardest settings as always.
