@@ -1,0 +1,45 @@
+{
+ "id": "M100072",
+ "game": "snes/the-brutal-dream",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 1376.283,
+ "movie": {
+  "file": "M100072.bk2",
+  "format": "bk2",
+  "sha1": "b27a995709ae68982d9d81ee5c5586fe0203de13",
+  "frames": 82713,
+  "rerecords": 2726,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 BSNESv115+"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0nhnVAOBukw"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-02-03",
+ "submitted": "2026-09-12T14:23:39Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1504,
+  "url": "https://forum.toolassisted.run/t/1504"
+ }
+}
