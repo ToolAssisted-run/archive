@@ -9982,6 +9982,17 @@
    "date": "2026-09-12",
    "at": "2026-09-12T14:33:52Z",
    "reason": "Changed from the group form: snes/the-brutal-dream moved in"
+  },
+  {
+   "kind": "group",
+   "key": "fatal-fury",
+   "field": "games",
+   "from": "arcade/fatal-fury-3-road-to-the-final-victory",
+   "to": "arcade/fatal-fury-3-road-to-the-final-victory, arcade/real-bout-fatal-fury, arcade/real-bout-fatal-fury-special",
+   "by": "toca",
+   "date": "2026-09-12",
+   "at": "2026-09-12T15:49:43Z",
+   "reason": "Changed from the group form: arcade/real-bout-fatal-fury moved in arcade/real-bout-fatal-fury-special moved in"
   }
  ]
 }

@@ -261,7 +261,9 @@
    "key": "fatal-fury",
    "title": "Fatal Fury",
    "games": [
-    "arcade/fatal-fury-3-road-to-the-final-victory"
+    "arcade/fatal-fury-3-road-to-the-final-victory",
+    "arcade/real-bout-fatal-fury",
+    "arcade/real-bout-fatal-fury-special"
    ],
    "createdBy": "toca",
    "createdAt": "2026-09-11"
