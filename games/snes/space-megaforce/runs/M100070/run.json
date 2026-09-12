@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 BSNESv115+"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -48,6 +48,16 @@
    "date": "2026-09-11",
    "at": "2026-09-11T16:31:07Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-12",
+   "at": "2026-09-12T09:43:16Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "SHA1 hash of Space Megaforce (USA).sfc: A5F8B381C3ABE29DDB6C5513FB14A905227A6984. Interestingly, the movie consistently desynced for me when using Unthrottled/Turbo mode, but synced correctly at BizHawk's maximum built-in speed setting of 6400% (which reached about 500 fps on my system)."
   }
  ]
 }
