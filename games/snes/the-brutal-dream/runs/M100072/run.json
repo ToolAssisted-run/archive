@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 BSNESv115+"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -48,6 +48,16 @@
    "date": "2026-09-12",
    "at": "2026-09-12T15:59:09Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-12",
+   "at": "2026-09-12T15:59:44Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "SHA1 hash of TheBrutalDreamV1.01.smc: 278937D0AECC36A478DF922803F435B3D500A989"
   }
  ]
 }
