@@ -9993,6 +9993,17 @@
    "date": "2026-09-12",
    "at": "2026-09-12T15:49:43Z",
    "reason": "Changed from the group form: arcade/real-bout-fatal-fury moved in arcade/real-bout-fatal-fury-special moved in"
+  },
+  {
+   "kind": "group",
+   "key": "mortal-kombat",
+   "field": "games",
+   "from": "gc/mortal-kombat-deadly-alliance, gc/mortal-kombat-deception, genesis/mk5-mortal-combat-sub-zero, n64/mortal-kombat-4, n64/mortal-kombat-trilogy, snes/mortal-kombat, snes/mortal-kombat-3, snes/mortal-kombat-champion-edition, snes/ultimate-mortal-kombat-3, wii/mortal-kombat-armageddon",
+   "to": "gc/mortal-kombat-deadly-alliance, gc/mortal-kombat-deception, genesis/mk5-mortal-combat-sub-zero, n64/mortal-kombat-4, n64/mortal-kombat-trilogy, psp/mortal-kombat-unchained, snes/mortal-kombat, snes/mortal-kombat-3, snes/mortal-kombat-champion-edition, snes/ultimate-mortal-kombat-3, wii/mortal-komb",
+   "by": "toca",
+   "date": "2026-09-12",
+   "at": "2026-09-12T15:51:27Z",
+   "reason": "Changed from the group form: psp/mortal-kombat-unchained moved in"
   }
  ]
 }
