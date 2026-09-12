@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -54,6 +54,16 @@
    "date": "2026-09-12",
    "at": "2026-09-12T15:54:31Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-12",
+   "at": "2026-09-12T15:55:30Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "Got it to work with an archive version of rbff1.zip (MD5 4CCA0A010D8F0DC802B48C23AF8C5407 / SHA1 B0D687C468358A2D5CC18D55FC76F3B1DE8B2324)"
   }
  ]
 }
