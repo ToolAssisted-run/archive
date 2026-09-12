@@ -8,6 +8,19 @@
      "key": "fastest-completion",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "standard-single-round",
+     "label": "Standard Single Round",
+     "rule": "Beat on Standard",
+     "metrics": [
+      {
+       "key": "rta",
+       "label": "RTA",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
     }
    ]
   }
