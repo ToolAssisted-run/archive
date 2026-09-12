@@ -37,7 +37,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -58,5 +58,14 @@
  "forum": {
   "topicId": 1505,
   "url": "https://forum.toolassisted.run/t/1505"
- }
+ },
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-09-12",
+   "at": "2026-09-12T18:48:56Z",
+   "expert": true,
+   "notes": "The authors beats the leader, including the final boss Onaga, for the game boot."
+  }
+ ]
 }
