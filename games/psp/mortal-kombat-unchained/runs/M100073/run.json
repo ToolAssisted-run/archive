@@ -1,0 +1,62 @@
+{
+ "id": "M100073",
+ "game": "psp/mortal-kombat-unchained",
+ "category": {
+  "goal": "standard-single-round"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "metrics": {
+  "rta": 235.0
+ },
+ "movie": {
+  "file": "M100073.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "5cd03606da0329f9577c9dc4827b0c881c7e9ada",
+  "frames": 27839,
+  "rerecords": 4481,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-07",
+  "files": [
+   {
+    "name": "Mortal Kombat - Unchained (USA).iso",
+    "sha1": "cd2470cd1b2a602c2b34837cfd54045d66dd56f1"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=o4RnlMgFyzk"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/Mortal_Kombat_-_Unchained__USA__Complete_Credits_v3.chimeraProject",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-09-12",
+ "submitted": "2026-09-12T14:29:48Z",
+ "submittedBy": "CoolHandMike",
+ "forum": {
+  "topicId": 1505,
+  "url": "https://forum.toolassisted.run/t/1505"
+ }
+}
