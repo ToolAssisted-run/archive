@@ -205,5 +205,33 @@
   "name": "Neo Geo Pocket",
   "fps": 59.95023661999317,
   "hardToReproduce": true
+ },
+ "sg1000": {
+  "name": "Sega SG-1000",
+  "fps": 59.922751013551
+ },
+ "bsx": {
+  "name": "Satellaview",
+  "fps": 60.0988118623484,
+  "hardToReproduce": true
+ },
+ "32x": {
+  "name": "Sega 32X",
+  "fps": 59.922751013551,
+  "hardToReproduce": true
+ },
+ "segacd32x": {
+  "name": "Sega CD 32X",
+  "fps": 59.922751013550524,
+  "hardToReproduce": true
+ },
+ "sgx": {
+  "name": "SuperGrafx",
+  "fps": 59.8261054534819
+ },
+ "msx2": {
+  "name": "MSX2",
+  "fps": 59.9227510135505,
+  "hardToReproduce": true
  }
 }
