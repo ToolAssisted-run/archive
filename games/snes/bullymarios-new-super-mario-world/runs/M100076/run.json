@@ -1,0 +1,45 @@
+{
+ "id": "M100076",
+ "game": "snes/bullymarios-new-super-mario-world",
+ "category": {
+  "goal": "all-exits"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 8850.874,
+ "movie": {
+  "file": "M100076.bk2",
+  "format": "bk2",
+  "sha1": "b519982b4b84e0906943aea72a550d5bccb94c90",
+  "frames": 531927,
+  "rerecords": 11963,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 BSNESv115+"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=J_ymLhmquI4"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-02-17",
+ "submitted": "2026-09-13T16:17:16Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1511,
+  "url": "https://forum.toolassisted.run/t/1511"
+ }
+}
