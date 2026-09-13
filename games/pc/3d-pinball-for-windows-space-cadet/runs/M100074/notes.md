@@ -1,4 +1,4 @@
-Encode from startup:
+Encode from startup
 [module:youtube|v=9no0hH8kH1E]
 
 !! About this run
