@@ -7,7 +7,7 @@
     {
      "key": "1-mission-completed",
      "label": "1 Mission Completed",
-     "rule": "Complete one mission as quickly as possible."
+     "rule": "Complete one mission as quickly as possible. Time starts as soon as the ball is launched and ends as soon as one mission is completed."
     }
    ]
   }

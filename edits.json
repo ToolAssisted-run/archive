@@ -10004,6 +10004,17 @@
    "date": "2026-09-12",
    "at": "2026-09-12T15:51:27Z",
    "reason": "Changed from the group form: psp/mortal-kombat-unchained moved in"
+  },
+  {
+   "kind": "category",
+   "key": "pc/3d-pinball-for-windows-space-cadet:1-mission-completed",
+   "field": "rule",
+   "from": "Complete one mission as quickly as possible.",
+   "to": "Complete one mission as quickly as possible. Time starts as soon as the ball is launched and ends as soon as one mission is completed.",
+   "by": "toca",
+   "date": "2026-09-13",
+   "at": "2026-09-13T05:31:47Z",
+   "reason": "included timing in rules"
   }
  ]
 }
