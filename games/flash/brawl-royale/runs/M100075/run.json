@@ -1,0 +1,46 @@
+{
+ "id": "M100075",
+ "game": "flash/brawl-royale",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 218.469,
+ "movie": {
+  "file": "M100075.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "3ce84b79f2ac13921b5b9cd3ca4008462df2f4b7",
+  "frames": 6991,
+  "rerecords": 6,
+  "start": "power-on",
+  "fps": 32.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera ruffle"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=1H8ivEnO4rA"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-13",
+ "submitted": "2026-09-13T14:08:24Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1509,
+  "url": "https://forum.toolassisted.run/t/1509"
+ }
+}
