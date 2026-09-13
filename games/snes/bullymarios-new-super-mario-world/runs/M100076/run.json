@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 BSNESv115+"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -48,6 +48,16 @@
    "date": "2026-09-13",
    "at": "2026-09-13T17:58:00Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-13",
+   "at": "2026-09-13T17:58:04Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Bizhawk 2.11",
+   "notes": "SHA1 hash of NSMW1.smc: 9AE99A6B29BDDB19E84EA92DE898BEAFD0DC1BC0"
   }
  ]
 }
