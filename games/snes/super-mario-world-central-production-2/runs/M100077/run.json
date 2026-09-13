@@ -1,0 +1,45 @@
+{
+ "id": "M100077",
+ "game": "snes/super-mario-world-central-production-2",
+ "category": {
+  "goal": "all-exits"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 12208.478,
+ "movie": {
+  "file": "M100077.bk2",
+  "format": "bk2",
+  "sha1": "775f7bf7430b662e7f5dd4aea1299f013889c9b0",
+  "frames": 733715,
+  "rerecords": 1162,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 BSNESv115+"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=AyQXNsngUL8"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-04-04",
+ "submitted": "2026-09-13T23:30:29Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1513,
+  "url": "https://forum.toolassisted.run/t/1513"
+ }
+}
