@@ -25,7 +25,7 @@
   "emulator": "Chimera ruffle"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -56,6 +56,16 @@
    "date": "2026-09-13",
    "at": "2026-09-13T17:55:49Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-13",
+   "at": "2026-09-13T17:56:51Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-13, af0d9905) + Ruffle (4412936b)",
+   "notes": "SHA1 hash of 458245_BRAWL_ROYALE.swf: BBC739D0D605119EF5136CA9CDFE2B15CE3257B6"
   }
  ]
 }
