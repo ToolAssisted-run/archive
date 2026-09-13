@@ -1,0 +1,69 @@
+{
+ "id": "M100074",
+ "game": "pc/3d-pinball-for-windows-space-cadet",
+ "category": {
+  "goal": "1-mission-completed"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "duration": 9.203,
+ "movie": {
+  "file": "M100074.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "26dc7e8d5794372509e93db70c1ff6e82ed11eac",
+  "frames": 1751,
+  "rerecords": 965,
+  "start": "power-on",
+  "fps": 70.08659242761692
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-12) (Core: DOSBox-X, bebd7749)",
+  "files": [
+   {
+    "name": "install.hdd",
+    "sha1": "8d3061b45f6e3309f75cec68247e69452594d6ef"
+   },
+   {
+    "name": "Microsoft Plus! for Windows 95.iso",
+    "sha1": "df87e88999d69fe21b4aeccf8e10936f2336a2aa"
+   },
+   {
+    "name": "Windows 98 Second Edition ver.4.10.2222A (OEM Full) English.iso",
+    "sha1": "3fc56ca830a8094d66f2223f176115fcdea4f37a"
+   },
+   {
+    "name": "w98.hdd",
+    "sha1": "3a523b859054c68b7c6e60cbad5bf1f0ee86862f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/9no0hH8kH1E"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/install.chimeraProject",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-09-13",
+ "submitted": "2026-09-13T06:12:04Z",
+ "submittedBy": "toca",
+ "forum": {
+  "topicId": 1507,
+  "url": "https://forum.toolassisted.run/t/1507"
+ }
+}
