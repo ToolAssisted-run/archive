@@ -1,3 +1,6 @@
+Encode from startup:
+[module:youtube|v=9no0hH8kH1E]
+
 !! About this run
 
 This movie is primarily a proof of concept for TASing of 3D Pinball Space Cadet in Chimera (DOSBox-X, Windows 98) to get a reproducible workflow working in Chimera and to document the process. In terms of speed, this movie improves on the two previous "1 Mission Completed" movies [https://www.youtube.com/watch?v=QnvTYTgm6yg|here] and [https://www.youtube.com/watch?v=IVh_uDT0Qtc|here] (on Windows 3.1), but it does ''not'' beat the [https://www.youtube.com/watch?v=DnR2XjhSQak|Wii decomp movie]. Yet, keep in mind that and the various releases of Space Cadet are known to behave differently internally so a direct comparison may not be faithful.
