@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "1-mission-completed",
+     "label": "1 Mission Completed",
+     "rule": "Complete one mission as quickly as possible."
+    }
+   ]
+  }
+ ]
+}
