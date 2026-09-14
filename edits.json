@@ -10070,6 +10070,17 @@
    "date": "2026-09-13",
    "at": "2026-09-13T17:10:44Z",
    "reason": "Changed from the group form: snes/bullymarios-new-super-mario-world moved in"
+  },
+  {
+   "kind": "game",
+   "key": "pc/deponia-2-chaos-on-deponia",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-14",
+   "at": "2026-09-14T05:18:10Z",
+   "reason": "added image (GOG.com)"
   }
  ]
 }
