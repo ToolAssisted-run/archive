@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "all-exits",
+     "label": "all exits",
+     "rule": "Complete the game as fast as possible."
+    }
+   ]
+  }
+ ]
+}
