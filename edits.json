@@ -10114,6 +10114,17 @@
    "date": "2026-09-14",
    "at": "2026-09-14T05:48:52Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "game",
+   "key": "gb/sinoc-gb",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "toca",
+   "date": "2026-09-14",
+   "at": "2026-09-14T07:35:36Z",
+   "reason": "rom hack"
   }
  ]
 }
