@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "perfect-sniper",
+     "label": "Perfect Sniper",
+     "rule": "Get the best ending by scoring A+ to AAA on every stage"
+    }
+   ]
+  }
+ ]
+}
