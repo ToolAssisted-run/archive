@@ -10103,6 +10103,17 @@
    "date": "2026-09-14",
    "at": "2026-09-14T05:24:20Z",
    "reason": "Changed from the group form: snes/super-mario-world-central-production-2 moved in"
+  },
+  {
+   "kind": "category",
+   "key": "ps2/arcana-heart:perfect-sniper",
+   "field": "added",
+   "from": "",
+   "to": "Perfect Sniper",
+   "by": "nelson_geferulf",
+   "date": "2026-09-14",
+   "at": "2026-09-14T05:48:52Z",
+   "reason": "Created it."
   }
  ]
 }
