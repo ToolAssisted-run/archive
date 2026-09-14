@@ -8,11 +8,6 @@
      "key": "fastest-completion",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
-    },
-    {
-     "key": "perfect-sniper",
-     "label": "Perfect Sniper",
-     "rule": "Get the best ending by scoring A+ to AAA rank on every mission."
     }
    ]
   }

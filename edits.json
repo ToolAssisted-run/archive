@@ -10125,6 +10125,17 @@
    "date": "2026-09-14",
    "at": "2026-09-14T07:35:36Z",
    "reason": "rom hack"
+  },
+  {
+   "kind": "category",
+   "key": "ps2/arcana-heart:perfect-sniper",
+   "field": "removed",
+   "from": "Perfect Sniper",
+   "to": "",
+   "by": "GMP",
+   "date": "2026-09-14",
+   "at": "2026-09-14T09:41:58Z",
+   "reason": "Created in wrong game by accident by Nelson (https://discord.com/channels/1537060793894314097/1537060795966427138/1548934519057547397)"
   }
  ]
 }
