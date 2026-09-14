@@ -10,16 +10,15 @@
   }
  ],
  "tools": [],
- "videoOnly": true,
  "duration": 607.053,
  "thumbnail": "thumb.jpg",
  "contract": {
   "emulator": "Chimera d4cb48f (2026-09-04)"
  },
  "status": {
-  "reproduced": "not-applicable",
+  "reproduced": "none",
   "verified": "none",
-  "console": "not-applicable"
+  "console": "none"
  },
  "encodes": [
   {
@@ -34,5 +33,14 @@
  "forum": {
   "topicId": 1516,
   "url": "https://forum.toolassisted.run/t/1516"
+ },
+ "movie": {
+  "file": "M100078.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "06046c28af5f811fa53e4f268759e4ab0068cc57",
+  "frames": 36456,
+  "rerecords": 350,
+  "start": "power-on",
+  "fps": 59.94005994005994
  }
 }

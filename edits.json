@@ -10136,6 +10136,28 @@
    "date": "2026-09-14",
    "at": "2026-09-14T09:41:58Z",
    "reason": "Created in wrong game by accident by Nelson (https://discord.com/channels/1537060793894314097/1537060795966427138/1548934519057547397)"
+  },
+  {
+   "kind": "run",
+   "key": "M100078",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "nelson_geferulf",
+   "date": "2026-09-14",
+   "at": "2026-09-14T13:14:54Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100078",
+   "field": "movie",
+   "from": "none: the run was video-only",
+   "to": "",
+   "by": "nelson_geferulf",
+   "date": "2026-09-14",
+   "at": "2026-09-14T13:14:54Z",
+   "reason": "The author's own revision."
   }
  ]
 }

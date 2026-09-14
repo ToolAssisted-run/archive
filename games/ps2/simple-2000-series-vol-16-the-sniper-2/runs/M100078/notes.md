@@ -1,3 +1,5 @@
-Awful looking kusoge with incessant doot trumpets. Has an infamously bad English dub that isn't featured in this TAS, since we skip through the cutscenes anyway. Enemies are hit on the first frame possible, usually after/as they round a corner or slow down. 
+Awful looking kusoge with incessant doot trumpets. Has an infamously bad English dub that isn't featured in this TAS, since we skip through the cutscenes anyway. Enemies are hit on the first frame possible, usually after/as they round a corner or slow down.
+ 
 I tried to hit the second mafia guy a bit sooner, but he is invincible until he walks few steps from the crates. The limousine likewise cannot be hit in it's tires to stop it, until it starts to slow down at the end of the bridge. Finally, in the last stage, the helicopter guy can't be hit on the way up so he gets shot right when he reaches his max height.
+
 This run scores headshots on every target, as well as AAA ranks in every stage starting on Level 3.
