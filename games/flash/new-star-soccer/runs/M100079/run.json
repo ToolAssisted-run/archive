@@ -1,0 +1,52 @@
+{
+ "id": "M100079",
+ "game": "flash/new-star-soccer",
+ "category": {
+  "goal": "arcade-mode-100-goals"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 188.0,
+ "movie": {
+  "file": "M100079.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "db05bdfcbfb70e05c6955498e88443f39c103db0",
+  "frames": 11176,
+  "rerecords": 47,
+  "start": "power-on",
+  "fps": 30.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Dev 2026-09-14",
+  "files": [
+   {
+    "name": "nss102.swf",
+    "sha1": "b4b1909e4cde229babd99d4c83edd92817c5aa83"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/H_kPrqh0moA"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-14",
+ "submitted": "2026-09-14T18:13:26Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1518,
+  "url": "https://forum.toolassisted.run/t/1518"
+ }
+}
