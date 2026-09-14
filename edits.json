@@ -10092,6 +10092,17 @@
    "date": "2026-09-14",
    "at": "2026-09-14T05:19:33Z",
    "reason": "reuploaded image"
+  },
+  {
+   "kind": "group",
+   "key": "mario",
+   "field": "games",
+   "from": "fds/super-mario-bros, fds/super-mario-bros-2, gbc/super-mario-bros-deluxe, nes/bob-omb-mario, nes/extra-mario-bros, nes/hard-relay-mario, nes/super-cursed-bros, nes/super-mario-bros, nes/super-mario-bros-special-35th-anniversary-edition, nes/super-mario-bros-the-mystery-of-luigi, nes/super-mario-bro",
+   "to": "fds/super-mario-bros, fds/super-mario-bros-2, gbc/super-mario-bros-deluxe, nes/bob-omb-mario, nes/extra-mario-bros, nes/hard-relay-mario, nes/super-cursed-bros, nes/super-mario-bros, nes/super-mario-bros-special-35th-anniversary-edition, nes/super-mario-bros-the-mystery-of-luigi, nes/super-mario-bro",
+   "by": "toca",
+   "date": "2026-09-14",
+   "at": "2026-09-14T05:24:20Z",
+   "reason": "Changed from the group form: snes/super-mario-world-central-production-2 moved in"
   }
  ]
 }
