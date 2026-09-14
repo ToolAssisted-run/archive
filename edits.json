@@ -10081,6 +10081,17 @@
    "date": "2026-09-14",
    "at": "2026-09-14T05:18:10Z",
    "reason": "added image (GOG.com)"
+  },
+  {
+   "kind": "game",
+   "key": "pc/deponia-2-chaos-on-deponia",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-14",
+   "at": "2026-09-14T05:19:33Z",
+   "reason": "reuploaded image"
   }
  ]
 }
