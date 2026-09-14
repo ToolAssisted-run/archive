@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 BSNESv115+"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -41,5 +41,15 @@
  "forum": {
   "topicId": 1513,
   "url": "https://forum.toolassisted.run/t/1513"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-14",
+   "at": "2026-09-14T05:43:34Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "SHA1 hash of \"SMWCP2 v1.1.smc\": 0B8C5F1790AA6C8573A26E65248E1AECC6C01A88"
+  }
+ ]
 }
