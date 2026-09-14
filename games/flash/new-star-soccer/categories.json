@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "arcade-mode-100-goals",
+     "label": "Arcade Mode, 100 Goals",
+     "rule": "In arcade mode, score 100 goals as fast as possible and then lose in purpose to show the final score (100)"
+    }
+   ]
+  }
+ ]
+}
