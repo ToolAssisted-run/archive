@@ -10202,6 +10202,17 @@
    "date": "2026-09-15",
    "at": "2026-09-15T05:38:51Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "snes/mario-paint",
+   "field": "website",
+   "from": "",
+   "to": "https://www.mariowiki.com/Mario_Paint",
+   "by": "CloakTheLurker",
+   "date": "2026-09-15",
+   "at": "2026-09-15T05:39:34Z",
+   "reason": "added links"
   }
  ]
 }
