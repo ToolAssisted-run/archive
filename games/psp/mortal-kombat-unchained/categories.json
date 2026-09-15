@@ -21,6 +21,11 @@
        "better": "lower"
       }
      ]
+    },
+    {
+     "key": "endurance-max",
+     "label": "Endurance, Max",
+     "rule": "highest difficulty of Endurance, must kill onaga"
     }
    ]
   }

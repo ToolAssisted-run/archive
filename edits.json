@@ -10257,6 +10257,17 @@
    "date": "2026-09-15",
    "at": "2026-09-15T16:48:16Z",
    "reason": "Flash emulator presets"
+  },
+  {
+   "kind": "category",
+   "key": "psp/mortal-kombat-unchained:endurance-max",
+   "field": "added",
+   "from": "",
+   "to": "Endurance, Max",
+   "by": "KusogeMan",
+   "date": "2026-09-15",
+   "at": "2026-09-15T19:02:13Z",
+   "reason": "Created it."
   }
  ]
 }
