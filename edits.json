@@ -10213,6 +10213,17 @@
    "date": "2026-09-15",
    "at": "2026-09-15T05:39:34Z",
    "reason": "added links"
+  },
+  {
+   "kind": "game",
+   "key": "snes/mario-paint",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/mariopaint",
+   "by": "CloakTheLurker",
+   "date": "2026-09-15",
+   "at": "2026-09-15T05:39:43Z",
+   "reason": "added links"
   }
  ]
 }
