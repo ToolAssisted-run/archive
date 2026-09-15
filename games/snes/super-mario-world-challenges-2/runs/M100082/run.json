@@ -1,0 +1,45 @@
+{
+ "id": "M100082",
+ "game": "snes/super-mario-world-challenges-2",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 557.648,
+ "movie": {
+  "file": "M100082.bk2",
+  "format": "bk2",
+  "sha1": "7d2f419eae8980a46f806731f1465d3370bfabae",
+  "frames": 33514,
+  "rerecords": 2362,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 BSNESv115+"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=eZbpZLD-SOc"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-06-25",
+ "submitted": "2026-09-15T17:25:11Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1526,
+  "url": "https://forum.toolassisted.run/t/1526"
+ }
+}
