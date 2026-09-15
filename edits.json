@@ -10180,6 +10180,17 @@
    "date": "2026-09-15",
    "at": "2026-09-15T05:34:33Z",
    "reason": "edited rule"
+  },
+  {
+   "kind": "game",
+   "key": "snes/mario-paint",
+   "field": "released",
+   "from": "",
+   "to": "1992-07-14",
+   "by": "CloakTheLurker",
+   "date": "2026-09-15",
+   "at": "2026-09-15T05:38:42Z",
+   "reason": "added info and links"
   }
  ]
 }
