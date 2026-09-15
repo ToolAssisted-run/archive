@@ -25,7 +25,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -57,6 +57,14 @@
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "BizHawk 2.11",
    "notes": "SHA1 hash of \"Sicari 2 - The Brink of Time.smc\": B48C617F8F7621B1656D9E1A5FA743F7E014D8C7"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-15",
+   "at": "2026-09-15T06:55:37Z",
+   "expert": true
   }
  ]
 }
