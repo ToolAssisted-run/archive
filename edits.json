@@ -10169,6 +10169,17 @@
    "date": "2026-09-15",
    "at": "2026-09-15T05:33:05Z",
    "reason": "added key art (Video Game Art Archive)"
+  },
+  {
+   "kind": "category",
+   "key": "snes/mario-paint:gnat-attack",
+   "field": "rule",
+   "from": "Imported as \"Gnat Attack\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete \"Gnat Attack\" as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-15",
+   "at": "2026-09-15T05:34:33Z",
+   "reason": "edited rule"
   }
  ]
 }
