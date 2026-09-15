@@ -105,6 +105,26 @@
    ],
    "tools": []
   },
+  "flash": {
+   "quick_chips": [
+    "Chimera Nightly-2026-XX-XX (Core: Ruffle-xxxxxxx)"
+   ],
+   "tools": [
+    {
+     "id": "chimera",
+     "versions": [
+      "Nightly-2026-XX-XX"
+     ],
+     "cores": [
+      "Ruffle-xxxxxxx"
+     ]
+    },
+    {
+     "id": "libtas",
+     "versions": []
+    }
+   ]
+  },
   "nes": {
    "quick_chips": [
     "Chimera Nightly-2026-XX-XX (Core: quickerNES)",

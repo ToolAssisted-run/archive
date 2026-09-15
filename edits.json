@@ -10246,6 +10246,17 @@
    "date": "2026-09-15",
    "at": "2026-09-15T06:17:40Z",
    "reason": "Changed from the group form: snes/sicari-2-the-brink-of-time moved in"
+  },
+  {
+   "kind": "system",
+   "key": "flash",
+   "field": "emulators (quick_chips, tools)",
+   "from": "previous",
+   "to": "updated",
+   "by": "GMP",
+   "date": "2026-09-15",
+   "at": "2026-09-15T16:48:16Z",
+   "reason": "Flash emulator presets"
   }
  ]
 }
