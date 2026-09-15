@@ -1,0 +1,46 @@
+{
+ "id": "M100083",
+ "game": "psp/mortal-kombat-unchained",
+ "category": {
+  "goal": "endurance-max"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "duration": 655.471,
+ "movie": {
+  "file": "M100083.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "ae6266b41b3606174816745e73defa74a068797d",
+  "frames": 39289,
+  "rerecords": 1469,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-12  Commit 0fd45cc"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/47gNyxZ7uxM"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-15",
+ "submitted": "2026-09-15T20:02:30Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1527,
+  "url": "https://forum.toolassisted.run/t/1527"
+ }
+}
