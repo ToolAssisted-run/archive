@@ -10224,6 +10224,17 @@
    "date": "2026-09-15",
    "at": "2026-09-15T05:39:43Z",
    "reason": "added links"
+  },
+  {
+   "kind": "game",
+   "key": "snes/sicari-2-the-brink-of-time",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "toca",
+   "date": "2026-09-15",
+   "at": "2026-09-15T06:17:12Z",
+   "reason": "rom hack"
   }
  ]
 }
