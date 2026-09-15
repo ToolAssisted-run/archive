@@ -10158,6 +10158,17 @@
    "date": "2026-09-14",
    "at": "2026-09-14T13:14:54Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "snes/mario-paint",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-15",
+   "at": "2026-09-15T05:33:05Z",
+   "reason": "added key art (Video Game Art Archive)"
   }
  ]
 }
