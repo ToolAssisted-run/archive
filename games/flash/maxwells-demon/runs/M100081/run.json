@@ -1,0 +1,45 @@
+{
+ "id": "M100081",
+ "game": "flash/maxwells-demon",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "duration": 8.88,
+ "movie": {
+  "file": "M100081.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "4efbd34deaff7b7ca41543aad9ca77f8993c22b7",
+  "frames": 222,
+  "rerecords": 63,
+  "start": "power-on",
+  "fps": 25.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-15 (Core: ruffle-212bca7)"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=HoI0JSfkvgQ"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-09-15T16:53:25Z",
+ "submittedBy": "GMP",
+ "forum": {
+  "topicId": 1524,
+  "url": "https://forum.toolassisted.run/t/1524"
+ }
+}
