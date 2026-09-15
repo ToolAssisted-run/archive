@@ -32,7 +32,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -64,6 +64,14 @@
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "Chimera (Nightly 2026-09-14, cf4605d6) + Ruffle (2026-09-12, 4412938b)",
    "notes": "SHA1 hash of nss102.swf: B4B1909E4CDE229BABD99D4C83EDD92817C5AA83"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-15",
+   "at": "2026-09-15T11:38:47Z",
+   "expert": true
   }
  ]
 }
