@@ -16,7 +16,7 @@
   "emulator": "Chimera d4cb48f (2026-09-04)"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -56,6 +56,16 @@
    "date": "2026-09-15",
    "at": "2026-09-15T06:54:18Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-15",
+   "at": "2026-09-15T06:54:27Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-02, cf1e60bc)",
+   "notes": "SHA1 hashes: \"Simple 2000 Series Vol. 16 - The Sniper 2 - Akumu no Juudan (Japan).bin\" (B87B52C76B1FF1B6EA16E9F5FF241996FF03D75E), \"Simple 2000 Series Vol. 16 - The Sniper 2 - Akumu no Juudan (Japan).cue\" (10216D30B04283C3B04ECB6E78E1548553C6E38F)"
   }
  ]
 }
