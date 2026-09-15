@@ -10191,6 +10191,17 @@
    "date": "2026-09-15",
    "at": "2026-09-15T05:38:42Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "snes/mario-paint",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/9pgnp7Y8Tn",
+   "by": "CloakTheLurker",
+   "date": "2026-09-15",
+   "at": "2026-09-15T05:38:51Z",
+   "reason": "added info and links"
   }
  ]
 }
