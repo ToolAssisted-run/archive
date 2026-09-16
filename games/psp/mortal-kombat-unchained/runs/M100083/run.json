@@ -25,7 +25,7 @@
   "emulator": "Chimera Nightly-2026-09-12  Commit 0fd45cc"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none",
   "console": "none"
  },
@@ -42,5 +42,15 @@
  "forum": {
   "topicId": 1527,
   "url": "https://forum.toolassisted.run/t/1527"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-16",
+   "at": "2026-09-16T05:05:10Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-12, 0fd45cc0) + PPSSPP (21582ca3)",
+   "notes": "SHA1 hash of \"Mortal Kombat - Unchained (USA).iso\": CD2470CD1B2A602C2B34837CFD54045D66DD56F1"
+  }
+ ]
 }
