@@ -22,7 +22,13 @@
  },
  "thumbnail": "thumb.jpg",
  "contract": {
-  "emulator": "Chimera Nightly-2026-09-16 (Core: Ruffle-54c45ba)"
+  "emulator": "Chimera Nightly-2026-09-16 (Core: Ruffle-54c45ba)",
+  "files": [
+   {
+    "name": "superdoggy.swf",
+    "sha1": "8b8359a43fd43544c13ff6016f8c6c9ba7b0b031"
+   }
+  ]
  },
  "status": {
   "reproduced": "none",

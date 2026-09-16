@@ -10279,6 +10279,17 @@
    "date": "2026-09-16",
    "at": "2026-09-16T18:53:28Z",
    "reason": "added key art (https://www.youtube.com/watch?v=gK6iE6eYbCk)"
+  },
+  {
+   "kind": "run",
+   "key": "M100084",
+   "field": "files",
+   "from": "",
+   "to": "superdoggy.swf 8b8359a43fd43544c13ff6016f8c6c9ba7b0b031",
+   "by": "GMP",
+   "date": "2026-09-16",
+   "at": "2026-09-16T19:38:53Z",
+   "reason": "The author's own revision."
   }
  ]
 }
