@@ -10268,6 +10268,17 @@
    "date": "2026-09-15",
    "at": "2026-09-15T19:02:13Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "game",
+   "key": "gbc/dragons-lair",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-09-16",
+   "at": "2026-09-16T18:53:28Z",
+   "reason": "added key art (https://www.youtube.com/watch?v=gK6iE6eYbCk)"
   }
  ]
 }
