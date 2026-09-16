@@ -239,6 +239,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "dragons-lair",
+   "title": "Dragon's Lair",
+   "games": [
+    "gbc/dragons-lair",
+    "nes/dragons-lair"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-09-16"
+  },
+  {
    "key": "duke-nukem",
    "title": "Duke Nukem",
    "games": [
