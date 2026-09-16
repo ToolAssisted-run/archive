@@ -25,7 +25,7 @@
   "emulator": "Chimera Nightly-2026-09-15 (Core: ruffle-212bca7)"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional",
   "console": "none"
  },
@@ -47,6 +47,16 @@
    "user": "Truncated",
    "date": "2026-09-15",
    "at": "2026-09-15T20:17:58Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-16",
+   "at": "2026-09-16T04:48:13Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-15, ae78ca10) + Ruffle (09f3c304)",
+   "notes": "SHA1 hash of balls.swf: CE42A76D38F4067CDF0A566470C3EB9064DAF30E"
   }
  ]
 }
