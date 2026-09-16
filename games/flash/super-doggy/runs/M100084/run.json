@@ -1,0 +1,45 @@
+{
+ "id": "M100084",
+ "game": "flash/super-doggy",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "duration": 550.5,
+ "movie": {
+  "file": "M100084.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "64e230e481b4e97d9cd1d3bd4a67ff328d77668f",
+  "frames": 18717,
+  "rerecords": 1898,
+  "start": "power-on",
+  "fps": 34.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-16 (Core: Ruffle-54c45ba)"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/fUEmoo6FPQw"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-09-16T19:37:09Z",
+ "submittedBy": "GMP",
+ "forum": {
+  "topicId": 1530,
+  "url": "https://forum.toolassisted.run/t/1530"
+ }
+}
