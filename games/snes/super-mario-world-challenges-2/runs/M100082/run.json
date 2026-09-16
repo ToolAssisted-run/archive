@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 BSNESv115+"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -48,6 +48,16 @@
    "date": "2026-09-16",
    "at": "2026-09-16T04:52:25Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-16",
+   "at": "2026-09-16T04:52:50Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "SHA1 hash of \"SMW Challenges 2 v1.0.2..smc\": 8F1F420B03F9DA858FDAD9772FEA32347B22A16C"
   }
  ]
 }
