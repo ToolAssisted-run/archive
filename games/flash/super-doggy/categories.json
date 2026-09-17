@@ -7,7 +7,21 @@
     {
      "key": "any",
      "label": "Any%",
-     "rule": "Complete the game as fast as possible."
+     "rule": "Complete the game as fast as possible.",
+     "metrics": [
+      {
+       "key": "time",
+       "label": "Time",
+       "type": "time",
+       "better": "lower"
+      },
+      {
+       "key": "score",
+       "label": "Score",
+       "type": "number",
+       "better": "higher"
+      }
+     ]
     }
    ]
   }

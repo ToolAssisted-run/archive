@@ -10301,6 +10301,17 @@
    "date": "2026-09-17",
    "at": "2026-09-17T02:22:37Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "flash/super-doggy:any",
+   "field": "metrics",
+   "from": "(classic: time)",
+   "to": "[{\"key\": \"time\", \"label\": \"Time\", \"type\": \"time\", \"better\": \"lower\"}, {\"key\": \"score\", \"label\": \"Score\", \"type\": \"number\", \"better\": \"higher\"}]",
+   "by": "GMP",
+   "date": "2026-09-17",
+   "at": "2026-09-17T09:28:37Z",
+   "reason": "Added score as a metric"
   }
  ]
 }
