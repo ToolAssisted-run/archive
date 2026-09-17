@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "new-game-hard",
+     "label": "new game, Hard",
+     "rule": "this category beats all stages with Megaman on Hard without using the unlockable megaman that slides and shoots charged shots"
+    }
+   ]
+  }
+ ]
+}
