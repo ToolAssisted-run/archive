@@ -1,0 +1,45 @@
+{
+ "id": "M100086",
+ "game": "psp/mega-man-powered-up",
+ "category": {
+  "goal": "new-game-hard"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "duration": 2080.135,
+ "movie": {
+  "file": "M100086.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "be4885691b3e17f41eebe98d7bfab2e2f30797c5",
+  "frames": 133075,
+  "rerecords": 2275,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly 2026-09-16 (ddcac8a4)"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=nudzwkQ_kIQ"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-09-17T18:21:57Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1533,
+  "url": "https://forum.toolassisted.run/t/1533"
+ }
+}
