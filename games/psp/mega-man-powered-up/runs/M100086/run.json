@@ -26,7 +26,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -47,6 +47,14 @@
    "user": "Dimon12321",
    "date": "2026-09-18",
    "at": "2026-09-18T05:42:28Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-09-18",
+   "at": "2026-09-18T07:22:30Z",
+   "expert": true
   }
  ]
 }
