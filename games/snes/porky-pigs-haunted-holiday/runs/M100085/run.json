@@ -29,7 +29,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -52,6 +52,16 @@
    "date": "2026-09-18",
    "at": "2026-09-18T07:27:24Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-18",
+   "at": "2026-09-18T19:22:22Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.4",
+   "notes": "SHA1 hash of Porky Pig's Haunted Holiday (USA).sfc: EF20E4CE1B4B6A25AAC14613D4BED949017EDFC9"
   }
  ]
 }
