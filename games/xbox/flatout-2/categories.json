@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "stunts",
+     "label": "Stunts",
+     "rule": "Complete the chosen stunt with the highest result (points, time)."
+    }
+   ]
+  }
+ ]
+}
