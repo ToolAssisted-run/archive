@@ -1,0 +1,56 @@
+{
+ "id": "M100087",
+ "game": "xbox/flatout-2",
+ "category": {
+  "goal": "stunts",
+  "sub": "stone-skipping"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "metrics": {
+  "score": 1189.0
+ },
+ "duration": 130.964,
+ "movie": {
+  "file": "M100087.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "3f968476237d9560c02a4dd9a472c0784ebc5e5d",
+  "frames": 7850,
+  "rerecords": 1305,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-18 (Core: xemu)",
+  "files": [
+   {
+    "name": "FlatOut 2 (USA, Europe) (En,Fr,De,Es,It).iso",
+    "sha1": "aebd9219d86f627dba865543b8470ca1912fe692"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none",
+  "console": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=hxQtvO6_mYI"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-18",
+ "submitted": "2026-09-18T20:34:32Z",
+ "submittedBy": "Dimon12321",
+ "forum": {
+  "topicId": 1535,
+  "url": "https://forum.toolassisted.run/t/1535"
+ }
+}
