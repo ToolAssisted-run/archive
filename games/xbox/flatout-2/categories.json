@@ -22,6 +22,13 @@
        "type": "time",
        "better": "lower"
       }
+     ],
+     "subcategories": [
+      {
+       "key": "stone-skipping",
+       "label": "Stone-Skipping",
+       "rule": "Gain maximum points in 3 attempts."
+      }
      ]
     }
    ]

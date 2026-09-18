@@ -10356,6 +10356,17 @@
    "date": "2026-09-18",
    "at": "2026-09-18T20:23:58Z",
    "reason": "Add a new category and declare metrics"
+  },
+  {
+   "kind": "category",
+   "key": "xbox/flatout-2:stunts/stone-skipping",
+   "field": "added",
+   "from": "",
+   "to": "Stone-Skipping",
+   "by": "Dimon12321",
+   "date": "2026-09-18",
+   "at": "2026-09-18T20:24:07Z",
+   "reason": "Add a new category and declare metrics"
   }
  ]
 }
