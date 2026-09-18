@@ -10345,6 +10345,17 @@
    "date": "2026-09-18",
    "at": "2026-09-18T18:39:09Z",
    "reason": "Changed from the group form: psp/mega-man-powered-up moved in"
+  },
+  {
+   "kind": "category",
+   "key": "xbox/flatout-2:stunts",
+   "field": "metrics",
+   "from": "(classic: time)",
+   "to": "[{\"key\": \"score\", \"label\": \"Score\", \"type\": \"number\", \"better\": \"higher\", \"unit\": \"points\"}, {\"key\": \"time\", \"label\": \"Time\", \"type\": \"time\", \"better\": \"lower\"}]",
+   "by": "Dimon12321",
+   "date": "2026-09-18",
+   "at": "2026-09-18T20:23:58Z",
+   "reason": "Add a new category and declare metrics"
   }
  ]
 }
