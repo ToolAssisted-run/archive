@@ -25,7 +25,7 @@
   "emulator": "Chimera Nightly 2026-09-16 (ddcac8a4)"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -55,6 +55,16 @@
    "date": "2026-09-18",
    "at": "2026-09-18T07:22:30Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-18",
+   "at": "2026-09-18T20:07:42Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-16, ddcac8a4) + PPSSPP (Nightly 2026-09-12, 21582ca3)",
+   "notes": "SHA1 hash of Mega Man - Powered Up (USA).iso: D3CA688ECDD05C6D664F7D84E404882D2733477C"
   }
  ]
 }
