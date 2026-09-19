@@ -7,7 +7,7 @@
     {
      "key": "new-game-hard",
      "label": "new game, Hard",
-     "rule": "this category beats all stages with Megaman on Hard without using the unlockable megaman that slides and shoots charged shots"
+     "rule": "Beat all stages with Mega Man on Hard as fast as possible. Using endgame-unlockable Mega Man moves, like slides and charged shots, is not allowed."
     }
    ]
   }

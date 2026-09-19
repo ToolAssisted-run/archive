@@ -10389,6 +10389,17 @@
    "date": "2026-09-19",
    "at": "2026-09-19T04:23:08Z",
    "reason": "Adding a new metric for testing"
+  },
+  {
+   "kind": "category",
+   "key": "psp/mega-man-powered-up:new-game-hard",
+   "field": "rule",
+   "from": "this category beats all stages with Megaman on Hard without using the unlockable megaman that slides and shoots charged shots",
+   "to": "Beat all stages with Mega Man on Hard as fast as possible. Using endgame-unlockable Mega Man moves, like slides and charged shots, is not allowed.",
+   "by": "CloakTheLurker",
+   "date": "2026-09-19",
+   "at": "2026-09-19T05:38:38Z",
+   "reason": "reworded rule"
   }
  ]
 }
