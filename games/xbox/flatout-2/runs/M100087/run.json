@@ -35,7 +35,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed",
   "console": "none"
  },
@@ -71,6 +71,16 @@
    "date": "2026-09-19",
    "at": "2026-09-19T09:18:09Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-19",
+   "at": "2026-09-19T09:39:30Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-17, 82072264) + xemu (2026-09-12, cae1e4d3)",
+   "notes": "Used firmware: Complex_4627.bin (SHA1: 3944392C954CFB176D4210544E88353B3C5D36B1), xbox_hdd.qcow2 (SHA1: DA4FA1AAEB866F55FD332B0924C191F9EA5BFBE8, size 4.521.984 bytes), mcpx_1.0.bin (SHA1: 5D270675B54EB8071B480E42D22A3015AC211CEF)"
   }
  ]
 }
