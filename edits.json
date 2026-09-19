@@ -10367,6 +10367,17 @@
    "date": "2026-09-18",
    "at": "2026-09-18T20:24:07Z",
    "reason": "Add a new category and declare metrics"
+  },
+  {
+   "kind": "game",
+   "key": "flash/super-doggy",
+   "field": "released",
+   "from": "",
+   "to": "2007",
+   "by": "GMP",
+   "date": "2026-09-19",
+   "at": "2026-09-19T04:21:43Z",
+   "reason": "Release year"
   }
  ]
 }
