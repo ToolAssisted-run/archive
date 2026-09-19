@@ -141,8 +141,9 @@
   "hardToReproduce": true
  },
  "appleii": {
-  "name": "AppleII",
-  "fps": 60.0
+  "name": "Apple II",
+  "fps": 59.9227510135505,
+  "hardToReproduce": true
  },
  "fds": {
   "name": "Famicom Disk System",
