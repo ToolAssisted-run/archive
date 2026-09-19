@@ -1,13 +1,11 @@
 {
  "a2600": {
   "name": "Atari 2600",
-  "fps": 59.9227510135505,
-  "hardwareVerifiable": true
+  "fps": 59.9227510135505
  },
  "nes": {
   "name": "Nintendo Entertainment System",
-  "fps": 60.0988138974405,
-  "hardwareVerifiable": true
+  "fps": 60.0988138974405
  },
  "c64": {
   "name": "Commodore 64",
@@ -21,13 +19,11 @@
  },
  "genesis": {
   "name": "Sega Genesis",
-  "fps": 59.922751013551,
-  "hardwareVerifiable": true
+  "fps": 59.922751013551
  },
  "snes": {
   "name": "Super Nintendo Entertainment System",
-  "fps": 60.0988118623484,
-  "hardwareVerifiable": true
+  "fps": 60.0988118623484
  },
  "amiga": {
   "name": "Amiga",
@@ -36,8 +32,7 @@
  },
  "gbc": {
   "name": "Game Boy Color",
-  "fps": 59.7275005696058,
-  "hardwareVerifiable": true
+  "fps": 59.7275005696058
  },
  "gg": {
   "name": "Sega Game Gear",
@@ -45,8 +40,7 @@
  },
  "gba": {
   "name": "Game Boy Advance",
-  "fps": 59.7275005696058,
-  "hardwareVerifiable": true
+  "fps": 59.7275005696058
  },
  "psx": {
   "name": "PlayStation",
@@ -74,8 +68,7 @@
  },
  "n64": {
   "name": "Nintendo 64",
-  "fps": 60.0,
-  "hardwareVerifiable": true
+  "fps": 60.0
  },
  "tic80": {
   "name": "TIC80",
@@ -96,8 +89,7 @@
  },
  "gb": {
   "name": "Game Boy",
-  "fps": 59.7275005696058,
-  "hardwareVerifiable": true
+  "fps": 59.7275005696058
  },
  "3ds": {
   "name": "3DS",

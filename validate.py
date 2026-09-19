@@ -11,11 +11,10 @@ Structural rules plus anti-abuse limits:
 - attachments: <= 8 files, each <= 128 KB, <= 512 KB total, allowlisted
   text extensions only, valid UTF-8, and never matching the declared ROM hash
 - community rosters: reproduction screenshots are real images (magic bytes
-  checked) under reproductions/, console-verification ones under console/,
-  <= 512 KB each / <= 8 MB per run; no author may reproduce, verify or
-  console-verify their own run; one live act per user per roster; console
-  verification carries a public proof link; the stored status field must match
-  what the rosters derive (status cannot lie)
+  checked) under reproductions/, <= 512 KB each / <= 8 MB per run; no author
+  may reproduce or verify their own run; one live act per user per roster;
+  the stored status field must match what the rosters derive (status cannot
+  lie)
 - dispute cases: verifier snapshot is fixed at open time and every listed
   verifier must exist in the verifications roster; votes only from the
   snapshot, one per verifier; the stored case status must match what the
@@ -409,7 +408,7 @@ for gjson in ROOT.glob('games/*/*/game.json'):
         author_names = {canon(a['user']) for a in r.get('authors', [])}
         shots = set()
         shot_total = 0
-        for kind in ('reproductions', 'verifications', 'consoleVerifications'):
+        for kind in ('reproductions', 'verifications'):
             seen_users = set()
             for act in r.get(kind, []):
                 u = canon(act['user'])
@@ -423,8 +422,7 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                     seen_users.add(u)
                 shot = act.get('screenshot')
                 if shot:
-                    want_dir = ('console/' if kind == 'consoleVerifications'
-                                else 'reproductions/')
+                    want_dir = 'reproductions/'
                     if not shot.startswith(want_dir):
                         err(f'{rdir}: {kind} screenshot {shot!r} must live under '
                             f'{want_dir}')
@@ -447,14 +445,6 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                         err(f'{rdir}: screenshot {shot!r} matches the declared ROM hash')
         if shot_total > SHOT_MAX_TOTAL:
             err(f'{rdir}: screenshots exceed {SHOT_MAX_TOTAL>>20} MB total')
-
-        # console verification: an optional third signal, but when claimed it
-        # must point at a public recording of the hardware playing the run
-        for act in r.get('consoleVerifications', []):
-            proof = act.get('proof', '')
-            if not proof.startswith(('http://', 'https://')):
-                err(f'{rdir}: console verification by {act["user"]!r} has no '
-                    f'public proof link')
 
         # withdrawal: the run leaves the listings, the record stays. Nothing
         # is erased (Community Principles 1.2, 2.7.2), so the movie file and
@@ -523,29 +513,13 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                             f'by {u!r} is not invalidated')
 
         st = r.get('status', {})
-        # the third signal: community when somebody here played it back on
-        # hardware, imported when TASVideos had already console-verified it
         if r.get('videoOnly'):
-            pass                       # console is 'not-applicable', checked above
-        elif st.get('console') == 'not-applicable':
-            err(f'{rdir}: only a video-only run marks console not-applicable')
-        elif st.get('console') != 'imported':
-            live_c = [a for a in r.get('consoleVerifications', []) if not a.get('invalidated')]
-            want_console = 'community' if live_c else 'none'
-            if st.get('console') != want_console:
-                err(f'{rdir}: status.console is {st.get("console")!r} but the '
-                    f'roster derives {want_console!r}')
-        elif not r.get('imported'):
-            err(f'{rdir}: status.console is "imported" but the run was not imported')
-        if r.get('videoOnly'):
-            # the encode is the run: nothing exists to reproduce or replay
-            if r.get('reproductions') or r.get('consoleVerifications'):
-                err(f'{rdir}: a video-only run cannot carry reproductions or '
-                    f'console verifications; there is no input movie to replay')
-            if st.get('reproduced') != 'not-applicable' or \
-                    st.get('console') != 'not-applicable':
-                err(f'{rdir}: a video-only run marks reproduced and console '
-                    f'as not-applicable')
+            # the encode is the run: nothing exists to reproduce
+            if r.get('reproductions'):
+                err(f'{rdir}: a video-only run cannot carry reproductions; '
+                    f'there is no input movie to replay')
+            if st.get('reproduced') != 'not-applicable':
+                err(f'{rdir}: a video-only run marks reproduced as not-applicable')
             if not r.get('encodes'):
                 err(f'{rdir}: a video-only run IS its encode; it must link one')
             # whether a stated duration exists depends on the category: it is
@@ -614,7 +588,7 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                         f'movie, notes.md, run.json, or a declared attachment')
 
 # ---- acts are performed by members ----
-# Anyone who reproduces, verifies, console-verifies or stars a run did it
+# Anyone who reproduces, verifies or stars a run did it
 # through the archivist, which means they have an account here. A missing
 # record would silently cost them their profile, their stats and their points.
 for rdir, actor, roster in act_actors:
