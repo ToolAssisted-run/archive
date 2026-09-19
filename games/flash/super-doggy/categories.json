@@ -20,6 +20,12 @@
        "label": "Score",
        "type": "number",
        "better": "higher"
+      },
+      {
+       "key": "test-metric",
+       "label": "Test metric",
+       "type": "number",
+       "better": "higher"
       }
      ]
     }
