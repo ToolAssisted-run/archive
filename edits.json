@@ -10411,6 +10411,17 @@
    "date": "2026-09-19",
    "at": "2026-09-19T08:10:03Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "xbox/flatout-2:stunts/stone-skipping",
+   "field": "label",
+   "from": "Stone-Skipping",
+   "to": "Stone Skipping",
+   "by": "Dimon12321",
+   "date": "2026-09-20",
+   "at": "2026-09-20T10:52:57Z",
+   "reason": "Only the stunt label on Stunts screen keeps the dash between words. All other places have it removed. The internet also prefers to not include the dash."
   }
  ]
 }
