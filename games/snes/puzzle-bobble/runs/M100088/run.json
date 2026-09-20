@@ -1,0 +1,59 @@
+{
+ "id": "M100088",
+ "game": "snes/puzzle-bobble",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "izumi"
+  }
+ ],
+ "tools": [],
+ "duration": 1491.65,
+ "movie": {
+  "file": "M100088.smv",
+  "format": "smv",
+  "sha1": "823cd230319eb13956e3f8dc6ec0bbc141249619",
+  "frames": 89499,
+  "rerecords": 12844,
+  "start": "power-on",
+  "fps": 60.0988138974405
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Snes9x-rr 1.51 v7.1",
+  "files": [
+   {
+    "name": "Puzzle Bobble (Japan).sfc",
+    "sha1": "918c7b5bf263001cc4bfc53b4a42dac1fd4f897a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7qh88-SylKg"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/hook.lua",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/rng.py",
+   "role": "submitted attachment"
+  }
+ ],
+ "submitted": "2026-09-20T14:46:11Z",
+ "submittedBy": "izumi",
+ "forum": {
+  "topicId": 1537,
+  "url": "https://forum.toolassisted.run/t/1537"
+ }
+}
