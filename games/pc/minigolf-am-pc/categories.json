@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "berlin",
+     "label": "Berlin",
+     "rule": "Complete the course \"Berlin\" as fast as possible"
+    }
+   ]
+  }
+ ]
+}
