@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "any",
+     "label": "any%",
+     "rule": "Beat the game as fast as possible"
+    }
+   ]
+  }
+ ]
+}
