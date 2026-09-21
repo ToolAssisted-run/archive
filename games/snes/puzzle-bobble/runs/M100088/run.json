@@ -32,7 +32,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -70,6 +70,14 @@
    "at": "2026-09-21T03:31:44Z",
    "screenshot": "reproductions/1-CloakTheLurker.png",
    "emulator": "Snes9x-rr 1.51 v7.1"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-21",
+   "at": "2026-09-21T17:21:32Z",
+   "expert": true
   }
  ]
 }
