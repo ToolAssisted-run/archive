@@ -10422,6 +10422,17 @@
    "date": "2026-09-20",
    "at": "2026-09-20T10:52:57Z",
    "reason": "Only the stunt label on Stunts screen keeps the dash between words. All other places have it removed. The internet also prefers to not include the dash."
+  },
+  {
+   "kind": "category",
+   "key": "pc/minigolf-am-pc:london",
+   "field": "added",
+   "from": "",
+   "to": "London",
+   "by": "toca",
+   "date": "2026-09-21",
+   "at": "2026-09-21T18:37:41Z",
+   "reason": "Created it."
   }
  ]
 }

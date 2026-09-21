@@ -8,6 +8,11 @@
      "key": "berlin",
      "label": "Berlin",
      "rule": "Complete the course \"Berlin\" as fast as possible"
+    },
+    {
+     "key": "london",
+     "label": "London",
+     "rule": "Complete the course \"London\" as fast as possible"
     }
    ]
   }
