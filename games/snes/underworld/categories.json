@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "good-ending",
+     "label": "good ending",
+     "rule": "Complete the game as fast as possible."
+    }
+   ]
+  }
+ ]
+}
