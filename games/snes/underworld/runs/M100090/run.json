@@ -1,0 +1,44 @@
+{
+ "id": "M100090",
+ "game": "snes/underworld",
+ "category": {
+  "goal": "good-ending"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 501.374,
+ "movie": {
+  "file": "M100090.bk2",
+  "format": "bk2",
+  "sha1": "fdce975dacd1d4374eba4fb90701150de05edc21",
+  "frames": 30132,
+  "rerecords": 2217,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 BSNESv115+"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0yzFskQuNNo"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-06-19",
+ "submitted": "2026-09-21T21:14:34Z",
+ "submittedBy": "thegugafa",
+ "forum": {
+  "topicId": 1542,
+  "url": "https://forum.toolassisted.run/t/1542"
+ }
+}
