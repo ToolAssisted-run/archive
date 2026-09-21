@@ -18,6 +18,11 @@
      "key": "madrid",
      "label": "Madrid",
      "rule": "Complete the course \"Madrid\" as fast as possible"
+    },
+    {
+     "key": "rom",
+     "label": "Rom",
+     "rule": "Complete the course \"Rom\" as fast as possible"
     }
    ]
   }
