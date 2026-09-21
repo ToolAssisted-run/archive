@@ -10466,6 +10466,17 @@
    "date": "2026-09-21",
    "at": "2026-09-21T18:38:30Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "pc/minigolf-am-pc:dublin",
+   "field": "added",
+   "from": "",
+   "to": "Dublin",
+   "by": "toca",
+   "date": "2026-09-21",
+   "at": "2026-09-21T18:38:42Z",
+   "reason": "Created it."
   }
  ]
 }

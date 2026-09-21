@@ -28,6 +28,11 @@
      "key": "wien",
      "label": "Wien",
      "rule": "Complete the course \"Wien\" as fast as possible"
+    },
+    {
+     "key": "dublin",
+     "label": "Dublin",
+     "rule": "Complete the course \"Dublin\" as fast as possible"
     }
    ]
   }
