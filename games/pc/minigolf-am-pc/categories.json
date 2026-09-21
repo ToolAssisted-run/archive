@@ -33,6 +33,11 @@
      "key": "dublin",
      "label": "Dublin",
      "rule": "Complete the course \"Dublin\" as fast as possible"
+    },
+    {
+     "key": "paris",
+     "label": "Paris",
+     "rule": "Complete the course \"Paris\" as fast as possible"
     }
    ]
   }
