@@ -1,0 +1,50 @@
+{
+ "id": "M100089",
+ "game": "ps2/fugitive-hunter-war-on-terror",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "nelson_geferulf"
+  }
+ ],
+ "tools": [],
+ "duration": 1517.367,
+ "movie": {
+  "file": "M100089.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "966a29faeddb68de7a7bffe7a279449ec0519b32",
+  "frames": 108799,
+  "rerecords": 2699,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-17",
+  "files": [
+   {
+    "name": "Fugitive Hunter - War on Terror.iso"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=VP5z7zriAyI"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-20",
+ "submitted": "2026-09-21T06:10:43Z",
+ "submittedBy": "nelson_geferulf",
+ "forum": {
+  "topicId": 1539,
+  "url": "https://forum.toolassisted.run/t/1539"
+ }
+}
