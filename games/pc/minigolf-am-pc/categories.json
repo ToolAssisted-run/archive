@@ -13,6 +13,11 @@
      "key": "london",
      "label": "London",
      "rule": "Complete the course \"London\" as fast as possible"
+    },
+    {
+     "key": "madrid",
+     "label": "Madrid",
+     "rule": "Complete the course \"Madrid\" as fast as possible"
     }
    ]
   }
