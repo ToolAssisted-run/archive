@@ -23,6 +23,11 @@
      "key": "rom",
      "label": "Rom",
      "rule": "Complete the course \"Rom\" as fast as possible"
+    },
+    {
+     "key": "wien",
+     "label": "Wien",
+     "rule": "Complete the course \"Wien\" as fast as possible"
     }
    ]
   }
