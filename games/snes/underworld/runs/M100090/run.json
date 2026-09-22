@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 BSNESv115+"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -47,6 +47,16 @@
    "date": "2026-09-22",
    "at": "2026-09-22T20:06:11Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-22",
+   "at": "2026-09-22T20:06:52Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "SHA1 hash of uw.smc: 48060AA98AD8126785980137082207D387EFDA25"
   }
  ]
 }
