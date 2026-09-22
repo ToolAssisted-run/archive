@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -65,6 +65,16 @@
    "user": "KusogeMan",
    "date": "2026-09-21",
    "at": "2026-09-21T14:21:15Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-22",
+   "at": "2026-09-22T20:50:34Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly-2026-09-17, 82072264) + PCSX2 (2026-09-07, 349e8827)",
+   "notes": "SHA1 hash of Fugitive Hunter - War on Terror (USA).iso: FD0301DD3B8C9E4872816AFBFD2B10D3DCC90B35"
   }
  ]
 }
