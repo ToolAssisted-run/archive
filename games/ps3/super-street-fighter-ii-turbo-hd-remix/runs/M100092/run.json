@@ -1,0 +1,44 @@
+{
+ "id": "M100092",
+ "game": "ps3/super-street-fighter-ii-turbo-hd-remix",
+ "category": {
+  "goal": "superplay"
+ },
+ "authors": [
+  {
+   "user": "BrunoRaji"
+  }
+ ],
+ "tools": [],
+ "duration": 608.341,
+ "movie": {
+  "file": "M100092.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "91cb9381211072458e404c385eb29224a563945d",
+  "frames": 36464,
+  "rerecords": 2631,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "chimera Nightly 2026-09-24 (8710de2c)"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/f42Sum6QhW0"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-26",
+ "submitted": "2026-09-26T18:13:32Z",
+ "submittedBy": "BrunoRaji",
+ "forum": {
+  "topicId": 1546,
+  "url": "https://forum.toolassisted.run/t/1546"
+ }
+}
