@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "superplay",
+     "label": "SuperPlay",
+     "rule": "Flawless Run"
+    }
+   ]
+  }
+ ]
+}
