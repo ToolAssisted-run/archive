@@ -1,0 +1,44 @@
+{
+ "id": "M100091",
+ "game": "gb/nettou-garou-densetsu-2-aratanaru-tatakai-japan",
+ "category": {
+  "goal": "hard"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "duration": 666.105,
+ "movie": {
+  "file": "M100091.bk2",
+  "format": "bk2",
+  "sha1": "99c11d77a279cd4c63355585b9986743a50eadc7",
+  "frames": 39906,
+  "rerecords": 2050,
+  "start": "power-on",
+  "fps": 59.9094446956034
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/9R5sEQoX7jg"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-09-26T17:02:09Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1544,
+  "url": "https://forum.toolassisted.run/t/1544"
+ }
+}
