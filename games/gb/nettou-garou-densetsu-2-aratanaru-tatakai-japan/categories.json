@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "hard",
+     "label": "Hard",
+     "rule": "Complete the game as fast as possible."
+    }
+   ]
+  }
+ ]
+}
