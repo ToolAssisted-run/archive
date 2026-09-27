@@ -1,0 +1,52 @@
+{
+ "id": "M100094",
+ "game": "ps3/ultra-street-fighter-iv",
+ "category": {
+  "goal": "all-trials",
+  "sub": "akuma-super-trials"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 327.961,
+ "movie": {
+  "file": "M100094.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "15bd642fd96b2b44f31c27c4adb9582aa3546895",
+  "frames": 19658,
+  "rerecords": 1159,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-27",
+  "files": [
+   {
+    "name": "Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko).iso"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/w0XohosWq-w"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-09-27T12:28:06Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1551,
+  "url": "https://forum.toolassisted.run/t/1551"
+ }
+}
