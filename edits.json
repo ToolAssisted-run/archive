@@ -10521,6 +10521,17 @@
    "date": "2026-09-27",
    "at": "2026-09-27T05:25:20Z",
    "reason": "added image (Nintendo.com)"
+  },
+  {
+   "kind": "category",
+   "key": "ps3/ultra-street-fighter-iv:all-trials",
+   "field": "subSelector",
+   "from": "buttons",
+   "to": "dropdown",
+   "by": "eien86",
+   "date": "2026-09-27",
+   "at": "2026-09-27T12:21:29Z",
+   "reason": "Added initial subcategory"
   }
  ]
 }

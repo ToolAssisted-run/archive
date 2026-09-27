@@ -7,7 +7,8 @@
     {
      "key": "all-trials",
      "label": "all trials",
-     "rule": "Finish all trials of the chosen characer"
+     "rule": "Finish all trials of the chosen characer",
+     "subSelector": "dropdown"
     }
    ]
   }
