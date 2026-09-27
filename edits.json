@@ -10532,6 +10532,17 @@
    "date": "2026-09-27",
    "at": "2026-09-27T12:21:29Z",
    "reason": "Added initial subcategory"
+  },
+  {
+   "kind": "category",
+   "key": "ps3/ultra-street-fighter-iv:all-trials/akuma-super-trials",
+   "field": "added",
+   "from": "",
+   "to": "akuma, super trials",
+   "by": "eien86",
+   "date": "2026-09-27",
+   "at": "2026-09-27T12:21:39Z",
+   "reason": "Added initial subcategory"
   }
  ]
 }

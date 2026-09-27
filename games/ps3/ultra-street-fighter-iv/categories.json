@@ -8,7 +8,14 @@
      "key": "all-trials",
      "label": "all trials",
      "rule": "Finish all trials of the chosen characer",
-     "subSelector": "dropdown"
+     "subSelector": "dropdown",
+     "subcategories": [
+      {
+       "key": "akuma-super-trials",
+       "label": "akuma, super trials",
+       "rule": "Use Akuma, finish the SSFIV trial set"
+      }
+     ]
     }
    ]
   }
