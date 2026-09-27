@@ -226,5 +226,30 @@
   "name": "MSX2",
   "fps": 59.9227510135505,
   "hardToReproduce": true
+ },
+ "cps1": {
+  "name": "Capcom CPS-1",
+  "fps": 59.63,
+  "hardToReproduce": true
+ },
+ "cps2": {
+  "name": "Capcom CPS-2",
+  "fps": 59.63,
+  "hardToReproduce": true
+ },
+ "cps3": {
+  "name": "Capcom CPS-3",
+  "fps": 59.59,
+  "hardToReproduce": true
+ },
+ "mvs": {
+  "name": "Neo Geo MVS",
+  "fps": 59.18,
+  "hardToReproduce": true
+ },
+ "sys16": {
+  "name": "Sega System 16",
+  "fps": 60.0,
+  "hardToReproduce": true
  }
 }
