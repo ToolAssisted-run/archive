@@ -25,7 +25,7 @@
   "emulator": "BizHawk 2.11"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -40,5 +40,14 @@
  "forum": {
   "topicId": 1544,
   "url": "https://forum.toolassisted.run/t/1544"
- }
+ },
+ "reproductions": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-09-27",
+   "at": "2026-09-27T05:16:35Z",
+   "screenshot": "reproductions/1-CloakTheLurker.png",
+   "emulator": "BizHawk 2.11"
+  }
+ ]
 }
