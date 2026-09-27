@@ -1,0 +1,49 @@
+{
+ "id": "M100093",
+ "game": "zxs/transylvanian-castle-dx2",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "duration": 401.097,
+ "movie": {
+  "file": "M100093.bk2",
+  "format": "bk2",
+  "sha1": "f809cbe69ae28eda091c7feeb87429746515487d",
+  "frames": 20087,
+  "rerecords": 13365,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "files": [
+   {
+    "name": "Transylvanian Castle Dx2 v1.11 ENG.tap",
+    "sha1": "f29d52cff9b21961b086b4a4d90c373c4bce1015"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=GQveh0BScvw"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-09-27T10:57:03Z",
+ "submittedBy": "DigitalDuck",
+ "forum": {
+  "topicId": 1549,
+  "url": "https://forum.toolassisted.run/t/1549"
+ }
+}
