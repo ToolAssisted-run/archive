@@ -507,6 +507,16 @@
    "createdAt": "2026-08-21"
   },
   {
+   "key": "myst-adv",
+   "title": "Mysterious Adventures",
+   "games": [
+    "zxs/circus-digital-fantasia",
+    "zxs/the-golden-baton"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-09-28"
+  },
+  {
    "key": "need-for-speed",
    "title": "Need for Speed",
    "games": [
