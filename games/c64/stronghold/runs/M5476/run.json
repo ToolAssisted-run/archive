@@ -1,0 +1,52 @@
+{
+ "id": "M5476",
+ "game": "c64/stronghold",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5476.bk2",
+  "format": "bk2",
+  "frames": 6072,
+  "fps": 59.826089499853765,
+  "rerecords": 14725,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1991-04.d64",
+    "sha1": "d129c481a2b26234ad21fa8b2e371809b85ccfd9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5476M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xk3EulWTe4c"
+  }
+ ],
+ "submitted": "2023-08-06T00:26:50.186168",
+ "attachments": [],
+ "forum": {
+  "topicId": 1662,
+  "url": "https://forum.toolassisted.run/t/1662"
+ }
+}

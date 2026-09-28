@@ -1,0 +1,52 @@
+{
+ "id": "M5475",
+ "game": "c64/saloon-shootout",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5475.bk2",
+  "format": "bk2",
+  "frames": 9915,
+  "fps": 59.826089499853765,
+  "rerecords": 1085,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1986-07.d64",
+    "sha1": "22e52d0e80cc30fe567fb6a5c625c32ecf317b3d"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5475M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3_PQhgqudZI"
+  }
+ ],
+ "submitted": "2023-08-05T20:01:05.120052",
+ "attachments": [],
+ "forum": {
+  "topicId": 1660,
+  "url": "https://forum.toolassisted.run/t/1660"
+ }
+}

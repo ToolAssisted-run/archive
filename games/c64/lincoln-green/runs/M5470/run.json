@@ -1,0 +1,52 @@
+{
+ "id": "M5470",
+ "game": "c64/lincoln-green",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5470.bk2",
+  "format": "bk2",
+  "frames": 5286,
+  "fps": 59.826089499853765,
+  "rerecords": 880,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1988-09.d64",
+    "sha1": "29c8d51b53d3b555b4d27dc67846a45ec71e04ce"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5470M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ZDVISdunj4k"
+  }
+ ],
+ "submitted": "2023-08-03T15:31:49.477838",
+ "attachments": [],
+ "forum": {
+  "topicId": 1656,
+  "url": "https://forum.toolassisted.run/t/1656"
+ }
+}

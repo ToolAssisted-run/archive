@@ -1,0 +1,52 @@
+{
+ "id": "M5488",
+ "game": "c64/supersprite",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5488.bk2",
+  "format": "bk2",
+  "frames": 21619,
+  "fps": 59.826089499853765,
+  "rerecords": 736,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1984-05.d64",
+    "sha1": "466842747b9017d129bf865dafbaaff82149b649"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5488M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qiiK9usaYJo"
+  }
+ ],
+ "submitted": "2023-08-10T22:02:23.50941",
+ "attachments": [],
+ "forum": {
+  "topicId": 1664,
+  "url": "https://forum.toolassisted.run/t/1664"
+ }
+}

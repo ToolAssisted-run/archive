@@ -1,0 +1,51 @@
+{
+ "id": "M5518",
+ "game": "a2600/xanthiom",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5518.bk2",
+  "format": "bk2",
+  "frames": 11489,
+  "rerecords": 11360,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "Xanthiom2600.bas.bin",
+    "sha1": "bbc0d8e79d4d9a519f68abf2223eeff851c3fec9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5518M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=PtrGCfLQaP4"
+  }
+ ],
+ "submitted": "2023-08-24T15:13:05.599219",
+ "attachments": [],
+ "forum": {
+  "topicId": 1666,
+  "url": "https://forum.toolassisted.run/t/1666"
+ }
+}
