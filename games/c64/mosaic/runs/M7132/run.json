@@ -1,0 +1,52 @@
+{
+ "id": "M7132",
+ "game": "c64/mosaic",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7132.bk2",
+  "format": "bk2",
+  "frames": 8461,
+  "fps": 59.826089499853765,
+  "rerecords": 943,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "1988-02.d64",
+    "sha1": "b6feac27d4c7c4f49f93f0b9d6af5f60c39a1288"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7132M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wO9H5LsX8ho"
+  }
+ ],
+ "submitted": "2026-05-13T16:14:47.313611",
+ "attachments": [],
+ "forum": {
+  "topicId": 1845,
+  "url": "https://forum.toolassisted.run/t/1845"
+ }
+}

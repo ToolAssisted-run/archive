@@ -1,0 +1,55 @@
+{
+ "id": "M7406",
+ "game": "snes/f-zero",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7406.bk2",
+  "format": "bk2",
+  "frames": 141904,
+  "rerecords": 0,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "F-ZERO (U) [!].smc",
+    "sha1": "d3efd32b68f1fe37a82db9d9929b7ca7cc1a3af4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7406M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=KoPAlhbrqrk"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qZ0eWOGX9is"
+  }
+ ],
+ "submitted": "2026-09-19T16:57:34.800727",
+ "attachments": [],
+ "forum": {
+  "topicId": 1850,
+  "url": "https://forum.toolassisted.run/t/1850"
+ }
+}

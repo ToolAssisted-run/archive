@@ -1,0 +1,52 @@
+{
+ "id": "M7187",
+ "game": "c64/zeta-wing-ii",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7187.bk2",
+  "format": "bk2",
+  "frames": 82662,
+  "fps": 59.826089499853765,
+  "rerecords": 37973,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "ZetaWing2 v1.02.crt",
+    "sha1": "7d52320f8b5c80f487ae0f3e1523caa8cda53151"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7187M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=SJ0JKCeqkIk"
+  }
+ ],
+ "submitted": "2026-06-07T13:51:21.96999",
+ "attachments": [],
+ "forum": {
+  "topicId": 1849,
+  "url": "https://forum.toolassisted.run/t/1849"
+ }
+}
