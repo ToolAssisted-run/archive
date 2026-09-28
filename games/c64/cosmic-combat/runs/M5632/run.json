@@ -1,0 +1,52 @@
+{
+ "id": "M5632",
+ "game": "c64/cosmic-combat",
+ "category": {
+  "goal": "pacifist"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5632.bk2",
+  "format": "bk2",
+  "frames": 14502,
+  "fps": 59.826089499853765,
+  "rerecords": 316347,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1984-12.d64",
+    "sha1": "4a11fb115677244f5b9cda1272ade1df8049f482"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5632M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=sDO38nomdkQ"
+  }
+ ],
+ "submitted": "2023-10-26T11:35:14.333408",
+ "attachments": [],
+ "forum": {
+  "topicId": 1692,
+  "url": "https://forum.toolassisted.run/t/1692"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5676",
+ "game": "c64/cell-runner",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5676.bk2",
+  "format": "bk2",
+  "frames": 2975,
+  "fps": 59.826089499853765,
+  "rerecords": 1811,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1986-09.d64",
+    "sha1": "b3f9be022f675c612a50b63b416f8165d74357f2"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5676M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7nE9LKvxImU"
+  }
+ ],
+ "submitted": "2023-11-22T23:14:39.850749",
+ "attachments": [],
+ "forum": {
+  "topicId": 1696,
+  "url": "https://forum.toolassisted.run/t/1696"
+ }
+}

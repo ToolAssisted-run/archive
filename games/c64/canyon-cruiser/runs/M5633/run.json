@@ -1,0 +1,52 @@
+{
+ "id": "M5633",
+ "game": "c64/canyon-cruiser",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5633.bk2",
+  "format": "bk2",
+  "frames": 7264,
+  "fps": 59.826089499853765,
+  "rerecords": 993,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1984-01.d64",
+    "sha1": "a6ddedd891b20df4b74659187741984d9f6457ab"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5633M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=QqlchmbCvYU"
+  }
+ ],
+ "submitted": "2023-10-27T02:02:14.977728",
+ "attachments": [],
+ "forum": {
+  "topicId": 1694,
+  "url": "https://forum.toolassisted.run/t/1694"
+ }
+}
