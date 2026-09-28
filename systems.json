@@ -251,5 +251,9 @@
   "name": "Sega System 16",
   "fps": 60.0,
   "hardToReproduce": true
+ },
+ "o2": {
+  "name": "Odyssey 2",
+  "fps": 60.05645306588193
  }
 }

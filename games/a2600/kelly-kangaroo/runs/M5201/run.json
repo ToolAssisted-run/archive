@@ -1,0 +1,54 @@
+{
+ "id": "M5201",
+ "game": "a2600/kelly-kangaroo",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "LoganTheTASer"
+  },
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5201.bk2",
+  "format": "bk2",
+  "frames": 1603,
+  "rerecords": 4822,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "KellyKangaroo_NTSC_0.3.bin",
+    "sha1": "5d05921171007642b4f0aadfb508259e93e80fe7"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5201M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rHCiLnfLiZs"
+  }
+ ],
+ "submitted": "2023-04-01T08:05:33.315907",
+ "attachments": [],
+ "forum": {
+  "topicId": 1856,
+  "url": "https://forum.toolassisted.run/t/1856"
+ }
+}

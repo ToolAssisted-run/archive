@@ -1,0 +1,54 @@
+{
+ "id": "M5188",
+ "game": "nes/overclocked",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "LoganTheTASer"
+  },
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5188.fm2",
+  "format": "fm2",
+  "frames": 175,
+  "rerecords": 352,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.4",
+  "files": [
+   {
+    "name": "OverclockedDemo.nes",
+    "sha1": "c33ba9511f6dabe7e17250d360e2f4a403799786"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5188M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=90HQ0FTDi6s"
+  }
+ ],
+ "submitted": "2023-03-27T19:40:58.252426",
+ "attachments": [],
+ "forum": {
+  "topicId": 1854,
+  "url": "https://forum.toolassisted.run/t/1854"
+ }
+}

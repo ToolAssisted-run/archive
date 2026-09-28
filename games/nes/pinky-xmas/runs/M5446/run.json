@@ -1,0 +1,54 @@
+{
+ "id": "M5446",
+ "game": "nes/pinky-xmas",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "LoganTheTASer"
+  },
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5446.fm2",
+  "format": "fm2",
+  "frames": 13588,
+  "rerecords": 9124,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.4",
+  "files": [
+   {
+    "name": "Pinky_Xmas_2020.nes",
+    "sha1": "0f97d444704b6a096e14d61ac41b42a130dddb19"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5446M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OLDO8m5pXnY"
+  }
+ ],
+ "submitted": "2023-07-25T16:19:02.838801",
+ "attachments": [],
+ "forum": {
+  "topicId": 1858,
+  "url": "https://forum.toolassisted.run/t/1858"
+ }
+}

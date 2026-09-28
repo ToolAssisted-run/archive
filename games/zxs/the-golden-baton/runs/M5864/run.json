@@ -1,0 +1,54 @@
+{
+ "id": "M5864",
+ "game": "zxs/the-golden-baton",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "LoganTheTASer"
+  },
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5864.bk2",
+  "format": "bk2",
+  "frames": 14053,
+  "rerecords": 2847,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "GoldenBatonThe.tzx",
+    "sha1": "ca3287cc61b8a40ac1bda6e1f8972cf88dec1657"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5864M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=v5SKuD7ZuNw"
+  }
+ ],
+ "submitted": "2024-03-16T20:57:38.981844",
+ "attachments": [],
+ "forum": {
+  "topicId": 1862,
+  "url": "https://forum.toolassisted.run/t/1862"
+ }
+}
