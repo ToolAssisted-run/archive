@@ -1,0 +1,51 @@
+{
+ "id": "M6002",
+ "game": "coleco/pepper-ii",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6002.bk2",
+  "format": "bk2",
+  "frames": 9604,
+  "rerecords": 1576,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "Pepper II (USA, Europe).col",
+    "sha1": "0983d0a562ccb3d4ac88d8ae26cf29a465075067"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6002M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=doKkqXbrJnQ"
+  }
+ ],
+ "submitted": "2024-06-15T23:02:41.363366",
+ "attachments": [],
+ "forum": {
+  "topicId": 1757,
+  "url": "https://forum.toolassisted.run/t/1757"
+ }
+}

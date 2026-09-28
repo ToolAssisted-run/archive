@@ -1,0 +1,52 @@
+{
+ "id": "M5995",
+ "game": "c64/the-tomb",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5995.bk2",
+  "format": "bk2",
+  "frames": 3367,
+  "fps": 59.826089499853765,
+  "rerecords": 284,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1984-10.d64",
+    "sha1": "2573edf9ad2e55f3308703721a30f4689d9b3e48"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5995M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ydb83MR6jCM"
+  }
+ ],
+ "submitted": "2024-06-12T21:46:32.173331",
+ "attachments": [],
+ "forum": {
+  "topicId": 1753,
+  "url": "https://forum.toolassisted.run/t/1753"
+ }
+}

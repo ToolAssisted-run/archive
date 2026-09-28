@@ -1,0 +1,52 @@
+{
+ "id": "M5996",
+ "game": "c64/collision-course",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5996.bk2",
+  "format": "bk2",
+  "frames": 28109,
+  "fps": 59.826089499853765,
+  "rerecords": 2256,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1987-02.d64",
+    "sha1": "1a7709fdbf52c5c50e407e028113241f69f15818"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5996M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=B_JhIqZBPz4"
+  }
+ ],
+ "submitted": "2024-06-13T14:00:10.231068",
+ "attachments": [],
+ "forum": {
+  "topicId": 1755,
+  "url": "https://forum.toolassisted.run/t/1755"
+ }
+}

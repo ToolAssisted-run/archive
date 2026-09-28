@@ -1,0 +1,51 @@
+{
+ "id": "M6030",
+ "game": "coleco/mouse-trap",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6030.bk2",
+  "format": "bk2",
+  "frames": 7822,
+  "rerecords": 4222,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Mousetrap (USA, Europe).col",
+    "sha1": "36686b5f84c8ecfe9e6468ca0f2402ce0c03150c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6030M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=npIzIxyaRPM"
+  }
+ ],
+ "submitted": "2024-07-05T13:05:17.667408",
+ "attachments": [],
+ "forum": {
+  "topicId": 1759,
+  "url": "https://forum.toolassisted.run/t/1759"
+ }
+}
