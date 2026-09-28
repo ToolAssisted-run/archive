@@ -10598,6 +10598,17 @@
    "date": "2026-09-28",
    "at": "2026-09-28T04:40:40Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/the-golden-baton",
+   "field": "website",
+   "from": "",
+   "to": "https://solutionarchive.com/game/id%2C229/Golden+Baton%2C+The.html",
+   "by": "CloakTheLurker",
+   "date": "2026-09-28",
+   "at": "2026-09-28T04:40:50Z",
+   "reason": "added info and link"
   }
  ]
 }
