@@ -1,0 +1,51 @@
+{
+ "id": "M6093",
+ "game": "coleco/carnival",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6093.bk2",
+  "format": "bk2",
+  "frames": 10873,
+  "rerecords": 3276,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "Carnival (1982) [a1].col",
+    "sha1": "b1b84b64d252ef145dd367fd393f477976ce7285"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6093M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=VyyA6GYl9tg"
+  }
+ ],
+ "submitted": "2024-08-18T12:05:01.800744",
+ "attachments": [],
+ "forum": {
+  "topicId": 1775,
+  "url": "https://forum.toolassisted.run/t/1775"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M6121",
+ "game": "c64/final-defense",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6121.bk2",
+  "format": "bk2",
+  "frames": 11512,
+  "fps": 59.826089499853765,
+  "rerecords": 1964,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1989-12.d64",
+    "sha1": "73036a7e33e5d0e90348d7e0437f4184bec3f674"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6121M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=R-wTbGgbZv0"
+  }
+ ],
+ "submitted": "2024-08-24T02:40:51.190627",
+ "attachments": [],
+ "forum": {
+  "topicId": 1781,
+  "url": "https://forum.toolassisted.run/t/1781"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M6122",
+ "game": "c64/cats-n-dogs",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6122.bk2",
+  "format": "bk2",
+  "frames": 3854,
+  "fps": 59.826089499853765,
+  "rerecords": 228,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1988-01.d64",
+    "sha1": "373784019db590bdcb2ae522bd358ee9d041ddf0"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6122M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=w9Wow_iVISQ"
+  }
+ ],
+ "submitted": "2024-08-24T07:08:16.412857",
+ "attachments": [],
+ "forum": {
+  "topicId": 1783,
+  "url": "https://forum.toolassisted.run/t/1783"
+ }
+}

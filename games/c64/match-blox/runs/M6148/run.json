@@ -1,0 +1,52 @@
+{
+ "id": "M6148",
+ "game": "c64/match-blox",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6148.bk2",
+  "format": "bk2",
+  "frames": 3330,
+  "fps": 59.826089499853765,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1986-11.d64",
+    "sha1": "d36f2d40488ddcb9d8b0a499ecf1b4f3ad24388a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6148M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Pozt-V7tRLs"
+  }
+ ],
+ "submitted": "2024-09-02T07:14:07.817608",
+ "attachments": [],
+ "forum": {
+  "topicId": 1785,
+  "url": "https://forum.toolassisted.run/t/1785"
+ }
+}
