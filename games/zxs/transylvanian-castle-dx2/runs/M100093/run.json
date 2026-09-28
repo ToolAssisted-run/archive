@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional"
  },
  "encodes": [
@@ -51,6 +51,15 @@
    "user": "CloakTheLurker",
    "date": "2026-09-28",
    "at": "2026-09-28T03:19:33Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-09-28",
+   "at": "2026-09-28T03:19:58Z",
+   "screenshot": "reproductions/1-CloakTheLurker.png",
+   "emulator": "BizHawk 2.11.1"
   }
  ]
 }
