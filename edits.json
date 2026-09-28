@@ -10554,6 +10554,17 @@
    "date": "2026-09-28",
    "at": "2026-09-28T03:29:54Z",
    "reason": "Changed from the group form: snes/alien-3 moved in"
+  },
+  {
+   "kind": "group",
+   "key": "off-road",
+   "field": "games",
+   "from": "nes/ivan-ironman-stewarts-super-off-road, snes/super-off-road",
+   "to": "nes/ivan-ironman-stewarts-super-off-road, snes/super-off-road, snes/super-off-road-the-baja",
+   "by": "CloakTheLurker",
+   "date": "2026-09-28",
+   "at": "2026-09-28T03:31:11Z",
+   "reason": "Changed from the group form: snes/super-off-road-the-baja moved in"
   }
  ]
 }
