@@ -844,6 +844,16 @@
    ],
    "createdBy": "toca",
    "createdAt": "2026-09-11"
+  },
+  {
+   "key": "zeta-wing",
+   "title": "Zeta Wing",
+   "games": [
+    "c64/zeta-wing",
+    "c64/zeta-wing-ii"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-09-28"
   }
  ]
 }
