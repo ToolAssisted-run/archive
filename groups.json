@@ -585,6 +585,16 @@
    ]
   },
   {
+   "key": "oils-well",
+   "title": "Oil's Well",
+   "games": [
+    "c64/oils-well",
+    "coleco/oils-well"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-09-28"
+  },
+  {
    "key": "pac-man",
    "title": "Pac-Man",
    "games": [
