@@ -1,0 +1,51 @@
+{
+ "id": "M5314",
+ "game": "c64/heat-seeker",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5314.bk2",
+  "format": "bk2",
+  "frames": 1023,
+  "rerecords": 670,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "1985-03.d64",
+    "sha1": "8a58dccbaa30519d8c5e6513096edcc567164ae6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5314M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=GQD1jckNnm8"
+  }
+ ],
+ "submitted": "2023-06-08T08:16:25.774949",
+ "attachments": [],
+ "forum": {
+  "topicId": 1609,
+  "url": "https://forum.toolassisted.run/t/1609"
+ }
+}

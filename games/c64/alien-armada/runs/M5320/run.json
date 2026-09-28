@@ -1,0 +1,52 @@
+{
+ "id": "M5320",
+ "game": "c64/alien-armada",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5320.bk2",
+  "format": "bk2",
+  "frames": 1849,
+  "fps": 59.826089499853765,
+  "rerecords": 700,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1985-05.d64",
+    "sha1": "984f59ecb2f9eaadd5286c31b06c00096c593b2c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5320M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DCpU3wIRVAQ"
+  }
+ ],
+ "submitted": "2023-06-09T15:23:25.605663",
+ "attachments": [],
+ "forum": {
+  "topicId": 1615,
+  "url": "https://forum.toolassisted.run/t/1615"
+ }
+}

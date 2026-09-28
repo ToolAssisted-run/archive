@@ -1,0 +1,52 @@
+{
+ "id": "M5319",
+ "game": "c64/star-dragon",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5319.bk2",
+  "format": "bk2",
+  "frames": 11706,
+  "fps": 59.826089499853765,
+  "rerecords": 4759,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1986-06.d64",
+    "sha1": "1f0cff582923b4212c0e523ad0529ebc26676d83"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5319M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=AfE_ta2dCGw"
+  }
+ ],
+ "submitted": "2023-06-09T11:23:07.278164",
+ "attachments": [],
+ "forum": {
+  "topicId": 1613,
+  "url": "https://forum.toolassisted.run/t/1613"
+ }
+}

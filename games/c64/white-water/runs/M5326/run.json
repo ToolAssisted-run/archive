@@ -1,0 +1,52 @@
+{
+ "id": "M5326",
+ "game": "c64/white-water",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5326.bk2",
+  "format": "bk2",
+  "frames": 15003,
+  "fps": 59.826089499853765,
+  "rerecords": 765,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1989-11.d64",
+    "sha1": "461493e6f7fcc4699beac9da8fcdd40f40bff445"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5326M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qk4Y3dhAkjc"
+  }
+ ],
+ "submitted": "2023-06-11T01:45:29.172166",
+ "attachments": [],
+ "forum": {
+  "topicId": 1617,
+  "url": "https://forum.toolassisted.run/t/1617"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5361",
+ "game": "c64/gorf",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5361.bk2",
+  "format": "bk2",
+  "frames": 8004,
+  "fps": 59.826089499853765,
+  "rerecords": 3291,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "Gorf (1983)(Commodore).crt",
+    "sha1": "b1eb2be6dec529c2caffad4e40cd8c54253e16cb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5361M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=vzI1QfzH20E"
+  }
+ ],
+ "submitted": "2023-06-24T00:09:34.027683",
+ "attachments": [],
+ "forum": {
+  "topicId": 1619,
+  "url": "https://forum.toolassisted.run/t/1619"
+ }
+}

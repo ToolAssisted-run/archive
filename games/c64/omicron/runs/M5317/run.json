@@ -1,0 +1,52 @@
+{
+ "id": "M5317",
+ "game": "c64/omicron",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5317.bk2",
+  "format": "bk2",
+  "frames": 11923,
+  "fps": 59.826089499853765,
+  "rerecords": 6854,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1987-04.d64",
+    "sha1": "2e37ea0f4fde09acc4065c1ad455c9217737bd7a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5317M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=T8pt4inEX7E"
+  }
+ ],
+ "submitted": "2023-06-08T21:01:17.720085",
+ "attachments": [],
+ "forum": {
+  "topicId": 1611,
+  "url": "https://forum.toolassisted.run/t/1611"
+ }
+}
