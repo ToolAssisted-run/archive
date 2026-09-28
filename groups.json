@@ -55,6 +55,17 @@
    "createdAt": "2026-09-11"
   },
   {
+   "key": "bc-comics",
+   "title": "B.C.",
+   "games": [
+    "c64/b-c-s-quest-for-tires",
+    "coleco/b-c-ii-grogs-revenge",
+    "coleco/b-c-s-quest-for-tires"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-09-28"
+  },
+  {
    "key": "barbarian",
    "title": "Barbarian",
    "games": [
