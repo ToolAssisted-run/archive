@@ -10565,6 +10565,17 @@
    "date": "2026-09-28",
    "at": "2026-09-28T03:31:11Z",
    "reason": "Changed from the group form: snes/super-off-road-the-baja moved in"
+  },
+  {
+   "kind": "group",
+   "key": "the-simpsons",
+   "field": "games",
+   "from": "nes/the-simpsons-bart-vs-the-space-mutants, nes/the-simpsons-bart-vs-the-world, nes/the-simpsons-bartman-meets-radioactive-man",
+   "to": "nes/the-simpsons-bart-vs-the-space-mutants, nes/the-simpsons-bart-vs-the-world, nes/the-simpsons-bartman-meets-radioactive-man, snes/krustys-super-fun-house",
+   "by": "CloakTheLurker",
+   "date": "2026-09-28",
+   "at": "2026-09-28T03:36:32Z",
+   "reason": "Changed from the group form: snes/krustys-super-fun-house moved in"
   }
  ]
 }
