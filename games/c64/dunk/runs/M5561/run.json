@@ -1,0 +1,52 @@
+{
+ "id": "M5561",
+ "game": "c64/dunk",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5561.bk2",
+  "format": "bk2",
+  "frames": 7621,
+  "fps": 59.826089499853765,
+  "rerecords": 4215,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1986-04.d64",
+    "sha1": "27a2cb09bc6be93669e4ec5a5029dace2a420367"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5561M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bRObhXL1faY"
+  }
+ ],
+ "submitted": "2023-09-12T12:05:18.383455",
+ "attachments": [],
+ "forum": {
+  "topicId": 1668,
+  "url": "https://forum.toolassisted.run/t/1668"
+ }
+}

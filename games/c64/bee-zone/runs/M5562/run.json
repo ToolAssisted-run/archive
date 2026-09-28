@@ -1,0 +1,52 @@
+{
+ "id": "M5562",
+ "game": "c64/bee-zone",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5562.bk2",
+  "format": "bk2",
+  "frames": 2541,
+  "fps": 59.826089499853765,
+  "rerecords": 241,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.0",
+  "files": [
+   {
+    "name": "1987-09.d64",
+    "sha1": "dd6f00de8976876c0d12d50d7a1f8f6ec714a01d"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5562M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=9pNk6GA7fjs"
+  }
+ ],
+ "submitted": "2023-09-12T20:09:54.618685",
+ "attachments": [],
+ "forum": {
+  "topicId": 1670,
+  "url": "https://forum.toolassisted.run/t/1670"
+ }
+}

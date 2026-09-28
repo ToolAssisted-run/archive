@@ -1,0 +1,52 @@
+{
+ "id": "M5585",
+ "game": "c64/space-worms",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5585.bk2",
+  "format": "bk2",
+  "frames": 6007,
+  "fps": 59.826089499853765,
+  "rerecords": 3458,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1989-04.d64",
+    "sha1": "07bd8c1c8cced0a89317b3d00154772196f90942"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5585M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WNMAZ7taOXc"
+  }
+ ],
+ "submitted": "2023-09-24T21:44:30.273197",
+ "attachments": [],
+ "forum": {
+  "topicId": 1678,
+  "url": "https://forum.toolassisted.run/t/1678"
+ }
+}

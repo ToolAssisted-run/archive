@@ -1,0 +1,52 @@
+{
+ "id": "M5583",
+ "game": "c64/basketball-sam-ed",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5583.bk2",
+  "format": "bk2",
+  "frames": 40359,
+  "fps": 59.826089499853765,
+  "rerecords": 10667,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1987-07.d64",
+    "sha1": "8b69acf7028c68aa73b3777e0a688d0a53f63f26"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5583M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=S1NjMrLAuVg"
+  }
+ ],
+ "submitted": "2023-09-24T08:07:26.726757",
+ "attachments": [],
+ "forum": {
+  "topicId": 1674,
+  "url": "https://forum.toolassisted.run/t/1674"
+ }
+}

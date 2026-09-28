@@ -1,0 +1,52 @@
+{
+ "id": "M5569",
+ "game": "c64/oils-well",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5569.bk2",
+  "format": "bk2",
+  "frames": 12412,
+  "fps": 59.826089499853765,
+  "rerecords": 2702,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "Oils_Well.crt",
+    "sha1": "19624a7555a8d97e14c866ff0c30fc62d27a3e0e"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5569M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=eViJZ7csRys"
+  }
+ ],
+ "submitted": "2023-09-15T23:06:45.905574",
+ "attachments": [],
+ "forum": {
+  "topicId": 1672,
+  "url": "https://forum.toolassisted.run/t/1672"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5584",
+ "game": "c64/q-bird",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5584.bk2",
+  "format": "bk2",
+  "frames": 14719,
+  "fps": 59.826089499853765,
+  "rerecords": 554,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1986-12.d64",
+    "sha1": "eaf8899c861a090f01c678174dd30f3e7532e325"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5584M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=KWaHNue7jpU"
+  }
+ ],
+ "submitted": "2023-09-24T16:29:55.027169",
+ "attachments": [],
+ "forum": {
+  "topicId": 1676,
+  "url": "https://forum.toolassisted.run/t/1676"
+ }
+}
