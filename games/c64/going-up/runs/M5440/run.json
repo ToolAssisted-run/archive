@@ -1,0 +1,52 @@
+{
+ "id": "M5440",
+ "game": "c64/going-up",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5440.bk2",
+  "format": "bk2",
+  "frames": 31216,
+  "fps": 59.826089499853765,
+  "rerecords": 1346,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1987-06.d64",
+    "sha1": "e3c97c1f13c57efaa369b118b68fd067abaf8864"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5440M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=v_CAApb-yXQ"
+  }
+ ],
+ "submitted": "2023-07-24T07:27:19.020912",
+ "attachments": [],
+ "forum": {
+  "topicId": 1646,
+  "url": "https://forum.toolassisted.run/t/1646"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5443",
+ "game": "c64/avenger",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5443.bk2",
+  "format": "bk2",
+  "frames": 2172,
+  "fps": 59.826089499853765,
+  "rerecords": 1187,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "Avenger (1982)(Commodore).crt",
+    "sha1": "8970d0d0bf82d59c2d9e11a844107c7bc18ab90e"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5443M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=K3lyzwc9-v0"
+  }
+ ],
+ "submitted": "2023-07-25T01:15:59.656173",
+ "attachments": [],
+ "forum": {
+  "topicId": 1648,
+  "url": "https://forum.toolassisted.run/t/1648"
+ }
+}

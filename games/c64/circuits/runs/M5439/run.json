@@ -1,0 +1,52 @@
+{
+ "id": "M5439",
+ "game": "c64/circuits",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5439.bk2",
+  "format": "bk2",
+  "frames": 17895,
+  "fps": 59.826089499853765,
+  "rerecords": 1909,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1989-12.d64",
+    "sha1": "73036a7e33e5d0e90348d7e0437f4184bec3f674"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5439M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=p-25Opg6Wjk"
+  }
+ ],
+ "submitted": "2023-07-24T03:18:11.962811",
+ "attachments": [],
+ "forum": {
+  "topicId": 1644,
+  "url": "https://forum.toolassisted.run/t/1644"
+ }
+}

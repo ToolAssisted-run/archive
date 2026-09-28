@@ -1,0 +1,51 @@
+{
+ "id": "M5464",
+ "game": "a2600/miner-2049er",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5464.bk2",
+  "format": "bk2",
+  "frames": 19276,
+  "rerecords": 2417,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "Miner 2049er (1982) (Tigervision).a26",
+    "sha1": "5470afe5961f9fdd2f6388f53f682f3264a95ce9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5464M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=WZt_2TT-ubs"
+  }
+ ],
+ "submitted": "2023-08-02T05:30:30.719966",
+ "attachments": [],
+ "forum": {
+  "topicId": 1652,
+  "url": "https://forum.toolassisted.run/t/1652"
+ }
+}
