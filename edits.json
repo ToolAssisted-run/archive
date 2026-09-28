@@ -10587,6 +10587,17 @@
    "date": "2026-09-28",
    "at": "2026-09-28T04:38:58Z",
    "reason": "added key art"
+  },
+  {
+   "kind": "game",
+   "key": "zxs/the-golden-baton",
+   "field": "released",
+   "from": "",
+   "to": "1983",
+   "by": "CloakTheLurker",
+   "date": "2026-09-28",
+   "at": "2026-09-28T04:40:40Z",
+   "reason": "added info and link"
   }
  ]
 }
