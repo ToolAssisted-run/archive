@@ -1,0 +1,55 @@
+{
+ "id": "M5965",
+ "game": "c64/human-rat-race",
+ "category": {
+  "goal": "race-to-the-other-side"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5965.bk2",
+  "format": "bk2",
+  "frames": 1484,
+  "fps": 59.826089499853765,
+  "rerecords": 1811,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1988-03.d64",
+    "sha1": "8bf159ae407a5be8aafc7da170ab48ca097ed26b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5965M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=kRIC5qBfx4E"
+  }
+ ],
+ "submitted": "2024-05-21T22:14:12.368182",
+ "attachments": [],
+ "forum": {
+  "topicId": 1852,
+  "url": "https://forum.toolassisted.run/t/1852"
+ }
+}
