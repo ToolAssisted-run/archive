@@ -1,0 +1,52 @@
+{
+ "id": "M6514",
+ "game": "c64/the-14-15-puzzle",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6514.bk2",
+  "format": "bk2",
+  "frames": 6061,
+  "fps": 59.826089499853765,
+  "rerecords": 31923,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "14-15 Puzzle, The (1991)(Loadstar).d64",
+    "sha1": "76b8363d5ec39bd29572dd40706bf1224c06623b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6514M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=76noTuqGtc8"
+  }
+ ],
+ "submitted": "2025-04-27T12:29:01.283853",
+ "attachments": [],
+ "forum": {
+  "topicId": 1802,
+  "url": "https://forum.toolassisted.run/t/1802"
+ }
+}

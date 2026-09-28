@@ -1,0 +1,52 @@
+{
+ "id": "M6492",
+ "game": "c64/eagles-gators",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6492.bk2",
+  "format": "bk2",
+  "frames": 1110,
+  "fps": 59.826089499853765,
+  "rerecords": 78,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1986-09.d64",
+    "sha1": "b3f9be022f675c612a50b63b416f8165d74357f2"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6492M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=QFT6MWdQI0g"
+  }
+ ],
+ "submitted": "2025-04-18T06:09:37.490336",
+ "attachments": [],
+ "forum": {
+  "topicId": 1800,
+  "url": "https://forum.toolassisted.run/t/1800"
+ }
+}

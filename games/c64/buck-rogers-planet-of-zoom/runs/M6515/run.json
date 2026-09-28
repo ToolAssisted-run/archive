@@ -1,0 +1,52 @@
+{
+ "id": "M6515",
+ "game": "c64/buck-rogers-planet-of-zoom",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6515.bk2",
+  "format": "bk2",
+  "frames": 30482,
+  "fps": 59.826089499853765,
+  "rerecords": 21501,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "Buck Rogers - Planet of Zoom (1983)(Sega)[a2].crt",
+    "sha1": "cf66620d53eb83e0f8ab3bb60731fce93a25a8c6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6515M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=SCE9jBL83Z0"
+  }
+ ],
+ "submitted": "2025-04-28T00:07:43.962872",
+ "attachments": [],
+ "forum": {
+  "topicId": 1804,
+  "url": "https://forum.toolassisted.run/t/1804"
+ }
+}

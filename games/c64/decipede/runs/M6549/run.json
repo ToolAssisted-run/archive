@@ -1,0 +1,52 @@
+{
+ "id": "M6549",
+ "game": "c64/decipede",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6549.bk2",
+  "format": "bk2",
+  "frames": 5274,
+  "fps": 59.826089499853765,
+  "rerecords": 1392,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1987-01.d64",
+    "sha1": "760e93a577c3313e57e9a3838b513842a7543ffb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6549M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=zZdNMRNXlUU"
+  }
+ ],
+ "submitted": "2025-05-23T00:46:20.528432",
+ "attachments": [],
+ "forum": {
+  "topicId": 1808,
+  "url": "https://forum.toolassisted.run/t/1808"
+ }
+}
