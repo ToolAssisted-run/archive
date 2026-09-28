@@ -1,0 +1,51 @@
+{
+ "id": "M4966",
+ "game": "c64/yathzee",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4966.bk2",
+  "format": "bk2",
+  "frames": 6550,
+  "rerecords": 12571,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.6.3",
+  "files": [
+   {
+    "name": "YATHZEE.D64",
+    "sha1": "8f0965eed67738260683a5f19a3ce84b9c55bb94"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4966M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=_r38rXYeXZ8"
+  }
+ ],
+ "submitted": "2022-12-02T19:14:04.469572",
+ "attachments": [],
+ "forum": {
+  "topicId": 1585,
+  "url": "https://forum.toolassisted.run/t/1585"
+ }
+}

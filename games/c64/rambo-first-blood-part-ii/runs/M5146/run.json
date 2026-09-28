@@ -1,0 +1,51 @@
+{
+ "id": "M5146",
+ "game": "c64/rambo-first-blood-part-ii",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5146.bk2",
+  "format": "bk2",
+  "frames": 16258,
+  "rerecords": 3893,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Rambo_First_Blood_Part_II_[Thunder_Mountain_1985].g64",
+    "sha1": "b409b56269b47cb4d880a1314fb2ffa589ea9499"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5146M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=p1ubQOAuhok"
+  }
+ ],
+ "submitted": "2023-03-09T03:50:05.323476",
+ "attachments": [],
+ "forum": {
+  "topicId": 1591,
+  "url": "https://forum.toolassisted.run/t/1591"
+ }
+}

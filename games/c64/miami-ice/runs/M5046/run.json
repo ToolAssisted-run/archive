@@ -1,0 +1,51 @@
+{
+ "id": "M5046",
+ "game": "c64/miami-ice",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5046.bk2",
+  "format": "bk2",
+  "frames": 8418,
+  "rerecords": 5122,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.6.3",
+  "files": [
+   {
+    "name": "special1988a.d64",
+    "sha1": "a62ba2193e13e2f917b12dc4dbd6a11e121d6e13"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5046M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=drfgtEIwnOo"
+  }
+ ],
+ "submitted": "2023-01-02T21:59:32.258304",
+ "attachments": [],
+ "forum": {
+  "topicId": 1587,
+  "url": "https://forum.toolassisted.run/t/1587"
+ }
+}

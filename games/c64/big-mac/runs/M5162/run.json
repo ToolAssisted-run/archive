@@ -1,0 +1,51 @@
+{
+ "id": "M5162",
+ "game": "c64/big-mac",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5162.bk2",
+  "format": "bk2",
+  "frames": 37222,
+  "rerecords": 6721,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "big_mac.tap",
+    "sha1": "4eb41bb183176a9e9630e1c58d7ac2f9d08aeaa3"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5162M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3E2FGSqzzyI"
+  }
+ ],
+ "submitted": "2023-03-13T15:45:26.156154",
+ "attachments": [],
+ "forum": {
+  "topicId": 1593,
+  "url": "https://forum.toolassisted.run/t/1593"
+ }
+}

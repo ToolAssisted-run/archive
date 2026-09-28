@@ -1,0 +1,52 @@
+{
+ "id": "M5114",
+ "game": "c64/fort-apocalypse",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5114.bk2",
+  "format": "bk2",
+  "frames": 9646,
+  "fps": 59.826089499853765,
+  "rerecords": 30983,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Fort Apocalypse (1982)(Synapse Software).d64",
+    "sha1": "579934fea6c7911cf9add338a2cf21e3b8e01e0f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5114M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xgNNPBqhlxs"
+  }
+ ],
+ "submitted": "2023-02-25T18:29:24.609775",
+ "attachments": [],
+ "forum": {
+  "topicId": 1589,
+  "url": "https://forum.toolassisted.run/t/1589"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5179",
+ "game": "c64/chopper-1",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5179.bk2",
+  "format": "bk2",
+  "frames": 1870,
+  "fps": 59.826089499853765,
+  "rerecords": 1942,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8.0",
+  "files": [
+   {
+    "name": "1986-08.d64",
+    "sha1": "fd404524b77795d01aa6f99b488b314989c2618f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5179M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=CuMtJ2EN8zs"
+  }
+ ],
+ "submitted": "2023-03-24T01:11:57.945597",
+ "attachments": [],
+ "forum": {
+  "topicId": 1595,
+  "url": "https://forum.toolassisted.run/t/1595"
+ }
+}
