@@ -1,0 +1,51 @@
+{
+ "id": "M3518",
+ "game": "snes/f-zero",
+ "category": {
+  "goal": "queen-league"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3518.lsmv",
+  "format": "lsmv",
+  "frames": 41340,
+  "rerecords": 41016,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr2-\u03b223",
+  "files": [
+   {
+    "name": "F-Zero (U).sfc",
+    "sha1": "d3efd32b68f1fe37a82db9d9929b7ca7cc1a3af4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3518M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=_xVZB3WjV1Y"
+  }
+ ],
+ "submitted": "2017-09-12T14:51:19",
+ "attachments": [],
+ "forum": {
+  "topicId": 1555,
+  "url": "https://forum.toolassisted.run/t/1555"
+ }
+}

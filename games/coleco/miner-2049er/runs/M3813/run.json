@@ -1,0 +1,51 @@
+{
+ "id": "M3813",
+ "game": "coleco/miner-2049er",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3813.bk2",
+  "format": "bk2",
+  "frames": 27361,
+  "rerecords": 18182,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3",
+  "files": [
+   {
+    "name": "Miner 2049ER.ROM",
+    "sha1": "b29cd441e9edebc37abc08c3fd932f1d4185bacd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3813M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DeJlhD7KbUQ"
+  }
+ ],
+ "submitted": "2018-11-03T00:50:09",
+ "attachments": [],
+ "forum": {
+  "topicId": 1561,
+  "url": "https://forum.toolassisted.run/t/1561"
+ }
+}

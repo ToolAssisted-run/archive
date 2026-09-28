@@ -1,0 +1,51 @@
+{
+ "id": "M3889",
+ "game": "snes/krustys-super-fun-house",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3889.lsmv",
+  "format": "lsmv",
+  "frames": 256063,
+  "rerecords": 207693,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr2-\u03b223",
+  "files": [
+   {
+    "name": "Krusty's Super Fun House (U) (V1.1).smc",
+    "sha1": "02b7a15f1c712503a36fc927ad688ade9ad8a0e5"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3889M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=MqEspt4_7kA"
+  }
+ ],
+ "submitted": "2019-01-15T21:20:47",
+ "attachments": [],
+ "forum": {
+  "topicId": 1562,
+  "url": "https://forum.toolassisted.run/t/1562"
+ }
+}

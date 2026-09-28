@@ -1,0 +1,51 @@
+{
+ "id": "M3479",
+ "game": "snes/f-zero",
+ "category": {
+  "goal": "knight-league"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3479.lsmv",
+  "format": "lsmv",
+  "frames": 44286,
+  "rerecords": 118143,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr2-\u03b223",
+  "files": [
+   {
+    "name": "F-Zero (U).sfc",
+    "sha1": "d3efd32b68f1fe37a82db9d9929b7ca7cc1a3af4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3479M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=lHC4G-SMxdI"
+  }
+ ],
+ "submitted": "2017-07-25T16:27:10",
+ "attachments": [],
+ "forum": {
+  "topicId": 1554,
+  "url": "https://forum.toolassisted.run/t/1554"
+ }
+}

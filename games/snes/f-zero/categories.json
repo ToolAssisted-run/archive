@@ -1,0 +1,20 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "knight-league",
+     "label": "Knight League",
+     "rule": "Imported as \"Knight League\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "queen-league",
+     "label": "Queen League",
+     "rule": "Imported as \"Queen League\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}
