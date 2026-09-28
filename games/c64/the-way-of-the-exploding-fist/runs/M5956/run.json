@@ -1,0 +1,52 @@
+{
+ "id": "M5956",
+ "game": "c64/the-way-of-the-exploding-fist",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5956.bk2",
+  "format": "bk2",
+  "frames": 25300,
+  "fps": 59.826089499853765,
+  "rerecords": 9693,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "Kung-Fu_The_Way_of_the_Exploding_Fist_1985_Melbourne_House.d64",
+    "sha1": "16e5843df3fe7eefe8b2a63a8ec3137de5f93323"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5956M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=pGYjIlOj9A8"
+  }
+ ],
+ "submitted": "2024-05-18T07:45:52.369141",
+ "attachments": [],
+ "forum": {
+  "topicId": 1743,
+  "url": "https://forum.toolassisted.run/t/1743"
+ }
+}

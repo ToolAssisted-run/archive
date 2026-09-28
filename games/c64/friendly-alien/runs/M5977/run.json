@@ -1,0 +1,52 @@
+{
+ "id": "M5977",
+ "game": "c64/friendly-alien",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5977.bk2",
+  "format": "bk2",
+  "frames": 5981,
+  "fps": 59.826089499853765,
+  "rerecords": 1412,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1985-09.d64",
+    "sha1": "e07b6553edb0d7db8c0848f8797b91ace674b2c9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5977M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wu_zh_TRrMA"
+  }
+ ],
+ "submitted": "2024-06-05T01:55:10.531255",
+ "attachments": [],
+ "forum": {
+  "topicId": 1745,
+  "url": "https://forum.toolassisted.run/t/1745"
+ }
+}
