@@ -1,0 +1,52 @@
+{
+ "id": "M5386",
+ "game": "c64/quolerus",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5386.bk2",
+  "format": "bk2",
+  "frames": 9348,
+  "fps": 59.826089499853765,
+  "rerecords": 6786,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1988-11.d64",
+    "sha1": "73e6c2b883faccf7207380ce7d6c616857d36cdb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5386M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2cvydS07G0Y"
+  }
+ ],
+ "submitted": "2023-07-01T16:49:13.522067",
+ "attachments": [],
+ "forum": {
+  "topicId": 1627,
+  "url": "https://forum.toolassisted.run/t/1627"
+ }
+}

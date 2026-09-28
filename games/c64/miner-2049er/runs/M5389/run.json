@@ -1,0 +1,52 @@
+{
+ "id": "M5389",
+ "game": "c64/miner-2049er",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5389.bk2",
+  "format": "bk2",
+  "frames": 33265,
+  "fps": 59.826089499853765,
+  "rerecords": 4671,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "Miner 2049er (1982)(Big Five Software).crt",
+    "sha1": "d7a30e2069ee6559f0ebb0ba8c03b6be129668d7"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5389M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=zq81f4YYAHg"
+  }
+ ],
+ "submitted": "2023-07-02T20:02:17.544502",
+ "attachments": [],
+ "forum": {
+  "topicId": 1631,
+  "url": "https://forum.toolassisted.run/t/1631"
+ }
+}

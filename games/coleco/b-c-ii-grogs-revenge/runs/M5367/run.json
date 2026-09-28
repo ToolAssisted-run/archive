@@ -1,0 +1,51 @@
+{
+ "id": "M5367",
+ "game": "coleco/b-c-ii-grogs-revenge",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5367.bk2",
+  "format": "bk2",
+  "frames": 11399,
+  "rerecords": 5411,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.0",
+  "files": [
+   {
+    "name": "BC's Quest for Tires II - Grog's Revenge (1984) (24k) [a1].col",
+    "sha1": "9fdd739a05f496837946f42c3ef08ebe7df142dc"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5367M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3LEh-Atk7h4"
+  }
+ ],
+ "submitted": "2023-06-25T05:47:00.143165",
+ "attachments": [],
+ "forum": {
+  "topicId": 1621,
+  "url": "https://forum.toolassisted.run/t/1621"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5376",
+ "game": "c64/race-ace",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5376.bk2",
+  "format": "bk2",
+  "frames": 5679,
+  "fps": 59.826089499853765,
+  "rerecords": 4346,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1990-05.d64",
+    "sha1": "56fcb53fa15f35ef5d405dd48987366759962cf6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5376M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=eJXmzlK2zG4"
+  }
+ ],
+ "submitted": "2023-06-28T01:30:57.945652",
+ "attachments": [],
+ "forum": {
+  "topicId": 1625,
+  "url": "https://forum.toolassisted.run/t/1625"
+ }
+}

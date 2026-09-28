@@ -1,0 +1,52 @@
+{
+ "id": "M5388",
+ "game": "c64/bagdad",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5388.bk2",
+  "format": "bk2",
+  "frames": 7085,
+  "fps": 59.826089499853765,
+  "rerecords": 2589,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1984-11.d64",
+    "sha1": "aa8aef3acc6626dfb5e869aa608d5c605e2ba5e5"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5388M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IZSad0SAgBk"
+  }
+ ],
+ "submitted": "2023-07-02T02:05:39.196463",
+ "attachments": [],
+ "forum": {
+  "topicId": 1629,
+  "url": "https://forum.toolassisted.run/t/1629"
+ }
+}
