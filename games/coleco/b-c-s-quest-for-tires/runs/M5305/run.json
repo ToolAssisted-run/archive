@@ -1,0 +1,51 @@
+{
+ "id": "M5305",
+ "game": "coleco/b-c-s-quest-for-tires",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5305.bk2",
+  "format": "bk2",
+  "frames": 6017,
+  "rerecords": 4368,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "BC's Quest for Tires (USA, Europe).col",
+    "sha1": "683973d7e24cb0383132acf2562d3ebef739018f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5305M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=eUwTSjDCIwc"
+  }
+ ],
+ "submitted": "2023-06-04T11:17:54.566406",
+ "attachments": [],
+ "forum": {
+  "topicId": 1607,
+  "url": "https://forum.toolassisted.run/t/1607"
+ }
+}

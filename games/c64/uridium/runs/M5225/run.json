@@ -1,0 +1,52 @@
+{
+ "id": "M5225",
+ "game": "c64/uridium",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5225.bk2",
+  "format": "bk2",
+  "frames": 57220,
+  "fps": 59.826089499853765,
+  "rerecords": 9470,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Uridium (1986)(Hewson).tap",
+    "sha1": "6a397908135b87f64239becbeb166285c8b8c4a5"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5225M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8DeIRjyxvK8"
+  }
+ ],
+ "submitted": "2023-04-16T11:10:38.615065",
+ "attachments": [],
+ "forum": {
+  "topicId": 1599,
+  "url": "https://forum.toolassisted.run/t/1599"
+ }
+}

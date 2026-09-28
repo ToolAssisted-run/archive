@@ -1,0 +1,52 @@
+{
+ "id": "M5235",
+ "game": "c64/spike",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5235.bk2",
+  "format": "bk2",
+  "frames": 3330,
+  "fps": 59.826089499853765,
+  "rerecords": 1410,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "1983-12.d64",
+    "sha1": "09cb44fe93da304986b9ebf8c4af14a6dcb95679"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5235M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7ajzVNNlVh4"
+  }
+ ],
+ "submitted": "2023-04-24T14:57:52.969828",
+ "attachments": [],
+ "forum": {
+  "topicId": 1601,
+  "url": "https://forum.toolassisted.run/t/1601"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "id": "M5213",
+ "game": "bsx/bs-f-zero-grand-prix-2",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5213.bk2",
+  "format": "bk2",
+  "frames": 38336,
+  "rerecords": 57278302,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "BS F-ZERO Grand Prix 2 (J).smc",
+    "sha1": "cd7a87f884f436494b5c910581eed6086d041336"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5213M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2x_CFu1ySVE"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rWi9w-TShfI"
+  }
+ ],
+ "submitted": "2023-04-08T19:57:04.468217",
+ "attachments": [],
+ "forum": {
+  "topicId": 1597,
+  "url": "https://forum.toolassisted.run/t/1597"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5298",
+ "game": "arcade/moon-patrol",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5298.bk2",
+  "format": "bk2",
+  "frames": 46172,
+  "fps": 56.73758865271466,
+  "rerecords": 1763,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "mpatrol.zip",
+    "sha1": "53a8147bbd336ca7d164cf4d97ca1f3482b35e1a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5298M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=RPGCpQTX2N0"
+  }
+ ],
+ "submitted": "2023-05-31T07:13:19.903157",
+ "attachments": [],
+ "forum": {
+  "topicId": 1605,
+  "url": "https://forum.toolassisted.run/t/1605"
+ }
+}

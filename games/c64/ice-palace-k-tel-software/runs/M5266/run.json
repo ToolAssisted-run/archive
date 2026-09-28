@@ -1,0 +1,52 @@
+{
+ "id": "M5266",
+ "game": "c64/ice-palace-k-tel-software",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5266.bk2",
+  "format": "bk2",
+  "frames": 29722,
+  "fps": 59.826089499853765,
+  "rerecords": 8602,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Ice Palace (1984)(KTel)[cr].d64",
+    "sha1": "532adadc9358f60b6f3edd315337d53d35068ace"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5266M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Hm7J_o3v4eA"
+  }
+ ],
+ "submitted": "2023-05-11T01:06:29.829992",
+ "attachments": [],
+ "forum": {
+  "topicId": 1603,
+  "url": "https://forum.toolassisted.run/t/1603"
+ }
+}
