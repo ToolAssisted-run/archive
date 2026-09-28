@@ -1,0 +1,52 @@
+{
+ "id": "M6620",
+ "game": "c64/isolation",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6620.bk2",
+  "format": "bk2",
+  "frames": 2717,
+  "fps": 59.826089499853765,
+  "rerecords": 837,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "1990-05.d64",
+    "sha1": "56fcb53fa15f35ef5d405dd48987366759962cf6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6620M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rFqGEwZLrTs"
+  }
+ ],
+ "submitted": "2025-06-28T10:17:28.227969",
+ "attachments": [],
+ "forum": {
+  "topicId": 1823,
+  "url": "https://forum.toolassisted.run/t/1823"
+ }
+}

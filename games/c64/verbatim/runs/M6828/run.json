@@ -1,0 +1,52 @@
+{
+ "id": "M6828",
+ "game": "c64/verbatim",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6828.bk2",
+  "format": "bk2",
+  "frames": 1141,
+  "fps": 59.826089499853765,
+  "rerecords": 37,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.10",
+  "files": [
+   {
+    "name": "1989-05.d64",
+    "sha1": "e22d19a5eb2a632e317930774e8fab4fbbf95491"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6828M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7F-yNgJyInA"
+  }
+ ],
+ "submitted": "2025-11-22T12:07:10.702498",
+ "attachments": [],
+ "forum": {
+  "topicId": 1827,
+  "url": "https://forum.toolassisted.run/t/1827"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M6585",
+ "game": "c64/alpha-anxiety",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6585.bk2",
+  "format": "bk2",
+  "frames": 2060,
+  "fps": 59.826089499853765,
+  "rerecords": 2720,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "1985-03.d64",
+    "sha1": "8a58dccbaa30519d8c5e6513096edcc567164ae6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6585M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=cz_5raLYFMs"
+  }
+ ],
+ "submitted": "2025-06-06T14:57:14.462244",
+ "attachments": [],
+ "forum": {
+  "topicId": 1821,
+  "url": "https://forum.toolassisted.run/t/1821"
+ }
+}

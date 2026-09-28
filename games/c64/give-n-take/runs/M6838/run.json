@@ -1,0 +1,52 @@
+{
+ "id": "M6838",
+ "game": "c64/give-n-take",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6838.bk2",
+  "format": "bk2",
+  "frames": 15816,
+  "fps": 59.826089499853765,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "1987-08.d64",
+    "sha1": "1b1e7c0858169c75de1c297605f3062f3469eea1"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6838M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0gdtgu-mpJg"
+  }
+ ],
+ "submitted": "2025-11-24T08:29:34.272285",
+ "attachments": [],
+ "forum": {
+  "topicId": 1829,
+  "url": "https://forum.toolassisted.run/t/1829"
+ }
+}

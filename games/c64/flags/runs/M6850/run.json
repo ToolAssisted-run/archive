@@ -1,0 +1,52 @@
+{
+ "id": "M6850",
+ "game": "c64/flags",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6850.bk2",
+  "format": "bk2",
+  "frames": 3957,
+  "fps": 59.826089499853765,
+  "rerecords": 245,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "1990-01.d64",
+    "sha1": "9680f597f6a3800b718a15c96b364c201ea28249"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6850M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=RUn0hLbg3P0"
+  }
+ ],
+ "submitted": "2025-11-28T19:15:37.124402",
+ "attachments": [],
+ "forum": {
+  "topicId": 1831,
+  "url": "https://forum.toolassisted.run/t/1831"
+ }
+}
