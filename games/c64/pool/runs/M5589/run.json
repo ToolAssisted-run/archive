@@ -1,0 +1,52 @@
+{
+ "id": "M5589",
+ "game": "c64/pool",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5589.bk2",
+  "format": "bk2",
+  "frames": 1944,
+  "fps": 59.826089499853765,
+  "rerecords": 590,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1985-04.d64",
+    "sha1": "bb9d9ee44382d9ed7b4b87f0f11e2952dbb07fe2"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5589M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ik31K53Ftpo"
+  }
+ ],
+ "submitted": "2023-09-25T17:02:58.403301",
+ "attachments": [],
+ "forum": {
+  "topicId": 1684,
+  "url": "https://forum.toolassisted.run/t/1684"
+ }
+}

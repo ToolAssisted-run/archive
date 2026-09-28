@@ -1,0 +1,52 @@
+{
+ "id": "M5604",
+ "game": "c64/snake-pit",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5604.bk2",
+  "format": "bk2",
+  "frames": 15778,
+  "fps": 59.826089499853765,
+  "rerecords": 8998,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1987-12.d64",
+    "sha1": "5b327832fb3b39436aa4a374b6612412f39b31e9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5604M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=O8CGVTd1kvA"
+  }
+ ],
+ "submitted": "2023-10-02T02:37:26.811049",
+ "attachments": [],
+ "forum": {
+  "topicId": 1686,
+  "url": "https://forum.toolassisted.run/t/1686"
+ }
+}

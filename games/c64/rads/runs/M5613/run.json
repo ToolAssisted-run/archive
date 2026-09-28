@@ -1,0 +1,52 @@
+{
+ "id": "M5613",
+ "game": "c64/rads",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5613.bk2",
+  "format": "bk2",
+  "frames": 7455,
+  "fps": 59.826089499853765,
+  "rerecords": 2239,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1988-02.d64",
+    "sha1": "b6feac27d4c7c4f49f93f0b9d6af5f60c39a1288"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5613M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=BKyDmZq1x3M"
+  }
+ ],
+ "submitted": "2023-10-06T01:37:50.049371",
+ "attachments": [],
+ "forum": {
+  "topicId": 1688,
+  "url": "https://forum.toolassisted.run/t/1688"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5587",
+ "game": "c64/castle-dungeon",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5587.bk2",
+  "format": "bk2",
+  "frames": 4850,
+  "fps": 59.826089499853765,
+  "rerecords": 247,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1984-06.d64",
+    "sha1": "4e363caabfe7d4298ca244e3780f5a124e2c559f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5587M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=eRgjQYnz7o0"
+  }
+ ],
+ "submitted": "2023-09-25T05:49:17.522028",
+ "attachments": [],
+ "forum": {
+  "topicId": 1682,
+  "url": "https://forum.toolassisted.run/t/1682"
+ }
+}

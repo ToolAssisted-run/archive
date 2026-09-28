@@ -1,0 +1,52 @@
+{
+ "id": "M5617",
+ "game": "c64/the-forbidden-crypt",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5617.bk2",
+  "format": "bk2",
+  "frames": 37934,
+  "fps": 59.826089499853765,
+  "rerecords": 2434,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1985-02.d64",
+    "sha1": "3605ad6cf0492063cccba9924ed417bf71ddc95b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5617M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=M3zuVcTeOuY"
+  }
+ ],
+ "submitted": "2023-10-10T01:22:26.329482",
+ "attachments": [],
+ "forum": {
+  "topicId": 1690,
+  "url": "https://forum.toolassisted.run/t/1690"
+ }
+}
