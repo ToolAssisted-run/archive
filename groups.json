@@ -465,6 +465,17 @@
    ]
   },
   {
+   "key": "miner-2049er",
+   "title": "Miner 2049er",
+   "games": [
+    "a2600/miner-2049er",
+    "c64/miner-2049er",
+    "coleco/miner-2049er"
+   ],
+   "createdBy": "CloakTheLurker",
+   "createdAt": "2026-09-28"
+  },
+  {
    "key": "miner-willy",
    "title": "Miner Willy",
    "games": [
