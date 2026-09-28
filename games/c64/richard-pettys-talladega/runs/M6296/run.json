@@ -1,0 +1,52 @@
+{
+ "id": "M6296",
+ "game": "c64/richard-pettys-talladega",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6296.bk2",
+  "format": "bk2",
+  "frames": 52610,
+  "fps": 59.826089499853765,
+  "rerecords": 7558,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "Richard Petty's Talladega (1985)(Cosmi).d64",
+    "sha1": "62b033b3c1a4ccd27ebb36a81363858829ca42e6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6296M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Nb_2uABUPnE"
+  }
+ ],
+ "submitted": "2024-12-21T11:54:05.202974",
+ "attachments": [],
+ "forum": {
+  "topicId": 1795,
+  "url": "https://forum.toolassisted.run/t/1795"
+ }
+}

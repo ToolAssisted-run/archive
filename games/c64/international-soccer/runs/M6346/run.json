@@ -1,0 +1,52 @@
+{
+ "id": "M6346",
+ "game": "c64/international-soccer",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6346.bk2",
+  "format": "bk2",
+  "frames": 26734,
+  "fps": 59.826089499853765,
+  "rerecords": 23673,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "International Soccer (1983)(Commodore).crt",
+    "sha1": "63924a521517e1ca70683e6e3a5f429bc66fba5c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6346M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=q7nzOFJ6Jso"
+  }
+ ],
+ "submitted": "2025-01-14T14:21:43.468848",
+ "attachments": [],
+ "forum": {
+  "topicId": 1797,
+  "url": "https://forum.toolassisted.run/t/1797"
+ }
+}

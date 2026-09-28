@@ -1,0 +1,51 @@
+{
+ "id": "M6171",
+ "game": "snes/super-off-road-the-baja",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6171.bk2",
+  "format": "bk2",
+  "frames": 76210,
+  "rerecords": 24068,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "Super Off Road - The Baja (U).smc",
+    "sha1": "4928df356ebba1529066e021505d29f5e9beb168"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6171M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=5odNtzvyb00"
+  }
+ ],
+ "submitted": "2024-09-20T03:19:55.183769",
+ "attachments": [],
+ "forum": {
+  "topicId": 1787,
+  "url": "https://forum.toolassisted.run/t/1787"
+ }
+}

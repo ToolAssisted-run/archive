@@ -1,0 +1,52 @@
+{
+ "id": "M6213",
+ "game": "c64/oil-tycoon",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6213.bk2",
+  "format": "bk2",
+  "frames": 22045,
+  "fps": 59.826089499853765,
+  "rerecords": 1297,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1983-10.d64",
+    "sha1": "c8781be8b5607bd68586713d07def9d6ffdc7a6c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6213M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=iHJkfePPwdk"
+  }
+ ],
+ "submitted": "2024-10-04T20:05:02.196348",
+ "attachments": [],
+ "forum": {
+  "topicId": 1793,
+  "url": "https://forum.toolassisted.run/t/1793"
+ }
+}
