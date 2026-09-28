@@ -1,0 +1,52 @@
+{
+ "id": "M7066",
+ "game": "c64/word-match",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7066.bk2",
+  "format": "bk2",
+  "frames": 2963,
+  "fps": 59.826089499853765,
+  "rerecords": 271,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "1983-10.d64",
+    "sha1": "c8781be8b5607bd68586713d07def9d6ffdc7a6c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7066M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ljodu11la6I"
+  }
+ ],
+ "submitted": "2026-04-14T14:02:19.09855",
+ "attachments": [],
+ "forum": {
+  "topicId": 1839,
+  "url": "https://forum.toolassisted.run/t/1839"
+ }
+}

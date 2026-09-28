@@ -1,0 +1,52 @@
+{
+ "id": "M7131",
+ "game": "c64/arcade-baseball",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7131.bk2",
+  "format": "bk2",
+  "frames": 2560,
+  "fps": 59.826089499853765,
+  "rerecords": 228,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "1986-05.d64",
+    "sha1": "df5fc5d0e3698f7cedc571842a5beb4ee6cafa7e"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7131M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ZemIESit884"
+  }
+ ],
+ "submitted": "2026-05-13T13:14:31.593966",
+ "attachments": [],
+ "forum": {
+  "topicId": 1843,
+  "url": "https://forum.toolassisted.run/t/1843"
+ }
+}

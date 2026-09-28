@@ -1,0 +1,52 @@
+{
+ "id": "M6946",
+ "game": "c64/dragonsden",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6946.bk2",
+  "format": "bk2",
+  "frames": 46675,
+  "fps": 59.826089499853765,
+  "rerecords": 7889,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "Dragon's Den (1983)(Commodore).crt",
+    "sha1": "5188662554a7d04ce935f86414ae23e7edeeb4e4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6946M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=GKhf0EQ68-k"
+  }
+ ],
+ "submitted": "2026-01-16T12:12:55.708464",
+ "attachments": [],
+ "forum": {
+  "topicId": 1833,
+  "url": "https://forum.toolassisted.run/t/1833"
+ }
+}

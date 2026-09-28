@@ -1,0 +1,52 @@
+{
+ "id": "M6983",
+ "game": "c64/block-battle",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6983.bk2",
+  "format": "bk2",
+  "frames": 7137,
+  "fps": 59.826089499853765,
+  "rerecords": 3990,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "1989-09.d64",
+    "sha1": "7dd7378b494d435dabd8f4e237f21357914351d4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6983M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=XyLQgslZQig"
+  }
+ ],
+ "submitted": "2026-02-20T08:13:49.654546",
+ "attachments": [],
+ "forum": {
+  "topicId": 1837,
+  "url": "https://forum.toolassisted.run/t/1837"
+ }
+}

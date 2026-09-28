@@ -1,0 +1,52 @@
+{
+ "id": "M6976",
+ "game": "c64/moon-patrol",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6976.bk2",
+  "format": "bk2",
+  "frames": 48433,
+  "fps": 59.826089499853765,
+  "rerecords": 22307,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "Moon Patrol (1983)(Atari).crt",
+    "sha1": "b5f5f296d4e50bf514096508a8ecf5adf4dffceb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6976M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=46QYHMILQj0"
+  }
+ ],
+ "submitted": "2026-02-15T08:44:42.392328",
+ "attachments": [],
+ "forum": {
+  "topicId": 1835,
+  "url": "https://forum.toolassisted.run/t/1835"
+ }
+}

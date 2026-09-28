@@ -1,0 +1,52 @@
+{
+ "id": "M7118",
+ "game": "c64/wham-ball",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M7118.bk2",
+  "format": "bk2",
+  "frames": 15628,
+  "fps": 59.826089499853765,
+  "rerecords": 42164,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "1989-09.d64",
+    "sha1": "7dd7378b494d435dabd8f4e237f21357914351d4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/7118M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=hPOZ-vq13Dc"
+  }
+ ],
+ "submitted": "2026-05-09T11:34:09.136462",
+ "attachments": [],
+ "forum": {
+  "topicId": 1841,
+  "url": "https://forum.toolassisted.run/t/1841"
+ }
+}
