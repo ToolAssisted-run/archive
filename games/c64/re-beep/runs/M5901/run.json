@@ -1,0 +1,52 @@
+{
+ "id": "M5901",
+ "game": "c64/re-beep",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5901.bk2",
+  "format": "bk2",
+  "frames": 324491,
+  "fps": 59.826089499853765,
+  "rerecords": 395,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1983-10.d64",
+    "sha1": "c8781be8b5607bd68586713d07def9d6ffdc7a6c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5901M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7ln2Vq2p7kE"
+  }
+ ],
+ "submitted": "2024-04-09T06:12:14.597983",
+ "attachments": [],
+ "forum": {
+  "topicId": 1735,
+  "url": "https://forum.toolassisted.run/t/1735"
+ }
+}
