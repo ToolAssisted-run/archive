@@ -10543,6 +10543,17 @@
    "date": "2026-09-27",
    "at": "2026-09-27T12:21:39Z",
    "reason": "Added initial subcategory"
+  },
+  {
+   "kind": "group",
+   "key": "alien",
+   "field": "games",
+   "from": "a2600/alien, zxs/aliens-neoplasma",
+   "to": "a2600/alien, snes/alien-3, zxs/aliens-neoplasma",
+   "by": "CloakTheLurker",
+   "date": "2026-09-28",
+   "at": "2026-09-28T03:29:54Z",
+   "reason": "Changed from the group form: snes/alien-3 moved in"
   }
  ]
 }

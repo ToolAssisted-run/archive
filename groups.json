@@ -27,6 +27,7 @@
    "title": "Alien",
    "games": [
     "a2600/alien",
+    "snes/alien-3",
     "zxs/aliens-neoplasma"
    ],
    "createdBy": "CloakTheLurker",
