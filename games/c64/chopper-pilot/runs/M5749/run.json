@@ -1,0 +1,52 @@
+{
+ "id": "M5749",
+ "game": "c64/chopper-pilot",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5749.bk2",
+  "format": "bk2",
+  "frames": 36274,
+  "fps": 59.826089499853765,
+  "rerecords": 3735,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1987-10.d64",
+    "sha1": "f3197f6a81d3cf41d949e337b45fece455579c98"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5749M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=kaULj8QjCSw"
+  }
+ ],
+ "submitted": "2023-12-31T11:37:04.750152",
+ "attachments": [],
+ "forum": {
+  "topicId": 1710,
+  "url": "https://forum.toolassisted.run/t/1710"
+ }
+}

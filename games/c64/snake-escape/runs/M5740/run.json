@@ -1,0 +1,52 @@
+{
+ "id": "M5740",
+ "game": "c64/snake-escape",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5740.bk2",
+  "format": "bk2",
+  "frames": 2337,
+  "fps": 59.826089499853765,
+  "rerecords": 250,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1983-07.d64",
+    "sha1": "1ac4581cb385299b3b53b89b8d323988b372febd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5740M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0TXDwbJislI"
+  }
+ ],
+ "submitted": "2023-12-28T08:12:21.464798",
+ "attachments": [],
+ "forum": {
+  "topicId": 1704,
+  "url": "https://forum.toolassisted.run/t/1704"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5750",
+ "game": "c64/bagger",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5750.bk2",
+  "format": "bk2",
+  "frames": 14206,
+  "fps": 59.826089499853765,
+  "rerecords": 800,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1988-07.d64",
+    "sha1": "4eb6a28e67014c356e5d8cb1300e8f113364375a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5750M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=R_72KeVJtMk"
+  }
+ ],
+ "submitted": "2023-12-31T15:37:51.280046",
+ "attachments": [],
+ "forum": {
+  "topicId": 1712,
+  "url": "https://forum.toolassisted.run/t/1712"
+ }
+}
