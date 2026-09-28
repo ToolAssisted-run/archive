@@ -1,0 +1,52 @@
+{
+ "id": "M5390",
+ "game": "c64/space-gallery",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5390.bk2",
+  "format": "bk2",
+  "frames": 2671,
+  "fps": 59.826089499853765,
+  "rerecords": 1209,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1985-07.d64",
+    "sha1": "f959d5e266e5dfa044135034b0dc53d298b28231"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5390M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=xh39kJffdMs"
+  }
+ ],
+ "submitted": "2023-07-03T01:21:36.353047",
+ "attachments": [],
+ "forum": {
+  "topicId": 1633,
+  "url": "https://forum.toolassisted.run/t/1633"
+ }
+}

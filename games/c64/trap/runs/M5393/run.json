@@ -1,0 +1,52 @@
+{
+ "id": "M5393",
+ "game": "c64/trap",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5393.bk2",
+  "format": "bk2",
+  "frames": 2227,
+  "fps": 59.826089499853765,
+  "rerecords": 951,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "1988-05.d64",
+    "sha1": "df44ff2a26055a31a90f076da69af1d3258f6fe4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5393M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=nTVfvWNCwxM"
+  }
+ ],
+ "submitted": "2023-07-04T08:04:59.245316",
+ "attachments": [],
+ "forum": {
+  "topicId": 1636,
+  "url": "https://forum.toolassisted.run/t/1636"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "M5391",
+ "game": "coleco/miner-2049er",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5391.bk2",
+  "format": "bk2",
+  "frames": 27306,
+  "rerecords": 23087,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9",
+  "files": [
+   {
+    "name": "Miner 2049er (1983) (Micro Fun).col",
+    "sha1": "b29cd441e9edebc37abc08c3fd932f1d4185bacd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5391M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=pJAk8u362IY"
+  }
+ ],
+ "submitted": "2023-07-03T07:01:04.37772",
+ "attachments": [],
+ "forum": {
+  "topicId": 1634,
+  "url": "https://forum.toolassisted.run/t/1634"
+ }
+}
