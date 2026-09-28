@@ -1,0 +1,52 @@
+{
+ "id": "M6032",
+ "game": "c64/mind-boggle",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6032.bk2",
+  "format": "bk2",
+  "frames": 839,
+  "fps": 59.826089499853765,
+  "rerecords": 74,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1984-05.d64",
+    "sha1": "466842747b9017d129bf865dafbaaff82149b649"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6032M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=lMqZTxkplUM"
+  }
+ ],
+ "submitted": "2024-07-05T19:48:59.472277",
+ "attachments": [],
+ "forum": {
+  "topicId": 1763,
+  "url": "https://forum.toolassisted.run/t/1763"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M6091",
+ "game": "c64/jupiter-lander",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6091.bk2",
+  "format": "bk2",
+  "frames": 2690,
+  "fps": 59.826089499853765,
+  "rerecords": 1135,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "Jupiter Lander (1982)(Commodore).crt",
+    "sha1": "e229477b675101e0b2d11ea668a648a36c71c6f9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6091M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Rx1p0n1wPic"
+  }
+ ],
+ "submitted": "2024-08-17T10:00:04.481182",
+ "attachments": [],
+ "forum": {
+  "topicId": 1773,
+  "url": "https://forum.toolassisted.run/t/1773"
+ }
+}
