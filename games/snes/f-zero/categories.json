@@ -13,6 +13,11 @@
      "key": "queen-league",
      "label": "Queen League",
      "rule": "Imported as \"Queen League\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "baseline",
+     "label": "fastest completion",
+     "rule": "Complete the game as fast as possible."
     }
    ]
   }

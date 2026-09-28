@@ -1,0 +1,51 @@
+{
+ "id": "M4449",
+ "game": "c64/astro-panic",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4449.bk2",
+  "format": "bk2",
+  "frames": 2238,
+  "rerecords": 7660,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.5.2",
+  "files": [
+   {
+    "name": "Astro-Panic!_(SWIM).d64",
+    "sha1": "018dbb7d265b06b51e4e4eb881919e4add5e2629"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4449M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=urOXjuqiqz8"
+  }
+ ],
+ "submitted": "2021-05-11T05:12:24",
+ "attachments": [],
+ "forum": {
+  "topicId": 1574,
+  "url": "https://forum.toolassisted.run/t/1574"
+ }
+}

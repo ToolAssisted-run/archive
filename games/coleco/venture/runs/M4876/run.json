@@ -1,0 +1,51 @@
+{
+ "id": "M4876",
+ "game": "coleco/venture",
+ "category": {
+  "goal": "all-treasures"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4876.bk2",
+  "format": "bk2",
+  "frames": 23466,
+  "rerecords": 17302,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.6.3",
+  "files": [
+   {
+    "name": "Venture (1982) (Exidy).col",
+    "sha1": "9cf7e7439d1719152ed28c1123ae8ad68175412f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4876M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=YoFg25JOxsg"
+  }
+ ],
+ "submitted": "2022-10-26T19:49:17.538006",
+ "attachments": [],
+ "forum": {
+  "topicId": 1583,
+  "url": "https://forum.toolassisted.run/t/1583"
+ }
+}

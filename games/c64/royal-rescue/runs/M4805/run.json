@@ -1,0 +1,51 @@
+{
+ "id": "M4805",
+ "game": "c64/royal-rescue",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4805.bk2",
+  "format": "bk2",
+  "frames": 6511,
+  "rerecords": 1304,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "1990-01.d64",
+    "sha1": "9680f597f6a3800b718a15c96b364c201ea28249"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4805M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8wnjdBHC3sg"
+  }
+ ],
+ "submitted": "2022-08-15T01:22:29.802984",
+ "attachments": [],
+ "forum": {
+  "topicId": 1581,
+  "url": "https://forum.toolassisted.run/t/1581"
+ }
+}

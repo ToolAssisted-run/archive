@@ -1,0 +1,51 @@
+{
+ "id": "M4547",
+ "game": "nes/tetris-2",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4547.bk2",
+  "format": "bk2",
+  "frames": 135572,
+  "rerecords": 116150,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.5.2",
+  "files": [
+   {
+    "name": "Tetris 2 (U) [!].nes",
+    "sha1": "812bb14f7ec9e49280fc1be9c0853cc5dd973ba1"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4547M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=KufKf03Aez4"
+  }
+ ],
+ "submitted": "2021-11-08T21:40:30",
+ "attachments": [],
+ "forum": {
+  "topicId": 1576,
+  "url": "https://forum.toolassisted.run/t/1576"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "M4550",
+ "game": "c64/boulder-dash",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4550.bk2",
+  "format": "bk2",
+  "frames": 35889,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.6.1",
+  "files": [
+   {
+    "name": "Boulder_Dash_1.tap",
+    "sha1": "c0bf9794dc5eb424a7cc6b64b6e5f1342ef0f9da"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4550M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=mT8X02HCSoU"
+  }
+ ],
+ "submitted": "2021-11-14T19:26:09",
+ "attachments": [],
+ "forum": {
+  "topicId": 1578,
+  "url": "https://forum.toolassisted.run/t/1578"
+ }
+}
