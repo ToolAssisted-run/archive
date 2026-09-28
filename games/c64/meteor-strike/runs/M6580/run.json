@@ -1,0 +1,52 @@
+{
+ "id": "M6580",
+ "game": "c64/meteor-strike",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6580.bk2",
+  "format": "bk2",
+  "frames": 73705,
+  "fps": 59.826089499853765,
+  "rerecords": 40024,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Bizhawk 2.9.1",
+  "files": [
+   {
+    "name": "1986-07.d64",
+    "sha1": "22e52d0e80cc30fe567fb6a5c625c32ecf317b3d"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6580M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Q3Dck3hcSf4"
+  }
+ ],
+ "submitted": "2025-06-04T10:09:22.097249",
+ "attachments": [],
+ "forum": {
+  "topicId": 1817,
+  "url": "https://forum.toolassisted.run/t/1817"
+ }
+}

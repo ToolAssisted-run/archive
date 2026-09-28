@@ -1,0 +1,52 @@
+{
+ "id": "M6574",
+ "game": "c64/match-em",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6574.bk2",
+  "format": "bk2",
+  "frames": 1525,
+  "fps": 59.826089499853765,
+  "rerecords": 173,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "1984-04.d64",
+    "sha1": "575f5686a71b8a5325ba027af21da590f5a851a8"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6574M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gPstcX5zuC8"
+  }
+ ],
+ "submitted": "2025-06-01T15:59:03.620531",
+ "attachments": [],
+ "forum": {
+  "topicId": 1811,
+  "url": "https://forum.toolassisted.run/t/1811"
+ }
+}

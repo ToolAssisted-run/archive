@@ -1,0 +1,52 @@
+{
+ "id": "M6577",
+ "game": "c64/sheerluck",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6577.bk2",
+  "format": "bk2",
+  "frames": 8620,
+  "fps": 59.826089499853765,
+  "rerecords": 611,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "1990-05.D64",
+    "sha1": "56fcb53fa15f35ef5d405dd48987366759962cf6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6577M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wbswEuRtAQ0"
+  }
+ ],
+ "submitted": "2025-06-03T00:16:00.16894",
+ "attachments": [],
+ "forum": {
+  "topicId": 1815,
+  "url": "https://forum.toolassisted.run/t/1815"
+ }
+}
