@@ -1,0 +1,51 @@
+{
+ "id": "M4336",
+ "game": "snes/q-bert-3",
+ "category": {
+  "goal": "x-bert"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4336.lsmv",
+  "format": "lsmv",
+  "frames": 55573,
+  "rerecords": 86961,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "lsnes rr2-\u03b223",
+  "files": [
+   {
+    "name": "Q-bert 3 (U) [!].smc",
+    "sha1": "ac67c459cb3910909ea6649b05355d56813d051b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4336M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bYf3hUhVWvg"
+  }
+ ],
+ "submitted": "2020-11-15T04:36:07",
+ "attachments": [],
+ "forum": {
+  "topicId": 1570,
+  "url": "https://forum.toolassisted.run/t/1570"
+ }
+}

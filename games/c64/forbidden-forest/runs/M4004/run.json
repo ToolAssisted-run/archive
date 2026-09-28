@@ -1,0 +1,52 @@
+{
+ "id": "M4004",
+ "game": "c64/forbidden-forest",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4004.bk2",
+  "format": "bk2",
+  "frames": 26604,
+  "fps": 59.826089499853765,
+  "rerecords": 10882,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "files": [
+   {
+    "name": "Forbidden Forest (1983)(Cosmi).tap",
+    "sha1": "25d5401115e2eb75965f5f33fd57f65829afedb2"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4004M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Qu5mPlC5fS0"
+  }
+ ],
+ "submitted": "2019-07-28T07:58:01",
+ "attachments": [],
+ "forum": {
+  "topicId": 1566,
+  "url": "https://forum.toolassisted.run/t/1566"
+ }
+}

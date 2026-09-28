@@ -1,0 +1,51 @@
+{
+ "id": "M3986",
+ "game": "c64/the-human-race",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3986.bk2",
+  "format": "bk2",
+  "frames": 27482,
+  "rerecords": 1060,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.3.1",
+  "files": [
+   {
+    "name": "Human Race, The (1986)(Mastertronic)[a2].tap",
+    "sha1": "8baf8b502e67e7bb2e703b26b22365eaa420db8b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3986M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=LQ8FVcilSMM"
+  }
+ ],
+ "submitted": "2019-07-02T14:44:43",
+ "attachments": [],
+ "forum": {
+  "topicId": 1564,
+  "url": "https://forum.toolassisted.run/t/1564"
+ }
+}
