@@ -1,0 +1,52 @@
+{
+ "id": "M5774",
+ "game": "c64/the-viper",
+ "category": {
+  "goal": "maximum-score"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5774.bk2",
+  "format": "bk2",
+  "frames": 6366,
+  "fps": 59.826089499853765,
+  "rerecords": 1782,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1",
+  "files": [
+   {
+    "name": "1983-08.d64",
+    "sha1": "51cb14df49f90e464b34b51c5be5693701728313"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5774M",
+  "importedBy": "nymx",
+  "importedAt": "2026-09-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=n_kFvTepOew"
+  }
+ ],
+ "submitted": "2024-01-26T23:05:21.054903",
+ "attachments": [],
+ "forum": {
+  "topicId": 1718,
+  "url": "https://forum.toolassisted.run/t/1718"
+ }
+}
