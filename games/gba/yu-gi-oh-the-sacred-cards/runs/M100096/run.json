@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -58,5 +58,15 @@
  "forum": {
   "topicId": 1865,
   "url": "https://forum.toolassisted.run/t/1865"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-30",
+   "at": "2026-09-30T17:58:03Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "SHA1 hash of \"Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan).gba\": C28F5C0103E3D0E5919C2023044199409375E0CD"
+  }
+ ]
 }
