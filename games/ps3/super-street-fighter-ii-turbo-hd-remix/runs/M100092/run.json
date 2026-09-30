@@ -24,7 +24,7 @@
   "emulator": "chimera Nightly 2026-09-24 (8710de2c)"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -70,6 +70,16 @@
    "at": "2026-09-26T18:35:47Z",
    "expert": true,
    "notes": "The author starts the game, selects Ryu, beats the whole sequence of opponents and reaches the ending."
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-30",
+   "at": "2026-09-30T18:48:59Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-24, 8710de2c) + RPCS3 (2026-09-24, 0bdca3b7)",
+   "notes": "SHA1 hashes:\r\n- Super Street Fighter II Turbo HD (USA) game: 56A4FDD498818E4F8B00779B955A35859427097A\r\n- Super Street Fighter II Turbo HD (USA) (v1.10) (Update): 8B8A6D4C0EA7566F15B8EED1CCE8CEB731991DDB\r\n- .rap file: 928CC7647A0FE9EB2A365D6B3B2AF02A987569AB\r\n- PS3UPDAT.PUP (v4.92): F998395780765ADDD5EA13975F6AF2484C3EB84B"
   }
  ]
 }
