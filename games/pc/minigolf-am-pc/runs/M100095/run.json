@@ -1,0 +1,68 @@
+{
+ "id": "M100095",
+ "game": "pc/minigolf-am-pc",
+ "category": {
+  "goal": "berlin"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "duration": 42.69,
+ "movie": {
+  "file": "M100095.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "334f82b54f9a81d7604b13a94b9bc2ea20aac728",
+  "frames": 2992,
+  "rerecords": 68649,
+  "start": "power-on",
+  "fps": 70.08659242761692
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-19 (Core: DOSBox-X Core 2026-09-17, 70919ddc)",
+  "files": [
+   {
+    "name": "w98.hdd",
+    "sha1": "3a523b859054c68b7c6e60cbad5bf1f0ee86862f"
+   },
+   {
+    "name": "Minigolf_am_PC_970605_1911.ISO",
+    "sha1": "0b93cf5f92fbfabf17687e732177c03c5eb47839"
+   },
+   {
+    "name": "install.hdd",
+    "sha1": "f1bb3175f01f2cb4ad52c3dba261da1c3d9415c9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/R6SFJ-vMp4o"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/minigolf.wch",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/install.chimeraProject",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-09-28",
+ "submitted": "2026-09-30T05:44:54Z",
+ "submittedBy": "toca",
+ "forum": {
+  "topicId": 1863,
+  "url": "https://forum.toolassisted.run/t/1863"
+ }
+}

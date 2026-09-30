@@ -1,0 +1,12 @@
+SystemID DOS
+0	S	_	1		New addresses
+023B9A18	d	u	0	Physical RAM	Hole number (-1)
+00307F80	d	u	0	Physical RAM	Related to cursor?
+0069DF4C	d	u	0	Physical RAM	Ball can be played
+023B9A04	w	u	0	Physical RAM	X (read only)
+023B9A06	w	u	0	Physical RAM	Y (read only)
+0	S	_	1		Old addresses
+023DB7B8	d	u	0	Physical RAM	Hole number (old)
+023DB7A4	w	u	0	Physical RAM	X (read only)
+023DB7A6	w	u	0	Physical RAM	Y (read only)
+
