@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -67,6 +67,14 @@
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "BizHawk 2.11",
    "notes": "SHA1 hash of \"Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan).gba\": C28F5C0103E3D0E5919C2023044199409375E0CD"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-30",
+   "at": "2026-09-30T17:58:19Z",
+   "expert": true
   }
  ]
 }
