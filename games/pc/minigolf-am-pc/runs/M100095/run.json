@@ -40,7 +40,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -75,6 +75,15 @@
    "user": "Dimon12321",
    "date": "2026-09-30",
    "at": "2026-09-30T07:14:49Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-09-30",
+   "at": "2026-09-30T07:15:39Z",
+   "expert": true,
+   "notes": "The author starts the game and completes 18 golf levels"
   }
  ]
 }
