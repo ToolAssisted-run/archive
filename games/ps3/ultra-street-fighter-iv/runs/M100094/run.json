@@ -33,7 +33,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -67,6 +67,16 @@
    "date": "2026-09-30",
    "at": "2026-09-30T18:38:17Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-09-30",
+   "at": "2026-09-30T19:38:36Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly-2026-09-27, 24c1df79) + RPCS3 (2026-09-23, 0bdca3b7)",
+   "notes": "SHA1 hashes:\r\n- Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko).iso: EB875863F913E7C627E0C37B35CF58D5DBA85668\r\n- PS3UPDAT.PUP (v4.82): 48EA7F326B9A93F558F03BEF74196B8E01F122E4"
   }
  ]
 }
