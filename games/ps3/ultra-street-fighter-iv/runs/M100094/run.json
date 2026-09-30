@@ -34,7 +34,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -59,6 +59,14 @@
    "user": "CoolHandMike",
    "date": "2026-09-27",
    "at": "2026-09-27T17:43:10Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-09-30",
+   "at": "2026-09-30T18:38:17Z",
+   "expert": true
   }
  ]
 }
