@@ -6,7 +6,7 @@
    "options": [
     {
      "key": "fastest-completion",
-     "label": "Fastest Completion",
+     "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
     },
     {
