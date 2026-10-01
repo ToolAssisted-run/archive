@@ -1,0 +1,56 @@
+{
+ "id": "M100099",
+ "game": "xbox/soulcalibur-ii",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "duration": 36.21,
+ "movie": {
+  "file": "M100099.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "7abed35586ba05ad70238285f3ec737951ed3490",
+  "frames": 8107,
+  "rerecords": 2,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-09-30",
+  "files": [
+   {
+    "name": "Soulcalibur-II.iso",
+    "sha1": "18e018547052c35c248f440f771bb3617a7202ce"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=EpTLO0oMUu0"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/Soulcalibur-II_8107_new_proj_credits_complete.chimeraProject",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-09-30",
+ "submitted": "2026-10-01T15:17:53Z",
+ "submittedBy": "CoolHandMike",
+ "forum": {
+  "topicId": 1908,
+  "url": "https://forum.toolassisted.run/t/1908"
+ }
+}

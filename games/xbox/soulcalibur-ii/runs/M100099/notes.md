@@ -1,0 +1,1 @@
+This strategy https://www.speedrun.com/soulcalibur_ii/runs/y9pq6lkm from the WR uses Voldo and just uses the forward forward Y attack.  This TAS beats the current WR IGT time of 43"73 with a time of 36"21.  There is a good amount of RNG manip here, but there could be more.  Perhaps it is possible to get the characters to move towards the nearest ring out point more easily.
