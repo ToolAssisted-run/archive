@@ -10752,6 +10752,17 @@
    "date": "2026-10-01",
    "at": "2026-10-01T15:26:52Z",
    "reason": "warp glitch cat"
+  },
+  {
+   "kind": "run",
+   "key": "M100097",
+   "field": "goal",
+   "from": "unclassified",
+   "to": "baseline",
+   "by": "toca",
+   "date": "2026-10-01",
+   "at": "2026-10-01T15:28:00Z",
+   "reason": "moving now that the warp glitch category distinction exists"
   }
  ]
 }
