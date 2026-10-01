@@ -13,6 +13,11 @@
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "100-good-ending-level-unlock-code",
+     "label": "100%, good ending, level unlock code",
+     "rule": "Imported as \"100%, good ending, level unlock code\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

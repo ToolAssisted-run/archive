@@ -1,0 +1,51 @@
+{
+ "id": "M1433",
+ "game": "pcecd/double-dragon-ii-the-revenge",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1433.mc2",
+  "format": "mc2",
+  "frames": 42939,
+  "rerecords": 10662,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PCEjin svn209",
+  "files": [
+   {
+    "name": "Double Dragon 2 (J).bin",
+    "sha1": "f9e08d55807b6b06c9de67511634f312bdd97d4c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1433M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=IM-Hn-f1nd0"
+  }
+ ],
+ "submitted": "2009-12-29T08:13:55",
+ "attachments": [],
+ "forum": {
+  "topicId": 1885,
+  "url": "https://forum.toolassisted.run/t/1885"
+ }
+}

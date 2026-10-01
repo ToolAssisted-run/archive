@@ -8,6 +8,11 @@
      "key": "best-ending",
      "label": "best ending",
      "rule": "Imported as \"best ending\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "the-mercenaries",
+     "label": "The Mercenaries",
+     "rule": "Imported as \"The Mercenaries\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

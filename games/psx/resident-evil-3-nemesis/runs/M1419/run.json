@@ -1,0 +1,52 @@
+{
+ "id": "M1419",
+ "game": "psx/resident-evil-3-nemesis",
+ "category": {
+  "goal": "the-mercenaries"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1419.pxm",
+  "format": "pxm",
+  "frames": 68041,
+  "fps": 60.0,
+  "rerecords": 17002,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PCSX-rr 0.1.2",
+  "files": [
+   {
+    "name": "Resident Evil 3 (U).iso",
+    "sha1": "c5993ac3ea6efb4181554aa32d8749a7f728a7ad"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1419M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=auopTDzsz28"
+  }
+ ],
+ "submitted": "2009-12-21T01:16:46",
+ "attachments": [],
+ "forum": {
+  "topicId": 1880,
+  "url": "https://forum.toolassisted.run/t/1880"
+ }
+}

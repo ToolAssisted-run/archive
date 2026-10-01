@@ -1,0 +1,55 @@
+{
+ "id": "M1363",
+ "game": "psx/castlevania-symphony-of-the-night",
+ "category": {
+  "goal": "luck-mode"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  },
+  {
+   "user": "pirate_sephiroth"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1363.pxm",
+  "format": "pxm",
+  "frames": 68498,
+  "fps": 60.0,
+  "rerecords": 93518,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PCSX-rr 0.0.9",
+  "files": [
+   {
+    "name": "sotn.iso",
+    "sha1": "65dd0c7e8c47d43982687005bb36430ac5763dec"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1363M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=suX8J4Wimvc"
+  }
+ ],
+ "submitted": "2009-10-16T01:51:32",
+ "attachments": [],
+ "forum": {
+  "topicId": 1879,
+  "url": "https://forum.toolassisted.run/t/1879"
+ }
+}

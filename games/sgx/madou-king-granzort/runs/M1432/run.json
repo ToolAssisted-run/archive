@@ -1,0 +1,51 @@
+{
+ "id": "M1432",
+ "game": "sgx/madou-king-granzort",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1432.mc2",
+  "format": "mc2",
+  "frames": 31473,
+  "rerecords": 4938,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PCEjin svn76",
+  "files": [
+   {
+    "name": "Madoo Granzort.pce",
+    "sha1": "5ed16565753c902e14da9a0c5361ef01fa74463b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1432M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=4BWXwoo8-yo"
+  }
+ ],
+ "submitted": "2009-12-29T07:51:41",
+ "attachments": [],
+ "forum": {
+  "topicId": 1883,
+  "url": "https://forum.toolassisted.run/t/1883"
+ }
+}
