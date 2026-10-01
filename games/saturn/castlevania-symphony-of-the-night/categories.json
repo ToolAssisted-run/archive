@@ -8,6 +8,11 @@
      "key": "maria-mode",
      "label": "Maria Mode",
      "rule": "Imported as \"Maria Mode\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "pacifist-load-glitch",
+     "label": "pacifist, load glitch",
+     "rule": "Imported as \"pacifist, load glitch\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

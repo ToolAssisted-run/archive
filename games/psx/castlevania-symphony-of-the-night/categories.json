@@ -13,6 +13,16 @@
      "key": "all-relics-best-ending-luck-mode",
      "label": "all relics, best ending, luck mode",
      "rule": "Imported as \"all relics, best ending, luck mode\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "replay-mode-luck-mode",
+     "label": "replay mode, luck mode",
+     "rule": "Imported as \"replay mode, luck mode\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "pacifist-luck-mode",
+     "label": "pacifist, luck mode",
+     "rule": "Imported as \"pacifist, luck mode\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

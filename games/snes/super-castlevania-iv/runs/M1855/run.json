@@ -1,0 +1,61 @@
+{
+ "id": "M1855",
+ "game": "snes/super-castlevania-iv",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  },
+  {
+   "user": "Bablo"
+  },
+  {
+   "user": "Cardboard"
+  },
+  {
+   "user": "scrimpeh"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1855.smv",
+  "format": "smv",
+  "frames": 106685,
+  "fps": 60.0,
+  "rerecords": 128384,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Snes9x 1.43 v17",
+  "files": [
+   {
+    "name": "Akumajou Dracula (J).smc",
+    "sha1": "9df4028bc19ee63de884c26921135c721c882e34"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1855M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=l-iuJGIhaEQ"
+  }
+ ],
+ "submitted": "2011-08-09T15:39:49",
+ "attachments": [],
+ "forum": {
+  "topicId": 1899,
+  "url": "https://forum.toolassisted.run/t/1899"
+ }
+}

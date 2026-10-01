@@ -1,0 +1,52 @@
+{
+ "id": "M6463",
+ "game": "psx/castlevania-symphony-of-the-night",
+ "category": {
+  "goal": "pacifist-luck-mode"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6463.bk2",
+  "format": "bk2",
+  "frames": 66277,
+  "fps": 59.82724691877715,
+  "rerecords": 335984,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan).bin",
+    "sha1": "96175f76736b10ff00d44ff12a76c5128afa1f6f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6463M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=3gG72qu2zMg"
+  }
+ ],
+ "submitted": "2025-03-26T19:26:52.815228",
+ "attachments": [],
+ "forum": {
+  "topicId": 1904,
+  "url": "https://forum.toolassisted.run/t/1904"
+ }
+}

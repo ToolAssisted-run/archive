@@ -1,0 +1,51 @@
+{
+ "id": "M6364",
+ "game": "saturn/castlevania-symphony-of-the-night",
+ "category": {
+  "goal": "pacifist-load-glitch"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6364.bk2",
+  "format": "bk2",
+  "frames": 49563,
+  "rerecords": 69951,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M) (Track 1).bin",
+    "sha1": "ebf3209692dcc4df8d4448bbcada9ab9266549d0"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6364M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qjYGZ2gCDN8"
+  }
+ ],
+ "submitted": "2025-01-30T19:00:26.761588",
+ "attachments": [],
+ "forum": {
+  "topicId": 1903,
+  "url": "https://forum.toolassisted.run/t/1903"
+ }
+}

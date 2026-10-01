@@ -1,0 +1,55 @@
+{
+ "id": "M1876",
+ "game": "psx/resident-evil",
+ "category": {
+  "goal": "jill"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  },
+  {
+   "user": "Uroboros"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1876.pjm",
+  "format": "pjm",
+  "frames": 207757,
+  "fps": 60.0,
+  "rerecords": 32208,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PSXjin 2.0.2",
+  "files": [
+   {
+    "name": "SLUS_005.51",
+    "sha1": "d926cec7ac6a1665cc00039ab92dee6a6bebe824"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1876M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=BhXNDzqDrd0"
+  }
+ ],
+ "submitted": "2011-09-08T17:25:28",
+ "attachments": [],
+ "forum": {
+  "topicId": 1901,
+  "url": "https://forum.toolassisted.run/t/1901"
+ }
+}

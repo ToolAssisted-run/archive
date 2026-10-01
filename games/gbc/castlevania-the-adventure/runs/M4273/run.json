@@ -1,0 +1,52 @@
+{
+ "id": "M4273",
+ "game": "gbc/castlevania-the-adventure",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4273.bk2",
+  "format": "bk2",
+  "frames": 50241,
+  "fps": 59.73796198201476,
+  "rerecords": 5979,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.4.2",
+  "files": [
+   {
+    "name": "Konami GB Collection Vol.1 (Europe) (GB Compatible).gbc",
+    "sha1": "760abb9e3950f39bf01320e414a4f4d516e04c83"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4273M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=R-GHL0SruPI"
+  }
+ ],
+ "submitted": "2020-08-26T10:16:03",
+ "attachments": [],
+ "forum": {
+  "topicId": 1902,
+  "url": "https://forum.toolassisted.run/t/1902"
+ }
+}
