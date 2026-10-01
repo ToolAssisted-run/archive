@@ -10675,6 +10675,17 @@
    "date": "2026-10-01",
    "at": "2026-10-01T15:24:37Z",
    "reason": "added (no) warp glitch category"
+  },
+  {
+   "kind": "category",
+   "key": "snes/prince-of-persia:baseline",
+   "field": "label",
+   "from": "Any%",
+   "to": "No Warp Glitch",
+   "by": "toca",
+   "date": "2026-10-01",
+   "at": "2026-10-01T15:24:48Z",
+   "reason": "added (no) warp glitch category"
   }
  ]
 }
