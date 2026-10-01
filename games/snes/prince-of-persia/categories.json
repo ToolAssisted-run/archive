@@ -13,6 +13,11 @@
      "key": "training-mode",
      "label": "Training mode",
      "rule": "Complete the training mode as fast as possible."
+    },
+    {
+     "key": "warp-glitch",
+     "label": "Warp Glitch",
+     "rule": "Complete the game as fast as possible without using the [warp glitch](https://tasvideos.org/Forum/Topics/2258?CurrentPage=3&Highlight=473349#473349)."
     }
    ]
   }

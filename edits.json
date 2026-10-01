@@ -10631,6 +10631,17 @@
    "date": "2026-09-29",
    "at": "2026-09-29T23:11:17Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "snes/prince-of-persia:warp-glitch",
+   "field": "added",
+   "from": "",
+   "to": "Warp Glitch",
+   "by": "toca",
+   "date": "2026-10-01",
+   "at": "2026-10-01T15:21:05Z",
+   "reason": "Created it."
   }
  ]
 }
