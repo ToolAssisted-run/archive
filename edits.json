@@ -10730,6 +10730,17 @@
    "date": "2026-10-01",
    "at": "2026-10-01T15:26:29Z",
    "reason": "warp glitch cat"
+  },
+  {
+   "kind": "category",
+   "key": "snes/prince-of-persia:fastest-completion",
+   "field": "key",
+   "from": "fastest-completion",
+   "to": "baseline",
+   "by": "toca",
+   "date": "2026-10-01",
+   "at": "2026-10-01T15:26:41Z",
+   "reason": "warp glitch cat"
   }
  ]
 }

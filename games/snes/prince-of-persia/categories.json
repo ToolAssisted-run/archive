@@ -5,7 +5,7 @@
    "name": "Goal",
    "options": [
     {
-     "key": "fastest-completion",
+     "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
     },
