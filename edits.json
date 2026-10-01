@@ -10708,6 +10708,17 @@
    "date": "2026-10-01",
    "at": "2026-10-01T15:25:10Z",
    "reason": "added (no) warp glitch category"
+  },
+  {
+   "kind": "category",
+   "key": "snes/prince-of-persia:*",
+   "field": "order",
+   "from": "no-warp-glitch, training-mode, fastest-completion",
+   "to": "fastest-completion, no-warp-glitch, training-mode",
+   "by": "toca",
+   "date": "2026-10-01",
+   "at": "2026-10-01T15:25:22Z",
+   "reason": "added (no) warp glitch category"
   }
  ]
 }
