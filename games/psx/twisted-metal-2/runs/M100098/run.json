@@ -1,0 +1,50 @@
+{
+ "id": "M100098",
+ "game": "psx/twisted-metal-2",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "KietTezend"
+  }
+ ],
+ "tools": [],
+ "duration": 732.131,
+ "movie": {
+  "file": "M100098.bk2",
+  "format": "bk2",
+  "sha1": "5d6c42c39015441de07558f78a1a69ab939a95e5",
+  "frames": 43884,
+  "rerecords": 5244,
+  "start": "power-on",
+  "fps": 59.94006013870239
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.7",
+  "files": [
+   {
+    "name": "Twisted Metal 2 USA.cue"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0pFjEJ34Uwk"
+  }
+ ],
+ "attachments": [],
+ "completed": "2021-03-27",
+ "submitted": "2026-10-01T13:43:21Z",
+ "submittedBy": "KietTezend",
+ "forum": {
+  "topicId": 1906,
+  "url": "https://forum.toolassisted.run/t/1906"
+ }
+}
