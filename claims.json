@@ -149,7 +149,10 @@
    "evidence": "I got invited in the discord",
    "date": "2026-10-01",
    "at": "2026-10-01T06:53:42Z",
-   "status": "open"
+   "status": "approved",
+   "decidedBy": "eien86",
+   "decidedAt": "2026-10-01",
+   "note": ""
   }
  ]
 }
