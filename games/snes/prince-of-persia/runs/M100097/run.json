@@ -1,0 +1,43 @@
+{
+ "id": "M100097",
+ "game": "snes/prince-of-persia",
+ "category": {
+  "goal": "unclassified"
+ },
+ "authors": [
+  {
+   "user": "Challenger"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100097.bk2",
+  "format": "bk2",
+  "sha1": "5ac4faa1faab4adb324615f0395f247141b19fee",
+  "frames": 26166,
+  "rerecords": 62095,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "goalDescription": "warp glitch",
+ "contract": {
+  "emulator": "BizHawk 2.4"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gBwAmV3a9es"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-01T01:46:28Z",
+ "submittedBy": "Challenger",
+ "forum": {
+  "topicId": 1866,
+  "url": "https://forum.toolassisted.run/t/1866"
+ }
+}
