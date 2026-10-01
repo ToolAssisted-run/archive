@@ -15,7 +15,7 @@
      "rule": "Complete the training mode as fast as possible."
     },
     {
-     "key": "warp-glitch",
+     "key": "fastest-completion",
      "label": "Fastest Completion",
      "rule": "Complete the game as fast as possible."
     }
