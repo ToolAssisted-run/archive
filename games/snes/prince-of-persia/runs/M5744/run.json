@@ -2,7 +2,7 @@
  "id": "M5744",
  "game": "snes/prince-of-persia",
  "category": {
-  "goal": "baseline"
+  "goal": "no-warp-glitch"
  },
  "authors": [
   {
