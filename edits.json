@@ -10741,6 +10741,17 @@
    "date": "2026-10-01",
    "at": "2026-10-01T15:26:41Z",
    "reason": "warp glitch cat"
+  },
+  {
+   "kind": "category",
+   "key": "snes/prince-of-persia:no-warp-glitch",
+   "field": "label",
+   "from": "No Warp Glitch",
+   "to": "No warp glitch",
+   "by": "toca",
+   "date": "2026-10-01",
+   "at": "2026-10-01T15:26:52Z",
+   "reason": "warp glitch cat"
   }
  ]
 }
