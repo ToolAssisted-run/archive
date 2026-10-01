@@ -1,0 +1,51 @@
+{
+ "id": "M1447",
+ "game": "pce/ninja-spirit",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1447.mc2",
+  "format": "mc2",
+  "frames": 34753,
+  "rerecords": 5697,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PCEjin svn112",
+  "files": [
+   {
+    "name": "Ninja Spirit (U).pce",
+    "sha1": "515eb414fc404d798206faad33fbcc5985fbbccb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1447M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtube.com/watch?v=CYjPXW_MSvs"
+  }
+ ],
+ "submitted": "2010-02-02T17:03:49",
+ "attachments": [],
+ "forum": {
+  "topicId": 1889,
+  "url": "https://forum.toolassisted.run/t/1889"
+ }
+}

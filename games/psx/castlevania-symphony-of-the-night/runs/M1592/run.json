@@ -1,0 +1,52 @@
+{
+ "id": "M1592",
+ "game": "psx/castlevania-symphony-of-the-night",
+ "category": {
+  "goal": "all-relics-best-ending-luck-mode"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1592.pxm",
+  "format": "pxm",
+  "frames": 206436,
+  "fps": 60.0,
+  "rerecords": 84859,
+  "start": "savestate"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PCSX-rr",
+  "files": [
+   {
+    "name": "Castlevania - Symphony Of The Night (U).iso",
+    "sha1": "65dd0c7e8c47d43982687005bb36430ac5763dec"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1592M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=LYRLUyuEgYw"
+  }
+ ],
+ "submitted": "2010-08-04T20:27:37",
+ "attachments": [],
+ "forum": {
+  "topicId": 1892,
+  "url": "https://forum.toolassisted.run/t/1892"
+ }
+}

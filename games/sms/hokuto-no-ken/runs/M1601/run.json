@@ -1,0 +1,52 @@
+{
+ "id": "M1601",
+ "game": "sms/hokuto-no-ken",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1601.mmv",
+  "format": "mmv",
+  "frames": 18772,
+  "fps": 60.0,
+  "rerecords": 2653,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dega 1.16pre, MAME Core",
+  "files": [
+   {
+    "name": "Hokuto no Ken (J) [!].sms",
+    "sha1": "26c5da3ee48bc0f8fd3d20f9408e584242edcd9d"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1601M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Cw8f2jSA_6Y"
+  }
+ ],
+ "submitted": "2010-08-14T22:17:03",
+ "attachments": [],
+ "forum": {
+  "topicId": 1894,
+  "url": "https://forum.toolassisted.run/t/1894"
+ }
+}

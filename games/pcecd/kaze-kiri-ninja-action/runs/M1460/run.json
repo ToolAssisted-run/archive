@@ -1,0 +1,50 @@
+{
+ "id": "M1460",
+ "game": "pcecd/kaze-kiri-ninja-action",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1460.mc2",
+  "format": "mc2",
+  "frames": 55735,
+  "rerecords": 17839,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PCEjin svn121",
+  "files": [
+   {
+    "name": "Kaze Kiri - Ninja Action (J).bin"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1460M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OHXDXQVnV8M"
+  }
+ ],
+ "submitted": "2010-02-14T15:58:24",
+ "attachments": [],
+ "forum": {
+  "topicId": 1891,
+  "url": "https://forum.toolassisted.run/t/1891"
+ }
+}
