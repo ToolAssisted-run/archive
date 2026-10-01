@@ -1,0 +1,51 @@
+{
+ "id": "M1313",
+ "game": "saturn/castlevania-symphony-of-the-night",
+ "category": {
+  "goal": "maria-mode"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1313.ymv",
+  "format": "ymv",
+  "frames": 24673,
+  "rerecords": 7558,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Yabause-rr r245",
+  "files": [
+   {
+    "name": "Castlevania - Nocturne In The Moonlight (J).iso",
+    "sha1": "ebf3209692dcc4df8d4448bbcada9ab9266549d0"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1313M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gAmr35TeEdA"
+  }
+ ],
+ "submitted": "2009-06-25T19:05:25",
+ "attachments": [],
+ "forum": {
+  "topicId": 1872,
+  "url": "https://forum.toolassisted.run/t/1872"
+ }
+}

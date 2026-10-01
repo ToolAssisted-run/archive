@@ -255,5 +255,10 @@
  "o2": {
   "name": "Odyssey 2",
   "fps": 60.05645306588193
+ },
+ "saturn": {
+  "name": "Sega Saturn",
+  "fps": 59.8830284837373,
+  "hardToReproduce": true
  }
 }

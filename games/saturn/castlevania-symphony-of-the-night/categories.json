@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "maria-mode",
+     "label": "Maria Mode",
+     "rule": "Imported as \"Maria Mode\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

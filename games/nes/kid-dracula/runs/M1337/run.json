@@ -1,0 +1,60 @@
+{
+ "id": "M1337",
+ "game": "nes/kid-dracula",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "adelikat"
+  },
+  {
+   "user": "Randil"
+  },
+  {
+   "user": "arukAdo"
+  },
+  {
+   "user": "DarkKobold"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1337.fm2",
+  "format": "fm2",
+  "frames": 71465,
+  "rerecords": 26816,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.1.1",
+  "files": [
+   {
+    "name": "Akumajou Special - Boku Dracula-kun (J) [!].nes",
+    "sha1": "a7f5329be0440498dc343504652eafcb39836609"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1337M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7ZvEDtszemI"
+  }
+ ],
+ "submitted": "2009-08-09T16:36:25",
+ "attachments": [],
+ "forum": {
+  "topicId": 1876,
+  "url": "https://forum.toolassisted.run/t/1876"
+ }
+}

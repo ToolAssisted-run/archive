@@ -1,0 +1,52 @@
+{
+ "id": "M1289",
+ "game": "psx/resident-evil-3-nemesis",
+ "category": {
+  "goal": "best-ending"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1289.pxm",
+  "format": "pxm",
+  "frames": 242731,
+  "fps": 60.0,
+  "rerecords": 5695,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PCSX-rr 0.0.7",
+  "files": [
+   {
+    "name": "SLUS00923.iso",
+    "sha1": "c5993ac3ea6efb4181554aa32d8749a7f728a7ad"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1289M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=_1uwJkylf9E"
+  }
+ ],
+ "submitted": "2009-05-19T17:04:18",
+ "attachments": [],
+ "forum": {
+  "topicId": 1868,
+  "url": "https://forum.toolassisted.run/t/1868"
+ }
+}

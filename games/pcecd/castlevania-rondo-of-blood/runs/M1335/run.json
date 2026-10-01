@@ -1,0 +1,57 @@
+{
+ "id": "M1335",
+ "game": "pcecd/castlevania-rondo-of-blood",
+ "category": {
+  "goal": "maria-mode"
+ },
+ "authors": [
+  {
+   "user": "adelikat"
+  },
+  {
+   "user": "arukAdo"
+  },
+  {
+   "user": "paul_t"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1335.mc2",
+  "format": "mc2",
+  "frames": 87554,
+  "rerecords": 31451,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "PCEjin svn209",
+  "files": [
+   {
+    "name": "Akumajou Dracula X Chi no Rondo (J).cue",
+    "sha1": "039581082142e1285bf3093f18227e76c219c4cf"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1335M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=r73hedRf0uU"
+  }
+ ],
+ "submitted": "2009-08-09T13:34:02",
+ "attachments": [],
+ "forum": {
+  "topicId": 1874,
+  "url": "https://forum.toolassisted.run/t/1874"
+ }
+}

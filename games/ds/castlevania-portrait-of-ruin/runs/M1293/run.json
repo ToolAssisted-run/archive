@@ -1,0 +1,52 @@
+{
+ "id": "M1293",
+ "game": "ds/castlevania-portrait-of-ruin",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "arukAdo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1293.dsm",
+  "format": "dsm",
+  "frames": 42021,
+  "fps": 60.0,
+  "rerecords": 44745,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "DeSmuME 0.9.2",
+  "files": [
+   {
+    "name": "Castlevania - Portrait of Ruin (U).nds",
+    "sha1": "382602e3615b2282eead584014125e71b5b0f033"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1293M",
+  "importedBy": "arukAdo",
+  "importedAt": "2026-10-01"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2tXFZScI81U"
+  }
+ ],
+ "submitted": "2009-06-07T00:15:21",
+ "attachments": [],
+ "forum": {
+  "topicId": 1870,
+  "url": "https://forum.toolassisted.run/t/1870"
+ }
+}
