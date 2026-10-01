@@ -10653,6 +10653,17 @@
    "date": "2026-10-01",
    "at": "2026-10-01T15:22:45Z",
    "reason": "added (no) warp glitch category"
+  },
+  {
+   "kind": "category",
+   "key": "snes/prince-of-persia:warp-glitch",
+   "field": "rule",
+   "from": "Complete the game as fast as possible without using the [warp glitch](https://tasvideos.org/Forum/Topics/2258?CurrentPage=3&Highlight=473349#473349).",
+   "to": "Complete the game as fast as possible.",
+   "by": "toca",
+   "date": "2026-10-01",
+   "at": "2026-10-01T15:23:22Z",
+   "reason": "added (no) warp glitch category"
   }
  ]
 }
