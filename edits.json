@@ -10774,6 +10774,17 @@
    "date": "2026-10-01",
    "at": "2026-10-01T15:32:40Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "group",
+   "key": "castlevania",
+   "field": "games",
+   "from": "ds/castlevania-dawn-of-sorrow, gba/castlevania-aria-of-sorrow, gba/castlevania-harmony-of-dissonance, nes/castlevania, snes/castlevania-dracula-x",
+   "to": "ds/castlevania-dawn-of-sorrow, ds/castlevania-portrait-of-ruin, gba/castlevania-aria-of-sorrow, gba/castlevania-harmony-of-dissonance, gbc/castlevania-the-adventure, nes/castlevania, pcecd/castlevania-rondo-of-blood, psx/castlevania-symphony-of-the-night, saturn/castlevania-symphony-of-the-night, sn",
+   "by": "CoolHandMike",
+   "date": "2026-10-02",
+   "at": "2026-10-02T12:41:42Z",
+   "reason": "Changed from the group form: snes/super-castlevania-iv moved in gbc/castlevania-the-adventure moved in ds/castlevania-portrait-of-ruin moved in pcecd/castlevania-rondo-of-blood moved in saturn/castlevania-symphony-of-the-night moved in psx/castlevania-symphony-of-the-night moved in"
   }
  ]
 }

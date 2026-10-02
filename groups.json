@@ -159,10 +159,16 @@
    "title": "Castlevania",
    "games": [
     "ds/castlevania-dawn-of-sorrow",
+    "ds/castlevania-portrait-of-ruin",
     "gba/castlevania-aria-of-sorrow",
     "gba/castlevania-harmony-of-dissonance",
+    "gbc/castlevania-the-adventure",
     "nes/castlevania",
-    "snes/castlevania-dracula-x"
+    "pcecd/castlevania-rondo-of-blood",
+    "psx/castlevania-symphony-of-the-night",
+    "saturn/castlevania-symphony-of-the-night",
+    "snes/castlevania-dracula-x",
+    "snes/super-castlevania-iv"
    ]
   },
   {
