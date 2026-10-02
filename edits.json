@@ -10796,6 +10796,17 @@
    "date": "2026-10-02",
    "at": "2026-10-02T13:13:24Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "snes/super-castlevania-iv:any",
+   "field": "removed",
+   "from": "Any%",
+   "to": "",
+   "by": "toca",
+   "date": "2026-10-02",
+   "at": "2026-10-02T13:21:58Z",
+   "reason": "quote \"arukAdo \u2014 15:17 ahhh by default it makes a fastest completion category, guess I fuckup by adding any%, I cant remove it now \ud83e\udd23\""
   }
  ]
 }
