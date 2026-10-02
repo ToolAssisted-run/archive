@@ -10785,6 +10785,17 @@
    "date": "2026-10-02",
    "at": "2026-10-02T12:41:42Z",
    "reason": "Changed from the group form: snes/super-castlevania-iv moved in gbc/castlevania-the-adventure moved in ds/castlevania-portrait-of-ruin moved in pcecd/castlevania-rondo-of-blood moved in saturn/castlevania-symphony-of-the-night moved in psx/castlevania-symphony-of-the-night moved in"
+  },
+  {
+   "kind": "category",
+   "key": "snes/super-castlevania-iv:any",
+   "field": "added",
+   "from": "",
+   "to": "Any%",
+   "by": "arukAdo",
+   "date": "2026-10-02",
+   "at": "2026-10-02T13:13:24Z",
+   "reason": "Created it."
   }
  ]
 }

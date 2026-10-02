@@ -8,6 +8,11 @@
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "any",
+     "label": "Any%",
+     "rule": "Complete the game as fast as possible."
     }
    ]
   }
