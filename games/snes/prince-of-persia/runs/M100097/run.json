@@ -25,7 +25,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -55,6 +55,14 @@
    "user": "toca",
    "date": "2026-10-03",
    "at": "2026-10-03T07:44:13Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-10-03",
+   "at": "2026-10-03T08:24:13Z",
+   "expert": true
   }
  ]
 }
