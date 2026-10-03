@@ -265,5 +265,15 @@
   "name": "iPhone OS",
   "fps": 60.0,
   "hardToReproduce": true
+ },
+ "x68k": {
+  "name": "Sharp X68000",
+  "fps": 55.863,
+  "hardToReproduce": true
+ },
+ "native": {
+  "name": "Native",
+  "fps": 60.0,
+  "hardToReproduce": true
  }
 }
