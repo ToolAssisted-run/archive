@@ -260,5 +260,10 @@
   "name": "Sega Saturn",
   "fps": 59.8830284837373,
   "hardToReproduce": true
+ },
+ "ios": {
+  "name": "iPhone OS",
+  "fps": 60.0,
+  "hardToReproduce": true
  }
 }
