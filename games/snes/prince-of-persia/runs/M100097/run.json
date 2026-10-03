@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.4"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -63,6 +63,16 @@
    "date": "2026-10-03",
    "at": "2026-10-03T08:24:13Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-03",
+   "at": "2026-10-03T08:24:49Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.4 (BSNES core)",
+   "notes": "SHA1 hash of Prince of Persia (USA).sfc: 29CE1E32CF57D8284D0670949045C0D9128C3E1B"
   }
  ]
 }
