@@ -32,7 +32,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -68,6 +68,14 @@
    "user": "KietTezend",
    "date": "2026-10-02",
    "at": "2026-10-02T10:45:58Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-10-03",
+   "at": "2026-10-03T19:34:32Z",
+   "expert": true
   }
  ]
 }
