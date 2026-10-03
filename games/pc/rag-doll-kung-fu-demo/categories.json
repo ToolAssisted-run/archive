@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "go-up",
+     "label": "Go Up",
+     "rule": "go up of the first level"
+    }
+   ]
+  }
+ ]
+}
