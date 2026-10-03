@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -65,6 +65,16 @@
    "date": "2026-10-03",
    "at": "2026-10-03T11:53:19Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-03",
+   "at": "2026-10-03T11:54:50Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.7",
+   "notes": "SHA1 hashes:\r\n- Twisted Metal 2 (USA).cue -- 0B0C3C70422AFFEE25EC5C191F6B4EEA0C23777D\r\n- Twisted Metal 2 (USA) (Track 01).bin -- D5DD081D860CE031A5D9601924C7D0F6AFB33814\r\n- Twisted Metal 2 (USA) (Track 06).bin -- 37CF34EEADC2EA3E617804E1D7FEC7473C06376E\r\n- Twisted Metal 2 (USA) (Track 12).bin -- 81E730971EDD4A3FF43039B0E1B91ECC5B346400"
   }
  ]
 }
