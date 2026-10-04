@@ -1,0 +1,51 @@
+{
+ "id": "M2706",
+ "game": "gba/tekken-advance",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2706.bk2",
+  "format": "bk2",
+  "frames": 6024,
+  "rerecords": 7831,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 1.8.3",
+  "files": [
+   {
+    "name": "Tekken Advance (U) [!]",
+    "sha1": "8b21cd57cacf172f963dfc7ead4fa127a8a63870"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2706M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Ya1rtsDWyLs"
+  }
+ ],
+ "submitted": "2014-10-25T13:57:29",
+ "attachments": [],
+ "forum": {
+  "topicId": 1936,
+  "url": "https://forum.toolassisted.run/t/1936"
+ }
+}
