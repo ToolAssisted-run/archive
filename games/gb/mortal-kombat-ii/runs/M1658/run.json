@@ -1,0 +1,52 @@
+{
+ "id": "M1658",
+ "game": "gb/mortal-kombat-ii",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1658.vbm",
+  "format": "vbm",
+  "frames": 32653,
+  "fps": 60.0,
+  "rerecords": 5992,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v21",
+  "files": [
+   {
+    "name": "Mortal Kombat II (U) [S][!].gb",
+    "sha1": "b8d400ee3d78a38f721f97e5222108d3586d2e63"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1658M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=B7HspPrEX1E"
+  }
+ ],
+ "submitted": "2010-10-26T21:28:59",
+ "attachments": [],
+ "forum": {
+  "topicId": 1918,
+  "url": "https://forum.toolassisted.run/t/1918"
+ }
+}

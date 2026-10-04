@@ -1,0 +1,51 @@
+{
+ "id": "M1725",
+ "game": "nes/the-terminator",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1725.fm2",
+  "format": "fm2",
+  "frames": 22741,
+  "rerecords": 14084,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.1.4a",
+  "files": [
+   {
+    "name": "Terminator, The (U).nes",
+    "sha1": "5b4c78a47ce7d494b7cdd2e952009c20f9c5b131"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1725M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rbGFa4j43o8"
+  }
+ ],
+ "submitted": "2011-01-22T17:37:20",
+ "attachments": [],
+ "forum": {
+  "topicId": 1921,
+  "url": "https://forum.toolassisted.run/t/1921"
+ }
+}

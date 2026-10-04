@@ -1,0 +1,52 @@
+{
+ "id": "M1729",
+ "game": "gbc/robocop",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1729.vbm",
+  "format": "vbm",
+  "frames": 39887,
+  "fps": 60.0,
+  "rerecords": 9701,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr",
+  "files": [
+   {
+    "name": "Robocop (U) (M6) [C][!].gbc",
+    "sha1": "fbac3bdc8ed40c0f752ec711c4cc82262358f9bd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1729M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=uRb8Qhbp3lg"
+  }
+ ],
+ "submitted": "2011-02-04T21:37:18",
+ "attachments": [],
+ "forum": {
+  "topicId": 1923,
+  "url": "https://forum.toolassisted.run/t/1923"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M1790",
+ "game": "gba/mortal-kombat-tournament-edition",
+ "category": {
+  "goal": "tag-team"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1790.vbm",
+  "format": "vbm",
+  "frames": 21384,
+  "fps": 60.0,
+  "rerecords": 14340,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr",
+  "files": [
+   {
+    "name": "Mortal Kombat - Tournament Edition (U) (M5) [hIR].gba",
+    "sha1": "7891bd1eb58c7b526ed6b6874eb1a4b4e9c813f7"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1790M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=i2Vj0zq4qzg"
+  }
+ ],
+ "submitted": "2011-04-28T23:07:25",
+ "attachments": [],
+ "forum": {
+  "topicId": 1925,
+  "url": "https://forum.toolassisted.run/t/1925"
+ }
+}

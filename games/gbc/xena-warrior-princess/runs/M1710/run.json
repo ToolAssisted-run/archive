@@ -1,0 +1,52 @@
+{
+ "id": "M1710",
+ "game": "gbc/xena-warrior-princess",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1710.vbm",
+  "format": "vbm",
+  "frames": 11938,
+  "fps": 60.0,
+  "rerecords": 5356,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v21",
+  "files": [
+   {
+    "name": "Xena - Warrior Princess (U) [C][!].gbc",
+    "sha1": "1de53d445d898aa25b0472c604d5cfb052812070"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1710M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Au8yiVmpdL0"
+  }
+ ],
+ "submitted": "2010-12-29T07:45:12",
+ "attachments": [],
+ "forum": {
+  "topicId": 1919,
+  "url": "https://forum.toolassisted.run/t/1919"
+ }
+}
