@@ -50,5 +50,12 @@
  "forum": {
   "topicId": 1912,
   "url": "https://forum.toolassisted.run/t/1912"
- }
+ },
+ "likes": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-10-04",
+   "at": "2026-10-04T05:20:24Z"
+  }
+ ]
 }
