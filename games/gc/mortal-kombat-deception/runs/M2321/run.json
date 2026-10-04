@@ -1,0 +1,51 @@
+{
+ "id": "M2321",
+ "game": "gc/mortal-kombat-deception",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2321.dtm",
+  "format": "dtm",
+  "frames": 49902,
+  "rerecords": 20682,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 3.0-898",
+  "files": [
+   {
+    "name": "m3-mkd.gcm",
+    "sha1": "489c6b57b70390933dff7d8d9d12424f58a8f821"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2321M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DPWme0tRBzA"
+  }
+ ],
+ "submitted": "2013-02-20T18:29:31",
+ "attachments": [],
+ "forum": {
+  "topicId": 1933,
+  "url": "https://forum.toolassisted.run/t/1933"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M2245",
+ "game": "gba/nancy-drew-message-in-a-haunted-mansion",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2245.vbm",
+  "format": "vbm",
+  "frames": 31597,
+  "fps": 60.0,
+  "rerecords": 15184,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v24 svn393",
+  "files": [
+   {
+    "name": "Nancy Drew - Message in a Haunted Mansion (U) [!].gba",
+    "sha1": "8d2fbfa11f43a9d4d4bef9d68003ec689a62afaa"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2245M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=kJdzVeb64pw"
+  }
+ ],
+ "submitted": "2013-01-01T11:16:09",
+ "attachments": [],
+ "forum": {
+  "topicId": 1932,
+  "url": "https://forum.toolassisted.run/t/1932"
+ }
+}

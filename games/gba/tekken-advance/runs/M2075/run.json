@@ -1,0 +1,52 @@
+{
+ "id": "M2075",
+ "game": "gba/tekken-advance",
+ "category": {
+  "goal": "tag-battle"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2075.vbm",
+  "format": "vbm",
+  "frames": 27538,
+  "fps": 60.0,
+  "rerecords": 33411,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v24 svn393",
+  "files": [
+   {
+    "name": "Tekken Advance (U) [!].gba",
+    "sha1": "8b21cd57cacf172f963dfc7ead4fa127a8a63870"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2075M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=I5Knf-dtzms"
+  }
+ ],
+ "submitted": "2012-07-14T20:42:50",
+ "attachments": [],
+ "forum": {
+  "topicId": 1930,
+  "url": "https://forum.toolassisted.run/t/1930"
+ }
+}

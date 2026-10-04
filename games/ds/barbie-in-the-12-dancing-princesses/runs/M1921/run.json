@@ -1,0 +1,51 @@
+{
+ "id": "M1921",
+ "game": "ds/barbie-in-the-12-dancing-princesses",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1921.dsm",
+  "format": "dsm",
+  "frames": 107085,
+  "rerecords": 26707,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "DeSmuME 0.9.7",
+  "files": [
+   {
+    "name": "0663 - Barbie in the 12 Dancing Princesses (U)(Legacy)",
+    "sha1": "001abc529b6da95ccb7053cd649f618377add8cc"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1921M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=pkYOlS6IZnY"
+  }
+ ],
+ "submitted": "2011-11-20T02:26:32",
+ "attachments": [],
+ "forum": {
+  "topicId": 1929,
+  "url": "https://forum.toolassisted.run/t/1929"
+ }
+}

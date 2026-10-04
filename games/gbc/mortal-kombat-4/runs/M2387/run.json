@@ -1,0 +1,51 @@
+{
+ "id": "M2387",
+ "game": "gbc/mortal-kombat-4",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2387.vbm",
+  "format": "vbm",
+  "frames": 7954,
+  "rerecords": 5940,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v24 svn393",
+  "files": [
+   {
+    "name": "Mortal Kombat 4 (U) [C][!]",
+    "sha1": "ea54fb35cd8c4d4cea234423a81f8f953b1d33e4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2387M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=6iZ3UNoAqiU"
+  }
+ ],
+ "submitted": "2013-05-07T14:09:02",
+ "attachments": [],
+ "forum": {
+  "topicId": 1935,
+  "url": "https://forum.toolassisted.run/t/1935"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M1842",
+ "game": "gba/mortal-kombat-advance",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "AKheon"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1842.vbm",
+  "format": "vbm",
+  "frames": 59521,
+  "fps": 60.0,
+  "rerecords": 30522,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v21-interim",
+  "files": [
+   {
+    "name": "Mortal Kombat Advance (U).gba",
+    "sha1": "461b6400eade2eeeeb1faabb3724d8b27c84361d"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1842M",
+  "importedBy": "AKheon",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=FlcAbktU0_8"
+  }
+ ],
+ "submitted": "2011-07-17T01:19:14",
+ "attachments": [],
+ "forum": {
+  "topicId": 1927,
+  "url": "https://forum.toolassisted.run/t/1927"
+ }
+}

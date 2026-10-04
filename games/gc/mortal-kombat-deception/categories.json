@@ -13,6 +13,11 @@
      "key": "arcade-mode-savegame",
      "label": "Arcade mode, savegame",
      "rule": "Imported from TASVideos as \"Arcade mode, savegame\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "playaround",
+     "label": "playaround",
+     "rule": "Imported as \"playaround\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }
