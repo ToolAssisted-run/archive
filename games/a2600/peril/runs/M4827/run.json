@@ -1,0 +1,54 @@
+{
+ "id": "M4827",
+ "game": "a2600/peril",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "MrTASer"
+  },
+  {
+   "user": "nymx"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4827.bk2",
+  "format": "bk2",
+  "frames": 26462,
+  "rerecords": 8338,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "NewPeril-RC1.bin",
+    "sha1": "d1111ed7a22188ec7597f0a83105772c5f7283da"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4827M",
+  "importedBy": "nymx",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=7VfVzEmyi04"
+  }
+ ],
+ "submitted": "2022-09-10T11:40:01.751269",
+ "attachments": [],
+ "forum": {
+  "topicId": 1912,
+  "url": "https://forum.toolassisted.run/t/1912"
+ }
+}

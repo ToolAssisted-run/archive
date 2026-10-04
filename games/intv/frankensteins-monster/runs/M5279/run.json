@@ -1,0 +1,54 @@
+{
+ "id": "M5279",
+ "game": "intv/frankensteins-monster",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "nymx"
+  },
+  {
+   "user": "MrTASer"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5279.bk2",
+  "format": "bk2",
+  "frames": 107053,
+  "rerecords": 16085,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "franken.rom",
+    "sha1": "817ba85aaf1399e7b1d89f7510ce777191d788bd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5279M",
+  "importedBy": "nymx",
+  "importedAt": "2026-10-04"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=MTM2fKsS6aY"
+  }
+ ],
+ "submitted": "2023-05-19T04:40:05.591066",
+ "attachments": [],
+ "forum": {
+  "topicId": 1914,
+  "url": "https://forum.toolassisted.run/t/1914"
+ }
+}
