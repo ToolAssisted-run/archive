@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "fastest-completion",
+     "label": "fastest completion",
+     "rule": "Hard mode, can't use bosses or cheats to use juggle combo"
+    }
+   ]
+  }
+ ]
+}
