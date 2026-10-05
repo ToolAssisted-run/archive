@@ -99,6 +99,15 @@
    "date": "2026-09-11",
    "at": "2026-09-11T15:35:20Z",
    "reason": "Created under wrong platform"
+  },
+  {
+   "kind": "run",
+   "key": "M100030",
+   "title": "genesis/the-lion-king (all-bugs)",
+   "by": "toca",
+   "date": "2026-10-05",
+   "at": "2026-10-05T07:14:53Z",
+   "reason": "Duplicate of M7337 as confirmed by the author in the Discord server"
   }
  ]
 }
