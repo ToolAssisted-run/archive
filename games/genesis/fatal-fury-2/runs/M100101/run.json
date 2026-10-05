@@ -29,7 +29,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -50,6 +50,16 @@
    "user": "CoolHandMike",
    "date": "2026-10-05",
    "at": "2026-10-05T04:42:22Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-05",
+   "at": "2026-10-05T10:09:13Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "SHA1 hash of Fatal Fury 2 (USA, Korea).md: 52A269DE38ED43EA5C6623906AF6B64F01696FFB"
   }
  ]
 }
