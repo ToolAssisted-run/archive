@@ -1,0 +1,5 @@
+FATAL FURY 2 now on mega drive, this is the best version, it has combo mechanics like street fighter 2, it has many infinite combos which are unfortunately slower than playing big bear again...Terry for example is inconsistent because he sometimes knocks down the enemy which ruins the chance of his infinite being faster. Giant bomb from bear can also knockdown but it's easier to manipulate the enemy to crouch and not get knocked down.
+
+This is pretty much the best version if you want to play a more solid fighting game instead of the original arcade version.
+
+This version also has a cheat to enable boss characters and juggle combos and a few extra super moves jubei mai and terry, this is not used here! I believe using juggles and using boss chars should be separate categories; Perfects cost time but it's hard to manipulate trades and special moves, it's better to get perfect than stunning enemies, which also loses time, but i managed to avoid in many battles. Special moves have huge priority in this version, it's the strongest special moves have been on fatal fury 2 so far.

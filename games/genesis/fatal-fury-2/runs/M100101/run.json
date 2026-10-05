@@ -1,0 +1,48 @@
+{
+ "id": "M100101",
+ "game": "genesis/fatal-fury-2",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "duration": 660.217,
+ "movie": {
+  "file": "M100101.bk2",
+  "format": "bk2",
+  "sha1": "bdc26fbdae90e217b8d554e66b79219b4f1a8737",
+  "frames": 39562,
+  "rerecords": 2990,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11",
+  "files": [
+   {
+    "name": "fatal fury 2 (u) [c] [!].md"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/AEmYx4zDhW4"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-05T01:47:03Z",
+ "submittedBy": "KusogeMan",
+ "forum": {
+  "topicId": 1939,
+  "url": "https://forum.toolassisted.run/t/1939"
+ }
+}
