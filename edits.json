@@ -10950,6 +10950,17 @@
    "date": "2026-10-06",
    "at": "2026-10-06T06:20:17Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "nes/bomberman",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-06",
+   "at": "2026-10-06T06:24:25Z",
+   "reason": "added key art (Bomberman Wiki)"
   }
  ]
 }
