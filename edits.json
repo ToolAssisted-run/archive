@@ -10851,6 +10851,17 @@
    "date": "2026-10-02",
    "at": "2026-10-02T17:31:36Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "nes/pac-man-championship-edition",
+   "field": "released",
+   "from": "",
+   "to": "2020-06-20",
+   "by": "CloakTheLurker",
+   "date": "2026-10-06",
+   "at": "2026-10-06T05:39:43Z",
+   "reason": "added info and link"
   }
  ]
 }
