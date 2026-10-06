@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "glitchless",
+     "label": "glitchless%",
+     "rule": "RTA's Glitchless means no zips or defocusing. It allows attacking and then jumping which speeds up Mario"
+    }
+   ]
+  }
+ ]
+}
