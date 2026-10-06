@@ -10928,6 +10928,17 @@
    "date": "2026-10-06",
    "at": "2026-10-06T06:13:37Z",
    "reason": "uploaded key art (Pac-Man Wiki)"
+  },
+  {
+   "kind": "game",
+   "key": "nes/bomberman",
+   "field": "released",
+   "from": "",
+   "to": "1985-12-19",
+   "by": "CloakTheLurker",
+   "date": "2026-10-06",
+   "at": "2026-10-06T06:20:06Z",
+   "reason": "added info and link"
   }
  ]
 }
