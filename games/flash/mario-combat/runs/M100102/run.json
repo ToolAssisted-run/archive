@@ -1,0 +1,55 @@
+{
+ "id": "M100102",
+ "game": "flash/mario-combat",
+ "category": {
+  "goal": "glitchless"
+ },
+ "authors": [
+  {
+   "user": "CoolHandMike"
+  }
+ ],
+ "tools": [],
+ "duration": 62.0,
+ "movie": {
+  "file": "M100102.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "45aef1667be533555c96b97e541f9f5ded2b992a",
+  "frames": 3111,
+  "rerecords": 3169,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-10-03 e9dc5ecf1",
+  "files": [
+   {
+    "name": "471144_MarioCombat.swf",
+    "sha1": "95e0cae6631e54bc1d3e1b437291d093566743f7"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=JnRnMhj1hus"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/471144_MarioCombat_fastestcompletion_3111_complete_credits.chimeraProject",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-10-05",
+ "submitted": "2026-10-06T04:46:27Z",
+ "submittedBy": "CoolHandMike",
+ "forum": {
+  "topicId": 1941,
+  "url": "https://forum.toolassisted.run/t/1941"
+ }
+}
