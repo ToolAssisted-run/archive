@@ -7,7 +7,7 @@
     {
      "key": "maximum-score-normal",
      "label": "maximum score, Normal",
-     "rule": "Imported as \"maximum score, Normal\" from the source it was published at; rules to be formalized by the game's experts."
+     "rule": "Score the maximum amount of points in Normal mode."
     },
     {
      "key": "maximum-score-extra",

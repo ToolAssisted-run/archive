@@ -10873,6 +10873,17 @@
    "date": "2026-10-06",
    "at": "2026-10-06T05:39:54Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "category",
+   "key": "nes/pac-man-championship-edition:maximum-score-normal",
+   "field": "rule",
+   "from": "Imported as \"maximum score, Normal\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Score the maximum amount of points in Normal mode.",
+   "by": "CloakTheLurker",
+   "date": "2026-10-06",
+   "at": "2026-10-06T05:43:55Z",
+   "reason": "edited rules"
   }
  ]
 }
