@@ -10895,6 +10895,17 @@
    "date": "2026-10-06",
    "at": "2026-10-06T05:44:06Z",
    "reason": "edited rules"
+  },
+  {
+   "kind": "category",
+   "key": "nes/pac-man-championship-edition:pacifist-maximum-score-normal",
+   "field": "rule",
+   "from": "Imported as \"pacifist, maximum score, Normal\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Score the maximum amount of points in Normal mode without eating any ghosts.",
+   "by": "CloakTheLurker",
+   "date": "2026-10-06",
+   "at": "2026-10-06T05:45:16Z",
+   "reason": "edited rule"
   }
  ]
 }
