@@ -10972,6 +10972,17 @@
    "date": "2026-10-06",
    "at": "2026-10-06T09:06:06Z",
    "reason": "Changed from the group form: flash/mario-combat moved in"
+  },
+  {
+   "kind": "game",
+   "key": "flash/mario-combat",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "toca",
+   "date": "2026-10-06",
+   "at": "2026-10-06T09:06:39Z",
+   "reason": "unofficial game"
   }
  ]
 }
