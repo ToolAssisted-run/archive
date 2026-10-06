@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -57,6 +57,14 @@
    "user": "eien86",
    "date": "2026-10-06",
    "at": "2026-10-06T11:06:28Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-10-06",
+   "at": "2026-10-06T17:20:00Z",
+   "expert": true
   }
  ]
 }
