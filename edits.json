@@ -10862,6 +10862,17 @@
    "date": "2026-10-06",
    "at": "2026-10-06T05:39:43Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pac-man-championship-edition",
+   "field": "website",
+   "from": "",
+   "to": "https://retroachievements.org/game/16549",
+   "by": "CloakTheLurker",
+   "date": "2026-10-06",
+   "at": "2026-10-06T05:39:54Z",
+   "reason": "added info and link"
   }
  ]
 }
