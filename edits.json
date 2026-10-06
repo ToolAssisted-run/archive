@@ -10917,6 +10917,17 @@
    "date": "2026-10-06",
    "at": "2026-10-06T05:45:27Z",
    "reason": "edited rule"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pac-man-championship-edition",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-06",
+   "at": "2026-10-06T06:13:37Z",
+   "reason": "uploaded key art (Pac-Man Wiki)"
   }
  ]
 }
