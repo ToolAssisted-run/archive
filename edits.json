@@ -10906,6 +10906,17 @@
    "date": "2026-10-06",
    "at": "2026-10-06T05:45:16Z",
    "reason": "edited rule"
+  },
+  {
+   "kind": "category",
+   "key": "nes/pac-man-championship-edition:pacifist-maximum-score-extra",
+   "field": "rule",
+   "from": "Imported as \"pacifist, maximum score, Extra\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Score the maximum amount of points in Extra mode without eating any ghosts.",
+   "by": "CloakTheLurker",
+   "date": "2026-10-06",
+   "at": "2026-10-06T05:45:27Z",
+   "reason": "edited rule"
   }
  ]
 }

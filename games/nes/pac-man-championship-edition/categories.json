@@ -22,7 +22,7 @@
     {
      "key": "pacifist-maximum-score-extra",
      "label": "pacifist, maximum score, Extra",
-     "rule": "Imported as \"pacifist, maximum score, Extra\" from the source it was published at; rules to be formalized by the game's experts."
+     "rule": "Score the maximum amount of points in Extra mode without eating any ghosts."
     }
    ]
   }
