@@ -51,5 +51,12 @@
  "metrics": {
   "in-game-time": 812.833
  },
- "duration": 887.45
+ "duration": 887.45,
+ "likes": [
+  {
+   "user": "eien86",
+   "date": "2026-10-06",
+   "at": "2026-10-06T03:42:23Z"
+  }
+ ]
 }
