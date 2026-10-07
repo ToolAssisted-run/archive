@@ -7,7 +7,7 @@
     {
      "key": "warps",
      "label": "warps",
-     "rule": "Imported from TASVideos as \"warps\"; rules to be formalized by the game's experts."
+     "rule": "Complete the game in the fastest time. Warps are allowed."
     },
     {
      "key": "warpless",

@@ -11038,6 +11038,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:15:05Z",
    "reason": "added rules"
+  },
+  {
+   "kind": "category",
+   "key": "nes/superfast-mario-bros:warps",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"warps\"; rules to be formalized by the game's experts.",
+   "to": "Complete the game in the fastest time. Warps are allowed.",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:16:42Z",
+   "reason": "added rules"
   }
  ]
 }
