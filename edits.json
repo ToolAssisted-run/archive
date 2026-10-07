@@ -11357,6 +11357,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:52:53Z",
    "reason": "edited image"
+  },
+  {
+   "kind": "game",
+   "key": "nes/duck-hunt",
+   "field": "released",
+   "from": "",
+   "to": "1984-04-21",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:54:54Z",
+   "reason": "added info and links"
   }
  ]
 }
