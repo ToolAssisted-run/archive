@@ -11071,6 +11071,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:26:18Z",
    "reason": "added key art (Pac-Man Wiki)"
+  },
+  {
+   "kind": "category",
+   "key": "nes/pac-man:baseline",
+   "field": "rule",
+   "from": "Complete the game as fast as possible.",
+   "to": "Complete 20 mazes as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:27:28Z",
+   "reason": "edited rule"
   }
  ]
 }
