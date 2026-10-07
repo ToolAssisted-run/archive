@@ -11522,6 +11522,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:12:54Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/gimmick",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:15:16Z",
+   "reason": "added key art (IGN)"
   }
  ]
 }
