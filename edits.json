@@ -10994,6 +10994,17 @@
    "date": "2026-10-06",
    "at": "2026-10-06T09:06:50Z",
    "reason": "unofficial game"
+  },
+  {
+   "kind": "group",
+   "key": "mario",
+   "field": "games",
+   "from": "fds/super-mario-bros, fds/super-mario-bros-2, flash/mario-combat, gbc/super-mario-bros-deluxe, nes/bob-omb-mario, nes/extra-mario-bros, nes/hard-relay-mario, nes/super-cursed-bros, nes/super-mario-bros, nes/super-mario-bros-special-35th-anniversary-edition, nes/super-mario-bros-the-mystery-of-luigi,",
+   "to": "arcade/vs-super-mario-bros, fds/super-mario-bros, fds/super-mario-bros-2, flash/mario-combat, gbc/super-mario-bros-deluxe, nes/bob-omb-mario, nes/extra-mario-bros, nes/hard-relay-mario, nes/super-cursed-bros, nes/super-mario-bros, nes/super-mario-bros-special-35th-anniversary-edition, nes/super-mari",
+   "by": "toca",
+   "date": "2026-10-07",
+   "at": "2026-10-07T05:33:17Z",
+   "reason": "Changed from the group form: arcade/vs-super-mario-bros moved in"
   }
  ]
 }

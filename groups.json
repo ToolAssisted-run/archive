@@ -421,6 +421,7 @@
    "key": "mario",
    "title": "Mario",
    "games": [
+    "arcade/vs-super-mario-bros",
     "fds/super-mario-bros",
     "fds/super-mario-bros-2",
     "flash/mario-combat",
