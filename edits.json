@@ -11302,6 +11302,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:44:20Z",
    "reason": "added info"
+  },
+  {
+   "kind": "game",
+   "key": "nes/arkanoid",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:46:03Z",
+   "reason": "added key art (Retro Replay)"
   }
  ]
 }
