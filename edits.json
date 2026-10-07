@@ -11005,6 +11005,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T05:33:17Z",
    "reason": "Changed from the group form: arcade/vs-super-mario-bros moved in"
+  },
+  {
+   "kind": "category",
+   "key": "nes/mighty-bomb-jack:best-ending",
+   "field": "rule",
+   "from": "Imported as \"best ending\" from the source it was published at; rules to be formalized by the game's experts.",
+   "to": "Complete the game as fast as possible, while achieving the best ending by collecting hidden items.",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:10:45Z",
+   "reason": "added rule"
   }
  ]
 }
