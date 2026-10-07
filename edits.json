@@ -11115,6 +11115,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:32:14Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pac-man",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/pacman",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:32:25Z",
+   "reason": "added info and links"
   }
  ]
 }
