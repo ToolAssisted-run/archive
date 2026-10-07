@@ -11434,6 +11434,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:06:40Z",
    "reason": "added key art (Nintendo Life)"
+  },
+  {
+   "kind": "game",
+   "key": "3ds/mighty-gunvolt",
+   "field": "released",
+   "from": "",
+   "to": "2014-08-20",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:07:42Z",
+   "reason": "added info and links"
   }
  ]
 }
