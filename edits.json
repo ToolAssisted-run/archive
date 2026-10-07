@@ -11456,6 +11456,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:07:53Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "3ds/mighty-gunvolt",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/mg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:08:07Z",
+   "reason": "added info and links"
   }
  ]
 }
