@@ -11027,6 +11027,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:14:54Z",
    "reason": "added rules"
+  },
+  {
+   "kind": "category",
+   "key": "nes/pinball:game-b",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"Game B\"; rules to be formalized by the game's experts.",
+   "to": "Complete the bonus stage in Game B mode as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:15:05Z",
+   "reason": "added rules"
   }
  ]
 }
