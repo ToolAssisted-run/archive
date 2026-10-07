@@ -11269,6 +11269,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:40:31Z",
    "reason": "added key art"
+  },
+  {
+   "kind": "game",
+   "key": "nes/10-yard-fight",
+   "field": "released",
+   "from": "",
+   "to": "1985-08-30",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:42:35Z",
+   "reason": "added info and link"
   }
  ]
 }
