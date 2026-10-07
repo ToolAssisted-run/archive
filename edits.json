@@ -11225,6 +11225,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:49:24Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/adventure-island",
+   "field": "released",
+   "from": "",
+   "to": "1985-09-12",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:34:53Z",
+   "reason": "added info"
   }
  ]
 }
