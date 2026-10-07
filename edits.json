@@ -11423,6 +11423,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:04:25Z",
    "reason": "added info"
+  },
+  {
+   "kind": "game",
+   "key": "3ds/mighty-gunvolt",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:06:40Z",
+   "reason": "added key art (Nintendo Life)"
   }
  ]
 }
