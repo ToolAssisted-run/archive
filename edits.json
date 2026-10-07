@@ -11082,6 +11082,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:27:28Z",
    "reason": "edited rule"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pac-man",
+   "field": "released",
+   "from": "",
+   "to": "1984-10-02",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:31:49Z",
+   "reason": "added info and links"
   }
  ]
 }
