@@ -11258,6 +11258,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:37:06Z",
    "reason": "added key art (Nintendo.com)"
+  },
+  {
+   "kind": "game",
+   "key": "nes/batman",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:40:31Z",
+   "reason": "added key art"
   }
  ]
 }
