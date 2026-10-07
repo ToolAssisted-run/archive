@@ -11181,6 +11181,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:39:26Z",
    "reason": "added image (Nintendo.com)"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pinball",
+   "field": "released",
+   "from": "",
+   "to": "1984-02-02",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:47:59Z",
+   "reason": "added info and links"
   }
  ]
 }
