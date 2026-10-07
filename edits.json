@@ -11401,6 +11401,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:00:20Z",
    "reason": "added key art"
+  },
+  {
+   "kind": "game",
+   "key": "3ds/blaster-master-zero",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:03:43Z",
+   "reason": "added key art (Nintendo.com)"
   }
  ]
 }
