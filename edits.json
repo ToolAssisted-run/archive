@@ -11555,6 +11555,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:20:41Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "nes/sprilo",
+   "field": "website",
+   "from": "",
+   "to": "https://cmrn.itch.io/sprilo",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:21:20Z",
+   "reason": "added info and links"
   }
  ]
 }
