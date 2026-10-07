@@ -11291,6 +11291,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:42:46Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "nes/arkanoid",
+   "field": "released",
+   "from": "",
+   "to": "1986-12-26",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:44:20Z",
+   "reason": "added info"
   }
  ]
 }
