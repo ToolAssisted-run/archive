@@ -11104,6 +11104,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:32:00Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pac-man",
+   "field": "website",
+   "from": "",
+   "to": "https://nintendo.fandom.com/wiki/Pac-Man_(video_game)",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:32:14Z",
+   "reason": "added info and links"
   }
  ]
 }
