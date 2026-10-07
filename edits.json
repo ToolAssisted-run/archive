@@ -11544,6 +11544,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:20:30Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "nes/sprilo",
+   "field": "unofficial",
+   "from": "",
+   "to": "True",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:20:41Z",
+   "reason": "added info and link"
   }
  ]
 }
