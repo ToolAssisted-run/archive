@@ -11170,6 +11170,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:37:47Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pinball",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:39:26Z",
+   "reason": "added image (Nintendo.com)"
   }
  ]
 }
