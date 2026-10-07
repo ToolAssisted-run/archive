@@ -11137,6 +11137,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:35:10Z",
    "reason": "added key art (StrategyWiki)"
+  },
+  {
+   "kind": "game",
+   "key": "nes/mighty-bomb-jack",
+   "field": "released",
+   "from": "",
+   "to": "1986-04-24",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:37:08Z",
+   "reason": "added info and links"
   }
  ]
 }
