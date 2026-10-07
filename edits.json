@@ -11599,6 +11599,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:36:52Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "nes/dragons-lair",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/dragons_lair_nes",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:37:03Z",
+   "reason": "added info and link"
   }
  ]
 }
