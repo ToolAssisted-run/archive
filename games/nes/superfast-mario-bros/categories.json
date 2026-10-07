@@ -12,7 +12,7 @@
     {
      "key": "warpless",
      "label": "warpless",
-     "rule": "Imported from TASVideos as \"warpless\"; rules to be formalized by the game's experts."
+     "rule": "Complete the game in the fastest time without using warps."
     }
    ]
   }

@@ -11049,6 +11049,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:16:42Z",
    "reason": "added rules"
+  },
+  {
+   "kind": "category",
+   "key": "nes/superfast-mario-bros:warpless",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"warpless\"; rules to be formalized by the game's experts.",
+   "to": "Complete the game in the fastest time without using warps.",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:16:53Z",
+   "reason": "added rules"
   }
  ]
 }
