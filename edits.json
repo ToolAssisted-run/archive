@@ -11203,6 +11203,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:48:10Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pinball",
+   "field": "website",
+   "from": "",
+   "to": "https://nintendo.fandom.com/wiki/Pinball_(NES)",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:49:12Z",
+   "reason": "added info and links"
   }
  ]
 }
