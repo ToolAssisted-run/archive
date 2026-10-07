@@ -11511,6 +11511,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:12:33Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/gimmick",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/gimmick",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:12:54Z",
+   "reason": "added info and links"
   }
  ]
 }
