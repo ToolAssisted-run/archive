@@ -11093,6 +11093,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:31:49Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pac-man",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/qEpFhERssb",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:32:00Z",
+   "reason": "added info and links"
   }
  ]
 }
