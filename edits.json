@@ -11159,6 +11159,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:37:19Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/mighty-bomb-jack",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/mighty_bomb_jack",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:37:47Z",
+   "reason": "added info and links"
   }
  ]
 }
