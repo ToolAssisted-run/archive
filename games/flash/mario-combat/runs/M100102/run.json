@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -70,6 +70,16 @@
    "date": "2026-10-06",
    "at": "2026-10-06T17:20:00Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-07",
+   "at": "2026-10-07T19:55:46Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-03, e9dc5ecf) + Ruffle (2026-09-22, 78ec1fa8)",
+   "notes": "SHA1 hash of Mario_Combat.swf: 95E0CAE6631E54BC1D3E1B437291D093566743F7"
   }
  ]
 }
