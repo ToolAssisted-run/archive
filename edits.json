@@ -11192,6 +11192,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:47:59Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pinball",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/AXtZy5E",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:48:10Z",
+   "reason": "added info and links"
   }
  ]
 }
