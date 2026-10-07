@@ -11280,6 +11280,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:42:35Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "nes/10-yard-fight",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/10-yard_fight",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:42:46Z",
+   "reason": "added info and link"
   }
  ]
 }
