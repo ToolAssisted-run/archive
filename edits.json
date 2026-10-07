@@ -11368,6 +11368,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:54:54Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/duck-hunt",
+   "field": "discord",
+   "from": "",
+   "to": "https://discord.gg/yWaCXYs",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:55:06Z",
+   "reason": "added info and links"
   }
  ]
 }
