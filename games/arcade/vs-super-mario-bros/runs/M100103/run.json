@@ -34,7 +34,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -64,6 +64,16 @@
    "date": "2026-10-07",
    "at": "2026-10-07T05:36:19Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-07",
+   "at": "2026-10-07T19:50:24Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.10",
+   "notes": "SHA1 hash of suprmrio.zip: BFB1588C8A5AD31149C4D6D07CAA2193872D3162"
   }
  ]
 }
