@@ -11533,6 +11533,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:15:16Z",
    "reason": "added key art (IGN)"
+  },
+  {
+   "kind": "game",
+   "key": "nes/sprilo",
+   "field": "released",
+   "from": "",
+   "to": "2017-11-23",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:20:30Z",
+   "reason": "added info and link"
   }
  ]
 }
