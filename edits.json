@@ -11324,6 +11324,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:48:44Z",
    "reason": "added key art"
+  },
+  {
+   "kind": "game",
+   "key": "nes/adventure-island-iv",
+   "field": "released",
+   "from": "",
+   "to": "1994-06-24",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:49:29Z",
+   "reason": "added info"
   }
  ]
 }
