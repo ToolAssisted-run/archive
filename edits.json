@@ -11577,6 +11577,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:22:21Z",
    "reason": "added screenshot"
+  },
+  {
+   "kind": "game",
+   "key": "nes/dragons-lair",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:33:18Z",
+   "reason": "added cover art (https://www.suruga-ya.jp/product/detail/174000793)"
   }
  ]
 }
