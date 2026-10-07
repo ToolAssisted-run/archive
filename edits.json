@@ -11346,6 +11346,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:52:03Z",
    "reason": "added image (TheXboxHub)"
+  },
+  {
+   "kind": "game",
+   "key": "nes/duck-hunt",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:52:53Z",
+   "reason": "edited image"
   }
  ]
 }
