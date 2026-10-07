@@ -11060,6 +11060,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:16:53Z",
    "reason": "added rules"
+  },
+  {
+   "kind": "game",
+   "key": "nes/pac-man",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:26:18Z",
+   "reason": "added key art (Pac-Man Wiki)"
   }
  ]
 }
