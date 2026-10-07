@@ -11016,6 +11016,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T21:10:45Z",
    "reason": "added rule"
+  },
+  {
+   "kind": "category",
+   "key": "nes/pinball:game-a",
+   "field": "rule",
+   "from": "Imported from TASVideos as \"Game A\"; rules to be formalized by the game's experts.",
+   "to": "Complete the bonus stage in Game A mode as fast as possible.",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T21:14:54Z",
+   "reason": "added rules"
   }
  ]
 }
