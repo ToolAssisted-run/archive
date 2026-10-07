@@ -1,0 +1,54 @@
+{
+ "id": "M100103",
+ "game": "arcade/vs-super-mario-bros",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  },
+  {
+   "user": "Asumeh"
+  }
+ ],
+ "tools": [],
+ "duration": 600.648,
+ "movie": {
+  "file": "M100103.bk2",
+  "format": "bk2",
+  "sha1": "9167c40a4998bedff617c626806b6f6e65d6fa53",
+  "frames": 36098,
+  "rerecords": 22110,
+  "start": "power-on",
+  "fps": 60.09847552104471
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "suprmrio.zip",
+    "sha1": "bfb1588c8a5ad31149c4d6d07caa2193872d3162"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=eN1lRJY-E4k"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-05",
+ "submitted": "2026-10-07T02:50:21Z",
+ "submittedBy": "HappyLee",
+ "forum": {
+  "topicId": 1943,
+  "url": "https://forum.toolassisted.run/t/1943"
+ }
+}
