@@ -11379,6 +11379,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:55:06Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/duck-hunt",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/dh",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T22:55:33Z",
+   "reason": "added info and links"
   }
  ]
 }
