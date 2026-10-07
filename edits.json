@@ -11390,6 +11390,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T22:55:33Z",
    "reason": "added info and links"
+  },
+  {
+   "kind": "game",
+   "key": "nes/blaster-master",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:00:20Z",
+   "reason": "added key art"
   }
  ]
 }
