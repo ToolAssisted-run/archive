@@ -5,14 +5,14 @@
    "name": "Goal",
    "options": [
     {
-     "key": "all-bosses",
-     "label": "all bosses",
-     "rule": "Complete the game as fast as possible while defeating all bosses."
-    },
-    {
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "all-bosses",
+     "label": "all bosses",
+     "rule": "Complete the game as fast as possible while defeating all bosses."
     }
    ]
   }

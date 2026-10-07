@@ -11478,6 +11478,17 @@
    "date": "2026-10-07",
    "at": "2026-10-07T23:09:48Z",
    "reason": "added info"
+  },
+  {
+   "kind": "category",
+   "key": "nes/blaster-master:*",
+   "field": "order",
+   "from": "all-bosses, baseline",
+   "to": "baseline, all-bosses",
+   "by": "CloakTheLurker",
+   "date": "2026-10-07",
+   "at": "2026-10-07T23:10:06Z",
+   "reason": "sorted categories"
   }
  ]
 }
