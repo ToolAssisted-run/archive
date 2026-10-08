@@ -244,7 +244,7 @@
  },
  "mvs": {
   "name": "Neo Geo MVS",
-  "fps": 59.18,
+  "fps": 59.18560606060606,
   "hardToReproduce": true
  },
  "sys16": {
@@ -280,5 +280,14 @@
   "name": "PlayStation Vita",
   "fps": 60.0,
   "hardToReproduce": true
+ },
+ "neocd": {
+  "name": "Neo Geo CD",
+  "fps": 59.5994811395202,
+  "hardToReproduce": true
+ },
+ "myvision": {
+  "name": "MyVision",
+  "fps": 59.9227510135505
  }
 }
