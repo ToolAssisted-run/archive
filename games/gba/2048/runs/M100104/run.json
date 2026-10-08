@@ -1,0 +1,49 @@
+{
+ "id": "M100104",
+ "game": "gba/2048",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "izumi"
+  }
+ ],
+ "tools": [],
+ "duration": 92.883,
+ "movie": {
+  "file": "M100104.vbm",
+  "format": "vbm",
+  "sha1": "8ea429afe3d94f508667d5cc538d728fb3f4fbd1",
+  "frames": 5572,
+  "rerecords": 79,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v23.6",
+  "files": [
+   {
+    "name": "2048v1.3.1.gba",
+    "sha1": "758db9c19759510703b63743794b37630bf81bd5"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=DkfrVy3nMNQ"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-08T15:27:10Z",
+ "submittedBy": "izumi",
+ "forum": {
+  "topicId": 1945,
+  "url": "https://forum.toolassisted.run/t/1945"
+ }
+}
