@@ -108,6 +108,15 @@
    "date": "2026-10-05",
    "at": "2026-10-05T07:14:53Z",
    "reason": "Duplicate of M7337 as confirmed by the author in the Discord server"
+  },
+  {
+   "kind": "member",
+   "key": "DuckSquared",
+   "title": "DuckSquared",
+   "by": "eien86",
+   "date": "2026-10-08",
+   "at": "2026-10-08T16:52:22Z",
+   "reason": "An artifact of our early figuring out of imported accounts"
   }
  ]
 }
