@@ -1,0 +1,47 @@
+{
+ "id": "M6384",
+ "game": "gc/crazy-taxi",
+ "category": {
+  "goal": "original"
+ },
+ "authors": [
+  {
+   "user": "SJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6384.dtm",
+  "format": "dtm",
+  "frames": 10695,
+  "rerecords": 1356,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 2412",
+  "files": [
+   {
+    "name": "Crazy Taxi (USA).iso",
+    "sha1": "01fa0b4a8d0957d8c24a49ddd8241e474c7a8b2d"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6384M",
+  "importedBy": "SJ",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=fizngFEXBtw"
+  }
+ ],
+ "submitted": "2025-02-14T02:25:50.272712",
+ "attachments": []
+}
