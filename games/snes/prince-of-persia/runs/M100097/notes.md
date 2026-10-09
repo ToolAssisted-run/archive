@@ -21,13 +21,13 @@ Prince of Persia is a very known game since the 90s for many reasons, such as th
 
 Not actually related to this submitted port, but the first time the game was able to be broken was the Game Boy Color port, abusing the collision function through “left-facing wall” so the player gains access to an unique “glitch” room with myriad exit triggers, skipping most of the game by traveling a few rooms or just doing it in the very first room if available.
 
-There’s a (now obsoleted) TAS of this game done back from 2014, before being obsoleted with an improved and [6387M|published run] 11 years later.
+There’s a (now obsoleted) TAS of this game done back from 2014, before being obsoleted with an improved and [https://toolassisted.run/runs/M6387|published run] 11 years later.
 
 [module:youtube|v=yAxdhthSrgg]
 
 Another port gained a benefit: for years it was known the PC Engine CD version has a glitch that allows Prince to enter the closed exit doors by going to the Pause Menu, select Game End option then the screen fades out for some seconds in addition to disabling the door collision for some reason. 60% of the game can be skipped because the exit is located not far from the beginning location.
 
-Seeing great potential, I TASed this port back from 2017, submitted and received [3523M|publication].
+Seeing great potential, I TASed this port back from 2017, submitted and received [https://toolassisted.run/runs/M3523/|publication].
 
 [module:youtube|v=TP7KhaSHats]
 
