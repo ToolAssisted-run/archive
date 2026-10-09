@@ -1,0 +1,47 @@
+{
+ "id": "M6114",
+ "game": "gc/rocket-power-beach-bandits",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "SJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6114.dtm",
+  "format": "dtm",
+  "frames": 540934,
+  "rerecords": 18883,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-20347",
+  "files": [
+   {
+    "name": "Rocket Power - Beach Bandits.iso",
+    "sha1": "cfc591a840c031b3010cdb29c248cb4f33ffa5c9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6114M",
+  "importedBy": "SJ",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=J5CCtYIhiUg"
+  }
+ ],
+ "submitted": "2024-08-21T18:57:19.35351",
+ "attachments": []
+}
