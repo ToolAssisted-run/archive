@@ -1,0 +1,47 @@
+{
+ "id": "M6363",
+ "game": "gc/catwoman",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "SJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6363.dtm",
+  "format": "dtm",
+  "frames": 151990,
+  "rerecords": 10917,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 2409",
+  "files": [
+   {
+    "name": "Catwoman (USA).rvz",
+    "sha1": "0adc3a1802c07031af0417f1a839269b566d6112"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6363M",
+  "importedBy": "SJ",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=_gIlIYEWmPk"
+  }
+ ],
+ "submitted": "2025-01-30T02:26:03.740356",
+ "attachments": []
+}
