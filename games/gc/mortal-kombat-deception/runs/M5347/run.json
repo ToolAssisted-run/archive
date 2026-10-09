@@ -1,0 +1,51 @@
+{
+ "id": "M5347",
+ "game": "gc/mortal-kombat-deception",
+ "category": {
+  "goal": "chess-kombat"
+ },
+ "authors": [
+  {
+   "user": "SJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5347.dtm",
+  "format": "dtm",
+  "frames": 10962,
+  "rerecords": 278,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-16793",
+  "files": [
+   {
+    "name": "Mortal Kombat- Deception (USA)",
+    "sha1": "489c6b57b70390933dff7d8d9d12424f58a8f821"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5347M",
+  "importedBy": "SJ",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=zqY5pbpm1Bk"
+  }
+ ],
+ "submitted": "2023-06-18T15:34:15.080989",
+ "attachments": [],
+ "forum": {
+  "topicId": 1949,
+  "url": "https://forum.toolassisted.run/t/1949"
+ }
+}

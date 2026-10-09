@@ -1,0 +1,51 @@
+{
+ "id": "M5818",
+ "game": "gc/mortal-kombat-deadly-alliance",
+ "category": {
+  "goal": "arcade-mode"
+ },
+ "authors": [
+  {
+   "user": "SJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5818.dtm",
+  "format": "dtm",
+  "frames": 39712,
+  "rerecords": 2313,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-16793",
+  "files": [
+   {
+    "name": "Mortal Kombat - Deadly Alliance (USA)",
+    "sha1": "1a1c84e8bc1a5ec1d8a6d3d3c7b6ff2ac6e3e95c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5818M",
+  "importedBy": "SJ",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=uNWphrkk2x0"
+  }
+ ],
+ "submitted": "2024-02-16T12:45:51.233197",
+ "attachments": [],
+ "forum": {
+  "topicId": 1954,
+  "url": "https://forum.toolassisted.run/t/1954"
+ }
+}

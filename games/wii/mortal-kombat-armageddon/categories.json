@@ -23,6 +23,11 @@
      "key": "endurance",
      "label": "Endurance",
      "rule": "Imported from TASVideos as \"Endurance\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "konquest-mode",
+     "label": "Konquest mode",
+     "rule": "Imported as \"Konquest mode\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

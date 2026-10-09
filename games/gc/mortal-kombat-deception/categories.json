@@ -18,6 +18,16 @@
      "key": "playaround",
      "label": "playaround",
      "rule": "Imported as \"playaround\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "chess-kombat",
+     "label": "Chess Kombat",
+     "rule": "Imported as \"Chess Kombat\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "arcade-mode",
+     "label": "Arcade Mode",
+     "rule": "Imported as \"Arcade Mode\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

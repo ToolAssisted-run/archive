@@ -1,0 +1,51 @@
+{
+ "id": "M5813",
+ "game": "wii/naruto-clash-of-ninja-revolution-2",
+ "category": {
+  "goal": "story-mode"
+ },
+ "authors": [
+  {
+   "user": "SJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5813.dtm",
+  "format": "dtm",
+  "frames": 66798,
+  "rerecords": 2819,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-16793",
+  "files": [
+   {
+    "name": "Naruto - Clash of Ninja Revolution 2 (USA) (En,Fr,Es).rvz",
+    "sha1": "0e1acc214f10c76c2f5cfe654dacc137eb4b0ba2"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5813M",
+  "importedBy": "SJ",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=GwCOIonut-Q"
+  }
+ ],
+ "submitted": "2024-02-15T08:36:18.441444",
+ "attachments": [],
+ "forum": {
+  "topicId": 1953,
+  "url": "https://forum.toolassisted.run/t/1953"
+ }
+}

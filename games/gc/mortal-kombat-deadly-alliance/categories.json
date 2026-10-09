@@ -8,6 +8,11 @@
      "key": "arcade-mode-savegame",
      "label": "Arcade Mode, savegame",
      "rule": "Imported from TASVideos as \"Arcade Mode, savegame\"; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "arcade-mode",
+     "label": "Arcade Mode",
+     "rule": "Imported as \"Arcade Mode\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

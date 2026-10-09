@@ -1,0 +1,51 @@
+{
+ "id": "M5417",
+ "game": "wii/mortal-kombat-armageddon",
+ "category": {
+  "goal": "konquest-mode"
+ },
+ "authors": [
+  {
+   "user": "SJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5417.dtm",
+  "format": "dtm",
+  "frames": 410580,
+  "rerecords": 8547,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0-16793",
+  "files": [
+   {
+    "name": "Mortal Kombat - Armageddon (USA).rvz",
+    "sha1": "9603232ab3a537d8555e2b32362768e6a0881063"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5417M",
+  "importedBy": "SJ",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=4jMKz1xXWO8"
+  }
+ ],
+ "submitted": "2023-07-15T19:34:48.041728",
+ "attachments": [],
+ "forum": {
+  "topicId": 1950,
+  "url": "https://forum.toolassisted.run/t/1950"
+ }
+}
