@@ -1,0 +1,54 @@
+{
+ "id": "M6206",
+ "game": "gba/mega-man-battle-network",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Bag_of_Magic_Food"
+  },
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6206.vbm",
+  "format": "vbm",
+  "frames": 188168,
+  "rerecords": 52264,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "VBA-rr v22",
+  "files": [
+   {
+    "name": "0165 - Megaman Battle Network (U)(Venom).gba USA",
+    "sha1": "a4fbae389654a6611d0597b1e9109cbbd32a132f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6206M",
+  "importedBy": "KusogeMan",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=khCgCQCulm8"
+  }
+ ],
+ "submitted": "2024-09-30T19:44:01.478583",
+ "attachments": [],
+ "forum": {
+  "topicId": 1947,
+  "url": "https://forum.toolassisted.run/t/1947"
+ }
+}
