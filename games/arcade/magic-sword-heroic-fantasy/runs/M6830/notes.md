@@ -9,13 +9,12 @@
 > without passing through this site's standard procedure. The movie file and these
 > notes were obtained freely from tasvideos.org and are redistributed in observance
 > of the Creative Commons Attribution 2.0 license under which they were published there.
-
 *Magic Sword: Heroic Fantasy (マジックソード) is a 1990 hack and slash video game developed and published by Capcom for arcades. The player is cast as a hero who fights through a mystical tower to save the world. The player can use a sword, axe or magic, and can also rescue and recruit potential allies of various character classes, each with special abilities. (Taken from Wikipedia)
 
 *This TAS uses the default Dipswitch settings.
 
 !!Gameplay
-*Game plays like that of a side scroller fighter. At the start the player is given a choice of floor to start on.  There is a random partner assigned when choosing a higher floor.  The floors all have an exit door, but some floors also have a hidden door that can warp them up a couple extra floors.  This tas chooses the highest available floor to start on which is Floor 33.  This is the hardest selection since the player does not have the time to build up companions or resources.
+Game plays like that of a side scroller fighter. At the start the player is given a choice of floor to start on.  There is a random partner assigned when choosing a higher floor.  The floors all have an exit door, but some floors also have a hidden door that can warp them up a couple extra floors.  This tas chooses the highest available floor to start on which is Floor 33.  This is the hardest selection since the player does not have the time to build up companions or resources.
 
 A second player could also join.   Each character can have a single NPC companion at a time.  The NPC companion choice is very important since they can be very useful.  The companion also has its own level which can be raised by finding the same character (?) from cages or for a red heart item.  Companions also can take damage and die. 
 
@@ -62,13 +61,13 @@ This is a tricky floor.  There is this large wheel of slimes that turn over a un
 This floor's main challenge is getting the jumps set up so that the door is reachable.  Most setups just show the lock to the exit door floating in mid-air.  For extra fun if you fall into the pit near the door the game crashes.  The fastest way is to make a sliver of the original platform appear then move to the very edge which is just enough to get in.
 
 !!Floor 43
-Enemy density is high on this floor.  A couple times the movement bug has to be used in conjunction with attacking.  Lots of giant walls appearing and invisible enemies in them too. This is one of the few areas where the final stretch needs a little walking otherwise the door it not accessible. This may be because you get the best sword in the game from a forced cutscene drop from a chest, the Thunder Sword.
+Enemy density is high on this floor.  A couple times the movement bug has to be used in conjunction with attacking.  Lots of giant walls appearing and invisible enemies in them too. This is one of the few areas where the final stretch needs a little walking otherwise the door is not accessible. This may be because you get the best sword in the game from a forced cutscene drop from a chest, the Thunder Sword.
 
 !!Floor 44
 Fairly complex movement is needed here.  A couple movement bugs with attacking, and some specific adjustments were necessary to get to the door.  The final stretch has a small raised platform, and the character is inside a wall. Pressing Jump + Right gets the player out of the wall and jumping up to the platform. Then the door is available just from the edge.
 
 !!Floor 45
-Odd loading level where there are stretches of invisible platforms.  There is a good stretch near the end where the movement bug activates for a relatively long time in comparison to other uses.  When using the movement bug if the next position the character is moved to is not on a floor and it causes the character to fall the movement bug gets activated again for the next frame.  So it gets activated for nearly half a dozen times on this floor in one go.
+Odd loading level where there are stretches of invisible platforms.  There is a good stretch near the end where the movement bug activates for a relatively long time in comparison to other uses.  When using the movement bug if the next position the character is moved to is not on a floor, and it causes the character to fall, the movement bug gets activated again for the next frame.  So it gets activated for nearly half a dozen times on this floor in one go.
 
 !!Floor 46
 This one requires a large left adjustment a bit into the stage to get to the end as fast as possible.  There is a slight wait for the wrecking ball before once again using the movement bug.
@@ -77,7 +76,7 @@ This one requires a large left adjustment a bit into the stage to get to the end
 Lots of walls in this one.  There is a point where using the movement bug any further would render the ending door unreachable so here I use the bug to get into a wall, then use short jumps using Jump + Down + Up + Left, which hops the character through the wall forward. Then one movement bug activation to get to a platform, then jump up towards the nearly invisible door.
 
 !!Floor 48
-This was difficult to get done quickly.  Lots of hazards with fire and enemies everywhere.  For some reason using the movement bug seems to nearly always cause a small protrusion immediately in front of the character so the only fast way forward is to again use the movement bug.  This is one of the only areas where a forced Special (Attack + Jump) is used for the invincibility frames.  The ending door is in this small corridor with protrustions with a small fire area on the top of them. Using invincibility is the best way to get on top of a protrusion to open the door.
+This was difficult to get done quickly.  Lots of hazards with fire and enemies everywhere.  For some reason using the movement bug seems to nearly always cause a small protrusion immediately in front of the character so the only fast way forward is to again use the movement bug.  This is one of the only areas where a forced Special (Attack + Jump) is used for the invincibility frames.  The ending door is in this small corridor with protrusions with a small fire area on the top of them. Using invincibility is the best way to get on top of a protrusion to open the door.
 
 !!Floor 49
 Final Chimera boss of the game. It has three phases where each phases causes it to respawn.  When it respawns it will form above your character.  After dealing enough damage on the first phase I use the movement bug to move towards the ending door.  Dealing damage much faster than intended causes it to phase shift while still in mid-air.  This is done by first using the Special which causes a rage like mode where the Power is at max for a time allowing strong strikes. Then moving away from the boss with the Thunder Sword along with a powerup item, in this case the Power Stone.  The Full Power strike causes lightning which is in several parts and when you move away it sometimes will hit more than once.   When it dies there are fairies that open a spawned chest from where it was defeated that move to the final door.  Getting it closer to the door saves time.  
@@ -91,7 +90,7 @@ The boss floats around and shoots out destructible homing projectiles.  Using th
 
 In this fight the health I have carefully preserved will be used for the final phase of the boss where the boss will start to float higher in the air and use attacks more intensely. The boss is high enough that the main character has trouble reaching it with a sword.  The Special does 200 damage per use, when the damage actually gets in since a lot of times it seems to just miss for some reason.  This extra damage does a lot of work to whittle that final phase health bar down.  The raised hovering can be avoided for a time if the character is away from the boss when it does the phase transition.
 
-To get the final cutscene to play as fast as possible the character needs to be as far left as possible on the ground.  The game will take control move the character to the far left, then move it a bit right.  There is some dialogue and the game gives you an option to destroy the orb, or to take the orb and replace the last boss.  Destroying the orb gets more points and is the good ending and has the credits roll.  The bad ending only has the text game over and a picture of the last boss.
+To get the final cutscene to play as fast as possible the character needs to be as far left as possible on the ground.  The game will take control and move the character to the far left, then move it a bit right.  There is some dialogue and the game gives you an option to destroy the orb, or to take the orb and replace the last boss.  Destroying the orb gets more points and is the good ending and has the credits roll.  The bad ending only has the text game over and a picture of the last boss.
 
 !!Potential Improvements
 *Understanding how the loading works better could lead to better movement bug use.
