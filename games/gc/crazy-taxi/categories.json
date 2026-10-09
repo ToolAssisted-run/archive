@@ -8,6 +8,11 @@
      "key": "original",
      "label": "Original",
      "rule": "Imported as \"Original\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "arcade",
+     "label": "Arcade",
+     "rule": "Imported as \"Arcade\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

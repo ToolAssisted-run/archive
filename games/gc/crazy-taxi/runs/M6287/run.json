@@ -1,0 +1,47 @@
+{
+ "id": "M6287",
+ "game": "gc/crazy-taxi",
+ "category": {
+  "goal": "arcade"
+ },
+ "authors": [
+  {
+   "user": "SJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6287.dtm",
+  "format": "dtm",
+  "frames": 14596,
+  "rerecords": 1835,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 2409",
+  "files": [
+   {
+    "name": "Crazy Taxi (USA).rvz",
+    "sha1": "01fa0b4a8d0957d8c24a49ddd8241e474c7a8b2d"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6287M",
+  "importedBy": "SJ",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Yz9BP77uzU8"
+  }
+ ],
+ "submitted": "2024-12-07T16:53:36.937138",
+ "attachments": []
+}
