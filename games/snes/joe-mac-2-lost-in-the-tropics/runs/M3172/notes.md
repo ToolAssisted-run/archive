@@ -9,8 +9,7 @@
 > without passing through this site's standard procedure. The movie file and these
 > notes were obtained freely from tasvideos.org and are redistributed in observance
 > of the Creative Commons Attribution 2.0 license under which they were published there.
-
-Joe & Mac 2 - Lost in the Tropics is a sequel to Joe & Mac. It is follow-up to Congo's Caper, the second game of the Joe & Mac series. 
+Joe & Mac 2 - Lost in the Tropics is a sequel to Joe & Mac. It is a follow-up to Congo's Caper, the second game of the Joe & Mac series. 
 
 !!__Game Objectives__
 
@@ -22,21 +21,19 @@ Joe & Mac 2 - Lost in the Tropics is a sequel to Joe & Mac. It is follow-up to C
 
 !!__Story__
 
-* A caveman named Gork has stolen the crown belonging to the Chief of Kali Village, and it's up to Joe or Mac to retrieve it. But before, 
-Joe and Mac should go in search of the seven rainbow stones in order to reach Gork's Lair, where the crown was kept in the hands of Gork.
+* A caveman named Gork has stolen the crown belonging to the Chief of Kali Village, and it's up to Joe or Mac to retrieve it. But before, Joe and Mac should go in search of the seven rainbow stones in order to reach Gork's Lair, where the crown was kept in the hands of Gork.
 
 !!__Tricks__
 
-*__Reset Trick__
+*__Reset trick__
 
-At the Frame 18 when you start this game, if you press Soft Reset, it's possible to skip the Data East and the Licensed by Nintendo Logos. It saves a lot of time! Discovered by Me.
+At the frame 18 from power-on, if you do Soft Reset, it will skip both the Data East and the Licensed by Nintendo logos, gaining a good amount of time! Discovered by me.
 
-*__Hanging in the Air Glitch__
+*__Hanging in the Air glitch__
 
-When Joe reaches the left edge of the screen, normally he will be pushed off the rope; when he is about to fall off, swing your club and he 
-will remain airborne hanging on thin air. You can keep him airborne indefinitely by doing frame perfect club swings successively. It's only possible during the first autoscroller of the Snow Stage. Discovered by Orange Claw Hammer.
+When Joe reaches the left edge of the screen, normally he will be pushed off the rope; when he is about to fall off, swing your club and he will remain airborne hanging on thin air. You can keep him airborne indefinitely by doing frame perfect club swings successively. It's only possible during the first autoscroller of the Snow Stage. Discovered by Orange Claw Hammer.
 
-*__Faster Turnaround__
+*__Faster turnaround__
 
 While Joe or Mac is running, you can turn direction if you follow this instruction:
 
@@ -47,22 +44,21 @@ While Joe or Mac is running, you can turn direction if you follow this instructi
 2. You reverse direction and while doing so also stop holding L/R, so you go from > + L/R, to < alone or < + L/R, to > alone (depending of your direction)
 
 3. Hold < or >. After 8 frames, press and hold L/R again, along with < or >.
-Trick discovered by Orange Claw Hammer.
+Mechanic pointed out by Orange Claw Hammer.
 
-*__Boss RNG Manipulation__
+*__Boss RNG manipulation__
 
-During this Boss Battles, using a pause game, it's possible to manipulate RNG Position and RNG Attacks, depending of this boss attacks or positions.
-Discovered by Me.
+During these boss battles, it's possible to manipulate their attack/movement pattern by pausing the game. Discovered by me.
 
 !!__Introduction__
 
-*Thanks a Reset Trick, I skipped the Data East and Licensed by Nintendo Logos to the Title Screen!
+* Used the aforementioned soft-reset idea before going to Title Screen.
 
 __Kali Village__
 
-* I exit this village.
+* There’s nothing to do except going to the journey.
 
-!!__Kali Valley__
+!!__Mission 1 Start - Kali Stage__
 
 __Kali Kali Valley__
 
@@ -70,31 +66,31 @@ __Kali Kali Valley__
 
 __Taka Hills__
 
-* It's not possible to reach for the other side without the help of worm. After riding the cart and break up, instead of downwards the vine, I skipped this as soon as this horizontal camera is activated, allowing Joe to move forward much earlier for some frames.
+* It's not possible to reach the other side without the help of the worm. After riding the cart and breaking up, instead of going downwards through the vine, as soon as the horizontal camera unlocks, Joe chooses a small shortcut instead.
 
 __A Stegasaurus__
 
-* Okay, this is an autoscroller part. You have no choice but to wait until night. During this time, I took advantage to make entertainment. Before the Stegosaurus to be asleep, it's possible to make the cavemen become kind of automatically slide off screen, but with a wrong air position.
+* Okay, this is an autoscroller part. You have no choice but to wait until nighttime. Meanwhile, make some entertainment until there. Before the Stegosaurus goes asleep, it's possible to make the cavemen kind of automatically slide off screen, but with a wrong air position.
 
-* Instead to move forward, I avoid the freezing of character movement being at the center on the screen on the frame which this process is initiated after the stegosaurus get to sleep.
+* Instead of moving forward, I avoid the freezing of character movement being at the center on the screen on the frame which this process is initiated after the stegosaurus get to sleep.
 
-* Once again, you'll wait until start this Battle.
+* Once again, you'll wait (again) until the game starts the actual battle.
 
 !!__Boss: Stegosaurus__
 
-* It's a easy boss to defeat. So with caution for holes!
+* It's an easy boss to defeat. Be careful with these holes!
 
-After this, You'll automatically recieve the __first (Red) Rainbow Stone!__ Your character will also automatically reach The Tiki Village.
+After this, you'll automatically receive the __first (Red) Rainbow Stone!__ As a result, Joe will automatically travel to The Tiki Village.
 
 !!__The Tiki Village__
 
-* I exit this village.
+* Just exit. We will be back after doing a lot of work on the rest of the map.
 
-!!__Snow Stage__
+!!__Time for exploration - Snow Stage__
 
 __The Snowy Rockies__
 
-* During the autoscroller, a visual glitch is used for entertainment. Before to reach the locked door, for unknown reasons, it's only possible to get the key going on closed door and then kill the enemy who has the Key. 
+* During the autoscroller, a visual glitch is used for entertainment. Touching the closed door at the end is required to spawn the enemy who carries the required key to progress.
 
 __Icy River__
 
@@ -102,15 +98,15 @@ __Icy River__
 
 __The White Maze__
 
-* Ducking to avoid one of this enemies is 1 frame faster than clubing. Before the other autoscroller, 6 frames were improved using two clubs instead of 3 clubs: killing 3 enemies with each elub instead of 2 enemies.
+* Ducking to avoid one of these enemies is a frame faster than using the attack. Before the following autoscroller, using two club attacks instead of 3 is faster by six frames, killing three enemies instead of 2 as a small bonus advantage.
 
 !!__Boss: Triceratops__
 
-* It's more harder than first boss, but not tougher than Gork!
+* It's harder than the previous boss, but not tougher than Gork who will appear in the middle of the game.
 
-After this, you'll automatically recieve the __fourth (Green) Rainbow Stone!__
+With the cold objective done, you will receive the __fourth (Green) Rainbow Stone!__
 
-!!__Jungle Stage__
+!!__Next area - Jungle Stage__
 
 __The Deep Tropics__
 
@@ -118,28 +114,27 @@ __The Deep Tropics__
 
 __Trouble in the Treetops__
 
-* Nothing much to say here.
+* Ditto.
 
 __The Windy Valley__
 
-* Another Autoscroller part! More entertainment is made during this autoscroller. Note: It's not possible bring caveman to this Boss, 
-forcing automatically the caveman to die.
+* Another autoscroller section! More entertainment is made with some creative ideas. Before you enter the battle, it's not possible to bring cavemen at this point so the game will cause them to die.
 
 !!__Boss: Pterodactyl__
 
-* I hit Pterodactyl 4 times during this first cycle. A pause game is used to __change RNG Position__ of this boss, because defeating in this lower position is much faster than high position. I delivered a last hit a few frames later to save more frames.
+* During the first cycle it’s possible to hit him up to four times thanks to a slower movement pattern. The next cycle requires some RNG manipulation so I can defeat Pterodactyl on a lower position and delaying the last hit can save more frames.
 
-After this, you'll automatically recieve the __third (Yellow) Rainbow Stone!__
+Another stage done, the __third (Yellow) Rainbow Stone is obtained!__
 
-!!__Swamp Stage__
+!!__Not bad - Swamp Stage__
 
 __Murky Swampland__
 
-* I get a Club Upgrade, this help to save time in...
+* I got a Club upgrade because this will be useful in...
 
 __Tunnel of Horrors__
 
-* I stayed the maximum time in the water, because running on the Water is faster than no-water. Thanks for projectile of club upgrade, i hit a caveman and other cavemen earlier than club each time.
+* I stayed the maximum time in the water, because running on the water is faster and increases speed. Thanks to the projectile of the club upgrade, hitting these cavemen saves some time a little faster than intended.
 
 __Obstacles Ahead__
 
@@ -147,11 +142,11 @@ __Obstacles Ahead__
 
 !!__Boss: Elasmosaurus__
 
-* I took three cycles to defeat this boss.
+* It took three cycles to defeat this boss.
 
-After this, You'll automatically recieve the __fifty (Light Blue) Rainbow Stone!__
+Glad this stage doesn’t have an autoscroller section at all. One more Rainbow Stone, the __fifth (Light Blue) one gained!__
 
-!!__Volcano Stage__
+!!__Danger danger - Volcano Stage__
 
 __The Scarlet Carpet__
 
@@ -159,70 +154,71 @@ __The Scarlet Carpet__
 
 __The Boiler__
 
-* Nothing much to say here.
+* Nothing much to say here except running as always.
 
 __Animal Tracks__
 
-* Instead of wait to descend first and second rows of stone columns, I grab the rope to reach much faster on the stone columns. Before of start the second autoscroller of this stage, i did a Jump on the exactly moment when the screen starts autoscrolling, saving 6 frames.
+* Instead of waiting to descend the first and second rows of stone columns, I grab the rope to reach much faster on the stone columns. Before starting the second autoscroller of the second half of the section, doing a jump on the exact moment when the screen starts doing the job saves six frames.
 
 !!__Boss: Tyrannosaurus__
 
-* Once again, I did a pause game to __change RNG Position__ of this boss.
+* Like the Pterodactyl boss, pausing the game is useful there.
 
-After this, you'll automatically recieve the __sixth (Blue) Rainbow Stone!__
+Another job done, the reward is the __sixth (Blue) Rainbow Stone!__
 
 !!__The Tiki Village__
 
-* I go to talking with old man to recieve the second (Orange) Rainbow Stone, and I get a ride back to Kali Village.
+* Talk with the Old Man to receive the second (Orange) Rainbow Stone, and get a ride back to Kali Village.
 
 __Kali Village__
 
-* OH NO! A Village in Flames! Because of this problem, the village became an autoscroller level. 
+* Oh no! The village is being attacked! As a consequence, the village also has an autoscroller waiting time.
 
 !!__Boss: Gork__
 
-* Gork is TOUGH! He is much harder than other bosses of this game. During the Battle, I taked damage to __manipulate__ the attacks of Gork (1 cycle only) to save 1 frame. 
+* He is the antagonist of the game and also a tough boss! He is the most difficult enemy until now. During the battle, I take damage on purpose to __manipulate__ one of his attacks during one of some cycles to save a frame. 
 
-After defeating Gork, You'll automatically recieve the __last (Purple) Rainbow Stone!__ After this, go to the level entrance to the Southwest of Tiki Village. The stones will do their thing and build a bridge to the Gork's Lair!
+After the victory, you will receive the __last (Purple) Rainbow Stone!__ After this, go to the level entrance to the southwest of Tiki Village. The stones will build a bridge to continue the mission to…
 
 !!__Gork's Lair__
 
 __Rainforest__
 
-* I wait for worm moves 1-2 frames to give possibility to reach the other side. 
+* Wait a bit before the worm moves so you can reach the other side safely. 
 
 __The Boneyard__
 
-* This part is like a Boss Rush of Megaman games! Joe will have to defeat this bosses again!
-In all Re-Fights, I avoid the freezing of character movement being at the center on the screen after defeating each boss.
+* This part is like the Boss Rush section from Mega Man games so Joe will have to defeat everyone again!
 
-Two notable difference for this TAS:
+In all re-fights, after defeating each boss, wait at the center of the screen to allow the camera to unlock without delay like seen previously in the first stage.
 
-* I did a pause trick once again, to manipulate RNG Position of this 2 cycles of Pterodactyl Boss Re-Fight.
+Also, two notable differences:
 
-* During the Triceratops and Water Dino Re-Fights, their invincibility times is much longer than regular fight. It can't be avoided.
+* The Pterodactyl boss requires extra pause manipulation this time.
+
+* The invincibility timer lasts longer than before, mainly during the Triceratops and Elasmosaurus battles. It can't be avoided.
 
 __Foreboding Cave__
 
-* It is now time to move forward. You'll have to re-fight Gork now!
+* It is now time to move forward. You'll have to re-fight the true antagonist for sure.
 
 !!__Boss: Gork (Again)__
 
-* Same strategy.
+* Same strategy as before.
 
-After defeat Gork, Joe will go towards the crown to retrieve it but Gork will ask it for more power. Unbelievably the crown will help the person who stole it, leading to this second phase of this Battle.
+After beating him, Joe will go towards the crown to retrieve it but Gork will ask it for more power. Unbelievably the crown will help the person who stole it, leading to the second phase of the battle.
 
 !!__Final Boss: Enchanted Gork__
 
-I did a pause game three times to __change RNG Attack__, because __1 of 3 spinning attacks__ of this Boss is __much faster__ than other 2 attacks.
+Pause trick used three times to change RNG attack, because one of his three spinning attack patterns - rushing forward then returning backwards - is the fastest one.
 
 After this defeat, grab this crown and...
 
 ...END.
 
-__Special Thanks to__
+__Special thanks to__
 
-* Orange Claw Hammer, for watching my WIPs, for pointing several mistakes of my first 2 WIPs, for Hanging in the Air Glitch, Faster Turnaround Trick, and for Avoid Camera Strategy.
+* Orange Claw Hammer, for following my progress pointing out some mistakes to my initial WIPs and for some trick discoveries such as Hanging in the Air, Faster Turnaround mechanic, and not having the game to freeze the camera during certain points.
 
 __Suggested Screenshots__
 
