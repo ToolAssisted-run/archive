@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -52,6 +52,16 @@
    "date": "2026-10-09",
    "at": "2026-10-09T05:29:25Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-09",
+   "at": "2026-10-09T06:19:18Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "VBA-rr v23.6",
+   "notes": "SHA1 hash of \"2048v1.3.1.gba\": 758DB9C19759510703B63743794B37630BF81BD5"
   }
  ]
 }
