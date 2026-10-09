@@ -1,0 +1,54 @@
+{
+ "id": "M5363",
+ "game": "gc/mortal-kombat-deception",
+ "category": {
+  "goal": "konquest-door-glitch"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  },
+  {
+   "user": "SJ"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5363.dtm",
+  "format": "dtm",
+  "frames": 167943,
+  "rerecords": 15224,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Dolphin 5.0 18498",
+  "files": [
+   {
+    "name": "Mortal Kombat - Deception (USA).iso",
+    "sha1": "489c6b57b70390933dff7d8d9d12424f58a8f821"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5363M",
+  "importedBy": "SJ",
+  "importedAt": "2026-10-09"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=_ZVk42KaKZI"
+  }
+ ],
+ "submitted": "2023-06-24T10:16:47.92227",
+ "attachments": [],
+ "forum": {
+  "topicId": 1964,
+  "url": "https://forum.toolassisted.run/t/1964"
+ }
+}
