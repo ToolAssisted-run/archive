@@ -1,0 +1,54 @@
+{
+ "id": "M100105",
+ "game": "dos/prince-of-persia-2-the-shadow-and-the-flame",
+ "category": {
+  "goal": "baseline",
+  "sub": "v1-1"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "metrics": {
+  "in-game-time": 901.583
+ },
+ "duration": 901.583,
+ "movie": {
+  "file": "M100105.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "a675341d57903196c982c9dd2d9b26f43d95554a",
+  "frames": 11728,
+  "rerecords": 0,
+  "start": "power-on",
+  "fps": 70.08630289532294
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-10-07 (Core: SDLPoP2 2026-10-10 12:40  (0153ff15))",
+  "files": [
+   {
+    "name": "Prince of Persia Collection - Limited Edition (USA).bin",
+    "sha1": "1625c3d448f432afb06ff96b334278f2b930f942"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/uiDTFYHlrXo"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-10T14:17:38Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1965,
+  "url": "https://forum.toolassisted.run/t/1965"
+ }
+}
