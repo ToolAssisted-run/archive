@@ -21,6 +21,13 @@
        "type": "time",
        "better": "lower"
       }
+     ],
+     "subcategories": [
+      {
+       "key": "v1-1",
+       "label": "v1.1",
+       "rule": "Finish the game as soon as possible, in the least amount of in-game frames elapsed (IGT). This includes the frames for the first 4 levels, contrary to the original game's which ignores it."
+      }
      ]
     }
    ]

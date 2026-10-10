@@ -2,7 +2,8 @@
  "id": "M4638",
  "game": "dos/prince-of-persia-2-the-shadow-and-the-flame",
  "category": {
-  "goal": "baseline"
+  "goal": "baseline",
+  "sub": "v1-1"
  },
  "authors": [
   {

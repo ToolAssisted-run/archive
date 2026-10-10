@@ -11654,6 +11654,17 @@
    "date": "2026-10-09",
    "at": "2026-10-09T19:21:01Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia-2-the-shadow-and-the-flame:baseline/v1-1",
+   "field": "added",
+   "from": "",
+   "to": "v1.1",
+   "by": "eien86",
+   "date": "2026-10-10",
+   "at": "2026-10-10T14:09:14Z",
+   "reason": "Created it."
   }
  ]
 }
