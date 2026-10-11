@@ -25,7 +25,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -51,6 +51,15 @@
    "user": "Dimon12321",
    "date": "2026-10-11",
    "at": "2026-10-11T08:30:44Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-10-11",
+   "at": "2026-10-11T18:03:41Z",
+   "expert": true,
+   "notes": "The author starts the 60-secs mode and makes insane combos by slicing fruits"
   }
  ]
 }
