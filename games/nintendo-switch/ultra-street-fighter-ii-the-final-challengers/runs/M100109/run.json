@@ -1,0 +1,52 @@
+{
+ "id": "M100109",
+ "game": "nintendo-switch/ultra-street-fighter-ii-the-final-challengers",
+ "category": {
+  "goal": "arcade-mode",
+  "sub": "shin-akuma"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 405.083,
+ "movie": {
+  "file": "M100109.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "c240a1cb24e76b4ba1c5ce87e775fa3b09dcfb62",
+  "frames": 24305,
+  "rerecords": 1373,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Chimera Nightly-2026-10-11 (Core: eden-c8fe1b0032f0+local)",
+  "files": [
+   {
+    "name": "Ultra Street Fighter II The Final Challengers [01007330027EE000][v0].nsp"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/20TTf1FkaTw"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-11T19:49:16Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1973,
+  "url": "https://forum.toolassisted.run/t/1973"
+ }
+}
