@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "arcade-mode",
+     "label": "Arcade Mode",
+     "rule": "Beat the game in arcade mode as fast as possible"
+    }
+   ]
+  }
+ ]
+}
