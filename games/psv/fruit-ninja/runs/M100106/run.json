@@ -21,13 +21,7 @@
  },
  "thumbnail": "thumb.jpg",
  "contract": {
-  "emulator": "chimera Nightly 2026-10-09 (3b5ed5b8)",
-  "files": [
-   {
-    "name": "Fruit Ninja [PCSE00229] [USA] [NoNpDRM] (save data)_003.zip",
-    "sha1": "0cd86fe0c810507a8f5a6f045c34604f26ebbb2a"
-   }
-  ]
+  "emulator": "chimera Nightly 2026-10-09 (3b5ed5b8)"
  },
  "status": {
   "reproduced": "none",
