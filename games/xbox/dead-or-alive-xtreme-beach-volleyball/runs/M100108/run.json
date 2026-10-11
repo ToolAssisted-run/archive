@@ -1,0 +1,50 @@
+{
+ "id": "M100108",
+ "game": "xbox/dead-or-alive-xtreme-beach-volleyball",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "duration": 718.952,
+ "movie": {
+  "file": "M100108.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "0be19bea9078592dbc3250e4ef730c78fff41d2c",
+  "frames": 43094,
+  "rerecords": 357,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Commit 3b5ed5b8c (2026-10-09 11:08 UTC) xemu 2026-10-08 16:44 (e485fb2c)",
+  "files": [
+   {
+    "name": "Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja).xiso.iso",
+    "sha1": "6a2e33c71d5f3e1c516283168d7ae0b980a61868"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Eg-Gjt3FYXc"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-11T10:57:05Z",
+ "submittedBy": "DigitalDuck",
+ "forum": {
+  "topicId": 1970,
+  "url": "https://forum.toolassisted.run/t/1970"
+ }
+}
