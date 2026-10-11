@@ -11797,6 +11797,17 @@
    "date": "2026-10-11",
    "at": "2026-10-11T18:05:40Z",
    "reason": "Adjusted arcade mode category (score-based)"
+  },
+  {
+   "kind": "category",
+   "key": "psv/fruit-ninja:arcade-mode",
+   "field": "metrics",
+   "from": "(classic: time)",
+   "to": "[{\"key\": \"score\", \"label\": \"Score\", \"type\": \"number\", \"better\": \"higher\", \"unit\": \"pts\"}]",
+   "by": "toca",
+   "date": "2026-10-11",
+   "at": "2026-10-11T18:06:54Z",
+   "reason": "changed to score"
   }
  ]
 }
