@@ -11775,6 +11775,17 @@
    "date": "2026-10-11",
    "at": "2026-10-11T13:10:36Z",
    "reason": "IR is first"
+  },
+  {
+   "kind": "category",
+   "key": "psv/fruit-ninja:arcade-mode",
+   "field": "label",
+   "from": "ARCADE MODE",
+   "to": "Arcade mode",
+   "by": "toca",
+   "date": "2026-10-11",
+   "at": "2026-10-11T18:05:30Z",
+   "reason": "Adjusted arcade mode category (score-based)"
   }
  ]
 }
