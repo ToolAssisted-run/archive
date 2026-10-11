@@ -1,0 +1,58 @@
+{
+ "id": "M100110",
+ "game": "nokia-n-gage/ashen",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "duration": 1159.983,
+ "movie": {
+  "file": "M100110.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "12fb9a8f3a39b9fbf34116eea172dda28de9402f",
+  "frames": 69599,
+  "rerecords": 6762,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "photosensitivity"
+ ],
+ "contract": {
+  "emulator": "Chimera Nightly-2026-10-09",
+  "files": [
+   {
+    "name": "Ashen (v1.06-1704THA) (Retail).zip",
+    "sha1": "f24ae37d85ada8b2a6e1ffa438da2a64b378c629"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=4CABqWkPbUg"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/Ashen2.lua",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-10-11",
+ "submitted": "2026-10-11T19:57:57Z",
+ "submittedBy": "Dimon12321",
+ "forum": {
+  "topicId": 1974,
+  "url": "https://forum.toolassisted.run/t/1974"
+ }
+}
