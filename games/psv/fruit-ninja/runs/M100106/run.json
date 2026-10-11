@@ -1,0 +1,50 @@
+{
+ "id": "M100106",
+ "game": "psv/fruit-ninja",
+ "category": {
+  "goal": "arcade-mode"
+ },
+ "authors": [
+  {
+   "user": "BrunoRaji"
+  }
+ ],
+ "tools": [],
+ "duration": 110.0,
+ "movie": {
+  "file": "M100106.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "96f4fe12239ec0ff835c3418dd00401e2ac0638e",
+  "frames": 6799,
+  "rerecords": 243,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "chimera Nightly 2026-10-09 (3b5ed5b8)",
+  "files": [
+   {
+    "name": "Fruit Ninja [PCSE00229] [USA] [NoNpDRM] (save data)_003.zip",
+    "sha1": "0cd86fe0c810507a8f5a6f045c34604f26ebbb2a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtube.com/shorts/XnaiJMy0xt4"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-10",
+ "submitted": "2026-10-11T01:29:26Z",
+ "submittedBy": "BrunoRaji",
+ "forum": {
+  "topicId": 1967,
+  "url": "https://forum.toolassisted.run/t/1967"
+ }
+}
