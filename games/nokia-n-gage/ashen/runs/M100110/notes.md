@@ -242,3 +242,7 @@ After all 4 limbs are injured, the final boss can be attacked. After some time i
 
 - Collect less Shotgun and Machine Gun ammo. I didn't expect Chapter 4-2 had so much ammo supplies.
 - Do the sniper rifle re-switching trick in more places. I'm not sure if it will save much time because, as I mentioned earlier, you need to stand still to pull it off.
+
+!! For the verifiers/reproducers
+
+This TAS was migrated from one Chimera/EKA2L1 version to another 4 times, and didn't do any resyncs. Any combination of them starting from September 26th should replay this TAS just fine!
