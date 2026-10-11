@@ -7,7 +7,14 @@
     {
      "key": "arcade-mode",
      "label": "Arcade Mode",
-     "rule": "Beat the game in arcade mode as fast as possible"
+     "rule": "Beat the game in arcade mode as fast as possible",
+     "subcategories": [
+      {
+       "key": "shin-akuma",
+       "label": "Shin Akuma",
+       "rule": "Use Shin Akuma to beat Arcade Mode"
+      }
+     ]
     }
    ]
   }

@@ -11819,6 +11819,17 @@
    "date": "2026-10-11",
    "at": "2026-10-11T18:08:00Z",
    "reason": "changed to score after I adjusted the category ~Toca"
+  },
+  {
+   "kind": "category",
+   "key": "nintendo-switch/ultra-street-fighter-ii-the-final-challengers:arcade-mode/shin-akuma",
+   "field": "added",
+   "from": "",
+   "to": "Shin Akuma",
+   "by": "eien86",
+   "date": "2026-10-11",
+   "at": "2026-10-11T19:45:43Z",
+   "reason": "adding shin akuma"
   }
  ]
 }
