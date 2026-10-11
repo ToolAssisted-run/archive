@@ -289,5 +289,9 @@
  "myvision": {
   "name": "MyVision",
   "fps": 59.9227510135505
+ },
+ "nintendo-switch": {
+  "name": "Nintendo Switch",
+  "fps": 60.0
  }
 }
