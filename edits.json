@@ -11687,6 +11687,17 @@
    "date": "2026-10-11",
    "at": "2026-10-11T12:41:05Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia-2-the-shadow-and-the-flame:baseline/ir",
+   "field": "added",
+   "from": "",
+   "to": "IR",
+   "by": "GMP",
+   "date": "2026-10-11",
+   "at": "2026-10-11T13:08:05Z",
+   "reason": "Added IR"
   }
  ]
 }
