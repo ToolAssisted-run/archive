@@ -7,7 +7,7 @@
     {
      "key": "fastest-completion",
      "label": "fastest completion",
-     "rule": "Complete the game and reach the credits as fast as possible."
+     "rule": "Complete the game and reach the credits as fast as possible.\r\nRequired difficulty: Hard."
     }
    ]
   }

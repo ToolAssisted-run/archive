@@ -11830,6 +11830,17 @@
    "date": "2026-10-11",
    "at": "2026-10-11T19:45:43Z",
    "reason": "adding shin akuma"
+  },
+  {
+   "kind": "category",
+   "key": "nokia-n-gage/ashen:fastest-completion",
+   "field": "rule",
+   "from": "Complete the game and reach the credits as fast as possible.",
+   "to": "Complete the game and reach the credits as fast as possible.\r\nRequired difficulty: Hard.",
+   "by": "Dimon12321",
+   "date": "2026-10-11",
+   "at": "2026-10-11T19:47:44Z",
+   "reason": "Add the note on difficulty choice"
   }
  ]
 }
