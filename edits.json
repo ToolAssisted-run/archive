@@ -11720,6 +11720,28 @@
    "date": "2026-10-11",
    "at": "2026-10-11T13:09:14Z",
    "reason": "It belongs to IR"
+  },
+  {
+   "kind": "run",
+   "key": "M100029",
+   "field": "goal",
+   "from": "baseline/v1-1",
+   "to": "baseline/ir",
+   "by": "GMP",
+   "date": "2026-10-11",
+   "at": "2026-10-11T13:09:35Z",
+   "reason": "It belongs to IR"
+  },
+  {
+   "kind": "run",
+   "key": "M100029",
+   "field": "acts voided",
+   "from": "verifications",
+   "to": "by the change of goal",
+   "by": "GMP",
+   "date": "2026-10-11",
+   "at": "2026-10-11T13:09:35Z",
+   "reason": "It belongs to IR"
   }
  ]
 }
