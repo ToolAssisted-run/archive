@@ -29,7 +29,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none",
+  "verified": "confirmed",
   "console": "none"
  },
  "encodes": [
@@ -55,6 +55,12 @@
     "cause": "edit",
     "reason": "the goal changed after this verification"
    }
+  },
+  {
+   "user": "toca",
+   "date": "2026-10-11",
+   "at": "2026-10-11T17:54:12Z",
+   "expert": true
   }
  ],
  "reproductions": [
