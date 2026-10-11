@@ -11786,6 +11786,17 @@
    "date": "2026-10-11",
    "at": "2026-10-11T18:05:30Z",
    "reason": "Adjusted arcade mode category (score-based)"
+  },
+  {
+   "kind": "category",
+   "key": "psv/fruit-ninja:arcade-mode",
+   "field": "rule",
+   "from": "Ryu Hayabusa Breakfast",
+   "to": "Get the highest possible score on the game's arcade mode",
+   "by": "toca",
+   "date": "2026-10-11",
+   "at": "2026-10-11T18:05:40Z",
+   "reason": "Adjusted arcade mode category (score-based)"
   }
  ]
 }
