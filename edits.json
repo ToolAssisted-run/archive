@@ -11764,6 +11764,17 @@
    "date": "2026-10-11",
    "at": "2026-10-11T13:10:09Z",
    "reason": "It belongs to IR"
+  },
+  {
+   "kind": "category",
+   "key": "dos/prince-of-persia-2-the-shadow-and-the-flame:baseline",
+   "field": "order",
+   "from": "v1-1, ir",
+   "to": "ir, v1-1",
+   "by": "GMP",
+   "date": "2026-10-11",
+   "at": "2026-10-11T13:10:36Z",
+   "reason": "IR is first"
   }
  ]
 }
