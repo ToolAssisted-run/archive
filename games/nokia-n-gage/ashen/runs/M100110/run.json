@@ -33,7 +33,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -54,5 +54,15 @@
  "forum": {
   "topicId": 1974,
   "url": "https://forum.toolassisted.run/t/1974"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-12",
+   "at": "2026-10-12T07:55:36Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-09, 3b5ed5b8) + EKA2L1 (Nightly 2026-10-08, af123a0)",
+   "notes": "SHA1 hashes of the files I used to sync the movie:\r\n- SYS.ROM (Firmware Nokia N-Gage): 34E5BE43EFFE08435B4535B68B45BB9E61D384E9 -- size: 17.7MB (18,612,224 bytes)\r\n- Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).zip: 2E535F1247F4C81D8C3826CA3C8135B6DDDF4B8B"
+  }
+ ]
 }
