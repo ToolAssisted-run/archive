@@ -34,7 +34,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -61,6 +61,15 @@
    "user": "Dimon12321",
    "date": "2026-10-13",
    "at": "2026-10-13T18:03:09Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-10-13",
+   "at": "2026-10-13T18:08:18Z",
+   "expert": true,
+   "notes": "The author passes all 5 tracks"
   }
  ]
 }
