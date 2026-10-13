@@ -9,8 +9,7 @@
 > without passing through this site's standard procedure. The movie file and these
 > notes were obtained freely from tasvideos.org and are redistributed in observance
 > of the Creative Commons Attribution 2.0 license under which they were published there.
-
-Hi again! Thanks for some free time, I decided to try to improve the current Castlevania TAS. It's 21 frames faster, but due to the different FPS used by FCEU and FCEUX/BizHawk, it's approximately 1.47 seconds ahead.
+"Hi again! Thanks for some free time, I decided to try to improve the current Castlevania TAS by Phil and Morrison. It's 21 frames faster, but due to the different FPS used by FCEU and FCEUX/BizHawk, it's approximately 1.47 seconds ahead."
 
 !!__Game objectives__
 
@@ -26,14 +25,11 @@ Hi again! Thanks for some free time, I decided to try to improve the current Cas
 
 * Can be played in both USA PRG1 or Konami Collector's edition.
 
-''Quoted from the description of the current published movie:'' The original Castlevania is set in the year 1691. Simon Belmont must fight his way through the castle and destroy Count Dracula.
+''Quoting the description from the aforementioned published movie:'' The original Castlevania is set in the year 1691. Simon Belmont must fight his way through the castle and destroy Count Dracula.
 
-!!__Run comments__
+!!__Run commentary__
 
-Most of the stages is the same as the published run. So, Phil and Morrison's run is really very well optimized. But I found some improvements to this run:
-
-*--- 1 frame saved jumping earlier at the gate of pre-stage 01 (a lag reduced between transition).---
-__EDIT 23/09:__ Actually, that frame saved was from different power-on on BizHawk. My flaw that I haven't noted correctly before until now.
+Most of the stages are the same as the 2007 run and the product is very well optimized indeed. However, I found some improvements to this run:
 
 * 4 frames saved on stage 03 by getting holy water without losing time, using the watch (also stops 2 seconds of game time, losing 2 frames at the score)
 
@@ -48,26 +44,21 @@ __EDIT 23/09:__ Actually, that frame saved was from different power-on on BizHaw
 
 Possible improvements
 
-*--- Using the watch could be faster on the Stage 06, but due at lack of a boomerang, all of the frames were lost during the second boss.---
+*--- Using the watch could be faster on the Stage 06, but due to lack of a boomerang, all of the frames were lost during the second boss.---
 __EDIT 27/08/18:__ A boomerang drop can be possible with that damage boost on the bat, but with good RNG and timing.
 
 *--- It's possible to save some frames skipping one of the stairs of Stage 13 by using the damage boost on the skeleton, but lost later due of a frame rule on the door transition.---
-__EDIT 27/08/18:__ This can saves 48 frames (aka 3 framerules) if you manage to manipulate the skeleton very well.
+__EDIT 27/08/18:__ This idea can save 48 frames (aka 3 framerules) if you manage to manipulate the skeleton very well.
 
-* It's possible to defeat the fifty boss (36 frames faster) using axes. You can pick on the first room of stage 14, but axes are very bad to destroy enemies without losing frames, especially the axemen.
-
-
-Total score: 250720 (8880 less score than the published run)
+* It's possible to defeat the fifth boss (around 36 frames faster) using axes. You can pick it in the first room of stage 14, but axes are very bad at destroying enemies without losing many frames, especially the axemen.
 
 
-If you prefer a run with more score, here's: [userfiles/info/40724705976887576]
-
-(The run doesn't include the axe boss improvement. Score: 262320 - 2720 more score than the published TAS)
+Total score: 250720 (8880 less score than the 2007 run due to the axe subweapon collected rather than keeping the holy water during the remaining of Level 4)
 
 
-!!__Special Thanks__
+!!__Special thanks__
 
-* __Phil__ and __Morrison__, for the fantastic published run.
+* __Phil__ and __Morrison__, for the fantastic job done years ago.
 
 * __Grincevent__, for the RAM addresses.
 
