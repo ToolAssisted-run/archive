@@ -227,9 +227,24 @@
      },
      "url": {
       "type": "string"
+     },
+     "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 60
+     },
+     "description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 300
+     },
+     "thumbnail": {
+      "type": "string",
+      "pattern": "^alt-[0-9a-f]{12}\\.(png|jpg|jpeg|webp)$"
      }
     }
-   }
+   },
+   "description": "The first is the main encode: the run's thumbnail is its, and it is the one verified. Any after it is an alternate, which may carry a title, a description and the thumbnail the run page's selector shows for it."
   },
   "forum": {
    "type": "object",

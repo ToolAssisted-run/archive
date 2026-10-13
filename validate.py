@@ -73,6 +73,10 @@ ATTACH_MAX_TOTAL = 512 * 1024
 SHOT_MAX_EACH = 512 * 1024
 SHOT_MAX_TOTAL = 8 * 1024 * 1024
 THUMB_MAX = 256 * 1024
+# alternate encodes beside a run's main one: few, with short plain-text labels
+ENCODE_ALT_MAX = 5
+ENCODE_TITLE_MAX = 60
+ENCODE_DESC_MAX = 300
 IMAGE_MAGIC = {'.png': [b'\x89PNG\r\n\x1a\n'], '.jpg': [b'\xff\xd8\xff'],
                '.jpeg': [b'\xff\xd8\xff'], '.webp': [b'RIFF']}
 
@@ -375,6 +379,51 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                     err(f'{rdir}: thumbnail {thumb!r} is not a real '
                         f'{tp.suffix.lower()} image')
 
+        # The first encode is the main one: its thumbnail is the run's, above,
+        # and it is the one a verifier judges. Any after it is an alternate,
+        # which may carry a title and a description for the run page's
+        # selector and the thumbnail shown there: a file of this run's own,
+        # a real image of modest size, like the run's.
+        alt_thumbs = set()
+        encodes = r.get('encodes') or []
+        for n, enc in enumerate(encodes if isinstance(encodes, list) else []):
+            if not isinstance(enc, dict):
+                continue
+            for field, cap in (('title', ENCODE_TITLE_MAX), ('description', ENCODE_DESC_MAX)):
+                if field in enc and (not isinstance(enc[field], str) or not enc[field].strip()
+                                     or len(enc[field]) > cap):
+                    err(f'{rdir}: an encode\'s {field} is plain text of 1 to {cap} characters')
+            if n == 0 and any(k in enc for k in ('title', 'description', 'thumbnail')):
+                err(f'{rdir}: the first encode is the main one: it carries no title, '
+                    f'description or thumbnail of its own (the run\'s are its)')
+                continue
+            at = enc.get('thumbnail')
+            if at is None:
+                continue
+            if not isinstance(at, str) or not re.fullmatch(r'alt-[0-9a-f]{12}\.(png|jpg|jpeg|webp)', at):
+                err(f'{rdir}: an alternate encode\'s thumbnail is a file of this run named '
+                    f'alt-<12 hex>.<png|jpg|webp>, not {at!r}')
+                continue
+            ap = rdir / at
+            if gone:
+                if ap.exists():
+                    err(f'{rdir}: withdrawn with contentRemoved, but the alternate '
+                        f'encode thumbnail {at!r} is still here')
+                continue
+            alt_thumbs.add(at)
+            if not ap.exists():
+                err(f'{rdir}: declared alternate encode thumbnail {at!r} missing')
+                continue
+            if ap.stat().st_size > THUMB_MAX:
+                err(f'{rdir}: alternate encode thumbnail {at!r} exceeds {THUMB_MAX>>10} KB')
+            if not any(ap.read_bytes()[:12].startswith(m)
+                       for m in IMAGE_MAGIC.get(ap.suffix.lower(), [])):
+                err(f'{rdir}: alternate encode thumbnail {at!r} is not a real '
+                    f'{ap.suffix.lower()} image')
+        if len(encodes) - 1 > ENCODE_ALT_MAX and any(
+                isinstance(e, dict) and e.get('title') for e in encodes[1:]):
+            err(f'{rdir}: a run takes {ENCODE_ALT_MAX} alternate encodes at most')
+
         declared = {a['file'] for a in r.get('attachments', [])}
         rom_sha1 = ((r.get('contract') or {}).get('rom') or {}).get('sha1', '').lower()
         total = 0
@@ -575,7 +624,7 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                     f'roster derives {want_ver!r}')
 
         # no stray files: everything must be accounted for
-        allowed = {'run.json', 'notes.md'} | declared | shots
+        allowed = {'run.json', 'notes.md'} | declared | shots | alt_thumbs
         if r.get('movie'):
             allowed.add(r['movie']['file'])
         if r.get('thumbnail'):
@@ -585,7 +634,8 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                 relp = f.relative_to(rdir).as_posix()
                 if relp not in allowed:
                     err(f'{rdir}: undeclared file {relp!r} — every file must be the '
-                        f'movie, notes.md, run.json, or a declared attachment')
+                        f'movie, notes.md, run.json, a declared attachment, or an '
+                        f'alternate encode\'s thumbnail')
 
 # ---- acts are performed by members ----
 # Anyone who reproduces, verifies or stars a run did it
