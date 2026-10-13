@@ -1,0 +1,59 @@
+{
+ "id": "M100112",
+ "game": "nes/excitebike",
+ "category": {
+  "goal": "all-tracks"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "metrics": {
+  "igt": 232.04
+ },
+ "movie": {
+  "file": "M100112.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "0fd46c4f96766aa34bc73f382b50ddfe6f5dc0f2",
+  "frames": 19728,
+  "rerecords": 48,
+  "start": "power-on",
+  "fps": 60.098813897440515
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera 426b8b6ff (Core: quickerNES 031734e1)",
+  "files": [
+   {
+    "name": "Excitebike (JU) [!].nes",
+    "sha1": "2e9897846e54a4a9865e87de7517c6710bdec255"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/evUJbGw7Hak"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/wqf-3RzIp0I",
+   "title": "Comparison video vs. Lord_Tom",
+   "description": "https://toolassisted.run/runs/M100112 (new) vs https://tasvideos.org/1348M (old)",
+   "thumbnail": "alt-04579346ec31.jpg"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-13T17:50:38Z",
+ "submittedBy": "eien86",
+ "forum": {
+  "topicId": 1977,
+  "url": "https://forum.toolassisted.run/t/1977"
+ }
+}
