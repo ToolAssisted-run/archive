@@ -1,0 +1,23 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "all-tracks",
+     "label": "All Tracks",
+     "rule": "Complete all tracks in the least cumulative IGT possible",
+     "metrics": [
+      {
+       "key": "igt",
+       "label": "IGT",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
