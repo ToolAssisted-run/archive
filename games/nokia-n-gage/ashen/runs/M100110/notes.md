@@ -6,6 +6,7 @@ The instruction manual can be seen [https://www.scribd.com/document/287391223/As
 !!! Movement
 
 You can walk, strife left/right, tilt the camera in any direction, jump, swim. The physics is good for a handheld game: objects fall down, you swim slower, inclined surfaces affect your movement, you gain more speed if you jump off a descending surface, air control is present.
+Walking is faster than run-strifing. For this reason, run-strifing was used mostly to prevent turn-arounds or for short distances.
 
 !! Engine
 
