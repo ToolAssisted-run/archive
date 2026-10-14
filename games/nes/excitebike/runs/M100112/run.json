@@ -33,7 +33,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -75,6 +75,16 @@
    "at": "2026-10-13T18:08:18Z",
    "expert": true,
    "notes": "The author passes all 5 tracks"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-14",
+   "at": "2026-10-14T05:31:07Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-13, dc0e8d08) + quickerNES (Nightly 2026-10-11, 031734e)",
+   "notes": "SHA1 hash of \"Excitebike (Japan, USA) (En).nes\": 8E807F8AA465891AFFC51939687009B36943AADE"
   }
  ]
 }
