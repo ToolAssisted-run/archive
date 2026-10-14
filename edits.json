@@ -11896,6 +11896,17 @@
    "date": "2026-10-13",
    "at": "2026-10-13T12:13:23Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100108",
+   "field": "contentWarnings",
+   "from": "",
+   "to": "mature-violence",
+   "by": "toca",
+   "date": "2026-10-14",
+   "at": "2026-10-14T08:24:28Z",
+   "reason": "added \"mature\" content tag, just to be sure"
   }
  ]
 }

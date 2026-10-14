@@ -64,5 +64,8 @@
    "emulator": "Chimera (Nightly 2026-10-09, 3b5ed5b8) + xemu (Nightly 2026-10-09, e485fb2c)",
    "notes": "SHA1 hashes:\r\n- Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja).iso: 6A2E33C71D5F3E1C516283168D7AE0B980A61868\r\n- mcpx-1.0.bin: 5D270675B54EB8071B480E42D22A3015AC211CEF\r\n- Complex_4627.bin: 6639B6693784574D204C42703A74FD8B088A3A5E\r\n- xbox_hdd.qcow2: 1BC8A05B4FD99B3BE502021BBE6824B9FC5CF961 (size: 985MB)"
   }
+ ],
+ "contentWarnings": [
+  "mature-violence"
  ]
 }
