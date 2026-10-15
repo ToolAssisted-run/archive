@@ -11940,6 +11940,17 @@
    "date": "2026-10-15",
    "at": "2026-10-15T22:48:13Z",
    "reason": "edited info, added link"
+  },
+  {
+   "kind": "game",
+   "key": "nes/excitebike",
+   "field": "website",
+   "from": "",
+   "to": "https://strategywiki.org/wiki/Excitebike",
+   "by": "CloakTheLurker",
+   "date": "2026-10-15",
+   "at": "2026-10-15T22:48:25Z",
+   "reason": "edited info, added link"
   }
  ]
 }
