@@ -11929,6 +11929,17 @@
    "date": "2026-10-15",
    "at": "2026-10-15T22:43:33Z",
    "reason": "uploaded image (Nintendo.com)"
+  },
+  {
+   "kind": "game",
+   "key": "nes/excitebike",
+   "field": "released",
+   "from": "1984",
+   "to": "1984-11-30",
+   "by": "CloakTheLurker",
+   "date": "2026-10-15",
+   "at": "2026-10-15T22:48:13Z",
+   "reason": "edited info, added link"
   }
  ]
 }
