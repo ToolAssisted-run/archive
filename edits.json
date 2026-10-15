@@ -11918,6 +11918,17 @@
    "date": "2026-10-14",
    "at": "2026-10-14T17:14:49Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "nes/excitebike",
+   "field": "thumbnail",
+   "from": "",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-10-15",
+   "at": "2026-10-15T22:43:33Z",
+   "reason": "uploaded image (Nintendo.com)"
   }
  ]
 }
