@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "puzzle-mode",
+     "label": "Puzzle mode",
+     "rule": "Complete all nine finite Vasebreaker levels and all nine finite I, Zombie levels (18 puzzles total) on Nintendo DS. Endless modes are excluded. Start from verified SaveRAM with puzzles unlocked and the pre-bought rake, matching the published Puzzle mode setup. TAS timing runs from power-on to the last necessary input. Preserve normal game and console timing; provide reproducible emulator settings and input movie."
+    }
+   ]
+  }
+ ]
+}
