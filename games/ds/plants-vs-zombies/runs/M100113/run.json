@@ -1,0 +1,52 @@
+{
+ "id": "M100113",
+ "game": "ds/plants-vs-zombies",
+ "category": {
+  "goal": "puzzle-mode"
+ },
+ "authors": [
+  {
+   "user": "mhyyyyyy"
+  },
+  {
+   "user": "berrimeow"
+  }
+ ],
+ "tools": [],
+ "duration": 709.189,
+ "movie": {
+  "file": "M100113.bk2",
+  "format": "bk2",
+  "sha1": "4dbcc4317aead6f2ceb9d0eed4f77f7f839df7a5",
+  "frames": 42428,
+  "rerecords": 961,
+  "start": "sram"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.9.1 (MelonDS)",
+  "files": [
+   {
+    "name": "Plants vs. Zombies (USA).nds",
+    "sha1": "fcc5ec4cfd4fabcbb26dee847d9ed6803e9ad93b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=mOqYwrB9ScU"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-16T00:21:08Z",
+ "submittedBy": "mhyyyyyy",
+ "forum": {
+  "topicId": 1979,
+  "url": "https://forum.toolassisted.run/t/1979"
+ }
+}
