@@ -33,7 +33,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -48,5 +48,15 @@
  "forum": {
   "topicId": 1979,
   "url": "https://forum.toolassisted.run/t/1979"
- }
+ },
+ "reproductions": [
+  {
+   "user": "PASRC",
+   "date": "2026-10-16",
+   "at": "2026-10-16T00:44:19Z",
+   "screenshot": "reproductions/1-PASRC.png",
+   "emulator": "BizHawk 2.9.1 (x64)",
+   "notes": "SHA1 of Plants vs. Zombies (USA).nds: fcc5ec4cfd4fabcbb26dee847d9ed6803e9ad93b"
+  }
+ ]
 }
