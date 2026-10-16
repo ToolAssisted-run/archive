@@ -1,0 +1,65 @@
+{
+ "id": "M100114",
+ "game": "nintendo-switch/ultra-street-fighter-ii-the-final-challengers",
+ "category": {
+  "goal": "unclassified"
+ },
+ "authors": [
+  {
+   "user": "BrunoRaji"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100114.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "3e48558e2352b6ae7908c8849c01283549b788ac",
+  "frames": 39977,
+  "rerecords": 152,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "goalDescription": "SuperPlay",
+ "contract": {
+  "emulator": "chimera Nightly 2026-10-11 (a3abde85)",
+  "files": [
+   {
+    "name": "eden-c8fe1b0032f0+local.chimeraCore",
+    "sha1": "173a2ec69c54aa35d08e812e2eb956d7fc5d7a93"
+   },
+   {
+    "name": "Ultra Street Fighter II The Final Challengers [01007330027EE000][v0] (2.72 GB).nsp"
+   },
+   {
+    "name": "Firmware.23.0.1.zip",
+    "sha1": "72d6c0b4389412fbe734bbe2c98186d5c25d15eb"
+   },
+   {
+    "name": "prod.keys",
+    "sha1": "f8fe72c0e329843bdb38a74b30589f8cefb2f34c"
+   },
+   {
+    "name": "title.keys",
+    "sha1": "cc1a1a6f05fc7ba7107301fa0c74d9ae9e402149"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/ZGKRE4-fGCs"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-15",
+ "submitted": "2026-10-16T02:21:33Z",
+ "submittedBy": "BrunoRaji",
+ "forum": {
+  "topicId": 1980,
+  "url": "https://forum.toolassisted.run/t/1980"
+ }
+}
