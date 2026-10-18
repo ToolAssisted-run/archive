@@ -45,7 +45,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -72,6 +72,16 @@
    "user": "eien86",
    "date": "2026-10-16",
    "at": "2026-10-16T19:06:23Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-18",
+   "at": "2026-10-18T14:04:54Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-11, a3abde85)",
+   "notes": "SHA1 hashes of the files I used:\r\n- eden-c8fe1b0032f0+local.chimeraCore: 173A2EC69C54AA35D08E812E2EB956D7FC5D7A93\r\n- Ultra Street Fighter II The Final Challengers [01007330027EE000][v0].nsp: 2FF6E3D945BC4EC53D1CD0FF0DACB67A92FC3904\r\n- Firmware.23.0.1.zip: 72D6C0B4389412FBE734BBE2C98186D5C25D15EB\r\n- prod.keys: C146B651696D25287241F4BAB18226E488BC45B3\r\n- title.keys: BFEE8E708DC4C8F27BFE51A12D57CAAA0B7F74DE"
   }
  ]
 }
