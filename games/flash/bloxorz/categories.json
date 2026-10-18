@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "all-stages",
+     "label": "All Stages",
+     "rule": "Complete stages 1-33 in order from New Game. No passwords, stage selection or major stage skips. Time uses movie input length at its stated frame rate."
+    }
+   ]
+  }
+ ]
+}
