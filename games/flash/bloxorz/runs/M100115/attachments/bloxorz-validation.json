@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "reference": {
+    "movie": "references/sobble_p-bloxorz-4924.ltm",
+    "sha256": "bed0ce392aaf6d17d7cbf8d9083067573ccb93cb653d316d7495ad29320c9331",
+    "input_frames": 24183,
+    "fps": [
+      36,
+      1
+    ]
+  },
+  "candidate": {
+    "movie": "runs/full33-merged-input-001/candidate.ltm",
+    "frames": 23945,
+    "sha256": "80586375857e23d22e9bf6936e76a440c9f7d0319f5166c13e2102e16c20d3db"
+  },
+  "observation_tail_movie": {
+    "movie": "runs/full33-merged-input-001/candidate-observe-tail.ltm",
+    "frames": 24185,
+    "sha256": "35ff5678ac746f4eef8ec07a1b56af94a778a4de6b7d91384cc595e62752d9b0"
+  },
+  "three_full_runs_identical": true,
+  "clocks_identical": true,
+  "input_bytes_identical": true,
+  "new_saved_ticks": 125,
+  "cumulative_saved_ticks": 238,
+  "movie_seconds": 665.1388888888889,
+  "final_goal": 23952,
+  "final_winning": 23960,
+  "terminal_root": {
+    "ms": 666555,
+    "_global.level": 34,
+    "levelscomplete": 33,
+    "moves": 2011,
+    "falls": 0,
+    "timer": 23653,
+    "highscoring": true,
+    "skiptoend": true,
+    "winning": true,
+    "_currentframe": 20,
+    "_global.selectedness": "block",
+    "kind": "TASROOT",
+    "clock_frame": 23996
+  },
+  "not_record_certified": true,
+  "complete_native_input_optimum_unknown": true,
+  "validation": {
+    "levels_completed": 33,
+    "falls": 0,
+    "moves": 2011,
+    "compared_native_state_fields": 1411955,
+    "accepted_run_count": 3,
+    "normal_exits": 3,
+    "all_frames_per_run": 24185,
+    "exact_decoded_video_and_pcm_match": true,
+    "raw_inputs_and_clocks_identical": true,
+    "encode_source": "first unmodified-original cold-start recording"
+  },
+  "recording_sha256": {
+    "full33-merged-observed-001": {
+      "video_sha256": "09be04de1b214c8086946439eb58120017c69c0cc72b3b124969bcf50229afd6",
+      "clocks_sha256": "ee94ba96bc7b5ebef34d419f2bd86e6f92753c1b18bee7f07644099608d335d6",
+      "input_bytes_sha256": "2c42776862372dd7ba55450a5f4752cf04e7b818e018841df69a59141b98e23f",
+      "swf_sha256": "94784973663a61fb0d96c4de5eab0272a32fcb5725b38e7b4ff65d3ff1a08b48",
+      "ruffle_sha256": "6676b14a170a73bff67b01c56f5e174948510fbe94bee7468ee78334b4dca53c",
+      "exit_code": 0
+    },
+    "full33-merged-original-001": {
+      "video_sha256": "0fa53c4305324fb08324c937be89bcb4e6959951546bcd52eb98e1862da6fd59",
+      "clocks_sha256": "ee94ba96bc7b5ebef34d419f2bd86e6f92753c1b18bee7f07644099608d335d6",
+      "input_bytes_sha256": "2c42776862372dd7ba55450a5f4752cf04e7b818e018841df69a59141b98e23f",
+      "swf_sha256": "296c5c17b7a7b6529f6b8faa19aae78ebf4382c161c07e5070ab338fd8264803",
+      "ruffle_sha256": "6676b14a170a73bff67b01c56f5e174948510fbe94bee7468ee78334b4dca53c",
+      "exit_code": 0
+    },
+    "full33-merged-original-002": {
+      "video_sha256": "8b42f18faf737ca777b7cfdf49c5bb308b0d55ca77eb2e66cad671ba656fc00a",
+      "clocks_sha256": "ee94ba96bc7b5ebef34d419f2bd86e6f92753c1b18bee7f07644099608d335d6",
+      "input_bytes_sha256": "2c42776862372dd7ba55450a5f4752cf04e7b818e018841df69a59141b98e23f",
+      "swf_sha256": "296c5c17b7a7b6529f6b8faa19aae78ebf4382c161c07e5070ab338fd8264803",
+      "ruffle_sha256": "6676b14a170a73bff67b01c56f5e174948510fbe94bee7468ee78334b4dca53c",
+      "exit_code": 0
+    }
+  }
+}

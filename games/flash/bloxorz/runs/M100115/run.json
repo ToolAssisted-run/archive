@@ -1,0 +1,79 @@
+{
+ "id": "M100115",
+ "game": "flash/bloxorz",
+ "category": {
+  "goal": "all-stages"
+ },
+ "authors": [
+  {
+   "user": "mhyyyyyy"
+  },
+  {
+   "user": "sobble_p"
+  }
+ ],
+ "tools": [],
+ "duration": 665.139,
+ "movie": {
+  "file": "M100115.ltm",
+  "format": "ltm",
+  "sha1": "ed01a1c13d5c69725aa6841372a262b1449016a8",
+  "frames": 23945,
+  "rerecords": 400,
+  "start": "power-on",
+  "fps": 36.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "libTAS 1.4.4 + Ruffle nightly-2022-10-28 (Linux x86_64)",
+  "files": [
+   {
+    "name": "1843__bloxorz_miniclip.swf",
+    "sha1": "3f1463358fab2a0b483b65b0852cb98b96172153"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/4GWvfAcpHZk"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/bloxorz-all-stages-23945f.ltm",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/bloxorz-all-stages-23945f-with-observation-tail.ltm",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/bloxorz-reproduction.txt",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/bloxorz-stage-times.csv",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/bloxorz-validation.json",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/bloxorz-container-compatibility.txt",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-10-18",
+ "submitted": "2026-10-18T04:29:45Z",
+ "submittedBy": "mhyyyyyy",
+ "forum": {
+  "topicId": 1982,
+  "url": "https://forum.toolassisted.run/t/1982"
+ }
+}

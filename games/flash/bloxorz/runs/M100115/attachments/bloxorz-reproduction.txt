@@ -1,0 +1,50 @@
+BLOXORZ REPRODUCTION INFORMATION
+
+Main submission movie: bloxorz-all-stages-23945f-site-compatible.ltm
+Exact accepted source movie: bloxorz-all-stages-23945f.ltm
+Input frames: 23945; framerate: 36/1; claimed run time: 00:11:05.139.
+Supplementary observation movie: bloxorz-all-stages-23945f-with-observation-tail.ltm
+Observation frames: 24185 = 23945 + 240 neutral frames.
+The MP4 includes those 240 final frames to visibly show completion.
+
+Runtime: libTAS 1.4.4; Ruffle nightly-2022-10-28, Linux x86_64.
+Ruffle executable MD5: 9dc5d7e3022eab4e560a1f5f2b9dff8a
+Ruffle executable SHA256: 6676b14a170a73bff67b01c56f5e174948510fbe94bee7468ee78334b4dca53c
+SWF name: 1843__bloxorz_miniclip.swf
+SWF MD5: 619b1be6e9507e0ef732d80fa49cdbc9
+SWF SHA1: 3f1463358fab2a0b483b65b0852cb98b96172153
+SWF SHA256: 296c5c17b7a7b6529f6b8faa19aae78ebf4382c161c07e5070ab338fd8264803
+
+Use an isolated clean profile, set Ruffle as the executable and pass the SWF
+as its argument, select libTAS Read mode, and load the main movie or the
+supplementary observation movie. Preserve all movie timing settings,
+especially 36/1 FPS and main-thread clock_gettime_monotonic=100 (other
+main-thread time-tracking sources disabled). Keep mouse input enabled.
+Do not override the movie using the site's generic 24 FPS Flash rate.
+The movie starts from the menu and enters New Game. It uses no passwords,
+savestates or pre-existing progress. The supplementary tail makes the last
+goal animation and completed-game transition observable with no added moves.
+
+Local isolated replay used a private authenticated X11 display, software
+rendering and an independent XDG profile. All three accepted full recordings
+completed with exit 0. One observation-only research copy and two original
+SWF recordings matched in every decoded pixel/PCM record, raw input and clock.
+The published MP4 is made from the first unmodified-original recording.
+
+Original routes/input credit: sobble_p; TASVideos publication 4924M and
+submission 7772S, https://tasvideos.org/4924M ; source license CC BY 2.0.
+New research is AI-assisted under the submitting human's direction, disclosed
+in submission-notes.md. The submitting human is mhyyyyyy, credited together with original author sobble_p.
+No game files or emulator binaries are included.
+
+Local reproduction (from the original project, output directory must be new):
+python3 -B tools/replay_ltm.py --run runs/submission-review-next --movie runs/full33-merged-input-001/candidate-observe-tail.ltm --frames 24185 --timeout 900
+
+The supplementary exact accepted source movie is a byte-for-byte copy of
+the verified input archive. Its annotation is a historical build note saying
+validation was pending then; the attached validation summary records the
+subsequently completed checks. The primary submission copy is described below.
+
+The main submission copy only removes INI delimiter whitespace to work around
+the archive inspector. Inputs and parsed settings match the accepted source.
+See bloxorz-container-compatibility.txt for both SHA256 values and comparison.

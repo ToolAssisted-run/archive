@@ -1,0 +1,29 @@
+{
+  "status": "PASS_METADATA_WHITESPACE_ONLY",
+  "source": "bloxorz-all-stages-23945f.ltm",
+  "source_sha256": "80586375857e23d22e9bf6936e76a440c9f7d0319f5166c13e2102e16c20d3db",
+  "submission_copy": "bloxorz-all-stages-23945f-site-compatible.ltm",
+  "submission_copy_sha256": "82db35b651ed8996a37c39cdaf8746328df3040719d73f461306f6e5fc89812d",
+  "frames": 23945,
+  "fps": [
+    36,
+    1
+  ],
+  "input_bytes_identical": true,
+  "input_bytes_sha256": "308619a9582aa31f89f12acd297ea015070ae384e5c2fed9c9ce4f66293a4022",
+  "parsed_config_identical": true,
+  "changed_member_contents": [
+    "config.ini"
+  ],
+  "other_members_byte_identical": [
+    "inputs",
+    "editor.ini",
+    "annotations.txt"
+  ],
+  "normalization": "Only spaces/tabs directly before/after INI equals delimiters removed; no keys, values, inputs, annotations or editor data changed.",
+  "source_config_sha256": "0e8013a8a0e35b51f726c60cc908c7534f53c0da264aeed3f22c05fc5c0e08ea",
+  "submission_config_sha256": "e6fbeb8ef4507660fb43b04929f65a5fe85af77a527878e4dcfb3b39e5dd48a4",
+  "source_parser_issue": "ToolAssisted-run/website archivist/movieparse/formats_text.py partitions on = without trimming the key. General frame_count = 23945 is ignored, as are spaced FPS keys.",
+  "public_source": "https://github.com/ToolAssisted-run/website/blob/main/archivist/movieparse/formats_text.py",
+  "scope": "Container compatibility only, not a new TAS or newly searched input. All accepted native-run evidence remains bound to the exact source movie."
+}
