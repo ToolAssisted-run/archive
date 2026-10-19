@@ -726,6 +726,18 @@ for ev in role_events:
     elif not scope:
         err(f'roles.json: expert event for {ev["user"]!r} has no scope')
 
+# the Editor role was retired on 2026-10-19: the events that granted and
+# ended it stay on the record, nobody may hold it, and nothing grants it again
+EDITOR_RETIRED = '2026-10-19'
+for ev in role_events:
+    if ev['role'] == 'editor' and ev['action'] == 'granted' and ev['date'] > EDITOR_RETIRED:
+        err(f'roles.json: an editor grant for {ev["user"]!r} dated {ev["date"]}; the Editor '
+            f'role was retired on {EDITOR_RETIRED} and is not granted any more')
+for (u, role, scope), ev in current_roles(role_events).items():
+    if role == 'editor':
+        err(f'roles.json: {ev["user"]!r} holds the Editor role, which was retired on '
+            f'{EDITOR_RETIRED}; a revocation event ends it')
+
 # a scope has to point at something real only while it is HELD: history may
 # name a game or group that was later deleted, because history records what
 # was true then, but nobody may currently hold authority over a ghost

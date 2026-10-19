@@ -234,6 +234,34 @@
    "date": "2026-10-02",
    "at": "2026-10-02T12:24:15Z",
    "reason": "Multiple tases for the game. Wants to make categories."
+  },
+  {
+   "user": "CloakTheLurker",
+   "role": "expert",
+   "scope": "site",
+   "action": "granted",
+   "by": "eien86",
+   "date": "2026-10-19",
+   "at": "2026-10-19T17:33:50Z",
+   "reason": "Whole-site expert: the Editor role is retired and its library work passes to the whole-site experts; CloakTheLurker has kept the catalog in shape since August 2026."
+  },
+  {
+   "user": "CloakTheLurker",
+   "role": "editor",
+   "action": "revoked",
+   "by": "eien86",
+   "date": "2026-10-19",
+   "at": "2026-10-19T17:33:50Z",
+   "reason": "The Editor role is retired (Governance 2.6 is to be struck by amendment); its holders continue as whole-site experts."
+  },
+  {
+   "user": "toca",
+   "role": "editor",
+   "action": "revoked",
+   "by": "eien86",
+   "date": "2026-10-19",
+   "at": "2026-10-19T17:33:50Z",
+   "reason": "The Editor role is retired (Governance 2.6 is to be struck by amendment); its holders continue as whole-site experts. toca already holds the whole-site scope."
   }
  ]
 }
