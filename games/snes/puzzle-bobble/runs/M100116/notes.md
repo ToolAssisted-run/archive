@@ -50,17 +50,54 @@ It's important to know that the mask does not necessarily contain all colors on 
 
 The routine that decides the color of the ball you get is inside a function starting at 0x80DBCF and ending at 0x80DC80. It uses the 16-bit RNG seed, located at 0x7E0332 (little endian), and the mentioned ball mask. It performs some bit operations in the seed, takes the remainder by the number of balls in the mask, and then uses the remainder to determine the ball. It's easier to look at the code in the Lua script:
 
-%%SRC_EMBED function get_ball(seed, mask) local num = bit_count(mask) local val = SHIFT(seed, 1) val = AND(OR(SHIFT(val,8),SHIFT(val,-8)),0xFFFF) val = SHIFT(XOR(val, seed), 2) local pick = val % num local aux = 0 for i=8,1,-1 do if AND(mask, SHIFT(1,i-8)) > 0 then if aux == pick then return i else aux = aux + 1 end end end end %%END_EMBED
+%%SRC_EMBED 
+function get_ball(seed, mask)
+    local num = bit_count(mask)
+    local val = SHIFT(seed, 1)
+    val = AND(OR(SHIFT(val,8),SHIFT(val,-8)),0xFFFF)
+    val = SHIFT(XOR(val, seed), 2)
+    local pick = val % num
+    local aux = 0
+    for i=8,1,-1 do
+        if AND(mask, SHIFT(1,i-8)) > 0 then
+            if aux == pick then
+                return i
+            else
+                aux = aux + 1
+            end
+        end
+    end
+end
+%%END_EMBED
 
 The routine that advances the RNG seed is located at 0x85893D-0x85894D. It's a simple LCG. We have x <- (5*x+1) mod 65536. In the Lua script:
 
-%%SRC_EMBED function next_seed(seed) return AND(5*seed+1, 0xFFFF) end %%END_EMBED
+%%SRC_EMBED
+function next_seed(seed)
+    return AND(5*seed+1, 0xFFFF)
+end
+%%END_EMBED
 
 ! Luck manipulation and pause nudging
 
 With this knowledge, we can manipulate the game. The math of the LCG makes it run through all possible 65536 values, and we can order them by the position they occur. We can actually forget about the seed entirely and just look at its position. Here's a snippet of an output of the python simulation script:
 
-%%SRC_EMBED 11073 blue 11074 purple 11075 red 11076 green 11077 white 11078 white 11079 orange 11080 red 11081 orange 11082 green 11083 blue 11084 red 11085 yellow 11086 white %%END_EMBED
+%%SRC_EMBED 
+11073 blue
+11074 purple
+11075 red
+11076 green
+11077 white
+11078 white
+11079 orange
+11080 red
+11081 orange
+11082 green
+11083 blue
+11084 red
+11085 yellow
+11086 white 
+%%END_EMBED
 
 During a level, the RNG usually advances 2 positions per frame, but rarely it advances by 3. However, when the game is paused, it only advances once per frame. Pausing the game sometimes messes up the RNG calls. It can make the RNG advance much faster or much slower, but there are some "safe" sections where the game is not doing much, that you can pause the game. These safe sections are usually at the end of the level and immediately before the game rolls the ball for you. Pausing consumes at least two frames and two RNG calls, but since the RNG is slow, it gives more precision.
 
@@ -72,7 +109,31 @@ Pauses at the end of the level are done mostly to manipulate the two starting ba
 
 The levels where manipulating is more difficult are randomly generated levels. It is easy if you look at an example from Round 51 on the python script:
 
-%%SRC_EMBED def level51(seed): picked_balls = 0 print(pos[seed], end=': ') balls = [] for i in range(10): ball = get_ball(seed, 27) balls.append(ball) if i>7: picked_balls = picked_balls | (1<<(8-ball)) seed = move_seed(seed) good_side = False if balls[4] == balls[6] or balls[5] == balls[7]: good_side = True mask = 100 | picked_balls first_ball = get_ball(seed, mask) seed = move_seed(seed) second_ball = get_ball(seed, mask) print(color[first_ball], end=' ') print(color[second_ball], end=' ') if good_side and first_ball == 6 and second_ball == 6: print('HIT') else: print('') %%END_EMBED
+%%SRC_EMBED
+def level51(seed):
+    picked_balls = 0
+    print(pos[seed], end=': ')
+    balls = []
+    for i in range(10):
+        ball = get_ball(seed, 27)
+        balls.append(ball)
+        if i>7:
+            picked_balls = picked_balls | (1<<(8-ball))
+        seed = move_seed(seed)
+    good_side = False
+    if balls[4] == balls[6] or balls[5] == balls[7]:
+        good_side = True
+    mask = 100 | picked_balls
+    first_ball = get_ball(seed, mask)
+    seed = move_seed(seed)
+    second_ball = get_ball(seed, mask)
+    print(color[first_ball], end=' ')
+    print(color[second_ball], end=' ')
+    if good_side and first_ball == 6 and second_ball == 6:
+        print('HIT')
+    else:
+        print('')
+%%END_EMBED
 
 Randomly generated levels work like this. The colors of the balls at certain positions are not fixed. What the game does is: it picks a mask that determines all possible colors for the balls in that position, then it generates them at consecutive seeds scanning left to right, up to down, filling them. Then, it generates the first and second ball for you to shoot. For these levels, the technique of looking at the seed values for a given mask does not work, because the mask might change depending on what the game generates for the level.
 
@@ -86,15 +147,15 @@ The direction you're pointing at is a byte on address 0x7E08BA. When it's center
 
 Most of the improvement from josh_l's comes from manipulating the luck better and using more vertical shots, where the ball travels faster, allowing you to shoot the next one earlier. However, there are levels with genuinely new strategies from knowing the game better. Here are some highlights:
 
-    Round 11 - The thunder ball goes to the opposite side that your arrow is pointing when you hit it. josh_l probably did not know this. You can hit the thunder ball and not have it kill the other one. You shoot it, move the arrow to the other side and move it back. It's only possible to hit the thunder ball and not the ceiling if you shoot the left side.
-    Round 27 - At the top row, the first, third, fifth, and seventh balls have fixed colors, while the second, fourth, sixth, eighth, are all randomly generated. The optimal setup is when the randomly generated balls match the color to the left, so you can remove them with less shots. I was very lucky to find a seed that did this, and had a massive improvement.
-    Round 38 - Saved a lot of time by avoiding hitting thunder balls, they are slow.
-    Round 51 - josh_l uses a strategy eliminating balls at both sides to make the middle fall, and then hit the top. Knowing how the level is generated, you can make two balls in a given side match colors, so you hit only one side, pop these matching balls, and do a banked shot at the top, saving time. This is the level I used as example for manipulation.
-    Round 52 - josh_l first hits the water bubble, pops the blue balls created, then clears the top. That's suboptimal, because you can't have blue balls when you hit the top, since the blue ball is hidden, wasting a shot. By switching the order, busting the top first, and then clearing the blue, you don't waste shots.
-    Round 56 - Another round where you can save a shot by manipulating two random balls to have the same color.
-    Round 84 - A level where the game behavior of sticking balls to the right actually helps. By removing balls in the middle, shooting at a certain angle will make the game stick the ball to the right where it looks like it won't. That saves a lot of time.
-    Round 99 - Managed to save 150 frames by just using improved luck manipulation and vertical shots. My strategy is the same as josh, I also did not manipulate the right ball colors because it was faster to take the extra shot. Putting this here just to show how luck manipulation matters to save time.
-    Round 100 (Super Drunk) - I don't have any idea how randomness works in the final boss fight. It doesn't use the ball generation algorithm here. Nevertheless, it's easy to manipulate. He has 12 health, you can shoot 3 balls to the ceiling before he pulls more balls to protect it, then you can shoot 3 balls again. You just have to always hit the ceiling. Managed to save 10 frames.
+* Round 11 - The thunder ball goes to the opposite side that your arrow is pointing when you hit it. josh_l probably did not know this. You can hit the thunder ball and not have it kill the other one. You shoot it, move the arrow to the other side and move it back. It's only possible to hit the thunder ball and not the ceiling if you shoot the left side.
+* Round 27 - At the top row, the first, third, fifth, and seventh balls have fixed colors, while the second, fourth, sixth, eighth, are all randomly generated. The optimal setup is when the randomly generated balls match the color to the left, so you can remove them with less shots. I was very lucky to find a seed that did this, and had a massive improvement.
+* Round 38 - Saved a lot of time by avoiding hitting thunder balls, they are slow.
+* Round 51 - josh_l uses a strategy eliminating balls at both sides to make the middle fall, and then hit the top. Knowing how the level is generated, you can make two balls in a given side match colors, so you hit only one side, pop these matching balls, and do a banked shot at the top, saving time. This is the level I used as example for manipulation.
+* Round 52 - josh_l first hits the water bubble, pops the blue balls created, then clears the top. That's suboptimal, because you can't have blue balls when you hit the top, since the blue ball is hidden, wasting a shot. By switching the order, busting the top first, and then clearing the blue, you don't waste shots.
+* Round 56 - Another round where you can save a shot by manipulating two random balls to have the same color.
+* Round 84 - A level where the game behavior of sticking balls to the right actually helps. By removing balls in the middle, shooting at a certain angle will make the game stick the ball to the right where it looks like it won't. That saves a lot of time.
+* Round 99 - Managed to save 150 frames by just using improved luck manipulation and vertical shots. My strategy is the same as josh, I also did not manipulate the right ball colors because it was faster to take the extra shot. Putting this here just to show how luck manipulation matters to save time.
+* Round 100 (Super Drunk) - I don't have any idea how randomness works in the final boss fight. It doesn't use the ball generation algorithm here. Nevertheless, it's easy to manipulate. He has 12 health, you can shoot 3 balls to the ceiling before he pulls more balls to protect it, then you can shoot 3 balls again. You just have to always hit the ceiling. Managed to save 10 frames.
 
 ! Conclusion
 
