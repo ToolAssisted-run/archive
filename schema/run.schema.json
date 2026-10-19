@@ -138,6 +138,36 @@
     }
    }
   },
+  "comments": {
+   "description": "members who spoke in the run's forum topic: one entry per member, their first post there, as a pointer (never the text); the run's authors are not listed",
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "user",
+     "date",
+     "post"
+    ],
+    "properties": {
+     "user": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "description": "arrival moment, seconds, UTC; date stays the day people read"
+     },
+     "post": {
+      "type": "integer",
+      "minimum": 2,
+      "description": "the post's number in the topic; 1 is the archivist's own opening post"
+     }
+    }
+   }
+  },
   "contract": {
    "type": "object",
    "properties": {

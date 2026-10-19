@@ -249,6 +249,10 @@ experts_reg = [{'user': ev['user'], 'scope': ev.get('scope', ''),
                for (u, role, scope), ev in held_roles.items() if role == 'expert']
 
 systems = json.loads((ROOT / 'systems.json').read_text())
+for _skey, _sdoc in systems.items():
+    if bool(_sdoc.get('createdBy')) != bool(_sdoc.get('createdAt')):
+        err(f'systems.json: system {_skey!r} has createdBy and createdAt out of step; '
+            f'both or neither')
 known_games = set()
 act_actors = []        # (run dir, name, roster) for everyone who acted on a run
 
@@ -518,6 +522,21 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                 err(f'{rdir}: duplicate like by {lu!r}')
             seen_likes.add(ll)
 
+        # comments: who spoke in the run's forum topic, one pointer per
+        # member (their first post there), never the run's own authors. The
+        # archivist writes one from the forum's post event; the text stays on
+        # the forum.
+        seen_comments = set()
+        for comment in r.get('comments', []):
+            cu = comment['user']
+            cl = canon(cu)
+            act_actors.append((rdir, cu, 'comments'))
+            if cl in author_names_l:
+                err(f'{rdir}: comment by {cu!r} — authors are not listed as commenters on their own run')
+            if cl in seen_comments:
+                err(f'{rdir}: duplicate comment by {cu!r} — one pointer per member')
+            seen_comments.add(cl)
+
         # reports: globally unique ids; resolution fields only when resolved
         for rep in r.get('reports', []):
             if rep['id'] in report_ids:
@@ -638,7 +657,7 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                         f'alternate encode\'s thumbnail')
 
 # ---- acts are performed by members ----
-# Anyone who reproduces, verifies or stars a run did it
+# Anyone who reproduces, verifies, stars or comments on a run did it
 # through the archivist, which means they have an account here. A missing
 # record would silently cost them their profile, their stats and their points.
 for rdir, actor, roster in act_actors:
