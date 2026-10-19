@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional"
  },
  "encodes": [
@@ -68,6 +68,15 @@
    "user": "CloakTheLurker",
    "date": "2026-10-19",
    "at": "2026-10-19T04:24:06Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "CloakTheLurker",
+   "date": "2026-10-19",
+   "at": "2026-10-19T04:36:55Z",
+   "screenshot": "reproductions/1-CloakTheLurker.png",
+   "emulator": "Snes9x rr 1.51 v7.1"
   }
  ]
 }
