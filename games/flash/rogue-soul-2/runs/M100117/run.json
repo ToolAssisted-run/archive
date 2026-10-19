@@ -1,0 +1,50 @@
+{
+ "id": "M100117",
+ "game": "flash/rogue-soul-2",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "GMP"
+  }
+ ],
+ "tools": [],
+ "duration": 634.033,
+ "movie": {
+  "file": "M100117.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "cd89bd5559cc9fc1b651054f71190ad8e491d832",
+  "frames": 19021,
+  "rerecords": 2639,
+  "start": "power-on",
+  "fps": 30.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-10-18 (Core: Ruffle-2026-10-16)",
+  "files": [
+   {
+    "name": "rouge_soul_2.swf",
+    "sha1": "39900cd3330341f83db602f7cc18b42898d9e6fa"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bHrlCEfbkqw"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-19T11:34:25Z",
+ "submittedBy": "GMP",
+ "forum": {
+  "topicId": 1985,
+  "url": "https://forum.toolassisted.run/t/1985"
+ }
+}
