@@ -88,5 +88,13 @@
    "emulator": "Chimera (Nightly 2026-10-0, 3b5ed5b8) + Vita3K (Nightly 2026-10-10, d38d6c17)",
    "notes": "SHA1 hashes:\r\n- Fruit Ninja [PCSE00229] [USA] [NoNpDRM].zip: A5C3D7DCCC4BEA73AFBF9325F88C2C132D978166 -- I originally downloaded Fruit Ninja (PCSE00229) (NTSC).7z (SHA1: 850F10D2927CCB1BFF42AA158D4BE67F2371D859) but the emulator told me there was a problem with the ROM. The solution was to unpack it and to repackage the resulting \"app\" folder as ZIP\r\n- Fruit Ninja [PCSE00229] [USA] [NoNpDRM] (save data)_003.zip: 0CD86FE0C810507A8F5A6F045C34604F26EBBB2A\r\n- PSVUPDAT.PUP: CC72DFCC964577CC29112EF368C28F55277C237C\r\n- PSP2UPDAT.PUP.3ae832c9: 3AE832C9800FCAA007ECCFC48F24242967C111F8"
   }
+ ],
+ "comments": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-10-11",
+   "at": "2026-10-11T08:35:24Z",
+   "post": 2
+  }
  ]
 }

@@ -79,5 +79,19 @@
    "emulator": "BizHawk 2.4 (BSNES core)",
    "notes": "SHA1 hash of Prince of Persia (USA).sfc: 29CE1E32CF57D8284D0670949045C0D9128C3E1B"
   }
+ ],
+ "comments": [
+  {
+   "user": "eien86",
+   "date": "2026-10-02",
+   "at": "2026-10-02T17:37:32Z",
+   "post": 2
+  },
+  {
+   "user": "AKheon",
+   "date": "2026-10-04",
+   "at": "2026-10-04T11:49:54Z",
+   "post": 3
+  }
  ]
 }

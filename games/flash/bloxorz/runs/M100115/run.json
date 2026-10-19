@@ -100,5 +100,19 @@
    "emulator": "libTAS 1.4.4 + Ruffle nightly-2022-10-28 (Linux x86_64)",
    "notes": "Reproduced on Ubuntu 26.04 in VirtualBox (cf. https://forum.toolassisted.run/t/running-libtas-inside-virtualbox-on-windows-a-beginner-friendly-setup-guide/1253 ). Built libTAS 1.4.4 from source with the following compatibility fixes for newer system libraries and compiler dependencies:\r\n\r\n- FFmpeg 8: Replaced swr_alloc_set_opts() with swr_alloc_set_opts2() and updated channel layout handling to use AVChannelLayout\r\n- GCC 15: Added missing cstdint includes to AllInputs.h, BaseAddresses.h, MemSection.h, MemLayout.h, and IRamWatchDetailed.h\r\n\r\nAlso had to launch libTAS with env -u WAYLAND_DISPLAY QT_QPA_PLATFORM=xcb WINIT_UNIX_BACKEND=x11 to avoid Wayland issues. Finally, loading M100115.ltm in playback mode at 36 FPS played the movie to the end as expected"
   }
+ ],
+ "comments": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-10-18",
+   "at": "2026-10-18T07:41:30Z",
+   "post": 2
+  },
+  {
+   "user": "AKheon",
+   "date": "2026-10-18",
+   "at": "2026-10-18T19:14:39Z",
+   "post": 3
+  }
  ]
 }

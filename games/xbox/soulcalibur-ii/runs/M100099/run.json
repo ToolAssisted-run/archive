@@ -92,5 +92,13 @@
    "emulator": "Chimera (Nightly 2026-09-30, 04eb26ce) + xemu (2026-09-22, c3064982)",
    "notes": "SHA1 hashes:\r\n- Soulcalibur II (USA).iso: 18E018547052C35C248F440F771BB3617A7202CE\r\n- Complex_4627.bin: 6639B6693784574D204C42703A74FD8B088A3A5E\r\n- mcpx-1.0.bin: 5D270675B54EB8071B480E42D22A3015AC211CEF\r\n- xbox_hdd.qcow2: 1BC8A05B4FD99B3BE502021BBE6824B9FC5CF961"
   }
+ ],
+ "comments": [
+  {
+   "user": "AKheon",
+   "date": "2026-10-04",
+   "at": "2026-10-04T19:16:44Z",
+   "post": 2
+  }
  ]
 }

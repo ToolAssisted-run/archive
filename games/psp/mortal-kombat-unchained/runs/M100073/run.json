@@ -84,5 +84,13 @@
    "emulator": "Chimera (Nightly 2026-09-08, 4237c31a) + PPSSPP (2026-09-07, 840d631c)",
    "notes": "Note the typo in the reproduction info: there is no Chimera Nightly 2026-09-[[07]]; instead, from the project file it's clear that the used build was 2026-09-08, 4237c31a"
   }
+ ],
+ "comments": [
+  {
+   "user": "AKheon",
+   "date": "2026-10-04",
+   "at": "2026-10-04T10:20:47Z",
+   "post": 2
+  }
  ]
 }

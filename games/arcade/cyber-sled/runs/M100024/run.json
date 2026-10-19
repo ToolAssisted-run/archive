@@ -74,5 +74,19 @@
    "emulator": "BizHawk 2.11",
    "notes": "Get cybsled.zip and namcoc68.zip (containing c68.bin). Then in BizHawk, open Tools > Multi-disk Bundler. Set System to Arcade. Add cybsled.zip first, then namcoc68.zip. Use the top Browse button to choose an output .xml filename and location. Click \"Save and run\" to load the generated .xml, then load the movie file"
   }
+ ],
+ "comments": [
+  {
+   "user": "eien86",
+   "date": "2026-08-21",
+   "at": "2026-08-21T06:10:08Z",
+   "post": 2
+  },
+  {
+   "user": "AKheon",
+   "date": "2026-10-15",
+   "at": "2026-10-15T19:46:26Z",
+   "post": 3
+  }
  ]
 }

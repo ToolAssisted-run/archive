@@ -81,5 +81,13 @@
    "emulator": "Chimera (Nightly 2026-10-03, e9dc5ecf) + Ruffle (2026-09-22, 78ec1fa8)",
    "notes": "SHA1 hash of Mario_Combat.swf: 95E0CAE6631E54BC1D3E1B437291D093566743F7"
   }
+ ],
+ "comments": [
+  {
+   "user": "HappyLee",
+   "date": "2026-10-07",
+   "at": "2026-10-07T03:07:15Z",
+   "post": 2
+  }
  ]
 }
