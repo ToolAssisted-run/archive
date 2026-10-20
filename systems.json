@@ -305,5 +305,10 @@
  "openbor": {
   "name": "OpenBOR",
   "fps": 60.0
+ },
+ "bbc": {
+  "name": "BBC Micro",
+  "fps": 50.080128205128204,
+  "hardToReproduce": true
  }
 }
