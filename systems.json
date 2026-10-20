@@ -297,5 +297,13 @@
  "nokia-n-gage": {
   "name": "Nokia N-Gage",
   "fps": 60.0
+ },
+ "godot": {
+  "name": "Godot",
+  "fps": 60.0
+ },
+ "openbor": {
+  "name": "OpenBOR",
+  "fps": 60.0
  }
 }
