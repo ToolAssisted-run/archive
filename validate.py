@@ -656,6 +656,21 @@ for gjson in ROOT.glob('games/*/*/game.json'):
                         f'movie, notes.md, run.json, a declared attachment, or an '
                         f'alternate encode\'s thumbnail')
 
+# ---- games that moved ----
+# A game that moved to another address names the ones it had (formerKeys).
+# The site keeps a page at each that forwards to the game, and reads what the
+# logs recorded under them as the game's own history; so an old address is
+# nobody's address today, and two games cannot both have had it.
+former_of = {}
+for gjson in sorted(ROOT.glob('games/*/*/game.json')):
+    here = f'{gjson.parent.parent.name}/{gjson.parent.name}'
+    for old in json.loads(gjson.read_text()).get('formerKeys') or []:
+        if old in known_games:
+            err(f'{gjson}: former address {old!r} is a game\'s address today')
+        elif old in former_of:
+            err(f'{gjson}: former address {old!r} is also claimed by {former_of[old]}')
+        former_of.setdefault(old, here)
+
 # ---- acts are performed by members ----
 # Anyone who reproduces, verifies, stars or comments on a run did it
 # through the archivist, which means they have an account here. A missing

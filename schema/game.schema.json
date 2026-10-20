@@ -22,6 +22,15 @@
     "null"
    ]
   },
+  "formerKeys": {
+   "type": "array",
+   "uniqueItems": true,
+   "items": {
+    "type": "string",
+    "pattern": "^[a-z0-9-]+/[a-z0-9-]+$"
+   },
+   "description": "addresses (system/slug) this game had before it moved; each keeps a page that forwards here"
+  },
   "ratifiedBy": {
    "type": "string",
    "description": "the expert who ratified this game, if one did"
