@@ -8,5 +8,8 @@
  },
  "released": "2006",
  "website": "https://spectrumcomputing.co.uk/entry/17127/ZX-Spectrum/Hunt_the_Wumpus",
- "thumbnail": "thumb.jpg"
+ "thumbnail": "thumb.jpg",
+ "formerKeys": [
+  "zxs/hunt-the-wumpus-wilko-schr-ter"
+ ]
 }

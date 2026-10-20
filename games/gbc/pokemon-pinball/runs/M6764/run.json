@@ -1,8 +1,8 @@
 {
- "id": "M6441",
- "game": "gbc/pok-mon-pinball",
+ "id": "M6764",
+ "game": "gbc/pokemon-pinball",
  "category": {
-  "goal": "defeat-mewtwo-blue-board"
+  "goal": "complete-pok-dex"
  },
  "authors": [
   {
@@ -11,12 +11,12 @@
  ],
  "tools": [],
  "movie": {
-  "file": "M6441.bk2",
+  "file": "M6764.bk2",
   "format": "bk2",
-  "frames": 10431,
-  "rerecords": 7051,
+  "frames": 366819,
+  "rerecords": 65472,
   "start": "power-on",
-  "fps": 59.86204603778599
+  "fps": 60.05336101420853
  },
  "thumbnail": "thumb.jpg",
  "contract": {
@@ -32,20 +32,20 @@
   "console": "none"
  },
  "imported": {
-  "source": "https://tasvideos.org/6441M",
+  "source": "https://tasvideos.org/6764M",
   "importedBy": "KusogeMan",
   "importedAt": "2026-08-16"
  },
  "encodes": [
   {
    "kind": "youtube",
-   "url": "https://www.youtube.com/watch?v=ahi_xApAgXk"
+   "url": "https://www.youtube.com/watch?v=bDUnzsAUiOM"
   }
  ],
- "submitted": "2025-03-18T12:25:55.91583",
+ "submitted": "2025-10-05T21:47:48.236396",
  "attachments": [],
  "forum": {
-  "topicId": 628,
-  "url": "https://forum.toolassisted.run/t/628"
+  "topicId": 632,
+  "url": "https://forum.toolassisted.run/t/632"
  }
 }

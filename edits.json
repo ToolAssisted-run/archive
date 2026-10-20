@@ -12028,6 +12028,61 @@
    "date": "2026-10-20",
    "at": "2026-10-20T15:41:30Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "n64/pokemon-snap",
+   "field": "key",
+   "from": "n64/pok-mon-snap",
+   "to": "n64/pokemon-snap",
+   "by": "eien86",
+   "date": "2026-10-20",
+   "at": "2026-10-20T15:51:57Z",
+   "reason": "The address now keeps the accented letter as a plain one, as every new address does (website issue 114)."
+  },
+  {
+   "kind": "game",
+   "key": "gbc/pokemon-pinball",
+   "field": "key",
+   "from": "gbc/pok-mon-pinball",
+   "to": "gbc/pokemon-pinball",
+   "by": "eien86",
+   "date": "2026-10-20",
+   "at": "2026-10-20T15:51:57Z",
+   "reason": "The address now keeps the accented letter as a plain one, as every new address does (website issue 114)."
+  },
+  {
+   "kind": "game",
+   "key": "gba/pokemon-firered-leafgreen",
+   "field": "key",
+   "from": "gba/pok-mon-firered-leafgreen",
+   "to": "gba/pokemon-firered-leafgreen",
+   "by": "eien86",
+   "date": "2026-10-20",
+   "at": "2026-10-20T15:51:57Z",
+   "reason": "The address now keeps the accented letter as a plain one, as every new address does (website issue 114)."
+  },
+  {
+   "kind": "game",
+   "key": "pc/pc-futbol-5-0-apertura-97",
+   "field": "key",
+   "from": "pc/pc-f-tbol-5-0-apertura-97",
+   "to": "pc/pc-futbol-5-0-apertura-97",
+   "by": "eien86",
+   "date": "2026-10-20",
+   "at": "2026-10-20T15:51:57Z",
+   "reason": "The address now keeps the accented letter as a plain one, as every new address does (website issue 114)."
+  },
+  {
+   "kind": "game",
+   "key": "zxs/hunt-the-wumpus-wilko-schroter",
+   "field": "key",
+   "from": "zxs/hunt-the-wumpus-wilko-schr-ter",
+   "to": "zxs/hunt-the-wumpus-wilko-schroter",
+   "by": "eien86",
+   "date": "2026-10-20",
+   "at": "2026-10-20T15:51:57Z",
+   "reason": "The address now keeps the accented letter as a plain one, as every new address does (website issue 114)."
   }
  ]
 }

@@ -614,9 +614,9 @@
    "key": "pokemon",
    "title": "Pok\u00e9mon",
    "games": [
-    "gba/pok-mon-firered-leafgreen",
-    "gbc/pok-mon-pinball",
-    "n64/pok-mon-snap"
+    "gba/pokemon-firered-leafgreen",
+    "gbc/pokemon-pinball",
+    "n64/pokemon-snap"
    ],
    "createdBy": "eien86",
    "createdAt": "2026-08-21"
