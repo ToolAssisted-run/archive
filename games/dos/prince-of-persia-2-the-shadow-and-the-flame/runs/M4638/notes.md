@@ -9,7 +9,6 @@
 > without passing through this site's standard procedure. The movie file and these
 > notes were obtained freely from tasvideos.org and are redistributed in observance
 > of the Creative Commons Attribution 2.0 license under which they were published there.
-
 This is the DOS version of Prince of Persia 2: The Shadow and the Flame, second game in the classic franchise which consists games spanning multiple generations.
 !!Game objectives
 *Emulator used: PCem v17+st-1 in libTAS 1.4.3
@@ -19,13 +18,6 @@ This is the DOS version of Prince of Persia 2: The Shadow and the Flame, second 
 *The objective of the run is to complete the game, which is this case means saving the princess from the evil Jaffar.
 *There are plenty of glitches used for various skips and sequence breaks. The most notable one is wall clipping, which is used to skip major portions of various levels. It and the other glitches are explained in the level-wise comments below.
 *We control only one character in the run - the prince.
-
-!!Alternate Encodes:
-! Input Viewer and in-game frame counter:
-[module:youtube|v=VgSzpFG7NHU]
-This shows that the in-game is 13:32.83 at 12fps. This helps in accurate comparison to RTA records.
-! Commentary with Samabam:
-[module:youtube|v=Ikz2azVfqyc]
 
 !!Comments
 This is a game which features both plenty of glitches and satisfying movement. Almost all the inputs can be buffered in this game. Unlike its predecessor, this game is relatively more free of RNG, mainly because of the strategies being devised in such a way that enemies are dealt with as little as possible. This is the fourth edition of this TAS. I did not submit the [UserFiles/Info/637766954513149096|third edition] because as much as there were a lot of improved tech like sword clipping, I really did not want another run with the PC Speaker (which is the only sound device that didn't crash the game in JPC-RR). The fact that the PC speaker sounds are annoying was one of the major criticisms of the published [4531M|second edition] as well. Thanks to new PCem + libTAS setup, this is no longer a limitation, and one of my biggest motivation to do an improvement.

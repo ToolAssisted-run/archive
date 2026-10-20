@@ -12006,6 +12006,28 @@
    "date": "2026-10-20",
    "at": "2026-10-20T15:35:49Z",
    "reason": "Changed encode link"
+  },
+  {
+   "kind": "run",
+   "key": "M4638",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "GMP",
+   "date": "2026-10-20",
+   "at": "2026-10-20T15:41:30Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M4638",
+   "field": "alternates",
+   "from": "(none)",
+   "to": "Input and frame-count display https://www.youtube.com/watch?v=VgSzpFG7NHU; Commentary with Samabam https://www.youtube.com/watch?v=Ikz2azVfqyc",
+   "by": "GMP",
+   "date": "2026-10-20",
+   "at": "2026-10-20T15:41:30Z",
+   "reason": "The author's own revision."
   }
  ]
 }
