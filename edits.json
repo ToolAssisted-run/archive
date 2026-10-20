@@ -11995,6 +11995,17 @@
    "date": "2026-10-20",
    "at": "2026-10-20T06:09:21Z",
    "reason": "updated info (MobyGames) and link"
+  },
+  {
+   "kind": "run",
+   "key": "M4477",
+   "field": "encode",
+   "from": "https://www.youtube.com/watch?v=hlScbQsZ46w",
+   "to": "https://youtu.be/HbK9biwWofQ",
+   "by": "GMP",
+   "date": "2026-10-20",
+   "at": "2026-10-20T15:35:49Z",
+   "reason": "Changed encode link"
   }
  ]
 }
