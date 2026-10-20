@@ -11984,6 +11984,17 @@
    "date": "2026-10-20",
    "at": "2026-10-20T05:32:29Z",
    "reason": "updated info (MobyGames) and link"
+  },
+  {
+   "kind": "game",
+   "key": "gbc/prince-of-persia",
+   "field": "rta",
+   "from": "https://www.speedrun.com/pop1",
+   "to": "https://www.speedrun.com/pop1?h=Any-gbc&x=rklx8pnk-ylqj57nr.zqo50dpl",
+   "by": "CloakTheLurker",
+   "date": "2026-10-20",
+   "at": "2026-10-20T06:09:21Z",
+   "reason": "updated info (MobyGames) and link"
   }
  ]
 }
