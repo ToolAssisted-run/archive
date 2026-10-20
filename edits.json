@@ -11973,6 +11973,17 @@
    "date": "2026-10-19",
    "at": "2026-10-19T12:01:41Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "gbc/prince-of-persia",
+   "field": "released",
+   "from": "1994",
+   "to": "1999-04-15",
+   "by": "CloakTheLurker",
+   "date": "2026-10-20",
+   "at": "2026-10-20T05:32:29Z",
+   "reason": "updated info (MobyGames) and link"
   }
  ]
 }
