@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -46,5 +46,15 @@
  "forum": {
   "topicId": 1985,
   "url": "https://forum.toolassisted.run/t/1985"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-20",
+   "at": "2026-10-20T12:15:31Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-18, 8265a223) + Ruffle (Nightly 2026-10-16, 0b2b5ddf)",
+   "notes": "After the final boss, on the \"Level 10 Complete\" screen press continue to get to the screen where it says \"Rogue Soul II The End\". \r\n\r\nSHA1 hash of \"rogue-soul-2-game.swf\" archive: 39900CD3330341F83DB602F7CC18B42898D9E6FA"
+  }
+ ]
 }
