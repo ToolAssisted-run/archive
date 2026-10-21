@@ -12083,6 +12083,17 @@
    "date": "2026-10-20",
    "at": "2026-10-20T15:51:57Z",
    "reason": "The address now keeps the accented letter as a plain one, as every new address does (website issue 114)."
+  },
+  {
+   "kind": "run",
+   "key": "M5991",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CloakTheLurker",
+   "date": "2026-10-21",
+   "at": "2026-10-21T15:35:23Z",
+   "reason": "The author's own revision."
   }
  ]
 }
