@@ -310,5 +310,30 @@
   "name": "BBC Micro",
   "fps": 50.080128205128204,
   "hardToReproduce": true
+ },
+ "a7800": {
+  "name": "Atari 7800",
+  "fps": 59.95787340245557,
+  "hardToReproduce": true
+ },
+ "vec": {
+  "name": "Vectrex",
+  "fps": 60.0,
+  "hardToReproduce": true
+ },
+ "channelf": {
+  "name": "Channel F",
+  "fps": 60.53072578463203,
+  "hardToReproduce": true
+ },
+ "amstradcpc": {
+  "name": "Amstrad CPC",
+  "fps": 50.080128205128204,
+  "hardToReproduce": true
+ },
+ "ti83": {
+  "name": "TI-83",
+  "fps": 50.0,
+  "hardToReproduce": true
  }
 }
