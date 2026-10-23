@@ -1,0 +1,50 @@
+{
+ "id": "M100119",
+ "game": "j2me/bubble-smile",
+ "category": {
+  "goal": "unclassified"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M100119.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "d1fb1b2e6e6f0da0574438da1d2f811215abf43f",
+  "frames": 54229,
+  "rerecords": 616,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "goalDescription": "Earns 10000 points in Timed mode",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-10-23 (Core: FreeJ2ME)",
+  "files": [
+   {
+    "name": "BubbleSmile (ZIO Interactive) (2.0) (CLDC-1.0, MIDP-2.0) (3A74D8D9).jar",
+    "sha1": "58279b4101d2f9ef095ff17dbaa9abfdac58f7c7"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/tqTW-kZtW8E"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-23T19:34:03Z",
+ "submittedBy": "Dimon12321",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 1990,
+  "url": "https://forum.toolassisted.run/t/1990"
+ }
+}
