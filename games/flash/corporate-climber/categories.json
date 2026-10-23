@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "100",
+     "label": "100%",
+     "rule": "Grab all secrets and bonus items at least once and beat Satan as fast as possible"
+    }
+   ]
+  }
+ ]
+}
