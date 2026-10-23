@@ -335,5 +335,11 @@
   "name": "TI-83",
   "fps": 50.0,
   "hardToReproduce": true
+ },
+ "j2me": {
+  "name": "J2ME",
+  "fps": 60.0,
+  "createdBy": "Dimon12321",
+  "createdAt": "2026-10-23"
  }
 }
