@@ -1,0 +1,54 @@
+{
+ "id": "M100118",
+ "game": "flash/corporate-climber",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 952.9,
+ "movie": {
+  "file": "M100118.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "b8b38a56bcb594255f87b8d0e76f13c02d0ac733",
+  "frames": 57174,
+  "rerecords": 5215,
+  "start": "power-on",
+  "fps": 60.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Chimera Commit 7bc0d3554 (Core: Ruffle 2026-10-23 07:07 CEST  (efade2d1))",
+  "files": [
+   {
+    "name": "Corporate Climber.swf",
+    "sha1": "06596eea2c1a4713cfd682c5095a1d30180ce8b3"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/LpM2O4x0xeA"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-23T17:37:34Z",
+ "submittedBy": "eien86",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 1988,
+  "url": "https://forum.toolassisted.run/t/1988"
+ }
+}
