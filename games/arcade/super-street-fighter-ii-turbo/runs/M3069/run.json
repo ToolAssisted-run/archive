@@ -1,0 +1,55 @@
+{
+ "id": "M3069",
+ "game": "arcade/super-street-fighter-ii-turbo",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  },
+  {
+   "user": "SDR"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3069.fbm",
+  "format": "fbm",
+  "frames": 69931,
+  "fps": 60.0,
+  "rerecords": 82362,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FBA-rr 0.0.2",
+  "files": [
+   {
+    "name": "ssf2xj.zip",
+    "sha1": "c5a9eca702c9149bb2570e2150bac1fa93b4eb9f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3069M",
+  "importedBy": "Dark_Noob",
+  "importedAt": "2026-10-25"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ZMLs4BlgDeU"
+  }
+ ],
+ "submitted": "2016-02-05T21:56:47",
+ "attachments": [],
+ "forum": {
+  "topicId": 1996,
+  "url": "https://forum.toolassisted.run/t/1996"
+ }
+}

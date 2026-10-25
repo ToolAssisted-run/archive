@@ -1,0 +1,58 @@
+{
+ "id": "M1955",
+ "game": "snes/ultimate-mortal-kombat-3",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "SDR"
+  },
+  {
+   "user": "Thevlackdemonn2294"
+  },
+  {
+   "user": "Dark_Noob"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1955.smv",
+  "format": "smv",
+  "frames": 109703,
+  "fps": 60.0,
+  "rerecords": 46613,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Snes9x 1.52 svn184",
+  "files": [
+   {
+    "name": "Ultimate Mortal Kombat 3 (U).smc",
+    "sha1": "09c094ca1114bcb6d5917e989686ca79b96cf9ea"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1955M",
+  "importedBy": "Dark_Noob",
+  "importedAt": "2026-10-25"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=FhOrkAP9B_Y"
+  }
+ ],
+ "submitted": "2012-01-24T23:35:04",
+ "attachments": [],
+ "forum": {
+  "topicId": 1991,
+  "url": "https://forum.toolassisted.run/t/1991"
+ }
+}

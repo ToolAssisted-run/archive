@@ -1,0 +1,51 @@
+{
+ "id": "M2748",
+ "game": "snes/mortal-kombat-3",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2748.smv",
+  "format": "smv",
+  "frames": 82589,
+  "rerecords": 40803,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Snes9x 1.52 v185",
+  "files": [
+   {
+    "name": "Mortal Kombat 3 (USA).smc",
+    "sha1": "58e4e1259a86faaadbc982176e569cb2038dbac5"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2748M",
+  "importedBy": "Dark_Noob",
+  "importedAt": "2026-10-25"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=FaB49eJppWQ"
+  }
+ ],
+ "submitted": "2014-12-23T04:57:58",
+ "attachments": [],
+ "forum": {
+  "topicId": 1994,
+  "url": "https://forum.toolassisted.run/t/1994"
+ }
+}

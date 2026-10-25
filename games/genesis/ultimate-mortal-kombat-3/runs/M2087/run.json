@@ -1,0 +1,55 @@
+{
+ "id": "M2087",
+ "game": "genesis/ultimate-mortal-kombat-3",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  },
+  {
+   "user": "KSYLATRON"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2087.gmv",
+  "format": "gmv",
+  "frames": 95735,
+  "fps": 60.0,
+  "rerecords": 33097,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 11a",
+  "files": [
+   {
+    "name": "Ultimate Mortal Kombat 3 (4) [!]",
+    "sha1": "bf2da4a7ae7aa428b0b316581f65b280dc3ba356"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2087M",
+  "importedBy": "Dark_Noob",
+  "importedAt": "2026-10-25"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=gwPWEyvPYZk"
+  }
+ ],
+ "submitted": "2012-08-05T00:48:33",
+ "attachments": [],
+ "forum": {
+  "topicId": 1993,
+  "url": "https://forum.toolassisted.run/t/1993"
+ }
+}

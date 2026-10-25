@@ -1,0 +1,55 @@
+{
+ "id": "M3169",
+ "game": "arcade/final-fight",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  },
+  {
+   "user": "CReTiNo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3169.fbm",
+  "format": "fbm",
+  "frames": 52950,
+  "fps": 60.0,
+  "rerecords": 72848,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FBA-rr 0.0.7",
+  "files": [
+   {
+    "name": "ffight.zip",
+    "sha1": "06acea083a2e67ffbefa0c239020321bbf9a7a73"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3169M",
+  "importedBy": "Dark_Noob",
+  "importedAt": "2026-10-25"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-G39DWnw1jQ"
+  }
+ ],
+ "submitted": "2016-07-06T15:32:49",
+ "attachments": [],
+ "forum": {
+  "topicId": 2000,
+  "url": "https://forum.toolassisted.run/t/2000"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M3118",
+ "game": "arcade/samurai-shodown-iv-amakusas-revenge",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3118.fbm",
+  "format": "fbm",
+  "frames": 62181,
+  "fps": 60.0,
+  "rerecords": 30074,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FBA-rr 0.0.2",
+  "files": [
+   {
+    "name": "samsho4.zip",
+    "sha1": "11514320d9ef289163d316cc204882e98f79a857"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3118M",
+  "importedBy": "Dark_Noob",
+  "importedAt": "2026-10-25"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OzNrg8t2B0Y"
+  }
+ ],
+ "submitted": "2016-04-11T15:40:09",
+ "attachments": [],
+ "forum": {
+  "topicId": 1998,
+  "url": "https://forum.toolassisted.run/t/1998"
+ }
+}
