@@ -8,6 +8,11 @@
      "key": "fastest-completion",
      "label": "fastest completion",
      "rule": "Timer ends on final input"
+    },
+    {
+     "key": "playthrough",
+     "label": "playthrough",
+     "rule": "Full game completion by playing solo characters."
     }
    ]
   }

@@ -12105,6 +12105,17 @@
    "date": "2026-10-23",
    "at": "2026-10-23T19:35:34Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "arcade/killer-instinct:playthrough",
+   "field": "added",
+   "from": "",
+   "to": "playthrough",
+   "by": "Dark_Noob",
+   "date": "2026-10-25",
+   "at": "2026-10-25T15:27:45Z",
+   "reason": "Created it."
   }
  ]
 }
