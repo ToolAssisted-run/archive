@@ -1,0 +1,55 @@
+{
+ "id": "M5106",
+ "game": "arcade/street-fighter-ii-the-world-warrior",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  },
+  {
+   "user": "SDR"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5106.fbm",
+  "format": "fbm",
+  "frames": 62187,
+  "fps": 60.0,
+  "rerecords": 39659,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FBA-RR v0.0.7",
+  "files": [
+   {
+    "name": "sf2ua.zip",
+    "sha1": "71d8f10bffc4db354a286e9fcaed9d7be077df32"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5106M",
+  "importedBy": "Dark_Noob",
+  "importedAt": "2026-10-25"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=I4BoWA6O2Rg"
+  }
+ ],
+ "submitted": "2023-02-24T03:11:17.665112",
+ "attachments": [],
+ "forum": {
+  "topicId": 2002,
+  "url": "https://forum.toolassisted.run/t/2002"
+ }
+}

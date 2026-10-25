@@ -8,6 +8,11 @@
      "key": "baseline",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "playaround",
+     "label": "playaround",
+     "rule": "Imported as \"playaround\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

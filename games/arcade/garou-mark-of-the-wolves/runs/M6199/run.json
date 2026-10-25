@@ -1,0 +1,52 @@
+{
+ "id": "M6199",
+ "game": "arcade/garou-mark-of-the-wolves",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6199.fbm",
+  "format": "fbm",
+  "frames": 70236,
+  "fps": 60.0,
+  "rerecords": 75092,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FBA-rr 0.0.2",
+  "files": [
+   {
+    "name": "garou.zip",
+    "sha1": "8d05d98bf273099fb044cd930248cdc21b10e854"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6199M",
+  "importedBy": "Dark_Noob",
+  "importedAt": "2026-10-25"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=C7RvNaM38lo"
+  }
+ ],
+ "submitted": "2024-09-28T17:07:52.336493",
+ "attachments": [],
+ "forum": {
+  "topicId": 2005,
+  "url": "https://forum.toolassisted.run/t/2005"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M5181",
+ "game": "arcade/the-king-of-fighters-96",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5181.fbm",
+  "format": "fbm",
+  "frames": 81201,
+  "fps": 60.0,
+  "rerecords": 34039,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FBA-RR v0.0.2",
+  "files": [
+   {
+    "name": "kof96.zip",
+    "sha1": "6414f89cd103f8bc862190832eaf20dafa80c3b3"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5181M",
+  "importedBy": "Dark_Noob",
+  "importedAt": "2026-10-25"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=FK2pL7QcK-g"
+  }
+ ],
+ "submitted": "2023-03-25T09:55:02.763674",
+ "attachments": [],
+ "forum": {
+  "topicId": 2003,
+  "url": "https://forum.toolassisted.run/t/2003"
+ }
+}
