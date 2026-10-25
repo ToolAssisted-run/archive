@@ -1,0 +1,59 @@
+{
+ "id": "M100120",
+ "game": "arcade/killer-instinct",
+ "category": {
+  "goal": "playthrough"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  }
+ ],
+ "tools": [],
+ "duration": 356.81,
+ "movie": {
+  "file": "M100120.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "961a709f4a3f624d61f291ac329c6ba18ad0aa95",
+  "frames": 21045,
+  "rerecords": 3306,
+  "start": "power-on",
+  "fps": 58.981
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Chimera Nightly 2026-10-16",
+  "files": [
+   {
+    "name": "kinst.zip",
+    "sha1": "3b88e7531714d4cca73bdc4953c1521eaa6990be"
+   },
+   {
+    "name": "kinst.chd",
+    "sha1": "12184e135cab2a6372c65843f823478b213bbfa0"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/rBRaDm4HOmU"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-24",
+ "submitted": "2026-10-25T16:02:10Z",
+ "submittedBy": "Dark_Noob",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2006,
+  "url": "https://forum.toolassisted.run/t/2006"
+ }
+}
