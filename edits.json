@@ -12116,6 +12116,17 @@
    "date": "2026-10-25",
    "at": "2026-10-25T15:27:45Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "run",
+   "key": "M100120",
+   "field": "contentWarnings",
+   "from": "mature-violence",
+   "to": "",
+   "by": "Dark_Noob",
+   "date": "2026-10-25",
+   "at": "2026-10-25T16:07:09Z",
+   "reason": "The author's own revision."
   }
  ]
 }
