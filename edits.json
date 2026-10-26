@@ -12149,6 +12149,28 @@
    "date": "2026-10-26",
    "at": "2026-10-26T17:31:30Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100105",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "eien86",
+   "date": "2026-10-26",
+   "at": "2026-10-26T17:32:35Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M100105",
+   "field": "alternates",
+   "from": "(none)",
+   "to": "Popruns 2026 Live Commentary https://www.youtube.com/watch?v=w6Hmaa8HJmY (https://popruns.github.io/marathons/2026/#schedule)",
+   "by": "eien86",
+   "date": "2026-10-26",
+   "at": "2026-10-26T17:32:35Z",
+   "reason": "The author's own revision."
   }
  ]
 }

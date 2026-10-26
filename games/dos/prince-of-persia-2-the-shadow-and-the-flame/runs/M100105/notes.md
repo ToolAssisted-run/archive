@@ -1,13 +1,10 @@
-Done with a combination of the best types of computer-based help:
-- https://github.com/ToolAssisted-run/SDLPoP2 - a reverse engineered version of PoP2, enabling fast exploration and mechanics analysis
-- https://github.com/SergioMartin86/jaffarPlus, for smart exploration
-- Claude AI -- for reasoning and helping conduct jaffarPlus
+Done with a combination of the best types of computer-based help: - https://github.com/ToolAssisted-run/SDLPoP2 - a reverse engineered version of PoP2, enabling fast exploration and mechanics analysis - https://github.com/SergioMartin86/jaffarPlus, for smart exploration - Claude AI -- for reasoning and helping conduct jaffarPlus
 
 The solution is validated against the emulated DOS game (dosbox-x), feeding the appropriate seed, and adjusting for sound device differences.
 
 Level table:
 
-%%SRC_EMBED
+```
 ┌────────────────────────────┬─────────────┬────────┬─────────────┬──────────────────┐
 │           Level            │ First frame │ Frames │ IGT (ticks) │ IGT at level end │
 ├────────────────────────────┼─────────────┼────────┼─────────────┼──────────────────┤
@@ -43,6 +40,6 @@ Level table:
 ├────────────────────────────┼─────────────┼────────┼─────────────┼──────────────────┤
 │ Total (to the final scene) │             │ 11736  │ 10819       │ 10819            │
 └────────────────────────────┴─────────────┴────────┴─────────────┴──────────────────┘
-%%END_EMBED
+```
 
 Thanks as always to the PoP speedrunning community for their feedback and enthusiasm

@@ -42,6 +42,13 @@
   {
    "kind": "youtube",
    "url": "https://youtu.be/uiDTFYHlrXo"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=w6Hmaa8HJmY",
+   "title": "Popruns 2026 Live Commentary",
+   "description": "https://popruns.github.io/marathons/2026/#schedule",
+   "thumbnail": "alt-dd12bb39e42d.jpg"
   }
  ],
  "attachments": [],
@@ -86,5 +93,6 @@
    "emulator": "Chimera (Nightly 2026-10-10, c61897db) + SDLPoP2 (Nightly 2026-10-10, 989c9075)",
    "notes": "Get pop2v11.zip (SHA1 hash: 93EEB1968C0AD7A4DF8250C32080B056D229C241), unpack it into its own folder. Then Config > Firmware > Scan Folder... > Select the folder where the contents of pop2v11.zip are. This should leave you with everything you need --except-- for two Roland MT-32 files; once you added MT32_CONTROL.ROM (SHA1: B083518FFFB7F66B03C23B7EB4F868E62DC5A987) and MT32_PCM.ROM (SHA1: F6B1EEBC4B2D200EC6D3D21D51325D5B48C60252) and specified them in the firmware window, the movie loads and plays as intended"
   }
- ]
+ ],
+ "notesFormat": "markdown"
 }
