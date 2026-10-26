@@ -34,7 +34,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -72,6 +72,16 @@
    "date": "2026-10-26",
    "at": "2026-10-26T19:31:41Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-26",
+   "at": "2026-10-26T19:32:48Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-23, 7bc0d355) + Ruffle (Nightly 2026-10-23, efade2d1)",
+   "notes": "SHA1 hash of \"corporate-climber.swf\": 06596EEA2C1A4713CFD682C5095A1D30180CE8B3"
   }
  ]
 }
