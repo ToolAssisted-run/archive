@@ -9,7 +9,4 @@
 > without passing through this site's standard procedure. The movie file and these
 > notes were obtained freely from tasvideos.org and are redistributed in observance
 > of the Creative Commons Attribution 2.0 license under which they were published there.
-
-((mini prins is smol game.
-https://pedestalgames.itch.io/miniprince
-reproduce: put smol contents of MiniPrince-DOS.zip in TAS_CD.iso with the windows [https://tasvideos.org/EmulatorResources/PCem#UsingPreInstalledVersion|thingy]))
+[mini prins is smol game. https://pedestalgames.itch.io/miniprince reproduce: put smol contents of MiniPrince-DOS.zip in TAS_CD.iso with the windows [thingy](https://tasvideos.org/EmulatorResources/PCem#UsingPreInstalledVersion)]{.small}
