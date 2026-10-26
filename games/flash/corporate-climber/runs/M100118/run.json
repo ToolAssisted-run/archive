@@ -35,7 +35,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -64,6 +64,14 @@
    "date": "2026-10-23",
    "at": "2026-10-23T18:26:19Z",
    "post": 2
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-10-26",
+   "at": "2026-10-26T19:31:41Z",
+   "expert": true
   }
  ]
 }
