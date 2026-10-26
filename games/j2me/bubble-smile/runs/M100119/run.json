@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -46,5 +46,15 @@
  "forum": {
   "topicId": 1990,
   "url": "https://forum.toolassisted.run/t/1990"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-26",
+   "at": "2026-10-26T19:31:28Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-23, 7bc0d355) + FreeJ2ME-Plus (Nightly 2026-10-20, 80db8b09)",
+   "notes": "SHA1 hash of \"BubbleSmile (ZIO Interactive) (2.0) (CLDC-1.0, MIDP-2.0) (3A74D8D9).jar\": 58279B4101D2F9EF095FF17DBAA9ABFDAC58F7C7 // Shoutouts to lpcwiki.miraheze.org/wiki/JAR_integrity_guide"
+  }
+ ]
 }
