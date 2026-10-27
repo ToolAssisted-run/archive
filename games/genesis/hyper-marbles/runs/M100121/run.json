@@ -1,0 +1,45 @@
+{
+ "id": "M100121",
+ "game": "genesis/hyper-marbles",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "Mitjitsu"
+  }
+ ],
+ "tools": [],
+ "duration": 275.816,
+ "movie": {
+  "file": "M100121.gmv",
+  "format": "gmv",
+  "sha1": "b1b1bf4b81b8d908a3caa4fe5dc571926a4fac01",
+  "frames": 16549,
+  "rerecords": 3070,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=zDBjejGxWDU"
+  }
+ ],
+ "attachments": [],
+ "completed": "2023-09-05",
+ "submitted": "2026-10-27T09:16:56Z",
+ "submittedBy": "Mitjitsu",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2008,
+  "url": "https://forum.toolassisted.run/t/2008"
+ }
+}
