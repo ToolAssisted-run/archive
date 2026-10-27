@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "main-event",
+     "label": "Main Event",
+     "rule": "Create a new boxer and rise through the ranking as fast as possible and beat \"The Champ\""
+    }
+   ]
+  }
+ ]
+}
