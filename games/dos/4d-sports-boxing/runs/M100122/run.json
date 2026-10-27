@@ -1,0 +1,79 @@
+{
+ "id": "M100122",
+ "game": "dos/4d-sports-boxing",
+ "category": {
+  "goal": "main-event",
+  "sub": "ignore-ranking-cheat"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 2775.535,
+ "movie": {
+  "file": "M100122.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "73a9a4131b9184cc4a5a55ddb1a4f918a923b967",
+  "frames": 194527,
+  "rerecords": 254,
+  "start": "power-on",
+  "fps": 70.08630289532294
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Chimera 7bc0d3554 (Core: Open4DBoxing cbfb51ef)",
+  "files": [
+   {
+    "name": "disk1.img",
+    "sha1": "5b324abec67baa90a44c04bb9cc82ba50f4fb962"
+   },
+   {
+    "name": "disk2.img",
+    "sha1": "c63aa4787b3a7860ec07b171ad3b47da1a41e58e"
+   },
+   {
+    "name": "mt32_ctrl_1_07.rom",
+    "sha1": "b083518fffb7f66b03c23b7eb4f868e62dc5a987"
+   },
+   {
+    "name": "mt32_pcm.rom",
+    "sha1": "f6b1eebc4b2d200ec6d3d21d51325d5b48c60252"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/dwIUBLFZvbY"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/T8XvYA75qMM",
+   "title": "Single camera",
+   "description": "This is the single camera encode, a faithful representation of the movie/game, whereas the main encode has a modification that allows changing camera angles without desyncs",
+   "thumbnail": "alt-73c2f715a335.jpg"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/4dbox-final-cameras.chimeraProject",
+   "role": "submitted attachment"
+  }
+ ],
+ "submitted": "2026-10-27T19:51:56Z",
+ "submittedBy": "eien86",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2010,
+  "url": "https://forum.toolassisted.run/t/2010"
+ }
+}
