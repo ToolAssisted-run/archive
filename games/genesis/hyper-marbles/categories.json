@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "any",
+     "label": "Any%",
+     "rule": "No restrictions"
+    }
+   ]
+  }
+ ]
+}
