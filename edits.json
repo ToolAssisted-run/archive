@@ -12171,6 +12171,17 @@
    "date": "2026-10-26",
    "at": "2026-10-26T17:32:35Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "dos/4d-sports-boxing:main-event/ignore-ranking-cheat",
+   "field": "added",
+   "from": "",
+   "to": "Ignore Ranking Cheat",
+   "by": "eien86",
+   "date": "2026-10-27",
+   "at": "2026-10-27T19:45:24Z",
+   "reason": "Created it."
   }
  ]
 }

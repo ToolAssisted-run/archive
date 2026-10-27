@@ -7,7 +7,14 @@
     {
      "key": "main-event",
      "label": "Main Event",
-     "rule": "Create a new boxer and rise through the ranking as fast as possible and beat \"The Champ\""
+     "rule": "Create a new boxer and rise through the ranking as fast as possible and beat \"The Champ\"",
+     "subcategories": [
+      {
+       "key": "ignore-ranking-cheat",
+       "label": "Ignore Ranking Cheat",
+       "rule": "By pressing \"1\" duing the challenger selection, it is possible to fight against any ranked fighter, even those outside our reach. This sub-category allows the use of this debug tool / cheat"
+      }
+     ]
     }
    ]
   }
