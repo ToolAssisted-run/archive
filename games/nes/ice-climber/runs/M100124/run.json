@@ -47,5 +47,12 @@
  "forum": {
   "topicId": 2021,
   "url": "https://forum.toolassisted.run/t/2021"
+ },
+ "withdrawn": {
+  "by": "xiaoya",
+  "date": "2026-10-28",
+  "at": "2026-10-28T21:43:43Z",
+  "reason": "lack of notes",
+  "role": "author"
  }
 }
