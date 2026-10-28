@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "1-player",
+     "label": "1 player",
+     "rule": "Clear all 32 mountains with one player, catching the condor in every bonus stage. Timing ends at the last input."
+    }
+   ]
+  }
+ ]
+}
