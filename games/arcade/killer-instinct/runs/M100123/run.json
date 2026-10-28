@@ -1,0 +1,56 @@
+{
+ "id": "M100123",
+ "game": "arcade/killer-instinct",
+ "category": {
+  "goal": "playthrough"
+ },
+ "authors": [
+  {
+   "user": "cinderbr"
+  }
+ ],
+ "tools": [],
+ "duration": 696.546,
+ "movie": {
+  "file": "M100123.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "0c14b01a8fd15950d1ce84c2203957490d5ee503",
+  "frames": 41083,
+  "rerecords": 1358,
+  "start": "power-on",
+  "fps": 58.981
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera 9dbd35bac (Core: MAME e7c98d33)",
+  "files": [
+   {
+    "name": "kinst.zip",
+    "sha1": "2fcd7e7b202968712e2f9f23e78f8e5cc03858e8"
+   },
+   {
+    "name": "kinst.chd",
+    "sha1": "a1c11e304eaf4232d5afcdcefc6215b4e3e0936f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/9i8NkIOiFDg"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-28",
+ "submitted": "2026-10-28T19:21:19Z",
+ "submittedBy": "cinderbr",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2012,
+  "url": "https://forum.toolassisted.run/t/2012"
+ }
+}
