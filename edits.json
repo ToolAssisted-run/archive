@@ -12182,6 +12182,17 @@
    "date": "2026-10-27",
    "at": "2026-10-27T19:45:24Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "run",
+   "key": "M100124",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "xiaoya",
+   "date": "2026-10-28",
+   "at": "2026-10-28T21:45:40Z",
+   "reason": "The author's own revision."
   }
  ]
 }
