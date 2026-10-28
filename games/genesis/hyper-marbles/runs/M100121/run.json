@@ -24,7 +24,7 @@
   "emulator": "Gens"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -63,6 +63,16 @@
    "date": "2026-10-28",
    "at": "2026-10-28T13:55:50Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-28",
+   "at": "2026-10-28T13:57:21Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Gens-rr 11b",
+   "notes": "SHA1 hash of \"Hyper Marbles (J) [!].bin\": B2C5C78084B988DE1873C89EEDFA984124404C0C"
   }
  ]
 }
