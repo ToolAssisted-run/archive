@@ -1,0 +1,55 @@
+{
+ "id": "M1350",
+ "game": "genesis/alien-soldier",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Dammit"
+  },
+  {
+   "user": "Truncated"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1350.gmv",
+  "format": "gmv",
+  "frames": 66736,
+  "fps": 60.0,
+  "rerecords": 66872,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 11",
+  "files": [
+   {
+    "name": "Alien Soldier (Japan).bin",
+    "sha1": "8f6eb584ed9487b8504fbc21d86783f58e6c9cd6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1350M",
+  "importedBy": "Truncated",
+  "importedAt": "2026-10-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=NAK4HuCshMo"
+  }
+ ],
+ "submitted": "2009-09-02T17:59:41",
+ "attachments": [],
+ "forum": {
+  "topicId": 2017,
+  "url": "https://forum.toolassisted.run/t/2017"
+ }
+}

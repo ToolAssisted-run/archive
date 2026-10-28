@@ -1,0 +1,52 @@
+{
+ "id": "M2112",
+ "game": "genesis/chuck-rock-ii-son-of-chuck",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Truncated"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2112.gmv",
+  "format": "gmv",
+  "frames": 64705,
+  "fps": 60.0,
+  "rerecords": 11167,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 11a",
+  "files": [
+   {
+    "name": "Chuck Rock 2 (U) [!].bin",
+    "sha1": "f5dc902a3d722842a4fb536644102de600e7dca3"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2112M",
+  "importedBy": "Truncated",
+  "importedAt": "2026-10-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=8p4oZWwFdK8"
+  }
+ ],
+ "submitted": "2012-10-06T08:41:54",
+ "attachments": [],
+ "forum": {
+  "topicId": 2019,
+  "url": "https://forum.toolassisted.run/t/2019"
+ }
+}

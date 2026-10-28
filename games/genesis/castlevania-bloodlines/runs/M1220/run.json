@@ -1,0 +1,55 @@
+{
+ "id": "M1220",
+ "game": "genesis/castlevania-bloodlines",
+ "category": {
+  "goal": "john-morris"
+ },
+ "authors": [
+  {
+   "user": "VANDAL"
+  },
+  {
+   "user": "Truncated"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1220.gmv",
+  "format": "gmv",
+  "frames": 99370,
+  "fps": 60.0,
+  "rerecords": 113780,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 9.5",
+  "files": [
+   {
+    "name": "Castlevania - Bloodlines (U) [!].bin",
+    "sha1": "4809cf80ced70e77bc7479bb652a9d9fe22ce7e6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1220M",
+  "importedBy": "Truncated",
+  "importedAt": "2026-10-28"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=35QRTonq4HA"
+  }
+ ],
+ "submitted": "2008-11-08T16:54:02",
+ "attachments": [],
+ "forum": {
+  "topicId": 2014,
+  "url": "https://forum.toolassisted.run/t/2014"
+ }
+}
