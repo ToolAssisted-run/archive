@@ -39,7 +39,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -79,6 +79,16 @@
    "user": "Dimon12321",
    "date": "2026-10-13",
    "at": "2026-10-13T13:39:41Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-10-28",
+   "at": "2026-10-28T16:42:22Z",
+   "screenshot": "reproductions/1-Dimon12321.png",
+   "emulator": "Chimera Nightly-2026-09-19 (Core: DOSBox-X Core 2026-09-17, 70919ddc)",
+   "notes": "Follow the reproduction steps. Note: you need not only the core of that nightly build, but also the specified Chimera build too. If you use newer Chimera, you will export the installation .hdd with a wrong hash and the TAS won't sync."
   }
  ]
 }
