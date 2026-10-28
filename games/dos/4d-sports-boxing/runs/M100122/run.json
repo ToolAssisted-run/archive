@@ -48,7 +48,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -89,6 +89,14 @@
    "date": "2026-10-28",
    "at": "2026-10-28T10:31:34Z",
    "post": 2
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-10-28",
+   "at": "2026-10-28T16:48:42Z",
+   "expert": true
   }
  ]
 }
