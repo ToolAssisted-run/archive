@@ -1,0 +1,51 @@
+{
+ "id": "M100125",
+ "game": "nes/ice-climber",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "xiaoya"
+  }
+ ],
+ "tools": [],
+ "duration": 1237.994,
+ "movie": {
+  "file": "M100125.fm2",
+  "format": "fm2",
+  "sha1": "e730f72025467633353ac29c7ba71aa86e689bb8",
+  "frames": 74402,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.5",
+  "files": [
+   {
+    "name": "Ice Climber (USA, Europe, Korea).nes",
+    "sha1": "09d97003bf9d676f24a75cf3e1dced28cda3be59"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/wTxUKkbaQow"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-27",
+ "submitted": "2026-10-28T21:49:01Z",
+ "submittedBy": "xiaoya",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2022,
+  "url": "https://forum.toolassisted.run/t/2022"
+ }
+}
