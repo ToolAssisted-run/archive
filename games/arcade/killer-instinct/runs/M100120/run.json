@@ -2,7 +2,8 @@
  "id": "M100120",
  "game": "arcade/killer-instinct",
  "category": {
-  "goal": "playthrough"
+  "goal": "playthrough",
+  "sub": "sabrewulf"
  },
  "authors": [
   {

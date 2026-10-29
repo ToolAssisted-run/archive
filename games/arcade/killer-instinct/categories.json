@@ -12,7 +12,13 @@
     {
      "key": "playthrough",
      "label": "playthrough",
-     "rule": "Full game completion by playing solo characters."
+     "rule": "Full game completion by playing solo characters.",
+     "subcategories": [
+      {
+       "key": "sabrewulf",
+       "label": "Sabrewulf"
+      }
+     ]
     }
    ]
   }

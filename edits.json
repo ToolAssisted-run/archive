@@ -12193,6 +12193,17 @@
    "date": "2026-10-28",
    "at": "2026-10-28T21:45:40Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "arcade/killer-instinct:playthrough/sabrewulf",
+   "field": "added",
+   "from": "",
+   "to": "Sabrewulf",
+   "by": "toca",
+   "date": "2026-10-29",
+   "at": "2026-10-29T06:36:40Z",
+   "reason": "character subcategories for playthrough"
   }
  ]
 }
