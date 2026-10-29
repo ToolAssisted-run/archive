@@ -1,0 +1,45 @@
+{
+ "id": "M100128",
+ "game": "snes/hldc-artifact-chamber",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 278.624,
+ "movie": {
+  "file": "M100128.bk2",
+  "format": "bk2",
+  "sha1": "0f8e0f1035642aaa270e43303405667a4b3eea63",
+  "frames": 16745,
+  "rerecords": 734,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 BSNESv115+"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=dbz6RaYJ4FY"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-29",
+ "submitted": "2026-10-29T18:45:26Z",
+ "submittedBy": "thegugafa",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2028,
+  "url": "https://forum.toolassisted.run/t/2028"
+ }
+}
