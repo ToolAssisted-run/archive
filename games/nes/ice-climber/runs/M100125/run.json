@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -69,6 +69,16 @@
    "date": "2026-10-29",
    "at": "2026-10-29T07:00:36Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-29",
+   "at": "2026-10-29T07:01:02Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "FCEUX 2.6.5",
+   "notes": "SHA1 hash of \"Ice Climber (USA, Europe, Korea) (En).nes\": 7309BA29C5BDFE088302E107EB4F7C9E67C8CD32"
   }
  ]
 }
