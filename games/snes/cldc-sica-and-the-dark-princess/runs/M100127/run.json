@@ -10,13 +10,13 @@
   }
  ],
  "tools": [],
- "duration": 344.0,
+ "duration": 323.7,
  "movie": {
-  "file": "M100127.smc",
-  "format": "smc",
-  "sha1": "cee7e0abf26f9eb2eda1f9c3ffe09939b8b74b88",
-  "frames": 0,
-  "rerecords": null,
+  "file": "M100127.bk2",
+  "format": "bk2",
+  "sha1": "b06b86973c308da6e06ae56ea3c967bd6874643b",
+  "frames": 19454,
+  "rerecords": 494,
   "start": "power-on"
  },
  "thumbnail": "thumb.jpg",
