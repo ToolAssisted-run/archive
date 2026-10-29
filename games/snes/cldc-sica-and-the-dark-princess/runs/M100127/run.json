@@ -1,0 +1,45 @@
+{
+ "id": "M100127",
+ "game": "snes/cldc-sica-and-the-dark-princess",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 344.0,
+ "movie": {
+  "file": "M100127.smc",
+  "format": "smc",
+  "sha1": "cee7e0abf26f9eb2eda1f9c3ffe09939b8b74b88",
+  "frames": 0,
+  "rerecords": null,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 BSNESv115+"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=jNhiiDZ4F40"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-29",
+ "submitted": "2026-10-29T18:31:02Z",
+ "submittedBy": "thegugafa",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2026,
+  "url": "https://forum.toolassisted.run/t/2026"
+ }
+}
