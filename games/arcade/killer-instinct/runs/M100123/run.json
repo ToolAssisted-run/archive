@@ -36,7 +36,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -80,6 +80,16 @@
    "date": "2026-10-29",
    "at": "2026-10-29T06:53:08Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-29",
+   "at": "2026-10-29T06:53:43Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-20, 9dbd35ba) + MAME-core (Nightly 2026-10-15, e7c98d33)",
+   "notes": "SHA1 hashes of the files I used to reproduce the movie;\r\n- kinst.zip: 7847B7C6826604C362CD8908752E4A2EF38D82D4\r\n- kinst.chd: 12184E135CAB2A6372C65843F823478B213BBFA0"
   }
  ]
 }
