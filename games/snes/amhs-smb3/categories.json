@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "normal-mode-all-a-coin",
+     "label": "normal mode all A coin",
+     "rule": "Complete the game as fast as possible."
+    }
+   ]
+  }
+ ]
+}
