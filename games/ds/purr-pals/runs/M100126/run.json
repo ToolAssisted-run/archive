@@ -1,0 +1,50 @@
+{
+ "id": "M100126",
+ "game": "ds/purr-pals",
+ "category": {
+  "goal": "the-magic-flute-purrfect"
+ },
+ "authors": [
+  {
+   "user": "izumi"
+  }
+ ],
+ "tools": [],
+ "duration": 83.291,
+ "movie": {
+  "file": "M100126.bk2",
+  "format": "bk2",
+  "sha1": "99f03e0f4100d12cfc87eb2ca4325047b14609a6",
+  "frames": 4983,
+  "rerecords": 136,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "files": [
+   {
+    "name": "Purr Pals (USA).nds",
+    "sha1": "bd180ef455fd7895395547ac140fcc81efd119c8"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/shorts/7L_NlUu3-O0"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-29T17:22:50Z",
+ "submittedBy": "izumi",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2024,
+  "url": "https://forum.toolassisted.run/t/2024"
+ }
+}
