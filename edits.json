@@ -12204,6 +12204,17 @@
    "date": "2026-10-29",
    "at": "2026-10-29T06:36:40Z",
    "reason": "character subcategories for playthrough"
+  },
+  {
+   "kind": "category",
+   "key": "arcade/killer-instinct:playthrough/cinder",
+   "field": "added",
+   "from": "",
+   "to": "Cinder",
+   "by": "toca",
+   "date": "2026-10-29",
+   "at": "2026-10-29T06:37:17Z",
+   "reason": "character subcategories for playthrough"
   }
  ]
 }
