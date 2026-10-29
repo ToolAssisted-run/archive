@@ -117,6 +117,15 @@
    "date": "2026-10-08",
    "at": "2026-10-08T16:52:22Z",
    "reason": "An artifact of our early figuring out of imported accounts"
+  },
+  {
+   "kind": "game",
+   "key": "3do/amhs-smb3",
+   "title": "AMH's SMB3",
+   "by": "CloakTheLurker",
+   "date": "2026-10-29",
+   "at": "2026-10-29T19:08:57Z",
+   "reason": "wrong platform"
   }
  ]
 }
