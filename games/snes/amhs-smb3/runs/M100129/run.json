@@ -1,0 +1,45 @@
+{
+ "id": "M100129",
+ "game": "snes/amhs-smb3",
+ "category": {
+  "goal": "normal-mode-all-a-coin"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 8420.599,
+ "movie": {
+  "file": "M100129.bk2",
+  "format": "bk2",
+  "sha1": "d43b3877c75cc5c06771ecca99df77f1653d36a7",
+  "frames": 506068,
+  "rerecords": 16278,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11 Snes9x"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=z9F-0Wzk_hI"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-09-27",
+ "submitted": "2026-10-29T19:14:28Z",
+ "submittedBy": "thegugafa",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2031,
+  "url": "https://forum.toolassisted.run/t/2031"
+ }
+}
