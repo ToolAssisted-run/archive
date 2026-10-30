@@ -15,11 +15,6 @@
        "rule": "By pressing \"1\" duing the challenger selection, it is possible to fight against any ranked fighter, even those outside our reach. This sub-category allows the use of this debug tool / cheat"
       }
      ]
-    },
-    {
-     "key": "any",
-     "label": "any%",
-     "rule": "Become the champion as fast as possible"
     }
    ]
   }

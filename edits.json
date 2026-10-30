@@ -12270,6 +12270,17 @@
    "date": "2026-10-30",
    "at": "2026-10-30T17:13:40Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "dos/4d-sports-boxing:any",
+   "field": "removed",
+   "from": "any%",
+   "to": "",
+   "by": "eien86",
+   "date": "2026-10-30",
+   "at": "2026-10-30T17:14:42Z",
+   "reason": "created by mistake"
   }
  ]
 }
