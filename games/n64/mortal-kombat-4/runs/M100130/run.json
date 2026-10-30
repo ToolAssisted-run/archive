@@ -1,0 +1,47 @@
+{
+ "id": "M100130",
+ "game": "n64/mortal-kombat-4",
+ "category": {
+  "goal": "endurance"
+ },
+ "authors": [
+  {
+   "user": "KusogeMan"
+  }
+ ],
+ "tools": [],
+ "duration": 156.867,
+ "movie": {
+  "file": "M100130.bk2",
+  "format": "bk2",
+  "sha1": "237a1413dc7643a13c5916fe729856bf7d0d40b3",
+  "frames": 9412,
+  "rerecords": 6393,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Bizhawk 2.3.2(x64)"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=5QKKMtPn9AA"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-30T12:42:12Z",
+ "submittedBy": "KusogeMan",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2032,
+  "url": "https://forum.toolassisted.run/t/2032"
+ }
+}
