@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -53,6 +53,16 @@
    "date": "2026-10-30",
    "at": "2026-10-30T08:49:20Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-30",
+   "at": "2026-10-30T08:50:07Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11.1",
+   "notes": "SHA1 hash of \"Purr Pals (USA).nds\": BD180EF455FD7895395547AC140FCC81EFD119C8"
   }
  ]
 }
