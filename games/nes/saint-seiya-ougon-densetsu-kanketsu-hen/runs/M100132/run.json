@@ -1,0 +1,60 @@
+{
+ "id": "M100132",
+ "game": "nes/saint-seiya-ougon-densetsu-kanketsu-hen",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 1317.979,
+ "movie": {
+  "file": "M100132.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "1a4eb0f2e3fab935a456a0d0d24c7448a99ef1b0",
+  "frames": 79209,
+  "rerecords": 2,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "photosensitivity"
+ ],
+ "contract": {
+  "emulator": "Chimera (Core: quickerNES 96b98410)",
+  "files": [
+   {
+    "name": "Saint Seiya - Ougon Densetsu Kanketsu Hen (J) [!].nes",
+    "sha1": "f871d9b3dafddcdad5f2acd71044292e5169064e"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=dzenhyu1E0U"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/3IlWVxTYV2M",
+   "title": "Comparison Movie",
+   "description": "This movie vs https://tasvideos.org/7380M",
+   "thumbnail": "alt-4de76957a24c.jpg"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-30T20:19:39Z",
+ "submittedBy": "eien86",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2035,
+  "url": "https://forum.toolassisted.run/t/2035"
+ }
+}
