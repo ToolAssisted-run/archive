@@ -24,7 +24,7 @@
   "emulator": "BizHawk 2.11 Snes9x"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -48,6 +48,16 @@
    "date": "2026-10-30",
    "at": "2026-10-30T08:56:05Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-30",
+   "at": "2026-10-30T09:02:22Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11",
+   "notes": "SHA1 hash of patch.smc: 8D03A1120DFF604BAB4510039EFC5C7995891B3E"
   }
  ]
 }
