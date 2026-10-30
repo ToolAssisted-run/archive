@@ -28,7 +28,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -49,6 +49,15 @@
    "user": "Dimon12321",
    "date": "2026-10-30",
    "at": "2026-10-30T13:03:52Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-10-30",
+   "at": "2026-10-30T14:42:06Z",
+   "expert": true,
+   "notes": "The authors completes the longest destiny as Scorpion in Endurance mode"
   }
  ]
 }
