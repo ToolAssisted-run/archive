@@ -12281,6 +12281,17 @@
    "date": "2026-10-30",
    "at": "2026-10-30T17:14:42Z",
    "reason": "created by mistake"
+  },
+  {
+   "kind": "category",
+   "key": "dos/4d-sports-boxing:main-event/any",
+   "field": "added",
+   "from": "",
+   "to": "any%",
+   "by": "eien86",
+   "date": "2026-10-30",
+   "at": "2026-10-30T17:15:48Z",
+   "reason": "Created it."
   }
  ]
 }
