@@ -1,0 +1,66 @@
+{
+ "id": "M100131",
+ "game": "dos/4d-sports-boxing",
+ "category": {
+  "goal": "main-event",
+  "sub": "any"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 801.0,
+ "movie": {
+  "file": "M100131.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "0d01a857035244f0013c93d71777a72e792b0f71",
+  "frames": 0,
+  "rerecords": null,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence"
+ ],
+ "contract": {
+  "emulator": "Chimera Commit 36c2bffec (Core: Open4DBoxing 2026-10-24 16:45 CEST (d0e69f6e))",
+  "files": [
+   {
+    "name": "disk1.img",
+    "sha1": "5b324abec67baa90a44c04bb9cc82ba50f4fb962"
+   },
+   {
+    "name": "disk2.img",
+    "sha1": "c63aa4787b3a7860ec07b171ad3b47da1a41e58e"
+   },
+   {
+    "name": "mt32_ctrl_1_07.rom",
+    "sha1": "b083518fffb7f66b03c23b7eb4f868e62dc5a987"
+   },
+   {
+    "name": "mt32_pcm.rom",
+    "sha1": "f6b1eebc4b2d200ec6d3d21d51325d5b48c60252"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/BQj7eBa0QLQ"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-10-30T17:20:14Z",
+ "submittedBy": "eien86",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2034,
+  "url": "https://forum.toolassisted.run/t/2034"
+ }
+}
