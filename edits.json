@@ -12259,6 +12259,17 @@
    "date": "2026-10-30",
    "at": "2026-10-30T08:44:06Z",
    "reason": "Changed from the group form: snes/cldc-sica-and-the-dark-princess moved in snes/hldc-artifact-chamber moved in snes/amhs-smb3 moved in"
+  },
+  {
+   "kind": "category",
+   "key": "dos/4d-sports-boxing:any",
+   "field": "added",
+   "from": "",
+   "to": "any%",
+   "by": "eien86",
+   "date": "2026-10-30",
+   "at": "2026-10-30T17:13:40Z",
+   "reason": "Created it."
   }
  ]
 }
