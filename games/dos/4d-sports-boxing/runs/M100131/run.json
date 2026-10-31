@@ -46,7 +46,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -69,6 +69,16 @@
    "date": "2026-10-31",
    "at": "2026-10-31T11:07:46Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-31",
+   "at": "2026-10-31T11:07:51Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-30, cad85ea0) + open4dboxing-core (Nightly 2026-10-24, cbfb51ef)",
+   "notes": "Shoutouts to the official Electronic Arts PC Floppy Disk Image Collection. Rename \"4-D Boxing (1991) (Electronic Arts, Inc.) (720K) (Disk 1) [!].ima\" (SHA1: 5B324ABEC67BAA90A44C04BB9CC82BA50F4FB962) to \"disk1.img\" and \"4-D Boxing (1991) (Electronic Arts, Inc.) (720K) (Disk 2) [!].ima\" (SHA1: C63AA4787B3A7860EC07B171AD3B47DA1A41E58E) to \"disk2.img\", and get the following two Roland MT-32 files: \"MT32_CONTROL.ROM\" (SHA1: B083518FFFB7F66B03C23B7EB4F868E62DC5A987) and \"MT32-PCM.ROM\" (SHA1: F6B1EEBC4B2D200EC6D3D21D51325D5B48C60252)"
   }
  ]
 }
