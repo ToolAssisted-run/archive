@@ -27,7 +27,7 @@
   "emulator": "Bizhawk 2.3.2(x64)"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -58,6 +58,16 @@
    "at": "2026-10-30T14:42:06Z",
    "expert": true,
    "notes": "The authors completes the longest destiny as Scorpion in Endurance mode"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-10-31",
+   "at": "2026-10-31T10:55:15Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.3.2",
+   "notes": "SHA1 hash of \"Mortal Kombat 4 (USA).z64\": F47D05BBD1BCADDDFF2EC7A21BC2E795CBEF9F9B"
   }
  ]
 }
