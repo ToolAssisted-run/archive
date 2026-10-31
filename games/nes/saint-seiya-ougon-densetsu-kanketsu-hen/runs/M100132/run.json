@@ -34,7 +34,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -72,6 +72,14 @@
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "Chimera (Nightly 2026-10-30, cad85ea0) + quickerNES-core (Nightly 2026-10-29, 96b98410)",
    "notes": "SHA1 hash of the \"Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan).nes\" file I used for reproduction: EB94A61C41D780DEA56443E2F78C25F3369A0C7C"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-10-31",
+   "at": "2026-10-31T11:15:52Z",
+   "expert": true
   }
  ]
 }
