@@ -1,0 +1,54 @@
+{
+ "id": "M2897",
+ "game": "nes/super-pitfall",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "Alyosha"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2897.fm2",
+  "format": "fm2",
+  "frames": 16950,
+  "rerecords": 3727,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "files": [
+   {
+    "name": "Super Pitfall (USA).nes",
+    "sha1": "2373e952fecc5f7507f99476e82c298cab1f51cb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2897M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=V_zEWoSP8Pc"
+  }
+ ],
+ "submitted": "2015-07-25T11:33:55",
+ "attachments": [],
+ "forum": {
+  "topicId": 2088,
+  "url": "https://forum.toolassisted.run/t/2088"
+ }
+}

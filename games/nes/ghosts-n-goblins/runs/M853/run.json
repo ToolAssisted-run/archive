@@ -1,0 +1,52 @@
+{
+ "id": "M853",
+ "game": "nes/ghosts-n-goblins",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M853.fcm",
+  "format": "fcm",
+  "frames": 30188,
+  "fps": 60.0,
+  "rerecords": 7990,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEU 0.98.12",
+  "files": [
+   {
+    "name": "Ghosts 'n Goblins (U).nes",
+    "sha1": "8de81d363e11cecb570a9d18237f7b56b2b659db"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/853M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=VbIA0xhY8GI"
+  }
+ ],
+ "submitted": "2007-05-13T20:05:17",
+ "attachments": [],
+ "forum": {
+  "topicId": 2086,
+  "url": "https://forum.toolassisted.run/t/2086"
+ }
+}

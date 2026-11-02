@@ -1,0 +1,57 @@
+{
+ "id": "M2947",
+ "game": "nes/kid-icarus",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Alyosha"
+  },
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "Randil"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2947.fm2",
+  "format": "fm2",
+  "frames": 71707,
+  "rerecords": 51820,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "files": [
+   {
+    "name": "Kid Icarus (UE).nes",
+    "sha1": "0e79f258ef6c2ae6468ff07ac0b988183d8e3832"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2947M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ICvT5z2sDy8"
+  }
+ ],
+ "submitted": "2015-09-05T16:06:33",
+ "attachments": [],
+ "forum": {
+  "topicId": 2090,
+  "url": "https://forum.toolassisted.run/t/2090"
+ }
+}

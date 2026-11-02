@@ -1,0 +1,51 @@
+{
+ "id": "M1054",
+ "game": "nes/maniac-mansion",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1054.fcm",
+  "format": "fcm",
+  "frames": 23386,
+  "rerecords": 4460,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEU 0.98.16",
+  "files": [
+   {
+    "name": "Maniac Mansion (U) [!].nes",
+    "sha1": "7317d1f1096b57f6ab8f3001bcdd35665c291b1a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1054M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=H2OiMoL28yQ"
+  }
+ ],
+ "submitted": "2008-02-18T05:02:25",
+ "attachments": [],
+ "forum": {
+  "topicId": 2087,
+  "url": "https://forum.toolassisted.run/t/2087"
+ }
+}

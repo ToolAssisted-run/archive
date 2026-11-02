@@ -1,0 +1,54 @@
+{
+ "id": "M3032",
+ "game": "nes/ghosts-n-goblins",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "Alyosha"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3032.fm2",
+  "format": "fm2",
+  "frames": 29931,
+  "rerecords": 9057,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "files": [
+   {
+    "name": "Ghosts 'n Goblins (U).nes",
+    "sha1": "8de81d363e11cecb570a9d18237f7b56b2b659db"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3032M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=BMpuXcP1ECM"
+  }
+ ],
+ "submitted": "2015-12-23T19:35:57",
+ "attachments": [],
+ "forum": {
+  "topicId": 2091,
+  "url": "https://forum.toolassisted.run/t/2091"
+ }
+}
