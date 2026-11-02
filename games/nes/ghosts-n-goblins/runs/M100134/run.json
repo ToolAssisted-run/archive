@@ -1,0 +1,51 @@
+{
+ "id": "M100134",
+ "game": "nes/ghosts-n-goblins",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "duration": 484.252,
+ "movie": {
+  "file": "M100134.fm2",
+  "format": "fm2",
+  "sha1": "f068fddbe04c02c78646fe9b6cc59d8dae9265fb",
+  "frames": 29103,
+  "rerecords": 9365,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.7.0",
+  "files": [
+   {
+    "name": "Ghosts 'n Goblins (U).nes",
+    "sha1": "8de81d363e11cecb570a9d18237f7b56b2b659db"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=5QT5APk7hJ0"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-19",
+ "submitted": "2026-11-02T05:25:48Z",
+ "submittedBy": "Arc",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2119,
+  "url": "https://forum.toolassisted.run/t/2119"
+ }
+}
