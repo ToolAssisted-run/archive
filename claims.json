@@ -204,7 +204,10 @@
    "evidence": "https://tasvideos.org/Forum/Posts/33631",
    "date": "2026-11-02",
    "at": "2026-11-02T02:04:04Z",
-   "status": "open"
+   "status": "approved",
+   "decidedBy": "eien86",
+   "decidedAt": "2026-11-02",
+   "note": ""
   }
  ]
 }
