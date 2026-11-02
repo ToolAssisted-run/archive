@@ -1,0 +1,52 @@
+{
+ "id": "M34",
+ "game": "nes/track-field",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M34.fmv",
+  "format": "fmv",
+  "frames": 30483,
+  "fps": 60.0,
+  "rerecords": 487,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Track & Field (U) [!].nes",
+    "sha1": "df8425d96b3ac613eec604d66b32e91b001488d0"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/34M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-rfRyR6eMeA"
+  }
+ ],
+ "submitted": "2004-04-29T21:00:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 2043,
+  "url": "https://forum.toolassisted.run/t/2043"
+ }
+}

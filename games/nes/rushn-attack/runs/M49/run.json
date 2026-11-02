@@ -1,0 +1,52 @@
+{
+ "id": "M49",
+ "game": "nes/rushn-attack",
+ "category": {
+  "goal": "1-player"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M49.fmv",
+  "format": "fmv",
+  "frames": 35502,
+  "fps": 60.0,
+  "rerecords": 765,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Rush'n Attack (U) [!].nes",
+    "sha1": "0ad3979ba3c7696166fb60b0461f4409da653303"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/49M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=qSrCvoUOfsI"
+  }
+ ],
+ "submitted": "2004-04-02T21:00:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 2045,
+  "url": "https://forum.toolassisted.run/t/2045"
+ }
+}

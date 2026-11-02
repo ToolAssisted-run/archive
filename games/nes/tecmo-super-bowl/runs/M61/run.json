@@ -1,0 +1,52 @@
+{
+ "id": "M61",
+ "game": "nes/tecmo-super-bowl",
+ "category": {
+  "goal": "playaround"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M61.fmv",
+  "format": "fmv",
+  "frames": 64725,
+  "fps": 60.0,
+  "rerecords": 1573,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Tecmo Super Bowl (U) [!].nes",
+    "sha1": "b7d7e496ca9dfa023d79dcc973208c1c63477125"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/61M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2NOwwHwKi1A"
+  }
+ ],
+ "submitted": "2004-04-05T21:00:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 2049,
+  "url": "https://forum.toolassisted.run/t/2049"
+ }
+}

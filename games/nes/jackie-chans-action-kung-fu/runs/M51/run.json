@@ -1,0 +1,52 @@
+{
+ "id": "M51",
+ "game": "nes/jackie-chans-action-kung-fu",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M51.fmv",
+  "format": "fmv",
+  "frames": 63495,
+  "fps": 60.0,
+  "rerecords": 1131,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Jackie Chan's Action Kung Fu (U) [!].nes",
+    "sha1": "48308ad01ed49b928e38ee7de18feb9f917a6c1e"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/51M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=P0_B-lWUzNc"
+  }
+ ],
+ "submitted": "2004-04-09T21:00:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 2047,
+  "url": "https://forum.toolassisted.run/t/2047"
+ }
+}

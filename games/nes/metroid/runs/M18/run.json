@@ -1,0 +1,52 @@
+{
+ "id": "M18",
+ "game": "nes/metroid",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M18.fmv",
+  "format": "fmv",
+  "frames": 51264,
+  "fps": 60.0,
+  "rerecords": 7604,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Metroid (U) (PRG0) [!].nes",
+    "sha1": "ecf39ec5a33e6a6f832f03e8ffc61c5d53f4f90b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/18M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=SuB8hlQcEl0"
+  }
+ ],
+ "submitted": "2004-06-05T21:00:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 2041,
+  "url": "https://forum.toolassisted.run/t/2041"
+ }
+}
