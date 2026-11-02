@@ -1,0 +1,52 @@
+{
+ "id": "M655",
+ "game": "nes/metroid",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M655.fmv",
+  "format": "fmv",
+  "frames": 62250,
+  "fps": 60.0,
+  "rerecords": 2590,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Metroid (U) (PRG0) [!].nes",
+    "sha1": "ecf39ec5a33e6a6f832f03e8ffc61c5d53f4f90b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/655M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=kj5L2vTbGcw"
+  }
+ ],
+ "submitted": "2004-02-22T02:32:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 2084,
+  "url": "https://forum.toolassisted.run/t/2084"
+ }
+}
