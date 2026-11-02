@@ -25,6 +25,10 @@
   "emulator": "chimera Nightly 2026-10-08 (Core: flycast-610059ec)",
   "files": [
    {
+    "name": "Confidential Mission (USA).chd",
+    "sha1": "7157e18e28cc7d737da592c8c068600e72be5b60"
+   },
+   {
     "name": "vmu_A1.bin",
     "sha1": "78d82716d6ac6d4f295f8b144cc1049569f0961f"
    }

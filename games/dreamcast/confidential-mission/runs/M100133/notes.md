@@ -1,3 +1,9 @@
+chimera Nightly 2026-10-08 (8ec45db5)
+
+2026-10-07 (flycast-610059ec)
+
+No Screen Flashing
+
 532 Justice Shots
 
 I left the cutscenes in for entertainment
