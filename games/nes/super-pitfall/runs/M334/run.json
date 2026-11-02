@@ -1,0 +1,52 @@
+{
+ "id": "M334",
+ "game": "nes/super-pitfall",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M334.fcm",
+  "format": "fcm",
+  "frames": 22813,
+  "fps": 60.0,
+  "rerecords": 2865,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEU 0.98.12",
+  "files": [
+   {
+    "name": "Super Pitfall (U)",
+    "sha1": "2373e952fecc5f7507f99476e82c298cab1f51cb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/334M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=hZFZ1Sq2UeU"
+  }
+ ],
+ "submitted": "2005-05-08T21:50:51",
+ "attachments": [],
+ "forum": {
+  "topicId": 2063,
+  "url": "https://forum.toolassisted.run/t/2063"
+ }
+}

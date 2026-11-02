@@ -1,0 +1,52 @@
+{
+ "id": "M278",
+ "game": "nes/metroid",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M278.fcm",
+  "format": "fcm",
+  "frames": 42325,
+  "fps": 60.0,
+  "rerecords": 11085,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEU 0.98.12",
+  "files": [
+   {
+    "name": "Metroid (U)",
+    "sha1": "ecf39ec5a33e6a6f832f03e8ffc61c5d53f4f90b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/278M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=tQPXA1yLcNw"
+  }
+ ],
+ "submitted": "2005-01-02T04:49:23",
+ "attachments": [],
+ "forum": {
+  "topicId": 2060,
+  "url": "https://forum.toolassisted.run/t/2060"
+ }
+}

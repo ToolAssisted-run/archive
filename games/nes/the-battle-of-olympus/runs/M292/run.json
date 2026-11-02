@@ -1,0 +1,52 @@
+{
+ "id": "M292",
+ "game": "nes/the-battle-of-olympus",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M292.fcm",
+  "format": "fcm",
+  "frames": 71511,
+  "fps": 60.0,
+  "rerecords": 7072,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEU 0.98.12",
+  "files": [
+   {
+    "name": "Battle of Olympus (U).nes",
+    "sha1": "dc1ed05f850070ccd73dc1d0f52cda0277a0ef05"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/292M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ghiSPhux6oQ"
+  }
+ ],
+ "submitted": "2005-02-04T22:36:49",
+ "attachments": [],
+ "forum": {
+  "topicId": 2062,
+  "url": "https://forum.toolassisted.run/t/2062"
+ }
+}

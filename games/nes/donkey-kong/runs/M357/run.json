@@ -1,0 +1,52 @@
+{
+ "id": "M357",
+ "game": "nes/donkey-kong",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M357.fcm",
+  "format": "fcm",
+  "frames": 4690,
+  "fps": 60.0,
+  "rerecords": 875,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEU 0.98.12",
+  "files": [
+   {
+    "name": "Donkey Kong (JU)",
+    "sha1": "d8dfacbfec34cdc871d73c901811551fe1706923"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/357M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=oIq3Rk2_RSM"
+  }
+ ],
+ "submitted": "2005-06-08T18:51:03",
+ "attachments": [],
+ "forum": {
+  "topicId": 2067,
+  "url": "https://forum.toolassisted.run/t/2067"
+ }
+}
