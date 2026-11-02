@@ -1,0 +1,52 @@
+{
+ "id": "M100135",
+ "game": "flash/mario-starcatcher",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "WSDguy2014"
+  }
+ ],
+ "tools": [],
+ "duration": 48.3,
+ "movie": {
+  "file": "M100135.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "3e2d9621d91eb7b25c61241e78ee4db16711eda8",
+  "frames": 966,
+  "rerecords": 2,
+  "start": "power-on",
+  "fps": 20.0
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera fbad748d4 (Core: Ruffle 78ec1fa8)",
+  "files": [
+   {
+    "name": "194277_laumariogame.swf",
+    "sha1": "d842a25333d8c05e1a061bf08b72d9e9243eeeeb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/aPwsutUJnA0"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-23",
+ "submitted": "2026-11-02T15:47:32Z",
+ "submittedBy": "WSDguy2014",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2121,
+  "url": "https://forum.toolassisted.run/t/2121"
+ }
+}

@@ -1,0 +1,1655 @@
+{
+	"id":	"7ffac4d6e6282a01",
+	"title":	"Mario Starcatcher",
+	"description":	"",
+	"core":	{
+		"name":	"Ruffle",
+		"version":	"78ec1fa830936e9091c6e9da918a569b72929f88",
+		"sha1":	"AC32C044C1AB26A2ECA6203D71BBEF930BF2AB78"
+	},
+	"rerecords":	2,
+	"files":	[{
+			"name":	"194277_laumariogame.swf",
+			"sha1":	"D842A25333D8C05E1A061BF08B72D9E9243EEEEB",
+			"slot":	"movie"
+		}],
+	"settings":	{
+		"spoofUrl":	"",
+		"pageUrl":	"",
+		"playerVersion":	0,
+		"playerRuntime":	"flashPlayer",
+		"quality":	"high",
+		"loadBehavior":	"streaming",
+		"compatibilityRules":	false,
+		"defaultFont":	true,
+		"fps":	0,
+		"renderer":	"opengl-hw"
+	},
+	"firmware":	[],
+	"coreCache":	[],
+	"tastudio":	{
+		"o":	{
+			"$type":	"Chimera.Client.GUI.TAStudio+MovieClientSettings, Chimera.Client.GUI",
+			"HorizontalOrientation":	false,
+			"HideWasLagFrames":	false,
+			"LagFramesToHide":	0,
+			"Columns":	[[{
+						"VerticalWidth":	18,
+						"HorizontalHeight":	18,
+						"Left":	0,
+						"Right":	18,
+						"Name":	"CursorColumn",
+						"Text":	"",
+						"Visible":	true,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	60,
+						"HorizontalHeight":	60,
+						"Left":	18,
+						"Right":	78,
+						"Name":	"FrameColumn",
+						"Text":	"Frame#",
+						"Visible":	true,
+						"Emphasis":	false,
+						"Rotatable":	true
+					}, {
+						"VerticalWidth":	34,
+						"HorizontalHeight":	34,
+						"Left":	78,
+						"Right":	112,
+						"Name":	"Mouse X",
+						"Text":	"mX",
+						"Visible":	true,
+						"Emphasis":	false,
+						"Rotatable":	true
+					}, {
+						"VerticalWidth":	34,
+						"HorizontalHeight":	34,
+						"Left":	112,
+						"Right":	146,
+						"Name":	"Mouse Y",
+						"Text":	"mY",
+						"Visible":	true,
+						"Emphasis":	false,
+						"Rotatable":	true
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	146,
+						"Right":	166,
+						"Name":	"Mouse Left Button",
+						"Text":	"B",
+						"Visible":	true,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Mouse Middle Button",
+						"Text":	"B",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Mouse Right Button",
+						"Text":	"B",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	70,
+						"Right":	80,
+						"Name":	"Key A",
+						"Text":	"A",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	80,
+						"Right":	90,
+						"Name":	"Key B",
+						"Text":	"B",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	90,
+						"Right":	100,
+						"Name":	"Key C",
+						"Text":	"C",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	100,
+						"Right":	110,
+						"Name":	"Key D",
+						"Text":	"D",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	110,
+						"Right":	120,
+						"Name":	"Key E",
+						"Text":	"E",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	120,
+						"Right":	130,
+						"Name":	"Key F",
+						"Text":	"F",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	130,
+						"Right":	140,
+						"Name":	"Key G",
+						"Text":	"G",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	140,
+						"Right":	150,
+						"Name":	"Key H",
+						"Text":	"H",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	150,
+						"Right":	160,
+						"Name":	"Key I",
+						"Text":	"I",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	160,
+						"Right":	170,
+						"Name":	"Key J",
+						"Text":	"J",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	170,
+						"Right":	180,
+						"Name":	"Key K",
+						"Text":	"K",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	180,
+						"Right":	190,
+						"Name":	"Key L",
+						"Text":	"l",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	190,
+						"Right":	200,
+						"Name":	"Key M",
+						"Text":	"M",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	200,
+						"Right":	210,
+						"Name":	"Key N",
+						"Text":	"N",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	210,
+						"Right":	220,
+						"Name":	"Key O",
+						"Text":	"O",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	220,
+						"Right":	230,
+						"Name":	"Key P",
+						"Text":	"P",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	230,
+						"Right":	240,
+						"Name":	"Key Q",
+						"Text":	"Q",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	240,
+						"Right":	250,
+						"Name":	"Key R",
+						"Text":	"r",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	250,
+						"Right":	260,
+						"Name":	"Key S",
+						"Text":	"S",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	260,
+						"Right":	270,
+						"Name":	"Key T",
+						"Text":	"T",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	270,
+						"Right":	280,
+						"Name":	"Key U",
+						"Text":	"U",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	280,
+						"Right":	290,
+						"Name":	"Key V",
+						"Text":	"V",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	290,
+						"Right":	300,
+						"Name":	"Key W",
+						"Text":	"W",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	300,
+						"Right":	310,
+						"Name":	"Key X",
+						"Text":	"X",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	310,
+						"Right":	320,
+						"Name":	"Key Y",
+						"Text":	"Y",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	320,
+						"Right":	330,
+						"Name":	"Key Z",
+						"Text":	"Z",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	330,
+						"Right":	340,
+						"Name":	"Key 1",
+						"Text":	"1",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	340,
+						"Right":	350,
+						"Name":	"Key 2",
+						"Text":	"2",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	350,
+						"Right":	360,
+						"Name":	"Key 3",
+						"Text":	"3",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	360,
+						"Right":	370,
+						"Name":	"Key 4",
+						"Text":	"4",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	370,
+						"Right":	380,
+						"Name":	"Key 5",
+						"Text":	"5",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	380,
+						"Right":	390,
+						"Name":	"Key 6",
+						"Text":	"6",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	390,
+						"Right":	400,
+						"Name":	"Key 7",
+						"Text":	"7",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	400,
+						"Right":	410,
+						"Name":	"Key 8",
+						"Text":	"8",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	410,
+						"Right":	420,
+						"Name":	"Key 9",
+						"Text":	"9",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	420,
+						"Right":	430,
+						"Name":	"Key 0",
+						"Text":	"0",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Key Space",
+						"Text":	"S",
+						"Visible":	true,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	440,
+						"Right":	450,
+						"Name":	"Key Enter",
+						"Text":	"E",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	450,
+						"Right":	460,
+						"Name":	"Key Escape",
+						"Text":	"E",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	460,
+						"Right":	470,
+						"Name":	"Key Tab",
+						"Text":	"T",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	470,
+						"Right":	480,
+						"Name":	"Key Backspace",
+						"Text":	"B",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	480,
+						"Right":	490,
+						"Name":	"Key Delete",
+						"Text":	"D",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	490,
+						"Right":	500,
+						"Name":	"Key Insert",
+						"Text":	"I",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	500,
+						"Right":	510,
+						"Name":	"Key Home",
+						"Text":	"H",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	510,
+						"Right":	520,
+						"Name":	"Key End",
+						"Text":	"E",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	520,
+						"Right":	530,
+						"Name":	"Key Page Up",
+						"Text":	"U",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	530,
+						"Right":	540,
+						"Name":	"Key Page Down",
+						"Text":	"D",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	540,
+						"Right":	550,
+						"Name":	"Key Up",
+						"Text":	"U",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	550,
+						"Right":	560,
+						"Name":	"Key Down",
+						"Text":	"D",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	186,
+						"Right":	206,
+						"Name":	"Key Left",
+						"Text":	"L",
+						"Visible":	true,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	206,
+						"Right":	226,
+						"Name":	"Key Right",
+						"Text":	"R",
+						"Visible":	true,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	580,
+						"Right":	590,
+						"Name":	"Key Left Shift",
+						"Text":	"S",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	590,
+						"Right":	600,
+						"Name":	"Key Right Shift",
+						"Text":	"S",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	600,
+						"Right":	610,
+						"Name":	"Key Left Control",
+						"Text":	"C",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	610,
+						"Right":	620,
+						"Name":	"Key Right Control",
+						"Text":	"C",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	620,
+						"Right":	630,
+						"Name":	"Key Left Alt",
+						"Text":	"A",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	630,
+						"Right":	640,
+						"Name":	"Key Right Alt",
+						"Text":	"A",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	640,
+						"Right":	650,
+						"Name":	"Key Caps Lock",
+						"Text":	"L",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	650,
+						"Right":	660,
+						"Name":	"Key Num Lock",
+						"Text":	"L",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	660,
+						"Right":	670,
+						"Name":	"Key Scroll Lock",
+						"Text":	"L",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	670,
+						"Right":	680,
+						"Name":	"Key Pause",
+						"Text":	"p",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	680,
+						"Right":	690,
+						"Name":	"Key F1",
+						"Text":	"1",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	690,
+						"Right":	700,
+						"Name":	"Key F2",
+						"Text":	"2",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	700,
+						"Right":	710,
+						"Name":	"Key F3",
+						"Text":	"3",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	710,
+						"Right":	720,
+						"Name":	"Key F4",
+						"Text":	"4",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	720,
+						"Right":	730,
+						"Name":	"Key F5",
+						"Text":	"5",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	730,
+						"Right":	740,
+						"Name":	"Key F6",
+						"Text":	"6",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	740,
+						"Right":	750,
+						"Name":	"Key F7",
+						"Text":	"7",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	750,
+						"Right":	760,
+						"Name":	"Key F8",
+						"Text":	"8",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	760,
+						"Right":	770,
+						"Name":	"Key F9",
+						"Text":	"9",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	770,
+						"Right":	780,
+						"Name":	"Key F10",
+						"Text":	"0",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	780,
+						"Right":	790,
+						"Name":	"Key F11",
+						"Text":	"F",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	790,
+						"Right":	800,
+						"Name":	"Key F12",
+						"Text":	"F",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	800,
+						"Right":	810,
+						"Name":	"Key Minus",
+						"Text":	"M",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	810,
+						"Right":	820,
+						"Name":	"Key Equals",
+						"Text":	"E",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	820,
+						"Right":	830,
+						"Name":	"Key Left Bracket",
+						"Text":	"B",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	830,
+						"Right":	840,
+						"Name":	"Key Right Bracket",
+						"Text":	"B",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	840,
+						"Right":	850,
+						"Name":	"Key Backslash",
+						"Text":	"B",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	850,
+						"Right":	860,
+						"Name":	"Key Semicolon",
+						"Text":	"S",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	860,
+						"Right":	870,
+						"Name":	"Key Quote",
+						"Text":	"Q",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	870,
+						"Right":	880,
+						"Name":	"Key Comma",
+						"Text":	"C",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	880,
+						"Right":	890,
+						"Name":	"Key Period",
+						"Text":	"P",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	890,
+						"Right":	900,
+						"Name":	"Key Slash",
+						"Text":	"S",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	900,
+						"Right":	910,
+						"Name":	"Key Backquote",
+						"Text":	"B",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 0",
+						"Text":	"0",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 1",
+						"Text":	"1",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 2",
+						"Text":	"2",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 3",
+						"Text":	"3",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 4",
+						"Text":	"4",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 5",
+						"Text":	"5",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 6",
+						"Text":	"6",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 7",
+						"Text":	"7",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 8",
+						"Text":	"8",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad 9",
+						"Text":	"9",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad Add",
+						"Text":	"A",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad Subtract",
+						"Text":	"S",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad Multiply",
+						"Text":	"M",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad Divide",
+						"Text":	"D",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad Decimal",
+						"Text":	"D",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}, {
+						"VerticalWidth":	20,
+						"HorizontalHeight":	15,
+						"Left":	166,
+						"Right":	186,
+						"Name":	"Numpad Enter",
+						"Text":	"E",
+						"Visible":	false,
+						"Emphasis":	false,
+						"Rotatable":	false
+					}]],
+			"BoolPatterns":	[{
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[true, false],
+					"Loop":	0
+				}],
+			"AxisPatterns":	[{
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[8191],
+					"Loop":	0
+				}, {
+					"_index":	0,
+					"SkipsLag":	true,
+					"Pattern":	[8191],
+					"Loop":	0
+				}]
+		}
+	},
+	"input":	"[Input]\nLogKey:#Mouse X|Mouse Y|Mouse Left Button|Mouse Middle Button|Mouse Right Button|Key A|Key B|Key C|Key D|Key E|Key F|Key G|Key H|Key I|Key J|Key K|Key L|Key M|Key N|Key O|Key P|Key Q|Key R|Key S|Key T|Key U|Key V|Key W|Key X|Key Y|Key Z|Key 1|Key 2|Key 3|Key 4|Key 5|Key 6|Key 7|Key 8|Key 9|Key 0|Key Space|Key Enter|Key Escape|Key Tab|Key Backspace|Key Delete|Key Insert|Key Home|Key End|Key Page Up|Key Page Down|Key Up|Key Down|Key Left|Key Right|Key Left Shift|Key Right Shift|Key Left Control|Key Right Control|Key Left Alt|Key Right Alt|Key Caps Lock|Key Num Lock|Key Scroll Lock|Key Pause|Key F1|Key F2|Key F3|Key F4|Key F5|Key F6|Key F7|Key F8|Key F9|Key F10|Key F11|Key F12|Key Minus|Key Equals|Key Left Bracket|Key Right Bracket|Key Backslash|Key Semicolon|Key Quote|Key Comma|Key Period|Key Slash|Key Backquote|Numpad 0|Numpad 1|Numpad 2|Numpad 3|Numpad 4|Numpad 5|Numpad 6|Numpad 7|Numpad 8|Numpad 9|Numpad Add|Numpad Subtract|Numpad Multiply|Numpad Divide|Numpad Decimal|Numpad Enter|\n| 4081, 6062,B......................................................................................................|\n| 4081, 6062,.......................................................................................................|\n| 4051, 3482,B....................................................R.................................................|\n| 4051, 3482,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,....................................................LR.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,.......................................S............L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................S.............R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.....................................................R.................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................S...............................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,....................................................L..................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................................................................................|\n| 4096, 4096,.......................................S...............................................................|\n[/Input]\n",
+	"markers":	[],
+	"branches":	[],
+	"headers":	{
+		"MovieVersion":	"Chimera Project File v1.1",
+		"Platform":	"Flash",
+		"WaterboxHost":	"{\"component\":\"miniBox host\",\"commit\":\"867b1a7d9a2a\",\"compiler\":\"gcc 13.0.0\",\"builtOn\":\"ubuntu 24.04\",\"target\":\"windows-x86_64\"}",
+		"emuVersion":	"Commit fbad748d4",
+		"OriginalEmuVersion":	"Commit fbad748d4",
+		"SHA1":	"D842A25333D8C05E1A061BF08B72D9E9243EEEEB",
+		"StateFormat":	"1",
+		"StateWrittenBy":	"Chimera commit fbad748d4644",
+		"LastInputFrame":	"965",
+		"GpuRenderer":	"4.1 (Compatibility Profile) Mesa 24.0.2 on SVGA3D; build: RELEASE;  ",
+		"GpuStatesSurvive":	"1",
+		"VsyncNumerator":	"20",
+		"VsyncDenominator":	"1",
+		"Author":	"WSDguy2014"
+	}
+}
