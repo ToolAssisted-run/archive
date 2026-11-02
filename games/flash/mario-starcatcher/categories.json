@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "fastest-completion",
+     "label": "fastest completion",
+     "rule": "Catch a star in the game's 6 levels as fast as possible."
+    }
+   ]
+  }
+ ]
+}
