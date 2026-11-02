@@ -1,0 +1,25 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "warpless",
+     "label": "warpless",
+     "rule": "Imported as \"warpless\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "baseline",
+     "label": "fastest completion",
+     "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "warp-glitch",
+     "label": "warp glitch",
+     "rule": "Imported as \"warp glitch\" from the source it was published at; rules to be formalized by the game's experts."
+    }
+   ]
+  }
+ ]
+}

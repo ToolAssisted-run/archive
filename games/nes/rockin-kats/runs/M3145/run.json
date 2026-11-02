@@ -1,0 +1,54 @@
+{
+ "id": "M3145",
+ "game": "nes/rockin-kats",
+ "category": {
+  "goal": "channel-x"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "AnS"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3145.fm2",
+  "format": "fm2",
+  "frames": 3779,
+  "rerecords": 6423,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.2",
+  "files": [
+   {
+    "name": "Rockin' Kats (U).nes",
+    "sha1": "56a494cdf35d11b515d3bd3630396ce97add66e1"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3145M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=2huyo3gBTPI"
+  }
+ ],
+ "submitted": "2016-05-29T20:15:41",
+ "attachments": [],
+ "forum": {
+  "topicId": 2094,
+  "url": "https://forum.toolassisted.run/t/2094"
+ }
+}

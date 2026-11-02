@@ -1,0 +1,57 @@
+{
+ "id": "M3266",
+ "game": "nes/zelda-ii-the-adventure-of-link",
+ "category": {
+  "goal": "warp-glitch"
+ },
+ "authors": [
+  {
+   "user": "TASeditor"
+  },
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "Inzult"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3266.fm2",
+  "format": "fm2",
+  "frames": 19948,
+  "rerecords": 84844,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Zelda II: The Adventure of Link (U).nes",
+    "sha1": "353489a57f24a429572e76bd455bc51d821f7036"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3266M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=idiHqQNDyMg"
+  }
+ ],
+ "submitted": "2016-11-26T02:58:39",
+ "attachments": [],
+ "forum": {
+  "topicId": 2100,
+  "url": "https://forum.toolassisted.run/t/2100"
+ }
+}

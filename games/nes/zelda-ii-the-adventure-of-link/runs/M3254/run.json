@@ -1,0 +1,60 @@
+{
+ "id": "M3254",
+ "game": "nes/zelda-ii-the-adventure-of-link",
+ "category": {
+  "goal": "warpless"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "FatRatKnight"
+  },
+  {
+   "user": "Inzult"
+  },
+  {
+   "user": "Rising_Tempest"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3254.fm2",
+  "format": "fm2",
+  "frames": 163832,
+  "rerecords": 31221,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Zelda II: The Adventure of Link (U).nes",
+    "sha1": "353489a57f24a429572e76bd455bc51d821f7036"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3254M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=V1O8olkoRFM"
+  }
+ ],
+ "submitted": "2016-11-08T17:32:41",
+ "attachments": [],
+ "forum": {
+  "topicId": 2098,
+  "url": "https://forum.toolassisted.run/t/2098"
+ }
+}

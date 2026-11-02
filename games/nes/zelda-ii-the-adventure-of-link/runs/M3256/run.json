@@ -1,0 +1,54 @@
+{
+ "id": "M3256",
+ "game": "nes/zelda-ii-the-adventure-of-link",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "Inzult"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3256.fm2",
+  "format": "fm2",
+  "frames": 139336,
+  "rerecords": 7986,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Zelda II: The Adventure of Link (U).nes",
+    "sha1": "353489a57f24a429572e76bd455bc51d821f7036"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3256M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=MjrIYsVVpbQ"
+  }
+ ],
+ "submitted": "2016-11-10T17:20:57",
+ "attachments": [],
+ "forum": {
+  "topicId": 2099,
+  "url": "https://forum.toolassisted.run/t/2099"
+ }
+}
