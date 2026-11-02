@@ -193,7 +193,10 @@
    "evidence": "https://tasvideos.org/7173M",
    "date": "2026-10-30",
    "at": "2026-10-30T20:35:49Z",
-   "status": "open"
+   "status": "approved",
+   "decidedBy": "eien86",
+   "decidedAt": "2026-11-02",
+   "note": ""
   },
   {
    "member": "ArcNES",
