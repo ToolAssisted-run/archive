@@ -1,0 +1,48 @@
+{
+ "id": "M81",
+ "game": "nes/super-pitfall",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M81.fmv",
+  "format": "fmv",
+  "frames": 42733,
+  "fps": 60.0,
+  "rerecords": 1878,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Super Pitfall (U) [!].nes",
+    "sha1": "2373e952fecc5f7507f99476e82c298cab1f51cb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/81M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Lf_pwTBCGqg"
+  }
+ ],
+ "submitted": "2004-05-16T21:00:00",
+ "attachments": []
+}

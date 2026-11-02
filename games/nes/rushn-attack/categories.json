@@ -8,6 +8,11 @@
      "key": "1-player",
      "label": "1 player",
      "rule": "Imported as \"1 player\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "2-players",
+     "label": "2 players",
+     "rule": "Imported as \"2 players\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

@@ -1,0 +1,52 @@
+{
+ "id": "M88",
+ "game": "nes/maniac-mansion",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M88.fmv",
+  "format": "fmv",
+  "frames": 33204,
+  "fps": 60.0,
+  "rerecords": 1387,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Maniac Mansion (U) [!].nes",
+    "sha1": "7317d1f1096b57f6ab8f3001bcdd35665c291b1a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/88M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=pL01Dn8HoJQ"
+  }
+ ],
+ "submitted": "2004-05-31T21:00:00",
+ "attachments": [],
+ "forum": {
+  "topicId": 2053,
+  "url": "https://forum.toolassisted.run/t/2053"
+ }
+}

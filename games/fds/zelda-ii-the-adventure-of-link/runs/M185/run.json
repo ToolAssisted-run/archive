@@ -1,0 +1,52 @@
+{
+ "id": "M185",
+ "game": "fds/zelda-ii-the-adventure-of-link",
+ "category": {
+  "goal": "warpless"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M185.fmv",
+  "format": "fmv",
+  "frames": 194317,
+  "fps": 60.0,
+  "rerecords": 16495,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Legend of Zelda 2 - Link no Bouken, The.fds",
+    "sha1": "793971a0772ee8080ff3eee7aae903f1cd8c7dfd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/185M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ftALZLtloqo"
+  }
+ ],
+ "submitted": "2004-09-03T07:55:50",
+ "attachments": [],
+ "forum": {
+  "topicId": 2057,
+  "url": "https://forum.toolassisted.run/t/2057"
+ }
+}
