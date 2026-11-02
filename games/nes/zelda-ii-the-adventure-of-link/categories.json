@@ -18,6 +18,11 @@
      "key": "warp-glitch",
      "label": "warp glitch",
      "rule": "Imported as \"warp glitch\" from the source it was published at; rules to be formalized by the game's experts."
+    },
+    {
+     "key": "100",
+     "label": "100%",
+     "rule": "Imported as \"100%\" from the source it was published at; rules to be formalized by the game's experts."
     }
    ]
   }

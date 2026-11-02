@@ -1,0 +1,51 @@
+{
+ "id": "M4340",
+ "game": "nes/karnov",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4340.fm2",
+  "format": "fm2",
+  "frames": 31186,
+  "rerecords": 9521,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Karnov (U).nes",
+    "sha1": "157329cd7df936c0c0dbe4693e9d2880ce52c878"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4340M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Yu2BjqiAKuA"
+  }
+ ],
+ "submitted": "2020-11-22T09:23:42",
+ "attachments": [],
+ "forum": {
+  "topicId": 2111,
+  "url": "https://forum.toolassisted.run/t/2111"
+ }
+}

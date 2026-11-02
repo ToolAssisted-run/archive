@@ -1,0 +1,51 @@
+{
+ "id": "M5171",
+ "game": "nes/tecmo-super-bowl",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M5171.fm2",
+  "format": "fm2",
+  "frames": 25848,
+  "rerecords": 2771,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.4",
+  "files": [
+   {
+    "name": "Tecmo Super Bowl (U).nes",
+    "sha1": "b7d7e496ca9dfa023d79dcc973208c1c63477125"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/5171M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=LWVZ0m28jd4"
+  }
+ ],
+ "submitted": "2023-03-18T17:43:45.808082",
+ "attachments": [],
+ "forum": {
+  "topicId": 2115,
+  "url": "https://forum.toolassisted.run/t/2115"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "M4621",
+ "game": "nes/who-framed-roger-rabbit",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "Alyosha"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4621.bk2",
+  "format": "bk2",
+  "frames": 13634,
+  "rerecords": 57580,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.8",
+  "files": [
+   {
+    "name": "Who_framed_roger_rabbit.nes",
+    "sha1": "2d0637add8d84be3e1cb754a91346afa502904cd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4621M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=OhIg-tgyrAg"
+  }
+ ],
+ "submitted": "2022-04-09T12:06:11.238062",
+ "attachments": [],
+ "forum": {
+  "topicId": 2114,
+  "url": "https://forum.toolassisted.run/t/2114"
+ }
+}

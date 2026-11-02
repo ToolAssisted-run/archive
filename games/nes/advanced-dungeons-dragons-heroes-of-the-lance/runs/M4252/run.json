@@ -1,0 +1,54 @@
+{
+ "id": "M4252",
+ "game": "nes/advanced-dungeons-dragons-heroes-of-the-lance",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "ktwo"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4252.bk2",
+  "format": "bk2",
+  "frames": 20187,
+  "rerecords": 2560,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.4.2",
+  "files": [
+   {
+    "name": "AD&D Heroes of the Lance (U).nes",
+    "sha1": "d9328b02916d365c97ed21074333257968e55f91"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4252M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=nzAMFfmvfME"
+  }
+ ],
+ "submitted": "2020-08-01T08:57:30",
+ "attachments": [],
+ "forum": {
+  "topicId": 2110,
+  "url": "https://forum.toolassisted.run/t/2110"
+ }
+}
