@@ -1,0 +1,52 @@
+{
+ "id": "M100133",
+ "game": "dreamcast/confidential-mission",
+ "category": {
+  "goal": "superplay"
+ },
+ "authors": [
+  {
+   "user": "BrunoRaji"
+  }
+ ],
+ "tools": [],
+ "duration": 1416.682,
+ "movie": {
+  "file": "M100133.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "f31f7813d6a3d875d744e5165bfd3337fa4e0b73",
+  "frames": 84916,
+  "rerecords": 9027,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "chimera Nightly 2026-10-08 (Core: flycast-610059ec)",
+  "files": [
+   {
+    "name": "vmu_A1.bin",
+    "sha1": "78d82716d6ac6d4f295f8b144cc1049569f0961f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/JAItcoW9-J0"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-01",
+ "submitted": "2026-11-02T01:12:49Z",
+ "submittedBy": "BrunoRaji",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2037,
+  "url": "https://forum.toolassisted.run/t/2037"
+ }
+}
