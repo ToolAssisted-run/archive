@@ -1,0 +1,51 @@
+{
+ "id": "M4245",
+ "game": "nes/the-wing-of-madoola",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4245.bk2",
+  "format": "bk2",
+  "frames": 57767,
+  "rerecords": 15401,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.4.2",
+  "files": [
+   {
+    "name": "Wing of Madoola, The (J).nes",
+    "sha1": "25cdee719399cdf7624e1a3d2addce1898db439b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4245M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=4XDpMJgQe9g"
+  }
+ ],
+ "submitted": "2020-07-21T18:48:07",
+ "attachments": [],
+ "forum": {
+  "topicId": 2109,
+  "url": "https://forum.toolassisted.run/t/2109"
+ }
+}

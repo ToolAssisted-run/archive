@@ -1,0 +1,51 @@
+{
+ "id": "M4102",
+ "game": "nes/who-framed-roger-rabbit",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M4102.fm2",
+  "format": "fm2",
+  "frames": 13709,
+  "rerecords": 28641,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.2.3",
+  "files": [
+   {
+    "name": "Who Framed Roger Rabbit (U).nes",
+    "sha1": "2d0637add8d84be3e1cb754a91346afa502904cd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/4102M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=FEYDI5X9QRo"
+  }
+ ],
+ "submitted": "2020-01-25T09:33:23",
+ "attachments": [],
+ "forum": {
+  "topicId": 2103,
+  "url": "https://forum.toolassisted.run/t/2103"
+ }
+}
