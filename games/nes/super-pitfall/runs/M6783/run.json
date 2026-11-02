@@ -1,0 +1,57 @@
+{
+ "id": "M6783",
+ "game": "nes/super-pitfall",
+ "category": {
+  "goal": "demo-glitch"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "Alyosha"
+  },
+  {
+   "user": "AmaizumiUni"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6783.fm2",
+  "format": "fm2",
+  "frames": 14208,
+  "rerecords": 3739,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.6",
+  "files": [
+   {
+    "name": "Super Pitfall (J).nes",
+    "sha1": "2373e952fecc5f7507f99476e82c298cab1f51cb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6783M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=NTTXfSbCDEo"
+  }
+ ],
+ "submitted": "2025-10-22T10:18:53.71612",
+ "attachments": [],
+ "forum": {
+  "topicId": 2118,
+  "url": "https://forum.toolassisted.run/t/2118"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "id": "M6029",
+ "game": "nes/maniac-mansion",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "ShesChardcore"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M6029.fm2",
+  "format": "fm2",
+  "frames": 19200,
+  "rerecords": 6538,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.6.6",
+  "files": [
+   {
+    "name": "Maniac Mansion (U).nes",
+    "sha1": "7317d1f1096b57f6ab8f3001bcdd35665c291b1a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/6029M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=sAFFFPBfaSg"
+  }
+ ],
+ "submitted": "2024-07-05T00:54:29.414253",
+ "attachments": [],
+ "forum": {
+  "topicId": 2117,
+  "url": "https://forum.toolassisted.run/t/2117"
+ }
+}
