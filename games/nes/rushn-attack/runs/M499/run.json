@@ -1,0 +1,52 @@
+{
+ "id": "M499",
+ "game": "nes/rushn-attack",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M499.fcm",
+  "format": "fcm",
+  "frames": 34636,
+  "fps": 60.0,
+  "rerecords": 3597,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEU 0.98.12",
+  "files": [
+   {
+    "name": "Rush'n Attack (U).nes",
+    "sha1": "0ad3979ba3c7696166fb60b0461f4409da653303"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/499M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=lULyH9K7EeI"
+  }
+ ],
+ "submitted": "2006-03-12T15:08:18",
+ "attachments": [],
+ "forum": {
+  "topicId": 2070,
+  "url": "https://forum.toolassisted.run/t/2070"
+ }
+}

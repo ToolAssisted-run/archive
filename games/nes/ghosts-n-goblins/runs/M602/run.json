@@ -1,0 +1,52 @@
+{
+ "id": "M602",
+ "game": "nes/ghosts-n-goblins",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M602.fmv",
+  "format": "fmv",
+  "frames": 34656,
+  "fps": 60.0,
+  "rerecords": 1256,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Famtasia 5.1",
+  "files": [
+   {
+    "name": "Ghosts 'N Goblins (U) [!].nes",
+    "sha1": "8de81d363e11cecb570a9d18237f7b56b2b659db"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/602M",
+  "importedBy": "Arc",
+  "importedAt": "2026-11-02"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=H1VWgbR6kWU"
+  }
+ ],
+ "submitted": "2004-03-03T00:49:37",
+ "attachments": [],
+ "forum": {
+  "topicId": 2072,
+  "url": "https://forum.toolassisted.run/t/2072"
+ }
+}
