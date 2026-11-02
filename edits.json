@@ -12314,6 +12314,17 @@
    "date": "2026-11-02",
    "at": "2026-11-02T15:59:50Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "dos/4d-sports-boxing:main-event/glitchless",
+   "field": "added",
+   "from": "",
+   "to": "glitchless",
+   "by": "eien86",
+   "date": "2026-11-02",
+   "at": "2026-11-02T16:53:34Z",
+   "reason": "Created it."
   }
  ]
 }

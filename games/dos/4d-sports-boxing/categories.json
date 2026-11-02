@@ -18,6 +18,11 @@
        "key": "any",
        "label": "any%",
        "rule": "Become the ranking champion as fast as possible -- glitches allows, cheats disallowed"
+      },
+      {
+       "key": "glitchless",
+       "label": "glitchless",
+       "rule": "You're not allowed to exploit any glitches or cheats"
       }
      ]
     }
