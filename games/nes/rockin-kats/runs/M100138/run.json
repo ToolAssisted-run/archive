@@ -1,0 +1,51 @@
+{
+ "id": "M100138",
+ "game": "nes/rockin-kats",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "duration": 908.154,
+ "movie": {
+  "file": "M100138.fm2",
+  "format": "fm2",
+  "sha1": "3fc4e9d26e18545c4919c469e25c230f0dc2bdb3",
+  "frames": 54579,
+  "rerecords": 42184,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.7.0",
+  "files": [
+   {
+    "name": "Rockin' Kats (U) [!].nes",
+    "sha1": "5622733d98001d1bea864da2afaff3f0eba5c5e5"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/T-c9QQyFWEU"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-10-30",
+ "submitted": "2026-11-03T17:30:10Z",
+ "submittedBy": "Arc",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2124,
+  "url": "https://forum.toolassisted.run/t/2124"
+ }
+}
