@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "photo-album",
+     "label": "Photo Album",
+     "rule": "Earn at least 330 caps and buy all 5 images from a Photo Album in this game as fast as possible."
+    }
+   ]
+  }
+ ]
+}
