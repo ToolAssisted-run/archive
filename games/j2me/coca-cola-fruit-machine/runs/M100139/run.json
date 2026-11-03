@@ -1,0 +1,55 @@
+{
+ "id": "M100139",
+ "game": "j2me/coca-cola-fruit-machine",
+ "category": {
+  "goal": "photo-album"
+ },
+ "authors": [
+  {
+   "user": "WSDguy2014"
+  }
+ ],
+ "tools": [],
+ "duration": 468.55,
+ "movie": {
+  "file": "M100139.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "efaf57091ca19e7590dea418e1490868c1f609af",
+  "frames": 28113,
+  "rerecords": 904,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera c8ee037f 2026-11-02 (Core: FreeJ2ME-Plus 603fa997)",
+  "files": [
+   {
+    "name": "Coca-Cola FM (Blue Sphere Games Ltd.) (1.0.0) (CLDC-1.0, MIDP-2.0) (CokeFruitMachine) (a7a6ba96ce6046042621248f99b4f2ced399ecf1b0d8a851039ece44d948d17f).jar",
+    "sha1": "21f3dd8c766a691a1b209a9d2e1967a21330fead"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/0cn8fC_HZZQ"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/Coca-Cola_FM__Blue_Sphere_Games_Ltd.__-_Extended_movie_for_encode.chimeraProject",
+   "role": "submitted attachment"
+  }
+ ],
+ "submitted": "2026-11-03T23:18:09Z",
+ "submittedBy": "WSDguy2014",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2126,
+  "url": "https://forum.toolassisted.run/t/2126"
+ }
+}
