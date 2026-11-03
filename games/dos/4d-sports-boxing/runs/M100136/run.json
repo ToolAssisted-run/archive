@@ -48,7 +48,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "provisional"
  },
  "encodes": [
   {
@@ -63,5 +63,13 @@
  "forum": {
   "topicId": 2122,
   "url": "https://forum.toolassisted.run/t/2122"
- }
+ },
+ "verifications": [
+  {
+   "user": "Arc",
+   "date": "2026-11-03",
+   "at": "2026-11-03T03:23:17Z",
+   "notes": "In the encoded video, the author ascends the boxing rankings with 18 wins by knockout to become the middleweight world champion."
+  }
+ ]
 }
