@@ -1,0 +1,50 @@
+{
+ "id": "M100140",
+ "game": "fds/super-mario-bros-2",
+ "category": {
+  "goal": "warps-mario"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  }
+ ],
+ "tools": [],
+ "duration": 483.837,
+ "movie": {
+  "file": "M100140.bk2",
+  "format": "bk2",
+  "sha1": "40f9e65b16e0e878a3f13220c624c3f109ccfcbb",
+  "frames": 29078,
+  "rerecords": 70973,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "Super Mario Bros. 2 (1986)(Nintendo).fds",
+    "sha1": "3b8c8998b4887d6dd676965943d69a320738ab9c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=YC4l-VrSBzk"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-04T19:09:23Z",
+ "submittedBy": "HappyLee",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2129,
+  "url": "https://forum.toolassisted.run/t/2129"
+ }
+}
