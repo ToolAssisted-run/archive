@@ -36,7 +36,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -58,6 +58,15 @@
    "user": "Dimon12321",
    "date": "2026-11-04",
    "at": "2026-11-04T20:40:07Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-04",
+   "at": "2026-11-04T21:10:00Z",
+   "expert": true,
+   "notes": "The author passes Another World mode, spares innocent people, blows up the villian's island and his submarine, enters BRU name in the score board entry."
   }
  ]
 }
