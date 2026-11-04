@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -61,6 +61,15 @@
    "date": "2026-11-03",
    "at": "2026-11-03T17:04:33Z",
    "post": 2
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-04",
+   "at": "2026-11-04T20:00:56Z",
+   "expert": true,
+   "notes": "The author enters the password and completes Channel X level as fast as possible"
   }
  ]
 }
