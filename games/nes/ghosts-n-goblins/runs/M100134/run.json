@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -71,6 +71,14 @@
    "date": "2026-11-02",
    "at": "2026-11-02T15:34:49Z",
    "post": 2
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-04",
+   "at": "2026-11-04T20:22:26Z",
+   "expert": true
   }
  ]
 }
