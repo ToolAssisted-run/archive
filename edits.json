@@ -12380,6 +12380,17 @@
    "date": "2026-11-04",
    "at": "2026-11-04T21:01:14Z",
    "reason": "Clarify the rules, rename the category, add a link on RTA page"
+  },
+  {
+   "kind": "category",
+   "key": "dreamcast/confidential-mission:superplay",
+   "field": "label",
+   "from": "SuperPlay",
+   "to": "Another World, cutscene%",
+   "by": "Dimon12321",
+   "date": "2026-11-04",
+   "at": "2026-11-04T21:03:31Z",
+   "reason": "Clarify the rules, rename the category, add a link on RTA page"
   }
  ]
 }
