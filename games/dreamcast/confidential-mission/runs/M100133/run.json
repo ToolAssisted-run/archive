@@ -35,7 +35,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -67,6 +67,16 @@
    "at": "2026-11-04T21:10:00Z",
    "expert": true,
    "notes": "The author passes Another World mode, spares innocent people, blows up the villian's island and his submarine, enters BRU name in the score board entry."
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-04",
+   "at": "2026-11-04T21:14:12Z",
+   "screenshot": "reproductions/1-Dimon12321.png",
+   "emulator": "Chimera Nightly 2026-10-17 (67224ec2), Flycast Nightly 2026-10-14 (832f4859)",
+   "notes": "A ROM with a different hash was used to verify this TAS. \r\nSHA1: 401E8DB3A5E7E926B8B732E3CD2BBF2D305D3DEC (PowerShell's Get-FileHash) \r\n\r\nMaybe the Chimera build I was using calculated it in a different way."
   }
  ]
 }
