@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -79,6 +79,16 @@
    "date": "2026-11-04",
    "at": "2026-11-04T20:22:26Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-04",
+   "at": "2026-11-04T20:23:19Z",
+   "screenshot": "reproductions/1-Dimon12321.png",
+   "emulator": "FCEUX 2.6.6",
+   "notes": "The game can be synced on even elder versions of FCEUX"
   }
  ]
 }
