@@ -406,6 +406,7 @@
   "hardToReproduce": true
  },
  "j2me": {
+  "wikidata": "Q193828",
   "name": "J2ME",
   "fps": 60.0,
   "createdBy": "Dimon12321",
