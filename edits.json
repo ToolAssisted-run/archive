@@ -12369,6 +12369,17 @@
    "date": "2026-11-03",
    "at": "2026-11-03T18:00:42Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "dreamcast/confidential-mission",
+   "field": "rta",
+   "from": "",
+   "to": "https://www.speedrun.com/Confidential_Mission",
+   "by": "Dimon12321",
+   "date": "2026-11-04",
+   "at": "2026-11-04T21:01:14Z",
+   "reason": "Clarify the rules, rename the category, add a link on RTA page"
   }
  ]
 }
