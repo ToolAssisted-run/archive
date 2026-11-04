@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional"
  },
  "encodes": [
@@ -53,6 +53,15 @@
    "date": "2026-11-04",
    "at": "2026-11-04T19:56:11Z",
    "notes": "The movie completes the game as Mario with warps."
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Arc",
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:57:00Z",
+   "screenshot": "reproductions/1-Arc.png",
+   "emulator": "BizHawk 2.8"
   }
  ]
 }
