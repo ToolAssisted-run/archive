@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "provisional"
  },
  "encodes": [
   {
@@ -46,5 +46,13 @@
  "forum": {
   "topicId": 2129,
   "url": "https://forum.toolassisted.run/t/2129"
- }
+ },
+ "verifications": [
+  {
+   "user": "Arc",
+   "date": "2026-11-04",
+   "at": "2026-11-04T19:56:11Z",
+   "notes": "The movie completes the game as Mario with warps."
+  }
+ ]
 }
