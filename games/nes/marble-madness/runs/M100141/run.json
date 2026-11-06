@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -80,6 +80,15 @@
    "at": "2026-11-06T07:09:18Z",
    "expert": true,
    "notes": "The author completes all 6 levels in the fastest time"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "PASRC",
+   "date": "2026-11-06",
+   "at": "2026-11-06T07:36:31Z",
+   "screenshot": "reproductions/1-PASRC.png",
+   "emulator": "FCEUX 2.7.0 (win32)"
   }
  ]
 }
