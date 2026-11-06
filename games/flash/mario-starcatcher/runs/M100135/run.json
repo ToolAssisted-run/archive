@@ -32,7 +32,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -54,6 +54,14 @@
    "user": "KusogeMan",
    "date": "2026-11-03",
    "at": "2026-11-03T21:17:02Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-06",
+   "at": "2026-11-06T07:13:51Z",
+   "expert": true
   }
  ]
 }
