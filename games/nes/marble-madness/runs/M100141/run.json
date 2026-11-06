@@ -1,0 +1,51 @@
+{
+ "id": "M100141",
+ "game": "nes/marble-madness",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "duration": 161.501,
+ "movie": {
+  "file": "M100141.fm2",
+  "format": "fm2",
+  "sha1": "0cc1446a311ad84f23efd9dab05530325e073f82",
+  "frames": 9706,
+  "rerecords": 7799,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.7.0",
+  "files": [
+   {
+    "name": "Marble Madness (U).nes",
+    "sha1": "db009866ecf20cfdce93dca861f5be1f9dfaaf2b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/2PRdqVON39o"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-05",
+ "submitted": "2026-11-06T06:10:37Z",
+ "submittedBy": "Arc",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2131,
+  "url": "https://forum.toolassisted.run/t/2131"
+ }
+}
