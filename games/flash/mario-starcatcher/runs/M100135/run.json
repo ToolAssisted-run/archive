@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -62,6 +62,16 @@
    "date": "2026-11-06",
    "at": "2026-11-06T07:13:51Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-06",
+   "at": "2026-11-06T11:24:27Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-09-28, fbad748d) + Ruffle core (Nightly 2026-09-22, 78ec1fa8)",
+   "notes": "SHA1 hash of \"194277_laumariogame.swf\": D842A25333D8C05E1A061BF08B72D9E9243EEEEB"
   }
  ]
 }
