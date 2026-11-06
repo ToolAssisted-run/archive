@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -66,6 +66,15 @@
    "date": "2026-11-06",
    "at": "2026-11-06T06:59:08Z",
    "post": 2
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-06",
+   "at": "2026-11-06T07:09:18Z",
+   "expert": true,
+   "notes": "The author completes all 6 levels in the fastest time"
   }
  ]
 }
