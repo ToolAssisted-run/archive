@@ -1,0 +1,78 @@
+{
+ "id": "M100143",
+ "game": "flash/crash-bandicoot-flash",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "duration": 240.75,
+ "movie": {
+  "file": "M100143.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "51e070ccef4f0a7f0b5fa5eb074fdabe95153563",
+  "frames": 5987,
+  "rerecords": 3234,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera (Nightly 2026-11-05, b9c65cd3) (Core: Ruffle, Nightly 2026-11-06, 413d9d84)",
+  "files": [
+   {
+    "name": "crashbandicoot.swf",
+    "sha1": "dbd5302a9998bc86cfc99db868b2a1ec8d5977ef"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/Y7kVgoE0URk"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/RBPAxYGuaxg",
+   "title": "Reading game-internal info",
+   "description": "Encode with speed and other values visible on GUI",
+   "thumbnail": "alt-394f39904e77.jpg"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=lvXwnAQ4wsg",
+   "title": "Level-by-level comparison",
+   "description": "Start of all levels synced between this TAS and the current RTA world record, which allows for a direct comparison between levels",
+   "thumbnail": "alt-6239452a108b.jpg"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/CrashColumns.lua",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/overlay_pos_speed_etc.lua",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/roo.lua",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-11-06",
+ "submitted": "2026-11-07T14:10:04Z",
+ "submittedBy": "toca",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2139,
+  "url": "https://forum.toolassisted.run/t/2139"
+ }
+}
