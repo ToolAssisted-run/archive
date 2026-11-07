@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional"
  },
  "encodes": [
@@ -65,6 +65,16 @@
    "user": "eien86",
    "date": "2026-11-04",
    "at": "2026-11-04T06:14:54Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-07",
+   "at": "2026-11-07T08:33:16Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-11-02, c8ee037f) +  FreeJ2ME-Plus (Nightly 2026-10-31, 603fa997)",
+   "notes": "SHA1 hash of \"Coca-Cola FM (Blue Sphere Games Ltd.) (1.0.0) (CLDC-1.0, MIDP-2.0) (CokeFruitMachine) (a7a6ba96ce6046042621248f99b4f2ced399ecf1b0d8a851039ece44d948d17f).jar\": 21F3DD8C766A691A1B209A9D2E1967A21330FEAD"
   }
  ]
 }
