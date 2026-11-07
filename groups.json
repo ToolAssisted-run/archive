@@ -184,6 +184,7 @@
    "key": "crash-bandicoot",
    "title": "Crash Bandicoot",
    "games": [
+    "flash/crash-bandicoot-flash",
     "gba/crash-bandicoot-purple-riptos-rampage"
    ],
    "createdBy": "toca",

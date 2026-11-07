@@ -12402,6 +12402,17 @@
    "date": "2026-11-05",
    "at": "2026-11-05T05:57:04Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "group",
+   "key": "crash-bandicoot",
+   "field": "games",
+   "from": "gba/crash-bandicoot-purple-riptos-rampage",
+   "to": "flash/crash-bandicoot-flash, gba/crash-bandicoot-purple-riptos-rampage",
+   "by": "toca",
+   "date": "2026-11-07",
+   "at": "2026-11-07T09:04:00Z",
+   "reason": "Changed from the group form: flash/crash-bandicoot-flash moved in"
   }
  ]
 }
