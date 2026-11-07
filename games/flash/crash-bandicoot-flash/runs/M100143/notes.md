@@ -104,27 +104,27 @@ Finally, let us get into the actual TAS and what I found, things to note at each
 | Ripper Roo | 1358 | 1358 | 0 |
 | Total | 5780 | 5865 | 85 |
 
-Total timesave:85 frames = 3.54s
+Total timesave: 85 frames = 3.54s
 
 ### Level 1: Peaceful Walk
 
-[tbd]
+Spinning the first nitro crate here does not cause any damage because why not. Other than that, this level is mostly about getting in as many 5-frame slide-jumps as possible, plus getting the maximal displacement boost from the two wooden crates at the end of the level. One thing to note about the end of the level is that if you jump into the level end teleporter in any way, then you lose time -- so sliding off the edge into it is the fastest way to end each level.
 
 ### Level 2: The 51st crate
 
-[tbd]
+A perfect slide-jump into the four crates at the start can give a pretty big boost. However, as a result I have to cut many subsequent slide-jumps short for a frame in order to not overshoot and make the route work. Also the spin onto the edge of the crate right before the crystal gives a boost.
 
 ### Level 3: Snow Joke
 
-[tbd]
+More of the same: slide-jumps and crate boosts. One thing to note is that much of my timesave of the first half of the level is obsoleted by the stomper cycle in the second half, so I “only” save 14 frames in the end.
 
 ### Level 4: Crash Smash
 
-[tbd]
+The only noteworthy thing here is that having invincibility allows me to slide down the stairs which gains me a few pixels per slide. Also the fastest way at the end that I found is to slide down the slope at specific points because the slope itself already cancels the slow 3px-phase. 
 
 ### Level 5: Final Cutter
 
-[tbd]
+Probably the least RTA viable because of all the slide-jumps on the cylindrical platforms. Also the mandatory spins here suck because it greatly increases the animation cooldown timer so I cannot slide-jump, e.g., into stacks of boxes to get a boost.
 
 ### Boss: Ripper Roo
 
@@ -134,13 +134,11 @@ I investigated whether positioning, earlier spins, or manipulating the thrown cr
 
 # Final comments
 
-## Possible improvements
+### Possible improvements
 
-There may still be room to optimize individual slide-jumps, especially their initiation and cancellation frames. Since some jump timings cause backward displacement during the transition, comparing alternative timings could reveal small improvements.
+There may still be room to optimize individual slide-jumps, especially their initiation and cancellation frames. Also I did a normal slide at the start of level 2 which, in hindsight, was a bad call now that I did the full movement analysis for the submission notes? Finally, there may be a better overall route through level 5 where less spins are needed and, as a result, more slide-jumps can be jammed in.
 
-More generally, further improvements may be possible by optimizing movement and obstacle timing within individual levels.
+### Open questions
 
-## Open questions
-
-- **Slide cooldown:** What is the exact earliest possible second slide after a normal slide compared with a slide-jump? The interaction between `lag`, `sliding`, `dhold`, and animation state could be investigated further.
-- **Nitro interaction:** Is the one-frame safe Nitro spin reproducible in other positions or situations, and can it lead to further shortcuts?
+- *Slide cooldown:* What is the exact earliest possible second slide after a normal slide, resp. a slide jump? Because I feel like this is not a constant value, so the interaction between `lag`, `sliding`, `dhold`, and animation state could be investigated further.
+- *Nitro interaction:* Is the one-frame safe Nitro spin reproducible in other positions or situations, and can it lead to further timesaves?
