@@ -12413,6 +12413,17 @@
    "date": "2026-11-07",
    "at": "2026-11-07T09:04:00Z",
    "reason": "Changed from the group form: flash/crash-bandicoot-flash moved in"
+  },
+  {
+   "kind": "category",
+   "key": "flash/crash-bandicoot-flash:fastest-completion",
+   "field": "rule",
+   "from": "Complete the game as fast as possible.",
+   "to": "Complete the game as fast as possible. RTA timing starts when you gain control on Crash (i.e., on the frame when Crash stops facing forward after finishing his first animation) and ends on collecting the Power Up \"Body Slam\" received when defeating Ripper Roo (i.e., on the frame the power-up textbox",
+   "by": "toca",
+   "date": "2026-11-07",
+   "at": "2026-11-07T09:05:38Z",
+   "reason": "added rta timing rules"
   }
  ]
 }

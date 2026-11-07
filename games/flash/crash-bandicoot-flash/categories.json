@@ -7,7 +7,7 @@
     {
      "key": "fastest-completion",
      "label": "fastest completion",
-     "rule": "Complete the game as fast as possible."
+     "rule": "Complete the game as fast as possible. RTA timing starts when you gain control on Crash (i.e., on the frame when Crash stops facing forward after finishing his first animation) and ends on collecting the Power Up \"Body Slam\" received when defeating Ripper Roo (i.e., on the frame the power-up textbox appears)."
     }
    ]
   }
