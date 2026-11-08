@@ -1,0 +1,50 @@
+{
+ "id": "M100144",
+ "game": "zxs/manic-panic",
+ "category": {
+  "goal": "training"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "duration": 1197.062,
+ "movie": {
+  "file": "M100144.bk2",
+  "format": "bk2",
+  "sha1": "3650328f25741de491dd88f945680d3d553a1a1b",
+  "frames": 59949,
+  "rerecords": 53460,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "files": [
+   {
+    "name": "ManicPanic.tap.zip",
+    "sha1": "197de0bcb291035bd758ed4bac70624c9a1682ca"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=rmB8AOuFJRo"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-08T12:00:11Z",
+ "submittedBy": "DigitalDuck",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2141,
+  "url": "https://forum.toolassisted.run/t/2141"
+ }
+}
