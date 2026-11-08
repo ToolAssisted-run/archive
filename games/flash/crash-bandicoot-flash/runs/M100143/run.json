@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "provisional"
  },
  "encodes": [
   {
@@ -74,5 +74,13 @@
  "forum": {
   "topicId": 2139,
   "url": "https://forum.toolassisted.run/t/2139"
- }
+ },
+ "verifications": [
+  {
+   "user": "Arc",
+   "date": "2026-11-08",
+   "at": "2026-11-08T01:46:18Z",
+   "notes": "The encoded video completes the 5 levels and the boss."
+  }
+ ]
 }
