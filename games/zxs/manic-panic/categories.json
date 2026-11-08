@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "training",
+     "label": "Training",
+     "rule": "Complete Training mode as fast as possible."
+    }
+   ]
+  }
+ ]
+}
