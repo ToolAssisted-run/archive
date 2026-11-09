@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "superplay-100-no-death",
+     "label": "Superplay 100% No Death",
+     "rule": "Complete the game to 100% without any deathes"
+    }
+   ]
+  }
+ ]
+}
