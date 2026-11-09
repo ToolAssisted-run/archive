@@ -411,5 +411,11 @@
   "fps": 60.0,
   "createdBy": "Dimon12321",
   "createdAt": "2026-10-23"
+ },
+ "xbox-360": {
+  "name": "Xbox 360",
+  "fps": 60.0,
+  "createdBy": "ULTX",
+  "createdAt": "2026-11-09"
  }
 }
