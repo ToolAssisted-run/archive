@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -53,6 +53,16 @@
    "date": "2026-11-09",
    "at": "2026-11-09T08:07:57Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-09",
+   "at": "2026-11-09T08:08:27Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11.1",
+   "notes": "SHA1 hash of \"MP_V15.tap\": BF395D73E0391B98095D68D7B1EE082A941C085C"
   }
  ]
 }
