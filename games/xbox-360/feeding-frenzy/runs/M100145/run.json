@@ -1,0 +1,43 @@
+{
+ "id": "M100145",
+ "game": "xbox-360/feeding-frenzy",
+ "category": {
+  "goal": "superplay-100-no-death"
+ },
+ "authors": [
+  {
+   "user": "ULTX"
+  }
+ ],
+ "tools": [],
+ "videoOnly": true,
+ "duration": 2374.0,
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-10-20 (Core: Xenia)",
+  "files": [
+   {
+    "name": "F2727A719711C4E6BE4B402D70C1FA917A42E7C658"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "not-applicable",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=sT1vXzYCvuU"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-06",
+ "submitted": "2026-11-09T15:29:01Z",
+ "submittedBy": "ULTX",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2143,
+  "url": "https://forum.toolassisted.run/t/2143"
+ }
+}
