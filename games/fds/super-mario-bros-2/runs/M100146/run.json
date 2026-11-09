@@ -1,0 +1,68 @@
+{
+ "id": "M100146",
+ "game": "fds/super-mario-bros-2",
+ "category": {
+  "goal": "game-end-glitch"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  },
+  {
+   "user": "alexyweb"
+  },
+  {
+   "user": "threecreepio"
+  },
+  {
+   "user": "Simplistic6502"
+  },
+  {
+   "user": "OnehundredthCoin"
+  },
+  {
+   "user": "SBDWolf"
+  },
+  {
+   "user": "LuigiSidekick"
+  }
+ ],
+ "tools": [],
+ "duration": 464.585,
+ "movie": {
+  "file": "M100146.bk2",
+  "format": "bk2",
+  "sha1": "3749efea86e317d20c325aee09041c4c614181c3",
+  "frames": 27921,
+  "rerecords": 70433,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "Super Mario Bros. 2 (1986)(Nintendo).fds",
+    "sha1": "3b8c8998b4887d6dd676965943d69a320738ab9c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=N96Swoc_l0s"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-09T21:27:02Z",
+ "submittedBy": "HappyLee",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2144,
+  "url": "https://forum.toolassisted.run/t/2144"
+ }
+}
