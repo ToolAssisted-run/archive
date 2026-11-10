@@ -1,0 +1,51 @@
+{
+ "id": "M100147",
+ "game": "nes/donkey-kong-jr",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "duration": 63.296,
+ "movie": {
+  "file": "M100147.fm2",
+  "format": "fm2",
+  "sha1": "18774c8b5cd4e2dcca4d09ab9a727b26d711b251",
+  "frames": 3804,
+  "rerecords": 3333,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.7.0",
+  "files": [
+   {
+    "name": "Donkey Kong Jr. (J) (PRG0) [!].nes",
+    "sha1": "d63802fe89a2cedde55b6d62130a23e93978a621"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/LMV3ck5A9HA"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-09",
+ "submitted": "2026-11-10T06:05:18Z",
+ "submittedBy": "Arc",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2146,
+  "url": "https://forum.toolassisted.run/t/2146"
+ }
+}
