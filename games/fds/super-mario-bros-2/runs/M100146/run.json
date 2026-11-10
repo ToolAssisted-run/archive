@@ -48,7 +48,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional"
  },
  "encodes": [
@@ -78,6 +78,15 @@
    "date": "2026-11-10",
    "at": "2026-11-10T01:09:16Z",
    "notes": "The movie reaches the ending with a game-end glitch"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Arc",
+   "date": "2026-11-10",
+   "at": "2026-11-10T01:10:12Z",
+   "screenshot": "reproductions/1-Arc.png",
+   "emulator": "BizHawk 2.8"
   }
  ]
 }
