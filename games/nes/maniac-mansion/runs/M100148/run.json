@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional"
  },
  "encodes": [
@@ -60,6 +60,15 @@
    "date": "2026-11-12",
    "at": "2026-11-12T22:57:25Z",
    "notes": "The movie launches the Meteor into space"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Arc",
+   "date": "2026-11-12",
+   "at": "2026-11-12T23:01:35Z",
+   "screenshot": "reproductions/1-Arc.png",
+   "emulator": "Chimera 81725c0a / quickerNES 34b7f047"
   }
  ]
 }
