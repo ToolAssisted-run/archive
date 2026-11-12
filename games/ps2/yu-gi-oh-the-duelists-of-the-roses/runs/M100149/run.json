@@ -1,0 +1,51 @@
+{
+ "id": "M100149",
+ "game": "ps2/yu-gi-oh-the-duelists-of-the-roses",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "izumi"
+  }
+ ],
+ "tools": [],
+ "duration": 3086.617,
+ "movie": {
+  "file": "M100149.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "3731d22456d96231f1baa605e0b3dc645d5ac879",
+  "frames": 185012,
+  "rerecords": 0,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera f3aa8b78b (Core: PCSX2 127cbff7)",
+  "files": [
+   {
+    "name": "Yu-Gi-Oh! The Duelists of the Roses (USA).iso",
+    "sha1": "68a2febf33e55a2ac7e925e219e73d3612ae2335"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=0NYxV1UWIiw"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-12T22:29:32Z",
+ "submittedBy": "izumi",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2150,
+  "url": "https://forum.toolassisted.run/t/2150"
+ }
+}
