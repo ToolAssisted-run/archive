@@ -31,7 +31,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "provisional"
  },
  "encodes": [
   {
@@ -53,5 +53,13 @@
  "forum": {
   "topicId": 2148,
   "url": "https://forum.toolassisted.run/t/2148"
- }
+ },
+ "verifications": [
+  {
+   "user": "Arc",
+   "date": "2026-11-12",
+   "at": "2026-11-12T22:57:25Z",
+   "notes": "The movie launches the Meteor into space"
+  }
+ ]
 }
