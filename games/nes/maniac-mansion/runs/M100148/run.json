@@ -1,0 +1,57 @@
+{
+ "id": "M100148",
+ "game": "nes/maniac-mansion",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 313.534,
+ "movie": {
+  "file": "M100148.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "97b74352ec31f668df845be738643426440965dc",
+  "frames": 18843,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera (Core: quickerNES 34b7f047)",
+  "files": [
+   {
+    "name": "Maniac Mansion (U) [!].nes",
+    "sha1": "7317d1f1096b57f6ab8f3001bcdd35665c291b1a"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/cWwqjBgRLF4"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/Jxcft5vOncs",
+   "title": "Comparison Video",
+   "description": "vs https://toolassisted.run/runs/M6029/",
+   "thumbnail": "alt-d29e062f5a08.jpg"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-12T18:48:16Z",
+ "submittedBy": "eien86",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2148,
+  "url": "https://forum.toolassisted.run/t/2148"
+ }
+}
