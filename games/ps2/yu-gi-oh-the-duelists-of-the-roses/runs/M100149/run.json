@@ -40,7 +40,12 @@
    "url": "https://www.youtube.com/watch?v=0NYxV1UWIiw"
   }
  ],
- "attachments": [],
+ "attachments": [
+  {
+   "file": "attachments/dotr-sim.cpp",
+   "role": "supplementary"
+  }
+ ],
  "submitted": "2026-11-12T22:29:32Z",
  "submittedBy": "izumi",
  "notesFormat": "markdown",
