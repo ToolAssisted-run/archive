@@ -1,0 +1,51 @@
+{
+ "id": "M100151",
+ "game": "nes/friday-the-13th",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "duration": 142.532,
+ "movie": {
+  "file": "M100151.fm2",
+  "format": "fm2",
+  "sha1": "4e38c1b778a5bf3c8e80d50cf93e3a3d995b3788",
+  "frames": 8566,
+  "rerecords": 13013,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.7.0",
+  "files": [
+   {
+    "name": "Friday the 13th (U).nes",
+    "sha1": "f7897f46a4dcfef1e484d80b10f0810f986f9e25"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/NWx0zEed-78"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-13",
+ "submitted": "2026-11-13T20:41:20Z",
+ "submittedBy": "Arc",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2155,
+  "url": "https://forum.toolassisted.run/t/2155"
+ }
+}
