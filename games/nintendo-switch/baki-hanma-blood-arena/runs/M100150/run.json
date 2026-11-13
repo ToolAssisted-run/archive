@@ -1,0 +1,71 @@
+{
+ "id": "M100150",
+ "game": "nintendo-switch/baki-hanma-blood-arena",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "BrunoRaji"
+  }
+ ],
+ "tools": [],
+ "duration": 812.0,
+ "movie": {
+  "file": "M100150.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "96e617cea1678d4baca9403d87c210b81c896c2e",
+  "frames": 78044,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contentWarnings": [
+  "mature-violence",
+  "photosensitivity"
+ ],
+ "contract": {
+  "emulator": "Chimera (Core: Eden 035b0ed0)",
+  "files": [
+   {
+    "name": "title.keys",
+    "sha1": "cc1a1a6f05fc7ba7107301fa0c74d9ae9e402149"
+   },
+   {
+    "name": "prod.keys",
+    "sha1": "f8fe72c0e329843bdb38a74b30589f8cefb2f34c"
+   },
+   {
+    "name": "Firmware.23.0.1.zip",
+    "sha1": "72d6c0b4389412fbe734bbe2c98186d5c25d15eb"
+   },
+   {
+    "name": "Baki Hanma Blood Arena [0100464021934000][v0] (1.24 GB).nsp",
+    "sha1": "6249f8d138d596bc00bf3e6f61e8b956ff635383"
+   },
+   {
+    "name": "Baki Hanma Blood Arena [0100464021934800][v393216] (0.94 GB).nsp",
+    "sha1": "25dbc1178949b47d044a244b47b3544d023a9cd9"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/98SDqQCzCr4"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-13",
+ "submitted": "2026-11-13T19:45:57Z",
+ "submittedBy": "BrunoRaji",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2153,
+  "url": "https://forum.toolassisted.run/t/2153"
+ }
+}
