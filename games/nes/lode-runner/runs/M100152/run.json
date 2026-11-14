@@ -1,0 +1,57 @@
+{
+ "id": "M100152",
+ "game": "nes/lode-runner",
+ "category": {
+  "goal": "any"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 788.917,
+ "movie": {
+  "file": "M100152.bk2",
+  "format": "bk2",
+  "sha1": "cf642b8642e2f6bde45f4c05844edf3c87f6335f",
+  "frames": 47413,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1 (Core: NESHawk)",
+  "files": [
+   {
+    "name": "Lode Runner (U) [!].nes",
+    "sha1": "ea09aec11efc4b42ebc644ea243c2284001fe34f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/ftWgwWvsfRE"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/m7rq_LtGZ7M",
+   "title": "Comparison Movie",
+   "description": "Against 7345M",
+   "thumbnail": "alt-72d0aac329b1.jpg"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-14T09:03:42Z",
+ "submittedBy": "eien86",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2156,
+  "url": "https://forum.toolassisted.run/t/2156"
+ }
+}
