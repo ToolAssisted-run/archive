@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -67,6 +67,15 @@
    "user": "Arc",
    "date": "2026-11-14",
    "at": "2026-11-14T17:35:34Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "CoolHandMike",
+   "date": "2026-11-14",
+   "at": "2026-11-14T17:40:30Z",
+   "screenshot": "reproductions/1-CoolHandMike.png",
+   "emulator": "BizHawk 2.11.1 and NesHawk core"
   }
  ]
 }
