@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -55,6 +55,16 @@
    "date": "2026-11-15",
    "at": "2026-11-15T08:20:34Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-15",
+   "at": "2026-11-15T08:21:08Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "FCEUX 2.7.0",
+   "notes": "SHA-1 hash of \"Friday the 13th (USA).nes\": F7897F46A4DCFEF1E484D80B10F0810F986F9E25"
   }
  ]
 }
