@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -71,6 +71,16 @@
    "date": "2026-11-15",
    "at": "2026-11-15T08:29:36Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-15",
+   "at": "2026-11-15T08:30:13Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-24, f3aa8b78) + PCSX2 (127cbff7)",
+   "notes": "SHA-1 hash of \"Yu-Gi-Oh! The Duelists of the Roses (USA).iso\": 68A2FEBF33E55A2AC7E925E219E73D3612AE2335. The PCSX2 core is from IzumiHsieh's fork of chimera-core-pcsx2 and can be found at the bottom of workflow 52 (actions/runs/42237274624) under \"Artifacts\". I couldn't find another core with which this movie syncs"
   }
  ]
 }
