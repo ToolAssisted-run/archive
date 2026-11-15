@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -74,6 +74,16 @@
    "date": "2026-11-15",
    "at": "2026-11-15T07:58:32Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-15",
+   "at": "2026-11-15T07:59:05Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "FCEUX 2.7.0",
+   "notes": "SHA-1 hash of \"Donkey Kong Jr. (Japan).nes\": D63802FE89A2CEDDE55B6D62130A23E93978A621"
   }
  ]
 }
