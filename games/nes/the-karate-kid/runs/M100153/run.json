@@ -1,0 +1,51 @@
+{
+ "id": "M100153",
+ "game": "nes/the-karate-kid",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "duration": 187.491,
+ "movie": {
+  "file": "M100153.fm2",
+  "format": "fm2",
+  "sha1": "6b7be30a65dffbfe4e1573648847acf139cace4d",
+  "frames": 11268,
+  "rerecords": 4080,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.7.0",
+  "files": [
+   {
+    "name": "Karate Kid, The (U).nes",
+    "sha1": "b851457b3b06524b3747aae41ed056d84aa914da"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/wYXzTLnHzlk"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-14",
+ "submitted": "2026-11-15T06:20:45Z",
+ "submittedBy": "Arc",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2159,
+  "url": "https://forum.toolassisted.run/t/2159"
+ }
+}
