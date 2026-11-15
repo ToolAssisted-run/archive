@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -66,6 +66,16 @@
    "date": "2026-11-15",
    "at": "2026-11-15T08:22:31Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-15",
+   "at": "2026-11-15T08:23:00Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "FCEUX 2.7.0",
+   "notes": "SHA-1 hash of \"Karate Kid, The (USA).nes\": 4BF8A8670145E130A1E5DFB1E9B10C035BFC7A6F"
   }
  ]
 }
