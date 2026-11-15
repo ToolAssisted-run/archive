@@ -50,7 +50,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -86,6 +86,16 @@
    "date": "2026-11-15",
    "at": "2026-11-15T10:39:55Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-15",
+   "at": "2026-11-15T10:40:31Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-11-05, b9c65cd3) + Eden (Nightly 2026-11-05, 035b0ed0)",
+   "notes": "SHA1 hashes:\r\n- eden-035b0ed05ce6169590c1efe28b7231d4e96f01a2.chimeraCore: 5655260C0489FEF8D02188B9CB4883A1C8D2319A\r\n- Baki Hanma Blood Arena [0100464021934000] [v0].nsp: 6249F8D138D596BC00BF3E6F61E8B956FF635383\r\n- Baki Hanma Blood Arena [0100464021934800][v393216][Up v2.0.4].nsp: 25DBC1178949B47D044A244B47B3544D023A9CD9\r\n- Firmware.23.0.1.zip: 72D6C0B4389412FBE734BBE2C98186D5C25D15EB\r\n- prod.keys  (Keys-22.1.0): C146B651696D25287241F4BAB18226E488BC45B3\r\n- title.keys  (Keys-22.1.0): BFEE8E708DC4C8F27BFE51A12D57CAAA0B7F74DE"
   }
  ]
 }
