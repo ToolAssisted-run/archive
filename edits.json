@@ -12490,6 +12490,17 @@
    "date": "2026-11-17",
    "at": "2026-11-17T08:47:44Z",
    "reason": "added srcom link"
+  },
+  {
+   "kind": "group",
+   "key": "pokemon",
+   "field": "games",
+   "from": "gba/pokemon-firered-leafgreen, gbc/pokemon-pinball, n64/pokemon-snap",
+   "to": "gb/pokemon-red-green-blue-yellow-version, gba/pokemon-firered-leafgreen, gbc/pokemon-pinball, n64/pokemon-snap",
+   "by": "toca",
+   "date": "2026-11-17",
+   "at": "2026-11-17T08:48:32Z",
+   "reason": "Changed from the group form: gb/pokemon-red-green-blue-yellow-version moved in"
   }
  ]
 }
