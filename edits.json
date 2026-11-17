@@ -12479,6 +12479,17 @@
    "date": "2026-11-17",
    "at": "2026-11-17T08:46:09Z",
    "reason": "Adjusted according to speedrun.com"
+  },
+  {
+   "kind": "game",
+   "key": "gb/pokemon-red-green-blue-yellow-version",
+   "field": "website",
+   "from": "",
+   "to": "https://www.speedrun.com/pkmnredblue",
+   "by": "toca",
+   "date": "2026-11-17",
+   "at": "2026-11-17T08:47:44Z",
+   "reason": "added srcom link"
   }
  ]
 }
