@@ -42,7 +42,12 @@
    "url": "https://www.youtube.com/watch?v=x4h20c4HPrE"
   }
  ],
- "attachments": [],
+ "attachments": [
+  {
+   "file": "attachments/3rdmanip.cpp",
+   "role": "supplementary"
+  }
+ ],
  "submitted": "2026-11-17T20:47:13Z",
  "submittedBy": "izumi",
  "notesFormat": "markdown",
