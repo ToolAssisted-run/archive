@@ -12468,6 +12468,17 @@
    "date": "2026-11-14",
    "at": "2026-11-14T09:04:42Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "game",
+   "key": "gb/pokemon-red-green-blue-yellow-version",
+   "field": "title",
+   "from": "Pok\u00e9mon: Red/Green/Blue/Yellow Version",
+   "to": "Pok\u00e9mon Red/Blue",
+   "by": "toca",
+   "date": "2026-11-17",
+   "at": "2026-11-17T08:46:09Z",
+   "reason": "Adjusted according to speedrun.com"
   }
  ]
 }
