@@ -1,0 +1,53 @@
+{
+ "id": "M100155",
+ "game": "gba/yu-gi-oh-the-sacred-cards",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "GCAH"
+  },
+  {
+   "user": "izumi"
+  }
+ ],
+ "tools": [],
+ "duration": 1351.756,
+ "movie": {
+  "file": "M100155.bk2",
+  "format": "bk2",
+  "sha1": "a5f32e83c46035ae9706121692cd0dd07f63a6a4",
+  "frames": 80737,
+  "rerecords": 11696,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.11.1",
+  "files": [
+   {
+    "name": "Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan).gba",
+    "sha1": "c28f5c0103e3d0e5919c2023044199409375e0cd"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=x4h20c4HPrE"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-17T20:47:13Z",
+ "submittedBy": "izumi",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2163,
+  "url": "https://forum.toolassisted.run/t/2163"
+ }
+}
