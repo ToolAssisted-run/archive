@@ -1,0 +1,56 @@
+{
+ "id": "M100154",
+ "game": "gb/pokemon-red-green-blue-yellow-version",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "Latiel"
+  }
+ ],
+ "tools": [],
+ "duration": 5304.727,
+ "movie": {
+  "file": "M100154.bk2",
+  "format": "bk2",
+  "sha1": "573bc4e8e62c480c69848662339ad8bbbffce28b",
+  "frames": 317452,
+  "rerecords": null,
+  "start": "power-on",
+  "fps": 59.84322981391615
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.5.2",
+  "files": [
+   {
+    "name": "Pokemon - Blue Version (USA, Europe) (SGB Enhanced).gb",
+    "sha1": "d7037c83e1ae5b39bde3c30787637ba1d4c48ce2"
+   },
+   {
+    "name": "agb_boot.bin",
+    "sha1": "fa5287e24b0fa533b3b5ef2b28a81245346c1a0f"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ZksHcHNiKbA"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-15",
+ "submitted": "2026-11-17T08:09:03Z",
+ "submittedBy": "Latiel",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2162,
+  "url": "https://forum.toolassisted.run/t/2162"
+ }
+}
