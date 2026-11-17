@@ -12534,6 +12534,17 @@
    "date": "2026-11-17",
    "at": "2026-11-17T16:42:00Z",
    "reason": "added key art"
+  },
+  {
+   "kind": "game",
+   "key": "nes/ghosts-n-goblins",
+   "field": "thumbnail",
+   "from": "thumb.jpg",
+   "to": "thumb.jpg",
+   "by": "CloakTheLurker",
+   "date": "2026-11-17",
+   "at": "2026-11-17T16:45:12Z",
+   "reason": "added key art"
   }
  ]
 }
