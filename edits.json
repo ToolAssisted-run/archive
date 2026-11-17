@@ -12512,6 +12512,17 @@
    "date": "2026-11-17",
    "at": "2026-11-17T16:36:39Z",
    "reason": "added info and link"
+  },
+  {
+   "kind": "game",
+   "key": "nes/ghosts-n-goblins",
+   "field": "website",
+   "from": "",
+   "to": "https://strategywiki.org/wiki/Ghosts_%27n_Goblins",
+   "by": "CloakTheLurker",
+   "date": "2026-11-17",
+   "at": "2026-11-17T16:38:38Z",
+   "reason": "added link"
   }
  ]
 }
