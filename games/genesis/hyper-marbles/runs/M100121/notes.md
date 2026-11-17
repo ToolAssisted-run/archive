@@ -6,3 +6,5 @@ This may very well be the longest ever made TAS in history. Work initially start
 - 14 years, 8 months and 4 days. 
 
 It was generally worked on during plane and train journeys when I didn't have internet access, and for long periods it was abandoned and forgotten about. Some of the earlier levels could have been improved through better understanding of how the games momentum physics worked, but that can be left to a future improvement.
+
+EDIT: Reuploaded a higher quality encoded. Previous one was a blurry 240p, while this is a 1080p.
