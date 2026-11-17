@@ -12501,6 +12501,17 @@
    "date": "2026-11-17",
    "at": "2026-11-17T08:48:32Z",
    "reason": "Changed from the group form: gb/pokemon-red-green-blue-yellow-version moved in"
+  },
+  {
+   "kind": "game",
+   "key": "nes/ghosts-n-goblins",
+   "field": "released",
+   "from": "",
+   "to": "1986-06-13",
+   "by": "CloakTheLurker",
+   "date": "2026-11-17",
+   "at": "2026-11-17T16:36:39Z",
+   "reason": "added info and link"
   }
  ]
 }
