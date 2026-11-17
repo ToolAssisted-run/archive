@@ -12545,6 +12545,17 @@
    "date": "2026-11-17",
    "at": "2026-11-17T16:45:12Z",
    "reason": "added key art"
+  },
+  {
+   "kind": "game",
+   "key": "gb/pokemon-red-green-blue-yellow-version",
+   "field": "address",
+   "from": "gb/pokemon-red-green-blue-yellow-version",
+   "to": "gb/pokemon-red-blue",
+   "by": "toca",
+   "date": "2026-11-17",
+   "at": "2026-11-17T19:25:54Z",
+   "reason": "adjust url"
   }
  ]
 }
