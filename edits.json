@@ -12556,6 +12556,17 @@
    "date": "2026-11-17",
    "at": "2026-11-17T19:25:54Z",
    "reason": "adjust url"
+  },
+  {
+   "kind": "game",
+   "key": "snes/and-another-things",
+   "field": "address",
+   "from": "snes/and-another-things",
+   "to": "snes/and-another-thing",
+   "by": "toca",
+   "date": "2026-11-17",
+   "at": "2026-11-17T19:28:05Z",
+   "reason": "adjusted url"
   }
  ]
 }
