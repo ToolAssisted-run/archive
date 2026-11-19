@@ -1,0 +1,54 @@
+{
+ "id": "M100156",
+ "game": "nes/super-pitfall",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  },
+  {
+   "user": "Alyosha"
+  }
+ ],
+ "tools": [],
+ "duration": 261.303,
+ "movie": {
+  "file": "M100156.fm2",
+  "format": "fm2",
+  "sha1": "cec6acf735f9ecf9af6816f66d856a95b049e95d",
+  "frames": 15704,
+  "rerecords": 10181,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.7.0",
+  "files": [
+   {
+    "name": "Super Pitfall (U).nes",
+    "sha1": "2373e952fecc5f7507f99476e82c298cab1f51cb"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/NFJxl2hdp4I"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-19",
+ "submitted": "2026-11-19T19:56:33Z",
+ "submittedBy": "Arc",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2164,
+  "url": "https://forum.toolassisted.run/t/2164"
+ }
+}
