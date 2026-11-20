@@ -108,19 +108,57 @@ if jsonschema is None and not os.environ.get('VALIDATE_WITHOUT_JSONSCHEMA'):
 if not schemas:
     sys.exit(f'validate.py: no schemas found in {ROOT / "schema"}')
 
+# ---- an opt-in result cache (VALIDATE_CACHE=<file>) ----
+# The archivist validates before every write, and a write touches one or two
+# files: checking every unchanged run again cost seconds on each like. With
+# VALIDATE_CACHE set, the schema verdicts and each run's findings are kept,
+# keyed by everything they read, and replayed while those inputs are
+# unchanged; the checks across runs always run in full. Any change to this
+# script or to a schema starts the cache over. CI runs without it.
+_CACHE_FILE = os.environ.get('VALIDATE_CACHE')
+_cache_old, _cache_new = {}, {'schema': {}, 'runs': {}}
+_fingerprint = None
+if _CACHE_FILE:
+    _fp = hashlib.sha1(pathlib.Path(__file__).read_bytes())
+    for _sf in sorted((ROOT / 'schema').glob('*.schema.json')):
+        _fp.update(_sf.name.encode() + b'\0' + _sf.read_bytes())
+    _fingerprint = _fp.hexdigest()
+    try:
+        _doc = json.loads(pathlib.Path(_CACHE_FILE).read_text())
+        if _doc.get('fingerprint') == _fingerprint:
+            _cache_old = _doc
+    except (OSError, ValueError):
+        pass
+
 validators = {}
 if jsonschema:
     for kind, s in schemas.items():
         cls = jsonschema.validators.validator_for(s)
-        cls.check_schema(s)
+        if not _cache_old:   # a schema set the cache has seen already passed this
+            cls.check_schema(s)
         validators[kind] = cls(s)
 
 def check_schema(kind, data, where):
-    if kind in validators:
-        try:
-            validators[kind].validate(data)
-        except jsonschema.ValidationError as e:
-            err(f'{where}: schema violation: {e.message}')
+    if kind not in validators:
+        return
+    key = None
+    if _CACHE_FILE:
+        key = hashlib.sha1((kind + '\0' + json.dumps(data, sort_keys=True)).encode()).hexdigest()
+        said = _cache_old.get('schema', {}).get(key)
+        if said is not None:
+            _cache_new['schema'][key] = said
+            for m in said:
+                err(f'{where}: schema violation: {m}')
+            return
+    said = []
+    try:
+        validators[kind].validate(data)
+    except jsonschema.ValidationError as e:
+        said.append(e.message)
+    if key:
+        _cache_new['schema'][key] = said
+    for m in said:
+        err(f'{where}: schema violation: {m}')
 
 # authors/ is the member list, not a directory of everyone the community has
 # credited: a record means this person has an account here. People credited on
@@ -256,6 +294,435 @@ for _skey, _sdoc in systems.items():
 known_games = set()
 act_actors = []        # (run dir, name, roster) for everyone who acted on a run
 
+def check_run(rdir, gdir, cats, valid_opts):
+    """Every check of one run folder. Findings go to err(), the people who
+    acted on it to act_actors, its report ids to report_ids. It reads nothing
+    outside its own folder but its game's categories (cats, valid_opts) and
+    the name aliases (canon), which is what lets check_run_cached key it."""
+    if not rdir.is_dir():
+        err(f'{rdir}: stray file in runs/ (runs must be folders)')
+        return
+    rj = rdir / 'run.json'
+    if not rj.exists():
+        err(f'{rdir}: missing run.json'); return
+    try:
+        r = json.loads(rj.read_text())
+    except json.JSONDecodeError as e:
+        err(f'{rj}: not valid JSON ({e})'); return
+    check_schema('run', r, rj)
+    if not r.get('videoOnly') and (
+            not isinstance(r.get('movie'), dict) or not r['movie'].get('file')):
+        err(f'{rdir}: run.json has no movie.file'); return
+    if r.get('videoOnly') and r.get('movie'):
+        err(f'{rdir}: video-only and carrying a movie is a contradiction; '
+            f'pick one')
+    if r.get('id') != rdir.name:
+        err(f'{rdir}: id {r.get("id")!r} != folder name')
+    # 'unclassified' is a special category available on every game: no
+    # defined goal (the run carries its own goalDescription), never
+    # verifiable, ranked by likes alone
+    is_uncl = (r.get('category') or {}).get('goal') == 'unclassified'
+    for dk, ok_ in (r.get('category') or {}).items():
+        if is_uncl and dk == 'goal':
+            continue
+        if dk == 'sub':
+            continue          # checked against its option below
+        if ok_ not in valid_opts.get(dk, set()):
+            err(f'{rdir}: unknown category {dk}={ok_!r}')
+    # a subcategory is required exactly when the option defines some,
+    # and must be one of them
+    if not is_uncl:
+        goal_opt = next((o for d in cats.get('dimensions', []) for o in d['options']
+                         if o['key'] == (r.get('category') or {}).get('goal')), None)
+        subs = {s['key'] for s in (goal_opt or {}).get('subcategories', [])}
+        sub = (r.get('category') or {}).get('sub')
+        if subs and sub not in subs:
+            err(f'{rdir}: category {goal_opt["key"]!r} has subcategories; '
+                f'the run names {sub!r}, which is not one of them')
+        if sub and not subs:
+            err(f'{rdir}: names subcategory {sub!r} but its category has none')
+    if is_uncl:
+        if not (r.get('goalDescription') or '').strip():
+            err(f'{rdir}: Unclassified runs must describe their goal '
+                f'(goalDescription)')
+        # a goal-less run cannot carry a LIVE verification: there is
+        # nothing to verify. Invalidated ones are history (a game deletion
+        # voids the goal its verifications were bound to) and stay.
+        if any(not v.get('invalidated') for v in r.get('verifications', [])):
+            err(f'{rdir}: Unclassified runs cannot hold a live verification '
+                f'— no goal is defined')
+    # A withdrawal whose reason IS the publication takes the files down
+    # with it: the record stays so the id is never reused and the history
+    # stays legible, but the movie, the notes and the thumbnail are gone.
+    gone = bool((r.get('withdrawn') or {}).get('contentRemoved'))
+    movie = rdir / r['movie']['file'] if r.get('movie') else None
+    if gone:
+        if movie and movie.exists():
+            err(f'{rdir}: withdrawn with contentRemoved, but the movie '
+                f'{r["movie"]["file"]!r} is still here')
+        if (rdir / 'notes.md').exists():
+            err(f'{rdir}: withdrawn with contentRemoved, but notes.md is still here')
+    elif movie and not movie.exists():
+        err(f'{rdir}: declared movie {r["movie"]["file"]!r} missing')
+    elif movie and movie.stat().st_size > MOVIE_MAX:
+        err(f'{rdir}: movie exceeds {MOVIE_MAX>>20} MB')
+    notes = rdir / 'notes.md'
+    if notes.exists() and notes.stat().st_size > NOTES_MAX:
+        err(f'{rdir}: notes.md exceeds {NOTES_MAX>>10} KB')
+
+    # mandatory thumbnail: author-provided, a real image, modest size
+    thumb = r.get('thumbnail')
+    if thumb and gone:
+        if (rdir / thumb).exists():
+            err(f'{rdir}: withdrawn with contentRemoved, but the thumbnail '
+                f'{thumb!r} is still here')
+    elif thumb:
+        tp = rdir / thumb
+        if not tp.exists():
+            err(f'{rdir}: declared thumbnail {thumb!r} missing')
+        else:
+            if tp.stat().st_size > THUMB_MAX:
+                err(f'{rdir}: thumbnail exceeds {THUMB_MAX>>10} KB')
+            head = tp.read_bytes()[:12]
+            magics = IMAGE_MAGIC.get(tp.suffix.lower(), [])
+            if not any(head.startswith(m) for m in magics):
+                err(f'{rdir}: thumbnail {thumb!r} is not a real '
+                    f'{tp.suffix.lower()} image')
+
+    # The first encode is the main one: its thumbnail is the run's, above,
+    # and it is the one a verifier judges. Any after it is an alternate,
+    # which may carry a title and a description for the run page's
+    # selector and the thumbnail shown there: a file of this run's own,
+    # a real image of modest size, like the run's.
+    alt_thumbs = set()
+    encodes = r.get('encodes') or []
+    for n, enc in enumerate(encodes if isinstance(encodes, list) else []):
+        if not isinstance(enc, dict):
+            continue
+        for field, cap in (('title', ENCODE_TITLE_MAX), ('description', ENCODE_DESC_MAX)):
+            if field in enc and (not isinstance(enc[field], str) or not enc[field].strip()
+                                 or len(enc[field]) > cap):
+                err(f'{rdir}: an encode\'s {field} is plain text of 1 to {cap} characters')
+        if n == 0 and any(k in enc for k in ('title', 'description', 'thumbnail')):
+            err(f'{rdir}: the first encode is the main one: it carries no title, '
+                f'description or thumbnail of its own (the run\'s are its)')
+            continue
+        at = enc.get('thumbnail')
+        if at is None:
+            continue
+        if not isinstance(at, str) or not re.fullmatch(r'alt-[0-9a-f]{12}\.(png|jpg|jpeg|webp)', at):
+            err(f'{rdir}: an alternate encode\'s thumbnail is a file of this run named '
+                f'alt-<12 hex>.<png|jpg|webp>, not {at!r}')
+            continue
+        ap = rdir / at
+        if gone:
+            if ap.exists():
+                err(f'{rdir}: withdrawn with contentRemoved, but the alternate '
+                    f'encode thumbnail {at!r} is still here')
+            continue
+        alt_thumbs.add(at)
+        if not ap.exists():
+            err(f'{rdir}: declared alternate encode thumbnail {at!r} missing')
+            continue
+        if ap.stat().st_size > THUMB_MAX:
+            err(f'{rdir}: alternate encode thumbnail {at!r} exceeds {THUMB_MAX>>10} KB')
+        if not any(ap.read_bytes()[:12].startswith(m)
+                   for m in IMAGE_MAGIC.get(ap.suffix.lower(), [])):
+            err(f'{rdir}: alternate encode thumbnail {at!r} is not a real '
+                f'{ap.suffix.lower()} image')
+    if len(encodes) - 1 > ENCODE_ALT_MAX and any(
+            isinstance(e, dict) and e.get('title') for e in encodes[1:]):
+        err(f'{rdir}: a run takes {ENCODE_ALT_MAX} alternate encodes at most')
+
+    declared = {a['file'] for a in r.get('attachments', [])}
+    rom_sha1 = ((r.get('contract') or {}).get('rom') or {}).get('sha1', '').lower()
+    total = 0
+    for a in sorted(declared):
+        ap = rdir / a
+        if not ap.exists():
+            err(f'{rdir}: declared attachment {a!r} missing'); continue
+        suffix = ap.suffix.lower()
+        size = ap.stat().st_size
+        data = ap.read_bytes()
+        if suffix in MOVIE_ATTACH_EXT:
+            # additional movie files are welcome attachments (binary OK)
+            if size > MOVIE_MAX:
+                err(f'{rdir}: movie attachment {a!r} exceeds {MOVIE_MAX>>20} MB')
+        elif suffix in ALLOWED_ATTACH_EXT:
+            total += size
+            if size > ATTACH_MAX_EACH:
+                err(f'{rdir}: attachment {a!r} exceeds {ATTACH_MAX_EACH>>10} KB')
+            try:
+                data.decode('utf-8')
+            except UnicodeDecodeError:
+                err(f'{rdir}: attachment {a!r} is not valid UTF-8 text')
+        else:
+            err(f'{rdir}: attachment {a!r} extension not allowed')
+        if rom_sha1 and hashlib.sha1(data).hexdigest() == rom_sha1:
+            err(f'{rdir}: attachment {a!r} matches the declared ROM hash')
+    if total > ATTACH_MAX_TOTAL:
+        err(f'{rdir}: text attachments exceed {ATTACH_MAX_TOTAL>>10} KB total')
+
+    # community rosters: self-acts, duplicates, screenshots, status honesty
+    author_names = {canon(a['user']) for a in r.get('authors', [])}
+    shots = set()
+    shot_total = 0
+    for kind in ('reproductions', 'verifications'):
+        seen_users = set()
+        for act in r.get(kind, []):
+            u = canon(act['user'])
+            act_actors.append((rdir, act['user'], kind))
+            if u in author_names and not act.get('invalidated'):
+                err(f'{rdir}: {kind[:-1]} by {act["user"]!r} — authors cannot '
+                    f'act on their own run')
+            if not act.get('invalidated'):
+                if u in seen_users:
+                    err(f'{rdir}: duplicate {kind[:-1]} by {act["user"]!r} — one per user')
+                seen_users.add(u)
+            shot = act.get('screenshot')
+            if shot:
+                want_dir = 'reproductions/'
+                if not shot.startswith(want_dir):
+                    err(f'{rdir}: {kind} screenshot {shot!r} must live under '
+                        f'{want_dir}')
+                shots.add(shot)
+                sp = rdir / shot
+                if not sp.exists():
+                    err(f'{rdir}: declared screenshot {shot!r} missing'); continue
+                size = sp.stat().st_size
+                shot_total += size
+                if size > SHOT_MAX_EACH:
+                    err(f'{rdir}: screenshot {shot!r} exceeds {SHOT_MAX_EACH>>10} KB')
+                head = sp.read_bytes()[:12]
+                magics = IMAGE_MAGIC.get(sp.suffix.lower())
+                if not magics:
+                    err(f'{rdir}: screenshot {shot!r} extension not allowed')
+                elif not any(head.startswith(m) for m in magics):
+                    err(f'{rdir}: screenshot {shot!r} is not a real '
+                        f'{sp.suffix.lower()} image')
+                if rom_sha1 and hashlib.sha1(sp.read_bytes()).hexdigest() == rom_sha1:
+                    err(f'{rdir}: screenshot {shot!r} matches the declared ROM hash')
+    if shot_total > SHOT_MAX_TOTAL:
+        err(f'{rdir}: screenshots exceed {SHOT_MAX_TOTAL>>20} MB total')
+
+    # withdrawal: the run leaves the listings, the record stays. Nothing
+    # is erased (Community Principles 1.2, 2.7.2), so the movie file and
+    # the reason must both remain readable.
+    w = r.get('withdrawn')
+    if w is not None:
+        if not (w.get('reason') or '').strip():
+            err(f'{rdir}: withdrawn without a public reason')
+        if not (w.get('by') or '').strip():
+            err(f'{rdir}: withdrawn without naming who did it')
+
+    # likes: one per member, never the run's own authors
+    author_names_l = {canon(a['user']) for a in r.get('authors', [])}
+    seen_likes = set()
+    for like in r.get('likes', []):
+        lu = like['user']
+        ll = canon(lu)
+        act_actors.append((rdir, lu, 'likes'))
+        if ll in author_names_l:
+            err(f'{rdir}: like by {lu!r} — authors cannot like their own run')
+        if ll in seen_likes:
+            err(f'{rdir}: duplicate like by {lu!r}')
+        seen_likes.add(ll)
+
+    # comments: who spoke in the run's forum topic, one pointer per
+    # member (their first post there), never the run's own authors. The
+    # archivist writes one from the forum's post event; the text stays on
+    # the forum.
+    seen_comments = set()
+    for comment in r.get('comments', []):
+        cu = comment['user']
+        cl = canon(cu)
+        act_actors.append((rdir, cu, 'comments'))
+        if cl in author_names_l:
+            err(f'{rdir}: comment by {cu!r} — authors are not listed as commenters on their own run')
+        if cl in seen_comments:
+            err(f'{rdir}: duplicate comment by {cu!r} — one pointer per member')
+        seen_comments.add(cl)
+
+    # reports: globally unique ids; resolution fields only when resolved
+    for rep in r.get('reports', []):
+        if rep['id'] in report_ids:
+            err(f'{rdir}: report R{rep["id"]} id collides with one in '
+                f'{report_ids[rep["id"]]}')
+        report_ids[rep['id']] = rdir
+        if rep['status'] != 'open' and not rep.get('resolvedBy'):
+            err(f'{rdir}: report R{rep["id"]} is {rep["status"]} but has no '
+                f'resolvedBy')
+
+    # dispute cases
+    ver_users = {a['user'].lower() for a in r.get('verifications', [])}
+    inv_ver_users = {a['user'].lower() for a in r.get('verifications', [])
+                     if a.get('invalidated')}
+    case_ids = set()
+    for case in r.get('cases', []):
+        if case['id'] in case_ids:
+            err(f'{rdir}: duplicate case id {case["id"]}')
+        case_ids.add(case['id'])
+        snapshot = {u.lower() for u in case.get('verifiers', [])}
+        for u in snapshot:
+            if u not in ver_users:
+                err(f'{rdir}: case {case["id"]} verifier {u!r} not in the '
+                    f'verifications roster')
+        seen_votes = set()
+        for v in case.get('reaffirmations', []):
+            vu = v['user'].lower()
+            if vu not in snapshot:
+                err(f'{rdir}: case {case["id"]} vote by {v["user"]!r} — only '
+                    f'the verifier snapshot may vote')
+            if vu in seen_votes:
+                err(f'{rdir}: case {case["id"]} duplicate vote by {v["user"]!r}')
+            seen_votes.add(vu)
+        want = case_derived_status(case)
+        if case.get('status') != want:
+            err(f'{rdir}: case {case["id"]} status is {case.get("status")!r} '
+                f'but the votes derive {want!r}')
+        if case.get('status') == 'upheld':
+            for u in snapshot:
+                if u not in inv_ver_users:
+                    err(f'{rdir}: case {case["id"]} is upheld but verification '
+                        f'by {u!r} is not invalidated')
+
+    st = r.get('status', {})
+    if r.get('videoOnly'):
+        # the encode is the run: nothing exists to reproduce
+        if r.get('reproductions'):
+            err(f'{rdir}: a video-only run cannot carry reproductions; '
+                f'there is no input movie to replay')
+        if st.get('reproduced') != 'not-applicable':
+            err(f'{rdir}: a video-only run marks reproduced as not-applicable')
+        if not r.get('encodes'):
+            err(f'{rdir}: a video-only run IS its encode; it must link one')
+        # whether a stated duration exists depends on the category: it is
+        # required iff the category's metrics include the derived time
+        # (absent metrics = the classic time metric)
+        goal_key = (r.get('category') or {}).get('goal')
+        mdefs = None
+        for d in cats.get('dimensions', []):
+            for o in d['options']:
+                if o['key'] == goal_key:
+                    mdefs = o.get('metrics')
+        wants_time = (mdefs is None
+                      or any(m['key'] == 'time' for m in mdefs))
+        if wants_time and goal_key != 'unclassified' and not r.get('duration'):
+            err(f'{rdir}: video-only in a time-ranked category must state '
+                f'its duration')
+        if not wants_time and r.get('duration'):
+            err(f'{rdir}: this category defines no time metric; a stated '
+                f'duration would rank nothing and is not stored')
+    elif not (r.get('movie') or {}).get('frames'):
+        # a movie the parser could not read: no frames, so a time-ranked
+        # category needs the stated duration, exactly like video-only
+        goal_key = (r.get('category') or {}).get('goal')
+        mdefs = None
+        for d in cats.get('dimensions', []):
+            for o in d['options']:
+                if o['key'] == goal_key:
+                    mdefs = o.get('metrics')
+        wants_time = (mdefs is None or any(m['key'] == 'time' for m in mdefs))
+        if wants_time and goal_key != 'unclassified' and not r.get('duration'):
+            err(f'{rdir}: an unparsed movie in a time-ranked category must '
+                f'state its duration')
+    # stated metric values must be numbers for keys the category defines
+    # or once defined (values persist after a metric is removed)
+    if r.get('metrics') is not None and not isinstance(r.get('metrics'), dict):
+        err(f'{rdir}: metrics must be an object of numeric values')
+    if not r.get('videoOnly') and st.get('reproduced') == 'not-applicable':
+        err(f'{rdir}: only a video-only run marks reproduced not-applicable')
+    if st.get('reproduced') not in ('imported', 'not-applicable'):
+        live_r = [a for a in r.get('reproductions', []) if not a.get('invalidated')]
+        want_repro = 'community' if live_r else 'none'
+        if st.get('reproduced') != want_repro:
+            err(f'{rdir}: status.reproduced is {st.get("reproduced")!r} but the '
+                f'roster derives {want_repro!r}')
+    if st.get('verified') != 'imported':
+        live_v = [a for a in r.get('verifications', []) if not a.get('invalidated')]
+        # verification gates ranking (2026-08-19): community = provisional
+        # (ranked), a covering expert's = confirmed (permanent)
+        want_ver = ('confirmed' if any(a.get('expert') for a in live_v) else
+                    'provisional' if live_v else 'none')
+        if st.get('verified') != want_ver:
+            err(f'{rdir}: status.verified is {st.get("verified")!r} but the '
+                f'roster derives {want_ver!r}')
+
+    # no stray files: everything must be accounted for
+    allowed = {'run.json', 'notes.md'} | declared | shots | alt_thumbs
+    if r.get('movie'):
+        allowed.add(r['movie']['file'])
+    if r.get('thumbnail'):
+        allowed.add(r['thumbnail'])
+    for f in rdir.rglob('*'):
+        if f.is_file():
+            relp = f.relative_to(rdir).as_posix()
+            if relp not in allowed:
+                err(f'{rdir}: undeclared file {relp!r} — every file must be the '
+                    f'movie, notes.md, run.json, a declared attachment, or an '
+                    f'alternate encode\'s thumbnail')
+
+
+# what every run's findings depend on beyond its own folder and its game's
+# categories: the names claims merged (canon)
+_alias_digest = hashlib.sha1(json.dumps(sorted(alias.items())).encode()).digest()
+
+
+def _walk_into(h, path, rel):
+    for e in sorted(os.scandir(path), key=lambda e: e.name):
+        if e.is_dir(follow_symlinks=False):
+            _walk_into(h, e.path, rel + e.name + '/')
+        else:
+            st = e.stat(follow_symlinks=False)
+            h.update(f'{rel}{e.name}\0{st.st_size}\0{st.st_mtime_ns}\n'.encode())
+
+
+def _run_key(rdir, cjson):
+    """Every file check_run reads for this folder, by size and modification
+    time (as make does), with its game's categories; None when there is
+    nothing to key."""
+    try:
+        cst = os.stat(cjson)
+        h = hashlib.sha1()
+        h.update(f'{rdir}\0{cst.st_size}\0{cst.st_mtime_ns}\0'.encode() + _alias_digest)
+        _walk_into(h, str(rdir), '')
+    except OSError:
+        return None
+    return h.hexdigest()
+
+
+def _keepable(rdir):
+    """May this run's findings be replayed later? Not when they depend on
+    other runs (report ids are unique across runs, checked in walk order) or
+    on a file outside its folder (a movie named elsewhere)."""
+    try:
+        r = json.loads((rdir / 'run.json').read_bytes())
+    except (OSError, ValueError):
+        return False
+    if not isinstance(r, dict) or r.get('reports'):
+        return False
+    mv = r.get('movie')
+    mv = mv.get('file') if isinstance(mv, dict) else None
+    return not (isinstance(mv, str) and ('/' in mv or chr(92) in mv or mv.startswith('.')))
+
+
+def check_run_cached(rdir, gdir, cjson, cats, valid_opts):
+    """check_run, replayed from VALIDATE_CACHE while nothing it reads changed."""
+    key = _run_key(rdir, cjson) if _CACHE_FILE and rdir.is_dir() else None
+    if key:
+        hit = _cache_old.get('runs', {}).get(key)
+        if hit is not None:
+            _cache_new['runs'][key] = hit
+            errors.extend(hit['errors'])
+            act_actors.extend((rdir, name, roster) for name, roster in hit['actors'])
+            return
+    e0, a0 = len(errors), len(act_actors)
+    check_run(rdir, gdir, cats, valid_opts)
+    if key and _keepable(rdir):
+        _cache_new['runs'][key] = {'errors': errors[e0:],
+                                   'actors': [[name, roster] for _, name, roster in act_actors[a0:]]}
+
+
 for gjson in ROOT.glob('games/*/*/game.json'):
     gdir = gjson.parent
     known_games.add(f'{gdir.parent.name}/{gdir.name}')
@@ -293,368 +760,7 @@ for gjson in ROOT.glob('games/*/*/game.json'):
     valid_opts = {d['key']: {o['key'] for o in d['options']} for d in cats.get('dimensions', [])}
 
     for rdir in sorted((gdir / 'runs').glob('*')):
-        if not rdir.is_dir():
-            err(f'{rdir}: stray file in runs/ (runs must be folders)')
-            continue
-        rj = rdir / 'run.json'
-        if not rj.exists():
-            err(f'{rdir}: missing run.json'); continue
-        try:
-            r = json.loads(rj.read_text())
-        except json.JSONDecodeError as e:
-            err(f'{rj}: not valid JSON ({e})'); continue
-        check_schema('run', r, rj)
-        if not r.get('videoOnly') and (
-                not isinstance(r.get('movie'), dict) or not r['movie'].get('file')):
-            err(f'{rdir}: run.json has no movie.file'); continue
-        if r.get('videoOnly') and r.get('movie'):
-            err(f'{rdir}: video-only and carrying a movie is a contradiction; '
-                f'pick one')
-        if r.get('id') != rdir.name:
-            err(f'{rdir}: id {r.get("id")!r} != folder name')
-        # 'unclassified' is a special category available on every game: no
-        # defined goal (the run carries its own goalDescription), never
-        # verifiable, ranked by likes alone
-        is_uncl = (r.get('category') or {}).get('goal') == 'unclassified'
-        for dk, ok_ in (r.get('category') or {}).items():
-            if is_uncl and dk == 'goal':
-                continue
-            if dk == 'sub':
-                continue          # checked against its option below
-            if ok_ not in valid_opts.get(dk, set()):
-                err(f'{rdir}: unknown category {dk}={ok_!r}')
-        # a subcategory is required exactly when the option defines some,
-        # and must be one of them
-        if not is_uncl:
-            goal_opt = next((o for d in cats.get('dimensions', []) for o in d['options']
-                             if o['key'] == (r.get('category') or {}).get('goal')), None)
-            subs = {s['key'] for s in (goal_opt or {}).get('subcategories', [])}
-            sub = (r.get('category') or {}).get('sub')
-            if subs and sub not in subs:
-                err(f'{rdir}: category {goal_opt["key"]!r} has subcategories; '
-                    f'the run names {sub!r}, which is not one of them')
-            if sub and not subs:
-                err(f'{rdir}: names subcategory {sub!r} but its category has none')
-        if is_uncl:
-            if not (r.get('goalDescription') or '').strip():
-                err(f'{rdir}: Unclassified runs must describe their goal '
-                    f'(goalDescription)')
-            # a goal-less run cannot carry a LIVE verification: there is
-            # nothing to verify. Invalidated ones are history (a game deletion
-            # voids the goal its verifications were bound to) and stay.
-            if any(not v.get('invalidated') for v in r.get('verifications', [])):
-                err(f'{rdir}: Unclassified runs cannot hold a live verification '
-                    f'— no goal is defined')
-        # A withdrawal whose reason IS the publication takes the files down
-        # with it: the record stays so the id is never reused and the history
-        # stays legible, but the movie, the notes and the thumbnail are gone.
-        gone = bool((r.get('withdrawn') or {}).get('contentRemoved'))
-        movie = rdir / r['movie']['file'] if r.get('movie') else None
-        if gone:
-            if movie and movie.exists():
-                err(f'{rdir}: withdrawn with contentRemoved, but the movie '
-                    f'{r["movie"]["file"]!r} is still here')
-            if (rdir / 'notes.md').exists():
-                err(f'{rdir}: withdrawn with contentRemoved, but notes.md is still here')
-        elif movie and not movie.exists():
-            err(f'{rdir}: declared movie {r["movie"]["file"]!r} missing')
-        elif movie and movie.stat().st_size > MOVIE_MAX:
-            err(f'{rdir}: movie exceeds {MOVIE_MAX>>20} MB')
-        notes = rdir / 'notes.md'
-        if notes.exists() and notes.stat().st_size > NOTES_MAX:
-            err(f'{rdir}: notes.md exceeds {NOTES_MAX>>10} KB')
-
-        # mandatory thumbnail: author-provided, a real image, modest size
-        thumb = r.get('thumbnail')
-        if thumb and gone:
-            if (rdir / thumb).exists():
-                err(f'{rdir}: withdrawn with contentRemoved, but the thumbnail '
-                    f'{thumb!r} is still here')
-        elif thumb:
-            tp = rdir / thumb
-            if not tp.exists():
-                err(f'{rdir}: declared thumbnail {thumb!r} missing')
-            else:
-                if tp.stat().st_size > THUMB_MAX:
-                    err(f'{rdir}: thumbnail exceeds {THUMB_MAX>>10} KB')
-                head = tp.read_bytes()[:12]
-                magics = IMAGE_MAGIC.get(tp.suffix.lower(), [])
-                if not any(head.startswith(m) for m in magics):
-                    err(f'{rdir}: thumbnail {thumb!r} is not a real '
-                        f'{tp.suffix.lower()} image')
-
-        # The first encode is the main one: its thumbnail is the run's, above,
-        # and it is the one a verifier judges. Any after it is an alternate,
-        # which may carry a title and a description for the run page's
-        # selector and the thumbnail shown there: a file of this run's own,
-        # a real image of modest size, like the run's.
-        alt_thumbs = set()
-        encodes = r.get('encodes') or []
-        for n, enc in enumerate(encodes if isinstance(encodes, list) else []):
-            if not isinstance(enc, dict):
-                continue
-            for field, cap in (('title', ENCODE_TITLE_MAX), ('description', ENCODE_DESC_MAX)):
-                if field in enc and (not isinstance(enc[field], str) or not enc[field].strip()
-                                     or len(enc[field]) > cap):
-                    err(f'{rdir}: an encode\'s {field} is plain text of 1 to {cap} characters')
-            if n == 0 and any(k in enc for k in ('title', 'description', 'thumbnail')):
-                err(f'{rdir}: the first encode is the main one: it carries no title, '
-                    f'description or thumbnail of its own (the run\'s are its)')
-                continue
-            at = enc.get('thumbnail')
-            if at is None:
-                continue
-            if not isinstance(at, str) or not re.fullmatch(r'alt-[0-9a-f]{12}\.(png|jpg|jpeg|webp)', at):
-                err(f'{rdir}: an alternate encode\'s thumbnail is a file of this run named '
-                    f'alt-<12 hex>.<png|jpg|webp>, not {at!r}')
-                continue
-            ap = rdir / at
-            if gone:
-                if ap.exists():
-                    err(f'{rdir}: withdrawn with contentRemoved, but the alternate '
-                        f'encode thumbnail {at!r} is still here')
-                continue
-            alt_thumbs.add(at)
-            if not ap.exists():
-                err(f'{rdir}: declared alternate encode thumbnail {at!r} missing')
-                continue
-            if ap.stat().st_size > THUMB_MAX:
-                err(f'{rdir}: alternate encode thumbnail {at!r} exceeds {THUMB_MAX>>10} KB')
-            if not any(ap.read_bytes()[:12].startswith(m)
-                       for m in IMAGE_MAGIC.get(ap.suffix.lower(), [])):
-                err(f'{rdir}: alternate encode thumbnail {at!r} is not a real '
-                    f'{ap.suffix.lower()} image')
-        if len(encodes) - 1 > ENCODE_ALT_MAX and any(
-                isinstance(e, dict) and e.get('title') for e in encodes[1:]):
-            err(f'{rdir}: a run takes {ENCODE_ALT_MAX} alternate encodes at most')
-
-        declared = {a['file'] for a in r.get('attachments', [])}
-        rom_sha1 = ((r.get('contract') or {}).get('rom') or {}).get('sha1', '').lower()
-        total = 0
-        for a in sorted(declared):
-            ap = rdir / a
-            if not ap.exists():
-                err(f'{rdir}: declared attachment {a!r} missing'); continue
-            suffix = ap.suffix.lower()
-            size = ap.stat().st_size
-            data = ap.read_bytes()
-            if suffix in MOVIE_ATTACH_EXT:
-                # additional movie files are welcome attachments (binary OK)
-                if size > MOVIE_MAX:
-                    err(f'{rdir}: movie attachment {a!r} exceeds {MOVIE_MAX>>20} MB')
-            elif suffix in ALLOWED_ATTACH_EXT:
-                total += size
-                if size > ATTACH_MAX_EACH:
-                    err(f'{rdir}: attachment {a!r} exceeds {ATTACH_MAX_EACH>>10} KB')
-                try:
-                    data.decode('utf-8')
-                except UnicodeDecodeError:
-                    err(f'{rdir}: attachment {a!r} is not valid UTF-8 text')
-            else:
-                err(f'{rdir}: attachment {a!r} extension not allowed')
-            if rom_sha1 and hashlib.sha1(data).hexdigest() == rom_sha1:
-                err(f'{rdir}: attachment {a!r} matches the declared ROM hash')
-        if total > ATTACH_MAX_TOTAL:
-            err(f'{rdir}: text attachments exceed {ATTACH_MAX_TOTAL>>10} KB total')
-
-        # community rosters: self-acts, duplicates, screenshots, status honesty
-        author_names = {canon(a['user']) for a in r.get('authors', [])}
-        shots = set()
-        shot_total = 0
-        for kind in ('reproductions', 'verifications'):
-            seen_users = set()
-            for act in r.get(kind, []):
-                u = canon(act['user'])
-                act_actors.append((rdir, act['user'], kind))
-                if u in author_names and not act.get('invalidated'):
-                    err(f'{rdir}: {kind[:-1]} by {act["user"]!r} — authors cannot '
-                        f'act on their own run')
-                if not act.get('invalidated'):
-                    if u in seen_users:
-                        err(f'{rdir}: duplicate {kind[:-1]} by {act["user"]!r} — one per user')
-                    seen_users.add(u)
-                shot = act.get('screenshot')
-                if shot:
-                    want_dir = 'reproductions/'
-                    if not shot.startswith(want_dir):
-                        err(f'{rdir}: {kind} screenshot {shot!r} must live under '
-                            f'{want_dir}')
-                    shots.add(shot)
-                    sp = rdir / shot
-                    if not sp.exists():
-                        err(f'{rdir}: declared screenshot {shot!r} missing'); continue
-                    size = sp.stat().st_size
-                    shot_total += size
-                    if size > SHOT_MAX_EACH:
-                        err(f'{rdir}: screenshot {shot!r} exceeds {SHOT_MAX_EACH>>10} KB')
-                    head = sp.read_bytes()[:12]
-                    magics = IMAGE_MAGIC.get(sp.suffix.lower())
-                    if not magics:
-                        err(f'{rdir}: screenshot {shot!r} extension not allowed')
-                    elif not any(head.startswith(m) for m in magics):
-                        err(f'{rdir}: screenshot {shot!r} is not a real '
-                            f'{sp.suffix.lower()} image')
-                    if rom_sha1 and hashlib.sha1(sp.read_bytes()).hexdigest() == rom_sha1:
-                        err(f'{rdir}: screenshot {shot!r} matches the declared ROM hash')
-        if shot_total > SHOT_MAX_TOTAL:
-            err(f'{rdir}: screenshots exceed {SHOT_MAX_TOTAL>>20} MB total')
-
-        # withdrawal: the run leaves the listings, the record stays. Nothing
-        # is erased (Community Principles 1.2, 2.7.2), so the movie file and
-        # the reason must both remain readable.
-        w = r.get('withdrawn')
-        if w is not None:
-            if not (w.get('reason') or '').strip():
-                err(f'{rdir}: withdrawn without a public reason')
-            if not (w.get('by') or '').strip():
-                err(f'{rdir}: withdrawn without naming who did it')
-
-        # likes: one per member, never the run's own authors
-        author_names_l = {canon(a['user']) for a in r.get('authors', [])}
-        seen_likes = set()
-        for like in r.get('likes', []):
-            lu = like['user']
-            ll = canon(lu)
-            act_actors.append((rdir, lu, 'likes'))
-            if ll in author_names_l:
-                err(f'{rdir}: like by {lu!r} — authors cannot like their own run')
-            if ll in seen_likes:
-                err(f'{rdir}: duplicate like by {lu!r}')
-            seen_likes.add(ll)
-
-        # comments: who spoke in the run's forum topic, one pointer per
-        # member (their first post there), never the run's own authors. The
-        # archivist writes one from the forum's post event; the text stays on
-        # the forum.
-        seen_comments = set()
-        for comment in r.get('comments', []):
-            cu = comment['user']
-            cl = canon(cu)
-            act_actors.append((rdir, cu, 'comments'))
-            if cl in author_names_l:
-                err(f'{rdir}: comment by {cu!r} — authors are not listed as commenters on their own run')
-            if cl in seen_comments:
-                err(f'{rdir}: duplicate comment by {cu!r} — one pointer per member')
-            seen_comments.add(cl)
-
-        # reports: globally unique ids; resolution fields only when resolved
-        for rep in r.get('reports', []):
-            if rep['id'] in report_ids:
-                err(f'{rdir}: report R{rep["id"]} id collides with one in '
-                    f'{report_ids[rep["id"]]}')
-            report_ids[rep['id']] = rdir
-            if rep['status'] != 'open' and not rep.get('resolvedBy'):
-                err(f'{rdir}: report R{rep["id"]} is {rep["status"]} but has no '
-                    f'resolvedBy')
-
-        # dispute cases
-        ver_users = {a['user'].lower() for a in r.get('verifications', [])}
-        inv_ver_users = {a['user'].lower() for a in r.get('verifications', [])
-                         if a.get('invalidated')}
-        case_ids = set()
-        for case in r.get('cases', []):
-            if case['id'] in case_ids:
-                err(f'{rdir}: duplicate case id {case["id"]}')
-            case_ids.add(case['id'])
-            snapshot = {u.lower() for u in case.get('verifiers', [])}
-            for u in snapshot:
-                if u not in ver_users:
-                    err(f'{rdir}: case {case["id"]} verifier {u!r} not in the '
-                        f'verifications roster')
-            seen_votes = set()
-            for v in case.get('reaffirmations', []):
-                vu = v['user'].lower()
-                if vu not in snapshot:
-                    err(f'{rdir}: case {case["id"]} vote by {v["user"]!r} — only '
-                        f'the verifier snapshot may vote')
-                if vu in seen_votes:
-                    err(f'{rdir}: case {case["id"]} duplicate vote by {v["user"]!r}')
-                seen_votes.add(vu)
-            want = case_derived_status(case)
-            if case.get('status') != want:
-                err(f'{rdir}: case {case["id"]} status is {case.get("status")!r} '
-                    f'but the votes derive {want!r}')
-            if case.get('status') == 'upheld':
-                for u in snapshot:
-                    if u not in inv_ver_users:
-                        err(f'{rdir}: case {case["id"]} is upheld but verification '
-                            f'by {u!r} is not invalidated')
-
-        st = r.get('status', {})
-        if r.get('videoOnly'):
-            # the encode is the run: nothing exists to reproduce
-            if r.get('reproductions'):
-                err(f'{rdir}: a video-only run cannot carry reproductions; '
-                    f'there is no input movie to replay')
-            if st.get('reproduced') != 'not-applicable':
-                err(f'{rdir}: a video-only run marks reproduced as not-applicable')
-            if not r.get('encodes'):
-                err(f'{rdir}: a video-only run IS its encode; it must link one')
-            # whether a stated duration exists depends on the category: it is
-            # required iff the category's metrics include the derived time
-            # (absent metrics = the classic time metric)
-            goal_key = (r.get('category') or {}).get('goal')
-            mdefs = None
-            for d in cats.get('dimensions', []):
-                for o in d['options']:
-                    if o['key'] == goal_key:
-                        mdefs = o.get('metrics')
-            wants_time = (mdefs is None
-                          or any(m['key'] == 'time' for m in mdefs))
-            if wants_time and goal_key != 'unclassified' and not r.get('duration'):
-                err(f'{rdir}: video-only in a time-ranked category must state '
-                    f'its duration')
-            if not wants_time and r.get('duration'):
-                err(f'{rdir}: this category defines no time metric; a stated '
-                    f'duration would rank nothing and is not stored')
-        elif not (r.get('movie') or {}).get('frames'):
-            # a movie the parser could not read: no frames, so a time-ranked
-            # category needs the stated duration, exactly like video-only
-            goal_key = (r.get('category') or {}).get('goal')
-            mdefs = None
-            for d in cats.get('dimensions', []):
-                for o in d['options']:
-                    if o['key'] == goal_key:
-                        mdefs = o.get('metrics')
-            wants_time = (mdefs is None or any(m['key'] == 'time' for m in mdefs))
-            if wants_time and goal_key != 'unclassified' and not r.get('duration'):
-                err(f'{rdir}: an unparsed movie in a time-ranked category must '
-                    f'state its duration')
-        # stated metric values must be numbers for keys the category defines
-        # or once defined (values persist after a metric is removed)
-        if r.get('metrics') is not None and not isinstance(r.get('metrics'), dict):
-            err(f'{rdir}: metrics must be an object of numeric values')
-        if not r.get('videoOnly') and st.get('reproduced') == 'not-applicable':
-            err(f'{rdir}: only a video-only run marks reproduced not-applicable')
-        if st.get('reproduced') not in ('imported', 'not-applicable'):
-            live_r = [a for a in r.get('reproductions', []) if not a.get('invalidated')]
-            want_repro = 'community' if live_r else 'none'
-            if st.get('reproduced') != want_repro:
-                err(f'{rdir}: status.reproduced is {st.get("reproduced")!r} but the '
-                    f'roster derives {want_repro!r}')
-        if st.get('verified') != 'imported':
-            live_v = [a for a in r.get('verifications', []) if not a.get('invalidated')]
-            # verification gates ranking (2026-08-19): community = provisional
-            # (ranked), a covering expert's = confirmed (permanent)
-            want_ver = ('confirmed' if any(a.get('expert') for a in live_v) else
-                        'provisional' if live_v else 'none')
-            if st.get('verified') != want_ver:
-                err(f'{rdir}: status.verified is {st.get("verified")!r} but the '
-                    f'roster derives {want_ver!r}')
-
-        # no stray files: everything must be accounted for
-        allowed = {'run.json', 'notes.md'} | declared | shots | alt_thumbs
-        if r.get('movie'):
-            allowed.add(r['movie']['file'])
-        if r.get('thumbnail'):
-            allowed.add(r['thumbnail'])
-        for f in rdir.rglob('*'):
-            if f.is_file():
-                relp = f.relative_to(rdir).as_posix()
-                if relp not in allowed:
-                    err(f'{rdir}: undeclared file {relp!r} — every file must be the '
-                        f'movie, notes.md, run.json, a declared attachment, or an '
-                        f'alternate encode\'s thumbnail')
+        check_run_cached(rdir, gdir, cjson, cats, valid_opts)
 
 # ---- games that moved ----
 # A game that moved to another address names the ones it had (formerKeys).
@@ -769,6 +875,17 @@ for (u, role, scope), ev in current_roles(role_events).items():
         elif '/' not in scope and scope not in systems:
             err(f'roles.json: {ev["user"]!r} has scope {scope!r}, which is '
                 f'not a system in systems.json')
+
+# keep what this run checked, and only that: entries for files that changed
+# or went away drop out on their own
+if _CACHE_FILE:
+    try:
+        _tmp = _CACHE_FILE + '.tmp'
+        pathlib.Path(_tmp).write_text(json.dumps(
+            {'fingerprint': _fingerprint, **_cache_new}, separators=(',', ':')))
+        os.replace(_tmp, _CACHE_FILE)
+    except OSError:
+        pass
 
 if errors:
     print(f'INVALID — {len(errors)} problem(s):')
