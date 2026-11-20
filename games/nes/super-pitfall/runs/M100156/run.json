@@ -34,7 +34,7 @@
  },
  "status": {
   "reproduced": "none",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -56,6 +56,15 @@
    "user": "Dimon12321",
    "date": "2026-11-19",
    "at": "2026-11-19T21:25:41Z"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-20",
+   "at": "2026-11-20T08:04:27Z",
+   "expert": true,
+   "notes": "The author completes that game using new route improvements, forgoes demo glitch"
   }
  ]
 }
