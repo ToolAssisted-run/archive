@@ -116,7 +116,7 @@ if not schemas:
 # unchanged; the checks across runs always run in full. Any change to this
 # script or to a schema starts the cache over. CI runs without it.
 _CACHE_FILE = os.environ.get('VALIDATE_CACHE')
-_cache_old, _cache_new = {}, {'schema': {}, 'runs': {}}
+_cache_old, _cache_new = {}, {'schema': {}, 'runs': {}, 'games': {}}
 _fingerprint = None
 if _CACHE_FILE:
     _fp = hashlib.sha1(pathlib.Path(__file__).read_bytes())
@@ -710,6 +710,8 @@ def check_run_cached(rdir, gdir, cjson, cats, valid_opts):
     """check_run, replayed from VALIDATE_CACHE while nothing it reads changed."""
     key = _run_key(rdir, cjson) if _CACHE_FILE and rdir.is_dir() else None
     if key:
+        _run_keys_used.append(key)
+    if key:
         hit = _cache_old.get('runs', {}).get(key)
         if hit is not None:
             _cache_new['runs'][key] = hit
@@ -723,9 +725,10 @@ def check_run_cached(rdir, gdir, cjson, cats, valid_opts):
                                    'actors': [[name, roster] for _, name, roster in act_actors[a0:]]}
 
 
-for gjson in ROOT.glob('games/*/*/game.json'):
-    gdir = gjson.parent
-    known_games.add(f'{gdir.parent.name}/{gdir.name}')
+def check_game(gjson, gdir):
+    """Every check of one game folder and its runs. It reads nothing outside
+    its folder but the name aliases (canon), which is what lets
+    check_game_cached replay it."""
     gdoc = json.loads(gjson.read_text())
     check_schema('game', gdoc, gjson)
     # A ratification is an act by a person: it carries a name and a date or it
@@ -750,17 +753,94 @@ for gjson in ROOT.glob('games/*/*/game.json'):
     cjson = gdir / 'categories.json'
     if not cjson.exists():
         err(f'{gdir}: missing categories.json')
-        continue
+        return
     try:
         cats = json.loads(cjson.read_text())
     except json.JSONDecodeError as e:
         err(f'{cjson}: not valid JSON ({e})')
-        continue
+        return
     check_schema('categories', cats, cjson)
     valid_opts = {d['key']: {o['key'] for o in d['options']} for d in cats.get('dimensions', [])}
 
     for rdir in sorted((gdir / 'runs').glob('*')):
         check_run_cached(rdir, gdir, cjson, cats, valid_opts)
+
+
+def _game_index():
+    """Each game folder's files and their git blob ids, as staged, and the
+    games whose worktree differs from what is staged (those are always
+    checked afresh). Empty when there is no cache or git cannot say."""
+    if not _CACHE_FILE:
+        return {}, set()
+    import subprocess
+
+    def git(*a):
+        return subprocess.run(['git', '-C', str(ROOT), *a], capture_output=True,
+                              check=True, timeout=60).stdout
+    try:
+        staged = git('ls-files', '-s', '-z', '--', 'games')
+        changed = git('diff-files', '--name-only', '-z', '--', 'games')
+        untracked = git('ls-files', '-o', '-z', '--', 'games')
+    except Exception:                                          # noqa: BLE001
+        return {}, set()
+    index = {}
+    for ent in staged.split(b'\0'):
+        if not ent:
+            continue
+        meta, p = ent.split(b'\t', 1)
+        p = p.decode('utf-8', 'surrogateescape')
+        parts = p.split('/')
+        if len(parts) < 4:
+            continue
+        index.setdefault('/'.join(parts[:3]), []).append(
+            ('/'.join(parts[3:]), meta.split()[1].decode()))
+    dirty = set()
+    for blob in (changed, untracked):
+        for p in blob.split(b'\0'):
+            parts = p.decode('utf-8', 'surrogateescape').split('/')
+            if len(parts) >= 3:
+                dirty.add('/'.join(parts[:3]))
+    return index, dirty
+
+
+_games_staged, _games_dirty = _game_index()
+_run_keys_used = []
+
+
+def check_game_cached(gjson, gdir):
+    """check_game, replayed from VALIDATE_CACHE while git says none of the
+    game's files changed: a write re-checks its own game, not the archive."""
+    rel = f'games/{gdir.parent.name}/{gdir.name}'
+    key = None
+    if _CACHE_FILE and rel in _games_staged and rel not in _games_dirty:
+        h = hashlib.sha1(f'{gdir}\0'.encode() + _alias_digest)
+        for name, blob in sorted(_games_staged[rel]):
+            h.update(f'{name}\0{blob}\n'.encode('utf-8', 'surrogateescape'))
+        key = h.hexdigest()
+        hit = _cache_old.get('games', {}).get(key)
+        if hit is not None:
+            _cache_new['games'][key] = hit
+            errors.extend(hit['errors'])
+            act_actors.extend((pathlib.Path(r), name, roster) for r, name, roster in hit['actors'])
+            for rk in hit['runs']:
+                if rk in _cache_old.get('runs', {}):
+                    _cache_new['runs'][rk] = _cache_old['runs'][rk]
+            return
+    e0, a0, n0, k0 = len(errors), len(act_actors), len(report_ids), len(_run_keys_used)
+    check_game(gjson, gdir)
+    # report ids are unique across games, checked in walk order: a game that
+    # registers any is checked every time
+    if key and len(report_ids) == n0:
+        _cache_new['games'][key] = {
+            'errors': errors[e0:],
+            'actors': [[str(r), name, roster] for r, name, roster in act_actors[a0:]],
+            'runs': _run_keys_used[k0:]}
+
+
+for gjson in ROOT.glob('games/*/*/game.json'):
+    gdir = gjson.parent
+    known_games.add(f'{gdir.parent.name}/{gdir.name}')
+    check_game_cached(gjson, gdir)
 
 # ---- games that moved ----
 # A game that moved to another address names the ones it had (formerKeys).
