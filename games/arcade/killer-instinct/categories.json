@@ -21,6 +21,10 @@
       {
        "key": "cinder",
        "label": "Cinder"
+      },
+      {
+       "key": "thunder",
+       "label": "Thunder"
       }
      ]
     }

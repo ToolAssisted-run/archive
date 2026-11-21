@@ -12611,6 +12611,17 @@
    "date": "2026-11-17",
    "at": "2026-11-17T21:12:14Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "arcade/killer-instinct:playthrough/thunder",
+   "field": "added",
+   "from": "",
+   "to": "Thunder",
+   "by": "cinderbr",
+   "date": "2026-11-21",
+   "at": "2026-11-21T04:03:43Z",
+   "reason": "Created it."
   }
  ]
 }
