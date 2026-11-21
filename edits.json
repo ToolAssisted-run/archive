@@ -12644,6 +12644,39 @@
    "date": "2026-11-21",
    "at": "2026-11-21T22:16:11Z",
    "reason": "Have baseline tas time, and RTA time when start is pressed"
+  },
+  {
+   "kind": "run",
+   "key": "M6857",
+   "field": "notes",
+   "from": "(previous value in git history)",
+   "to": "(see the run)",
+   "by": "CoolHandMike",
+   "date": "2026-11-21",
+   "at": "2026-11-21T22:18:29Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6857",
+   "field": "metric:classic",
+   "from": "0",
+   "to": "187.815",
+   "by": "CoolHandMike",
+   "date": "2026-11-21",
+   "at": "2026-11-21T22:18:29Z",
+   "reason": "The author's own revision."
+  },
+  {
+   "kind": "run",
+   "key": "M6857",
+   "field": "metric:rta",
+   "from": "0",
+   "to": "187.0",
+   "by": "CoolHandMike",
+   "date": "2026-11-21",
+   "at": "2026-11-21T22:18:29Z",
+   "reason": "The author's own revision."
   }
  ]
 }

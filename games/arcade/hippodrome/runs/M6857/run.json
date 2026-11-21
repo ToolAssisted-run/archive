@@ -50,7 +50,8 @@
   "url": "https://forum.toolassisted.run/t/453"
  },
  "metrics": {
-  "classic": 0,
-  "rta": 0
- }
+  "classic": 187.815,
+  "rta": 187.0
+ },
+ "notesFormat": "markdown"
 }
