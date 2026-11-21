@@ -1,0 +1,57 @@
+{
+ "id": "M100158",
+ "game": "ps2/bujingai-the-forsaken-city-swordmaster",
+ "category": {
+  "goal": "stage-select",
+  "sub": "stage-8"
+ },
+ "authors": [
+  {
+   "user": "SukeSJ"
+  }
+ ],
+ "tools": [],
+ "duration": 12.0,
+ "movie": {
+  "file": "M100158.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "096fa3fa915e4a0ee221ce3347e5e1e1896dd504",
+  "frames": 4237,
+  "rerecords": 1196,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera f3aa8b78b (Core: PCSX2 6c576f00)",
+  "files": [
+   {
+    "name": "Bujingai - The Forsaken City (USA).iso",
+    "sha1": "f35796ca6d93c6a3b79e64a074d8910d8e7b8ab6"
+   },
+   {
+    "name": "Bujingai NTSC.ps2",
+    "sha1": "90fbf501b0352472f78a4f3ec96a6a7307cee2f1"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=bJz5mmaGb_o"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-21",
+ "submitted": "2026-11-21T21:35:52Z",
+ "submittedBy": "SukeSJ",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2167,
+  "url": "https://forum.toolassisted.run/t/2167"
+ }
+}
