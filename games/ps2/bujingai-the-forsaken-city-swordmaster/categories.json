@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "stage-select",
+     "label": "Stage Select",
+     "rule": "Complete the stage in the fastest time possible."
+    }
+   ]
+  }
+ ]
+}
