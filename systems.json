@@ -417,5 +417,11 @@
   "fps": 60.0,
   "createdBy": "ULTX",
   "createdAt": "2026-11-09"
+ },
+ "mame": {
+  "name": "MAME",
+  "fps": 60.0,
+  "createdBy": "cinderbr",
+  "createdAt": "2026-11-21"
  }
 }
