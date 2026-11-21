@@ -12633,6 +12633,17 @@
    "date": "2026-11-21",
    "at": "2026-11-21T17:11:33Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "arcade/hippodrome:baseline",
+   "field": "metrics",
+   "from": "(classic: time)",
+   "to": "[{\"key\": \"classic\", \"label\": \"classic\", \"type\": \"time\", \"better\": \"lower\"}, {\"key\": \"rta\", \"label\": \"RTA\", \"type\": \"time\", \"better\": \"lower\"}]",
+   "by": "CoolHandMike",
+   "date": "2026-11-21",
+   "at": "2026-11-21T22:16:11Z",
+   "reason": "Have baseline tas time, and RTA time when start is pressed"
   }
  ]
 }

@@ -7,7 +7,21 @@
     {
      "key": "baseline",
      "label": "fastest completion",
-     "rule": "Complete the game as fast as possible."
+     "rule": "Complete the game as fast as possible.",
+     "metrics": [
+      {
+       "key": "classic",
+       "label": "classic",
+       "type": "time",
+       "better": "lower"
+      },
+      {
+       "key": "rta",
+       "label": "RTA",
+       "type": "time",
+       "better": "lower"
+      }
+     ]
     }
    ]
   }
