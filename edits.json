@@ -12622,6 +12622,17 @@
    "date": "2026-11-21",
    "at": "2026-11-21T04:03:43Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "ps2/bujingai-the-forsaken-city-swordmaster:stage-select/stage-8",
+   "field": "added",
+   "from": "",
+   "to": "Stage 8",
+   "by": "SukeSJ",
+   "date": "2026-11-21",
+   "at": "2026-11-21T17:11:33Z",
+   "reason": "Created it."
   }
  ]
 }

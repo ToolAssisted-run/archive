@@ -7,7 +7,14 @@
     {
      "key": "stage-select",
      "label": "Stage Select",
-     "rule": "Complete the stage in the fastest time possible."
+     "rule": "Complete the stage in the fastest time possible.",
+     "subcategories": [
+      {
+       "key": "stage-8",
+       "label": "Stage 8",
+       "rule": "Stage Select is one of the Special Options you unlock after completing the game (In order to unlock Hard and Extreme difficulty then you have to have beaten the game on that difficulty)\r\n\r\n**RULES**\r\n\r\n1: This category is being calculated with IGT, The Completion Time you get on the result screen.\r\n\r\n2: Video submission requires you to show which difficulty for the level you choose to play on.\r\n\r\n3: There are certain points where the game doesn't count your in game time. \r\n\r\nList of places where the timer stops counting:\r\n\r\n-Pause menu\r\n\r\n-Select/Skill select menu\r\n\r\n-Loading Screens\r\n\r\n-Cutscenes\r\n\r\n-Item Collections\r\n\r\n(Will add more if we find more)\r\n\r\n**Level Stage 8 (Demon Dimention)**\r\n\u2193 \u2193 \u2193\r\n\r\n**Spells:**\r\n\r\nGouenken Lv 1 , Lv 2, Lv 3\r\n\r\nSouryuuken Lv 1, Lv 2, Lv 3\r\n\r\nDankuuken Lv 2\r\n\r\nRyouseiken Lv 2\r\n\r\nTenseiken Lv 3\r\n\r\nJinbuken Lv 2\r\n\r\nSenranken Lv 1, Lv 2, Lv 3\r\n\r\nTekkuken Lv 1\r\n\r\nGaisenken Lv 1\r\n\r\n**Stats:**\r\n\r\nRyuugatou Level 3\r\n\r\nTenreiken Level 3\r\n\r\nHealth Level 3 (1893)\r\n\r\nSpell Level 3 (1893)\r\n\r\nDefense Level 3 (9 Crystals)"
+      }
+     ]
     }
    ]
   }
