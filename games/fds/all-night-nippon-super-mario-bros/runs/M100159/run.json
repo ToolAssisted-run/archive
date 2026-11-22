@@ -1,0 +1,56 @@
+{
+ "id": "M100159",
+ "game": "fds/all-night-nippon-super-mario-bros",
+ "category": {
+  "goal": "game-end-glitch"
+ },
+ "authors": [
+  {
+   "user": "HappyLee"
+  },
+  {
+   "user": "TomasPlays"
+  },
+  {
+   "user": "Asumeh"
+  }
+ ],
+ "tools": [],
+ "duration": 308.226,
+ "movie": {
+  "file": "M100159.bk2",
+  "format": "bk2",
+  "sha1": "f60d6bfcc7529cd332ddb94eaf37b13708ec620b",
+  "frames": 18524,
+  "rerecords": 10200,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.10",
+  "files": [
+   {
+    "name": "All Night Nippon Super Mario Bros. (Japan) (Promo).fds",
+    "sha1": "f30bdd3c556604d7eaa6d0f4864d5566e519b5d4"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=N6EqZGK02bI"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-22T08:06:34Z",
+ "submittedBy": "HappyLee",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2169,
+  "url": "https://forum.toolassisted.run/t/2169"
+ }
+}
