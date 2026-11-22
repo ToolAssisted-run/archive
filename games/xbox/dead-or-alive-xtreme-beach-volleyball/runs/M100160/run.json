@@ -1,0 +1,51 @@
+{
+ "id": "M100160",
+ "game": "xbox/dead-or-alive-xtreme-beach-volleyball",
+ "category": {
+  "goal": "exhibition"
+ },
+ "authors": [
+  {
+   "user": "DigitalDuck"
+  }
+ ],
+ "tools": [],
+ "duration": 115.966,
+ "movie": {
+  "file": "M100160.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "43f19bdc6959406fdc236d9bb365526f7ff94cd6",
+  "frames": 6951,
+  "rerecords": 72,
+  "start": "power-on",
+  "fps": 59.94005994005994
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera e9b742168 (Core: xemu 77cb1dde)",
+  "files": [
+   {
+    "name": "Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja).xiso.iso",
+    "sha1": "6a2e33c71d5f3e1c516283168d7ae0b980a61868"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=ItlyoWJjn8g"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-22T11:57:15Z",
+ "submittedBy": "DigitalDuck",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2180,
+  "url": "https://forum.toolassisted.run/t/2180"
+ }
+}
