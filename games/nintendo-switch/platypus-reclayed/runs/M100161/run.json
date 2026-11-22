@@ -1,0 +1,59 @@
+{
+ "id": "M100161",
+ "game": "nintendo-switch/platypus-reclayed",
+ "category": {
+  "goal": "passive-resistance-100"
+ },
+ "authors": [
+  {
+   "user": "Dimon12321"
+  }
+ ],
+ "tools": [],
+ "duration": 4185.0,
+ "movie": {
+  "file": "M100161.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "7b57069b266461c32d479f9783c76b6c76eeb25c",
+  "frames": 251100,
+  "rerecords": 1138,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly-2026-11-20 (Core: Eden 2e516dcc)",
+  "files": [
+   {
+    "name": "Platypus Reclayed v1.0.0[01009F7023642000][v0][APP].nsp",
+    "sha1": "463f2985b72895195162d56315af287ccf291ef4"
+   },
+   {
+    "name": "Platypus Reclayed [01009F7023642800][v327680][Up v1352].nsp",
+    "sha1": "4c331f94555499dc7791be6171cd49b7962cd7a8"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/YgpqGDDj9zk"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/Platypus_Reclayed_encode_ver.chimeraProject",
+   "role": "submitted attachment"
+  }
+ ],
+ "submitted": "2026-11-22T20:20:32Z",
+ "submittedBy": "Dimon12321",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2182,
+  "url": "https://forum.toolassisted.run/t/2182"
+ }
+}
