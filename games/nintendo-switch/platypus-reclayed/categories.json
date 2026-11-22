@@ -7,7 +7,7 @@
     {
      "key": "passive-resistance-100",
      "label": "Passive Resistance, 100%",
-     "rule": "- Hardest difficulty - Passive Resistance quest is passed. - All other areas are passed for 100% evaluation. - Deathless"
+     "rule": "Use \"Unlock all content\" option to unlock all difficulties and all levels.\r\n\r\n- Hardest difficulty (Nasty) must be selected.\r\n- Passive Resistance quest must be passed (no enemies harmed, no death on Level 1 Area 1).\r\n- All other areas must be passed for 100% overall evaluation (all enemies destroyed).\r\n- Deathless."
     }
    ]
   }

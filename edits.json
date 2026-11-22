@@ -12688,6 +12688,17 @@
    "date": "2026-11-22",
    "at": "2026-11-22T11:47:00Z",
    "reason": "Created it."
+  },
+  {
+   "kind": "category",
+   "key": "nintendo-switch/platypus-reclayed:passive-resistance-100",
+   "field": "rule",
+   "from": "- Hardest difficulty - Passive Resistance quest is passed. - All other areas are passed for 100% evaluation. - Deathless",
+   "to": "Use \"Unlock all content\" option to unlock all difficulties and all levels.\r\n\r\n- Hardest difficulty (Nasty) must be selected.\r\n- Passive Resistance quest must be passed (no enemies harmed, no death on Level 1 Area 1).\r\n- All other areas must be passed for 100% overall evaluation (all enemies destroye",
+   "by": "Dimon12321",
+   "date": "2026-11-22",
+   "at": "2026-11-22T16:27:54Z",
+   "reason": "Describe the rules"
   }
  ]
 }
