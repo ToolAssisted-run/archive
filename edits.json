@@ -12677,6 +12677,17 @@
    "date": "2026-11-21",
    "at": "2026-11-21T22:18:29Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "xbox/dead-or-alive-xtreme-beach-volleyball:exhibition",
+   "field": "added",
+   "from": "",
+   "to": "Exhibition",
+   "by": "DigitalDuck",
+   "date": "2026-11-22",
+   "at": "2026-11-22T11:47:00Z",
+   "reason": "Created it."
   }
  ]
 }

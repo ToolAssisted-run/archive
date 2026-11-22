@@ -8,6 +8,11 @@
      "key": "fastest-completion",
      "label": "fastest completion",
      "rule": "Complete the game as fast as possible."
+    },
+    {
+     "key": "exhibition",
+     "label": "Exhibition",
+     "rule": "Win a game of volleyball as fast as possible."
     }
    ]
   }
