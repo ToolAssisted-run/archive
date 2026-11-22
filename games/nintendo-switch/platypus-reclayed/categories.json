@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "passive-resistance-100",
+     "label": "Passive Resistance, 100%",
+     "rule": "- Hardest difficulty - Passive Resistance quest is passed. - All other areas are passed for 100% evaluation. - Deathless"
+    }
+   ]
+  }
+ ]
+}
