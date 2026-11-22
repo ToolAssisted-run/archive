@@ -1,0 +1,51 @@
+{
+ "id": "M3741",
+ "game": "saturn/magic-knight-rayearth",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Mitjitsu"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3741.bk2",
+  "format": "bk2",
+  "frames": 48120,
+  "rerecords": 14151,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.2.2",
+  "files": [
+   {
+    "name": "Magic Knight Rayearth (U)",
+    "sha1": "d5bc960ca5846342e07d0168b776e2aa3743b44c"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3741M",
+  "importedBy": "Mitjitsu",
+  "importedAt": "2026-11-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wLGeh3uDBzU"
+  }
+ ],
+ "submitted": "2018-07-15T10:48:37",
+ "attachments": [],
+ "forum": {
+  "topicId": 2179,
+  "url": "https://forum.toolassisted.run/t/2179"
+ }
+}

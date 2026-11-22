@@ -1,0 +1,52 @@
+{
+ "id": "M2217",
+ "game": "genesis/world-of-illusion-starring-mickey-mouse-and-donald-duck",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "Mitjitsu"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M2217.gmv",
+  "format": "gmv",
+  "frames": 67664,
+  "fps": 60.0,
+  "rerecords": 6474,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Gens 11 svn304",
+  "files": [
+   {
+    "name": "mikywrld.smd",
+    "sha1": "adb0a2edebb6f978c3217075a2f29003a8b025c6"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/2217M",
+  "importedBy": "Mitjitsu",
+  "importedAt": "2026-11-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=wnSNO4pXITw"
+  }
+ ],
+ "submitted": "2012-12-17T05:51:14",
+ "attachments": [],
+ "forum": {
+  "topicId": 2175,
+  "url": "https://forum.toolassisted.run/t/2175"
+ }
+}

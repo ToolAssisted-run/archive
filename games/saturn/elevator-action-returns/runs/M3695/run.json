@@ -1,0 +1,50 @@
+{
+ "id": "M3695",
+ "game": "saturn/elevator-action-returns",
+ "category": {
+  "goal": "2-players"
+ },
+ "authors": [
+  {
+   "user": "Mitjitsu"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M3695.bk2",
+  "format": "bk2",
+  "frames": 52770,
+  "rerecords": 7535,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "BizHawk 2.1.0",
+  "files": [
+   {
+    "name": "Elevator Action Returns (J).bin"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/3695M",
+  "importedBy": "Mitjitsu",
+  "importedAt": "2026-11-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=HWQ3Z3fpGJc"
+  }
+ ],
+ "submitted": "2018-05-02T11:18:50",
+ "attachments": [],
+ "forum": {
+  "topicId": 2177,
+  "url": "https://forum.toolassisted.run/t/2177"
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "M1167",
+ "game": "genesis/twinkle-tale",
+ "category": {
+  "goal": "baseline"
+ },
+ "authors": [
+  {
+   "user": "Mitjitsu"
+  }
+ ],
+ "tools": [],
+ "movie": {
+  "file": "M1167.gmv",
+  "format": "gmv",
+  "frames": 63215,
+  "fps": 60.0,
+  "rerecords": 6201,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "GENS",
+  "files": [
+   {
+    "name": "Twinkle Tale (J).bin",
+    "sha1": "5377e96b4cb14038675c41d165f1d92ae067cd9b"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "imported",
+  "verified": "imported"
+ },
+ "imported": {
+  "source": "https://tasvideos.org/1167M",
+  "importedBy": "Mitjitsu",
+  "importedAt": "2026-11-22"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=-u4qERB7UIA"
+  }
+ ],
+ "submitted": "2008-08-11T00:17:43",
+ "attachments": [],
+ "forum": {
+  "topicId": 2173,
+  "url": "https://forum.toolassisted.run/t/2173"
+ }
+}
