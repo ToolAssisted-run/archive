@@ -35,7 +35,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -70,6 +70,16 @@
    "date": "2026-11-23",
    "at": "2026-11-23T15:14:38Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-23",
+   "at": "2026-11-23T15:14:56Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-11-12, 81725c0a) + MAME-core (Nightly 2026-11-06, b1553966)",
+   "notes": "SHA1 hashes:\r\n- \"kinst.chd\": 12184E135CAB2A6372C65843F823478B213BBFA0\r\n- \"kinst.zip\": 7847B7C6826604C362CD8908752E4A2EF38D82D4"
   }
  ]
 }
