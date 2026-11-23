@@ -34,7 +34,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -62,6 +62,16 @@
    "date": "2026-11-23",
    "at": "2026-11-23T18:16:25Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-23",
+   "at": "2026-11-23T18:28:03Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-11-05, b9c65cd3) + Eden (Nightly 2026-11-17, 2e516dcc)",
+   "notes": "SHA1 hashes:\r\n- Platypus Reclayed [01009F7023642000] [v0].nsp: 463F2985B72895195162D56315AF287CCF291EF4\r\n- Platypus Reclayed [01009F7023642800][v327680][Up v1352].nsp: 4C331F94555499DC7791BE6171CD49B7962CD7A8\r\n- Firmware.23.0.1.zip: 72D6C0B4389412FBE734BBE2C98186D5C25D15EB\r\n- prod.keys (v22.5.0): F8FE72C0E329843BDB38A74B30589F8CEFB2F34C\r\n- title.keys (v22.5.0): CC1A1A6F05FC7BA7107301FA0C74D9AE9E402149"
   }
  ]
 }
