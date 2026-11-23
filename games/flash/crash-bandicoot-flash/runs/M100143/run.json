@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "provisional"
  },
  "encodes": [
@@ -101,6 +101,15 @@
    "date": "2026-11-12",
    "at": "2026-11-12T08:26:42Z",
    "post": 2
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-23",
+   "at": "2026-11-23T18:43:49Z",
+   "screenshot": "reproductions/1-Dimon12321.png",
+   "emulator": "Chimera (Nightly 2026-11-05, b9c65cd3) (Core: Ruffle, Nightly 2026-11-06, 413d9d84)"
   }
  ]
 }
