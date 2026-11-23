@@ -2,6 +2,8 @@ Platypus Reclayed is a side-scroller shoot 'em up. Like its original, Platypus (
 
 Reclayed follows the ideas of the classic duology (although Platypus 2 is considered a non-canon part), but expands the whole gameplay and adds the actual ending. Some ideas got their improvements. For instance, since you collect fruits to fuel up your ship, why not shoot food at enemies? Yeah, that's hilarious, and still, it fits well into that surrealistic world.
 
+Here is a good Wikia [article](https://claymatic.miraheze.org/wiki/Platypus_Reclayed) on the whole game, including its main gameplay elements (with sub-articles dedicated to power-ups, enemies, etc.).
+
 ## Game goals
 The game is divided into areas. Each area is evaluated by ratios of destroyed major and minor enemies. 100% overall gives the biggest bonus score.\
 Enemy sequences are predictable and time-based. For this reason, ~97% of TAS was done in slow motion.\
@@ -33,10 +35,9 @@ The control is simple. You move around the screen with your left analogue stick 
 
 The game is relatively easy, so there is not much point in going for Easy difficulty. Nasty difficulty provides maximum enemies, they often shoot, their shot patterns are wider and minor ones shoot a projectile at you on destruction.
 
-## Weapons
+## Power ups
 
-The weapons are described in this [article](https://steamcommunity.com/sharedfiles/filedetails/?id=3571835888).
-Through the game, you face special (groups of) enemies, which leave stars. Touching one gives you a weapon. Shooting it makes it switch the weapon. Also, food weapons may be triggered by shooting a star until it switches to "?!" mark. Each start may have its own set of available weapons.
+Through the game, you face special (groups of) enemies, which leave stars. Touching one gives you a weapon. Shooting the star makes it switch the weapon. Also, food ("hidden") weapons may be triggered by shooting a star until it switches to "?!" mark. Each start may have its own set of available weapons.
 Stars can be destroyed if you shoot them for too long. In my TAS, I did it a couple of times if it didn't affect the overall time.
 
 Platypus series has a rapid-firing trick when you quickly click Fire button. It works especially well on PC version where the framerate is unlocked.
@@ -67,9 +68,17 @@ Skipping the caravan wagons doesn't save any time. I got lucky with enemy sequen
 
 BTW, because Sonic Pulse weapon is broken in Platypus Classic mod, it's possible to destroy the level boss in just 3-4 shots.
 
+#### Level 2 Area 5
+
+Fortunately, enemy sequence is long enough to destroy all pieces of the boss.
+
+#### Level 4 Area 5
+
+The same thing. I could abuse fireballs to destroy the boss faster, but there would lead to a long flight doing nothing waiting for the remaining enemies to show up.
+
 #### Level 5 Area 5
 
-The final boss fight can be improved by a couple of seconds because its pincers cover its body at times. Also, I had to destroy some of its weapons because of intense fire.
+The final boss fight can be improved by a couple of seconds because its pincers cover its body at times. I think, Boxing Glove would be more efficient for phase 1. Also, I had to destroy some of its weapons because of intense fire.
 
 ### Possible improvements
 
