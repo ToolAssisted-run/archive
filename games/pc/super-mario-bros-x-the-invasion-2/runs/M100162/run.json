@@ -24,7 +24,7 @@
   "emulator": "Chimera TheXTech"
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -41,5 +41,15 @@
  "forum": {
   "topicId": 2184,
   "url": "https://forum.toolassisted.run/t/2184"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-23",
+   "at": "2026-11-23T16:48:03Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-11-05, b9c65cd3) + (Nightly 2026-11-19, 5372b92b)",
+   "notes": "Get \"thextech-smbx13-assets-full.7z\" (SHA-1 hash: A4D75F9ADB0AD1B8B6AAAB3CB9F4E9A99DF912D6), unzip it, and repackage it as SMBX.zip (SHA-1 hash: 9B52944981DA049CAA1FF97943C71355BBB77484)"
+  }
+ ]
 }
