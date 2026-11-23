@@ -37,7 +37,7 @@
  },
  "status": {
   "reproduced": "community",
-  "verified": "none"
+  "verified": "confirmed"
  },
  "encodes": [
   {
@@ -69,6 +69,14 @@
    "screenshot": "reproductions/1-toca.jpg",
    "emulator": "Chimera (Nightly 2026-10-24, f3aa8b78) + PCSX2 (Nightly 2026-10-24, 6c576f00)",
    "notes": "SHA-1 hash of \"Bujingai - The Forsaken City (USA).iso\": F35796CA6D93C6A3B79E64A074D8910D8E7B8AB6"
+  }
+ ],
+ "verifications": [
+  {
+   "user": "toca",
+   "date": "2026-11-23",
+   "at": "2026-11-23T16:09:56Z",
+   "expert": true
   }
  ]
 }
