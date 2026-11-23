@@ -1,0 +1,45 @@
+{
+ "id": "M100162",
+ "game": "pc/super-mario-bros-x-the-invasion-2",
+ "category": {
+  "goal": "100"
+ },
+ "authors": [
+  {
+   "user": "thegugafa"
+  }
+ ],
+ "tools": [],
+ "duration": 300.786,
+ "movie": {
+  "file": "M100162.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "2fddc3faae3e217b1929116d5b7cbd0331993ba9",
+  "frames": 300786,
+  "rerecords": 2341,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera TheXTech"
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=X3u0K0F4NYI"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-23",
+ "submitted": "2026-11-23T11:28:17Z",
+ "submittedBy": "thegugafa",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2184,
+  "url": "https://forum.toolassisted.run/t/2184"
+ }
+}
