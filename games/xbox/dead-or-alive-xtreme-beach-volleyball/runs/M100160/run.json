@@ -31,7 +31,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -61,6 +61,16 @@
    "user": "Dimon12321",
    "date": "2026-11-22",
    "at": "2026-11-22T12:04:13Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-23",
+   "at": "2026-11-23T15:24:02Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-10-24, f3aa8b78) + xemu core (Nightly 2026-10-24, 77cb1dde)",
+   "notes": "SHA1 hashes:\r\n- \"Dead or Alive Xtreme Beach Volleyball (USA) (En,Ja).iso\": 6A2E33C71D5F3E1C516283168D7AE0B980A61868\r\n- \"mcpx-1.0.bin\": 5D270675B54EB8071B480E42D22A3015AC211CEF\r\n- \"Complex_4627.bin\": 6639B6693784574D204C42703A74FD8B088A3A5E\r\n- \"xbox_hdd.qcow2\" (1,008,896KB): 1BC8A05B4FD99B3BE502021BBE6824B9FC5CF961"
   }
  ]
 }
