@@ -1,0 +1,52 @@
+{
+ "id": "M100164",
+ "game": "arcade/street-fighter-ii-turbo-hyper-fighting",
+ "category": {
+  "goal": "playthrough",
+  "sub": "guile"
+ },
+ "authors": [
+  {
+   "user": "Dark_Noob"
+  }
+ ],
+ "tools": [],
+ "duration": 588.406,
+ "movie": {
+  "file": "M100164.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "500aea09bf2f22024aa20b8a84e1fe2b1c665dc5",
+  "frames": 35091,
+  "rerecords": 5159,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera Nightly 2026-11-14 (Core: MAME b2d440a3)",
+  "files": [
+   {
+    "name": "sf2hf.zip",
+    "sha1": "038899098b47d4c72f415d41bf0467e828f73f4e"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/exC5vbUuhC8"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-22",
+ "submitted": "2026-11-24T02:35:03Z",
+ "submittedBy": "Dark_Noob",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2188,
+  "url": "https://forum.toolassisted.run/t/2188"
+ }
+}
