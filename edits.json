@@ -12743,6 +12743,17 @@
    "date": "2026-11-24",
    "at": "2026-11-24T10:00:41Z",
    "reason": "release year"
+  },
+  {
+   "kind": "group",
+   "key": "prince-of-persia",
+   "field": "games",
+   "from": "amiga/prince-of-persia, dos/mini-prince, dos/prince-of-persia, dos/prince-of-persia-2-the-shadow-and-the-flame, ds/prince-of-persia-the-fallen-king, flash/prince-of-persia-special-edition, gba/prince-of-persia-the-sands-of-time, gbc/prince-of-persia, gc/prince-of-persia-the-sands-of-time, gc/prince-",
+   "to": "amiga/prince-of-persia, dos/mini-prince, dos/prince-of-persia, dos/prince-of-persia-2-the-shadow-and-the-flame, ds/prince-of-persia-the-fallen-king, flash/prince-of-persia-special-edition, gba/prince-of-persia-the-sands-of-time, gbc/prince-of-persia, gc/prince-of-persia-the-sands-of-time, gc/prince-",
+   "by": "toca",
+   "date": "2026-11-24",
+   "at": "2026-11-24T10:01:14Z",
+   "reason": "Changed from the group form: j2me/prince-of-persia-harem-adventures moved in"
   }
  ]
 }
