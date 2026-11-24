@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -61,6 +61,16 @@
    "date": "2026-11-24",
    "at": "2026-11-24T11:55:24Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-24",
+   "at": "2026-11-24T11:55:48Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "FCEUX 2.7.0",
+   "notes": "SHA1 hash of \"Solomon's Key (USA).nes\": 18102689FD35C7D531A5E6241B06B748ACCAB2F6"
   }
  ]
 }
