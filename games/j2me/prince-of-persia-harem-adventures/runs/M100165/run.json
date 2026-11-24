@@ -1,0 +1,67 @@
+{
+ "id": "M100165",
+ "game": "j2me/prince-of-persia-harem-adventures",
+ "category": {
+  "goal": "alternate-version"
+ },
+ "authors": [
+  {
+   "user": "toca"
+  }
+ ],
+ "tools": [],
+ "duration": 203.033,
+ "movie": {
+  "file": "M100165.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "77b19aa2a1cefdbe92002720aa2a1ae3ae2b43e1",
+  "frames": 12457,
+  "rerecords": 4249,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera (Nightly 2026-11-21, b2f3de7b) + J2ME Core (Nightly 2026-11-22, c725b9c9)",
+  "files": [
+   {
+    "name": "PrinceofPersia (Gameloft SA) (1.0.12) (CLDC-1.0, MIDP-1.0) (CB27E450).jar",
+    "sha1": "c776049eeab05e12430a452082ec7fdf0bf09da7"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=Rl_LYbMj9XM"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://www.youtube.com/watch?v=UO8_Xjgddlo",
+   "title": "Reading game-internal info",
+   "description": "Encode with relevant RAM values",
+   "thumbnail": "alt-c1538f7bf67f.jpg"
+  }
+ ],
+ "attachments": [
+  {
+   "file": "attachments/pop_hud.lua",
+   "role": "submitted attachment"
+  },
+  {
+   "file": "attachments/pop_addresses.csv",
+   "role": "submitted attachment"
+  }
+ ],
+ "completed": "2026-11-24",
+ "submitted": "2026-11-24T10:44:21Z",
+ "submittedBy": "toca",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2190,
+  "url": "https://forum.toolassisted.run/t/2190"
+ }
+}
