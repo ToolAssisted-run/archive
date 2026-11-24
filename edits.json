@@ -12721,6 +12721,17 @@
    "date": "2026-11-23",
    "at": "2026-11-23T15:56:23Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "category",
+   "key": "arcade/street-fighter-ii-turbo-hyper-fighting:playthrough/guile",
+   "field": "added",
+   "from": "",
+   "to": "Guile",
+   "by": "Dark_Noob",
+   "date": "2026-11-24",
+   "at": "2026-11-24T02:04:21Z",
+   "reason": "Created it."
   }
  ]
 }

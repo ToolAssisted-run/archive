@@ -7,7 +7,14 @@
     {
      "key": "playthrough",
      "label": "playthrough",
-     "rule": "Complete the game with specifics characters"
+     "rule": "Complete the game with specifics characters",
+     "subcategories": [
+      {
+       "key": "guile",
+       "label": "Guile",
+       "rule": "It display which character you are playing"
+      }
+     ]
     }
    ]
   }
