@@ -1,0 +1,51 @@
+{
+ "id": "M100163",
+ "game": "nes/solomons-key",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "duration": 691.112,
+ "movie": {
+  "file": "M100163.fm2",
+  "format": "fm2",
+  "sha1": "a639891c6ca455a52835a0c8394490d1ce838253",
+  "frames": 41535,
+  "rerecords": 22078,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.7.0",
+  "files": [
+   {
+    "name": "Solomon's Key (U) [!].nes",
+    "sha1": "ee504f11f05e9360f6459a57e422ecaa52cb0b27"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/_w-AKj8MT0M"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-23",
+ "submitted": "2026-11-24T00:12:15Z",
+ "submittedBy": "Arc",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2186,
+  "url": "https://forum.toolassisted.run/t/2186"
+ }
+}
