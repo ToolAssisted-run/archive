@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "playthrough",
+     "label": "playthrough",
+     "rule": "Complete the game with specifics characters"
+    }
+   ]
+  }
+ ]
+}
