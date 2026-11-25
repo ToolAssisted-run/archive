@@ -61,5 +61,12 @@
    "post": 2
   }
  ],
- "notesFormat": "markdown"
+ "notesFormat": "markdown",
+ "likes": [
+  {
+   "user": "GMP",
+   "date": "2026-11-25",
+   "at": "2026-11-25T16:41:58Z"
+  }
+ ]
 }
