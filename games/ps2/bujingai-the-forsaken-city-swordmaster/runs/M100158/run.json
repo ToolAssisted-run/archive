@@ -45,7 +45,12 @@
    "url": "https://www.youtube.com/watch?v=bJz5mmaGb_o"
   }
  ],
- "attachments": [],
+ "attachments": [
+  {
+   "file": "attachments/Bujingai_NTSC.ps2",
+   "role": "supplementary"
+  }
+ ],
  "completed": "2026-11-21",
  "submitted": "2026-11-21T21:35:52Z",
  "submittedBy": "SukeSJ",
