@@ -9,7 +9,10 @@ Structural rules plus anti-abuse limits:
   notes <= 1 MB (the archivist intake enforces a stricter 256 KB on native
   submissions; the wider CI bound leaves room for large imported-run notes)
 - attachments: <= 8 files, each <= 128 KB, <= 512 KB total, allowlisted
-  text extensions only, valid UTF-8, and never matching the declared ROM hash
+  text extensions only, valid UTF-8, and never matching the declared ROM hash;
+  or a save file / memory card (SAVE_ATTACH_EXT) <= 16 MiB, or a .zip holding
+  only such files (<= 16 entries, safe names, <= 32 MiB uncompressed), <= 32
+  MiB of saves per run
 - community rosters: reproduction screenshots are real images (magic bytes
   checked) under reproductions/, <= 512 KB each / <= 8 MB per run; no author
   may reproduce or verify their own run; one live act per user per roster;
@@ -63,6 +66,37 @@ MOVIE_ATTACH_EXT = {
     '.mmv', '.nmv', '.omr', '.otts', '.p2m2', '.p2tas', '.pjm', '.pxm',
     '.qtas', '.rec', '.replay', '.ronr', '.smv', '.srctas', '.tas',
     '.tasproj', '.vbm', '.vmv', '.wtf', '.ymv', '.zmv'}
+# Save files and memory cards: binary attachments a run may need to replay
+# (a PS2 memory card for a PCSX2 run, a battery save for a cartridge game).
+# Each type is what an emulator writes for a save a TAS starts from:
+#   .ps2            PCSX2 memory card (8,650,752 bytes for a standard 8 MB card)
+#   .mcd .mcr .mc   PS1 memory cards (DuckStation, Mednafen/Beetle, PCSX-style)
+#   .sav            battery save (GBA/GB/GBC, Nintendo DS, Dolphin, many others)
+#   .srm            RetroArch and bsnes/Snes9x SRAM
+#   .eep .sra .fla  Nintendo 64 EEPROM, SRAM and Flash RAM (Mupen64, Project64)
+#   .gci            GameCube single-save file (Dolphin)
+#   .raw            GameCube memory card image (Dolphin; 16 MiB for the largest)
+#   .dsv            DeSmuME save
+# Left out on purpose: .bin, which is far too generic (a ROM, a BIOS or any
+# blob would pass as a "save").
+# Intake reads this list from here (archivist/settings.py).
+SAVE_ATTACH_EXT = {
+    '.dsv', '.eep', '.fla', '.gci', '.mc', '.mcd', '.mcr', '.ps2', '.raw',
+    '.sav', '.sra', '.srm'}
+# A container that may hold save files and nothing else. A .zip is read from
+# its listing, never unpacked to disk. (.7z is not read: the Python standard
+# library cannot, and the site depends on no package that can.)
+SAVE_ARCHIVE_EXT = {'.zip'}
+# One save file (or one file inside a .zip): a GameCube memory card of the
+# largest common size is exactly 16 MiB and a standard PS2 card is 8.25 MiB.
+SAVE_MAX_EACH = 16 * 1024 * 1024
+# All the save files of one run, a .zip counted by what is inside it. The
+# archive is plain Git (no LFS) and GitHub refuses a file over 100 MB and
+# warns over 50 MB: 32 MiB for a whole run stays far under both, and memory
+# cards are mostly empty space, so a clone pays far less than that.
+SAVE_MAX_TOTAL = 32 * 1024 * 1024
+# Files in one .zip: a card plus a few saves, never a bomb of thousands.
+SAVE_ZIP_MAX_ENTRIES = 16
 # What a git host will actually hold, not what we invite: intake stops at
 # 32 MB (archivist and selfimport), so anything larger is here because a person
 # decided it should be. GitHub refuses a file over 100 MB outright.
@@ -81,6 +115,61 @@ IMAGE_MAGIC = {'.png': [b'\x89PNG\r\n\x1a\n'], '.jpg': [b'\xff\xd8\xff'],
                '.jpeg': [b'\xff\xd8\xff'], '.webp': [b'RIFF']}
 
 errors = []
+def save_zip_check(data):
+    """Check a .zip of save files without unpacking it to disk.
+
+    Returns (problem, unpacked_bytes): `problem` is why the zip may not be
+    archived (None when it may), `unpacked_bytes` what its files add up to.
+    Reads the listing, then streams each file through memory to count what
+    really comes out, because a header can lie about its size.
+    """
+    import io
+    import zipfile
+    try:
+        zf = zipfile.ZipFile(io.BytesIO(data))
+    except (zipfile.BadZipFile, ValueError, NotImplementedError):
+        return 'is not a readable zip', 0
+    with zf:
+        everything = zf.infolist()
+        files = [i for i in everything if not i.is_dir()]
+        if len(everything) > SAVE_ZIP_MAX_ENTRIES * 4 or len(files) > SAVE_ZIP_MAX_ENTRIES:
+            return f'holds more than {SAVE_ZIP_MAX_ENTRIES} files', 0
+        if not files:
+            return 'holds no files', 0
+        declared = 0
+        for i in files:
+            name = i.filename
+            parts = re.split(r'[/\\]', name)
+            if (name.startswith(('/', '\\')) or ':' in name or '\x00' in name
+                    or any(p in ('', '.', '..') for p in parts)):
+                return f'has the unsafe name {name[:40]!r}', 0
+            if pathlib.PurePosixPath(parts[-1]).suffix.lower() not in SAVE_ATTACH_EXT:
+                return f'holds {name[:40]!r}, which is not a save file type', 0
+            if i.flag_bits & 0x1:
+                return f'holds {name[:40]!r}, which is encrypted', 0
+            if i.file_size > SAVE_MAX_EACH:
+                return f'holds {name[:40]!r}, over {SAVE_MAX_EACH >> 20} MiB', 0
+            declared += i.file_size
+            if declared > SAVE_MAX_TOTAL:
+                return f'holds more than {SAVE_MAX_TOTAL >> 20} MiB unpacked', 0
+        real = 0
+        try:
+            for i in files:
+                seen = 0
+                with zf.open(i) as f:
+                    while True:
+                        chunk = f.read(1 << 20)
+                        if not chunk:
+                            break
+                        seen += len(chunk)
+                        real += len(chunk)
+                        if seen > SAVE_MAX_EACH or real > SAVE_MAX_TOTAL:
+                            return 'holds more than it says: a zip bomb', 0
+        except (zipfile.BadZipFile, ValueError, NotImplementedError, EOFError, OSError):
+            return 'is damaged or uses a method this archive does not read', 0
+    return None, real
+
+
 def err(msg): errors.append(msg)
 report_ids = {}   # global registry: report id -> first run dir seen
 
@@ -437,6 +526,7 @@ def check_run(rdir, gdir, cats, valid_opts):
     declared = {a['file'] for a in r.get('attachments', [])}
     rom_sha1 = ((r.get('contract') or {}).get('rom') or {}).get('sha1', '').lower()
     total = 0
+    saves = 0
     for a in sorted(declared):
         ap = rdir / a
         if not ap.exists():
@@ -448,6 +538,17 @@ def check_run(rdir, gdir, cats, valid_opts):
             # additional movie files are welcome attachments (binary OK)
             if size > MOVIE_MAX:
                 err(f'{rdir}: movie attachment {a!r} exceeds {MOVIE_MAX>>20} MB')
+        elif suffix in SAVE_ATTACH_EXT:
+            saves += size
+            if size > SAVE_MAX_EACH:
+                err(f'{rdir}: save file {a!r} exceeds {SAVE_MAX_EACH>>20} MiB')
+        elif suffix in SAVE_ARCHIVE_EXT:
+            problem, unpacked = save_zip_check(data)
+            if problem:
+                err(f'{rdir}: attachment {a!r} {problem}')
+            saves += unpacked
+            if size > SAVE_MAX_EACH:
+                err(f'{rdir}: save file {a!r} exceeds {SAVE_MAX_EACH>>20} MiB')
         elif suffix in ALLOWED_ATTACH_EXT:
             total += size
             if size > ATTACH_MAX_EACH:
@@ -462,6 +563,8 @@ def check_run(rdir, gdir, cats, valid_opts):
             err(f'{rdir}: attachment {a!r} matches the declared ROM hash')
     if total > ATTACH_MAX_TOTAL:
         err(f'{rdir}: text attachments exceed {ATTACH_MAX_TOTAL>>10} KB total')
+    if saves > SAVE_MAX_TOTAL:
+        err(f'{rdir}: save files exceed {SAVE_MAX_TOTAL>>20} MiB total')
 
     # community rosters: self-acts, duplicates, screenshots, status honesty
     author_names = {canon(a['user']) for a in r.get('authors', [])}
