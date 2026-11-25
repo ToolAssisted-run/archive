@@ -1,0 +1,54 @@
+{
+ "id": "M100166",
+ "game": "dos/prince-of-persia",
+ "category": {
+  "goal": "baseline",
+  "sub": "standard"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "metrics": {
+  "in-game-time": 717.5
+ },
+ "duration": 820.0,
+ "movie": {
+  "file": "M100166.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "7f57dd4b4def20ddbbdbaaa384f5bc80ab664a35",
+  "frames": 12319,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera (Core: SDLPoP c08994a6)",
+  "files": [
+   {
+    "name": "Prince of Persia Collection - Limited Edition (USA).bin",
+    "sha1": "1625c3d448f432afb06ff96b334278f2b930f942"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/VwoIdqz1c5U"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-25T07:03:23Z",
+ "submittedBy": "eien86",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2191,
+  "url": "https://forum.toolassisted.run/t/2191"
+ }
+}
