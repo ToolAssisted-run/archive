@@ -10,8 +10,8 @@ Structural rules plus anti-abuse limits:
   submissions; the wider CI bound leaves room for large imported-run notes)
 - attachments: <= 8 files, each <= 128 KB, <= 512 KB total, allowlisted
   text extensions only, valid UTF-8, and never matching the declared ROM hash;
-  or a save file / memory card (SAVE_ATTACH_EXT) <= 16 MiB, or a .zip holding
-  only such files (<= 16 entries, safe names, <= 32 MiB uncompressed), <= 32
+  or a save file / memory card (SAVE_ATTACH_EXT) <= 32 MiB, or a .zip holding
+  only such files (<= 16 entries, safe names, <= 64 MiB uncompressed), <= 64
   MiB of saves per run
 - community rosters: reproduction screenshots are real images (magic bytes
   checked) under reproductions/, <= 512 KB each / <= 8 MB per run; no author
@@ -88,13 +88,16 @@ SAVE_ATTACH_EXT = {
 # library cannot, and the site depends on no package that can.)
 SAVE_ARCHIVE_EXT = {'.zip'}
 # One save file (or one file inside a .zip): a GameCube memory card of the
-# largest common size is exactly 16 MiB and a standard PS2 card is 8.25 MiB.
-SAVE_MAX_EACH = 16 * 1024 * 1024
+# largest common size is exactly 16 MiB, a standard PS2 card is 8.25 MiB and
+# the larger PCSX2 card is 17,301,504 bytes; 32 MiB leaves room for all of
+# them. Each file stays under GitHub's 50 MB warning and 100 MB refusal.
+SAVE_MAX_EACH = 32 * 1024 * 1024
 # All the save files of one run, a .zip counted by what is inside it. The
 # archive is plain Git (no LFS) and GitHub refuses a file over 100 MB and
-# warns over 50 MB: 32 MiB for a whole run stays far under both, and memory
-# cards are mostly empty space, so a clone pays far less than that.
-SAVE_MAX_TOTAL = 32 * 1024 * 1024
+# warns over 50 MB. No single file reaches either (32 MiB at most), and 64 MiB
+# for a whole run allows two large cards. Cards are mostly empty space, so a
+# clone pays far less than that.
+SAVE_MAX_TOTAL = 64 * 1024 * 1024
 # Files in one .zip: a card plus a few saves, never a bomb of thousands.
 SAVE_ZIP_MAX_ENTRIES = 16
 # What a git host will actually hold, not what we invite: intake stops at
