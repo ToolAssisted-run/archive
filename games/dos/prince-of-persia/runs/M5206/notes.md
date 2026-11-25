@@ -9,41 +9,35 @@
 > without passing through this site's standard procedure. The movie file and these
 > notes were obtained freely from tasvideos.org and are redistributed in observance
 > of the Creative Commons Attribution 2.0 license under which they were published there.
+### Introduction
 
-!! Introduction
-In this timeless classic, the tyrant Jaffar has seized power and has forced the Sultan's daughter to marry him. You, the brave youth who is a prisoner in Jaffar's dungeons must rescue her within 60 minutes. This movie obsoletes [4477M] by beating the game -- for the first time ever -- in LESS than 12 minutes. That is, 2 frames under a fifth of the time Jordan Mechner, the game's author, thought reasonable.
+In this timeless classic, the tyrant Jaffar has seized power and has forced the Sultan's daughter to marry him. You, the brave youth who is a prisoner in Jaffar's dungeons must rescue her within 60 minutes. This movie obsoletes [M4477] by beating the game -- for the first time ever -- in LESS than 12 minutes. That is, 2 frames under a fifth of the time Jordan Mechner, the game's author, thought reasonable.
 
+:::toc
+:::
 
-%%TOC%%
+#### Category Rules
 
-! Category Rules
-* any%: everything, except cheat codes are allowed.
-* Takes damage to save time
-* Heavy glitch abuse
-* Heavy luck manipulation
+- any%: everything, except cheat codes are allowed.
+- Takes damage to save time
+- Heavy glitch abuse
+- Heavy luck manipulation
 
-
-! Preamble
-
+#### Preamble
 
 Prince of Persia was my first PC game and, like all of us here making obsessively optimized movies of a particular game, the one that connects me with my childhood the most. Me and my brother (well, my brother mostly) would play this every day for hours and hours. At first, the challenge was to solve the puzzles and discover how to beat each level, one after the other. At some point we would reach the biggest enemy of all: time. The game gives you only 60 minutes to beat the game and, if you don't get there quick enough, you simply lose. So being quick was a necessity back then.
 
-
-The day when we finally beat the game, we discovered that it had a scoreboard. One we hadn't seen ever: it recorded the remaining time. That is, this game did not reward the player who killed the most guards or had the most HP, but who finished it faster -- at any cost. So the game basically forced you into speedrunning it. I never had the talent to run the game, but one day two years ago I decided to search "PoP speedrun WR" on youtube and found [https://www.youtube.com/watch?v=GsFEymh_Qc0|Higlak], who then was (and today is!) the any% WR holder.
-
+The day when we finally beat the game, we discovered that it had a scoreboard. One we hadn't seen ever: it recorded the remaining time. That is, this game did not reward the player who killed the most guards or had the most HP, but who finished it faster -- at any cost. So the game basically forced you into speedrunning it. I never had the talent to run the game, but one day two years ago I decided to search "PoP speedrun WR" on youtube and found [Higlak](https://www.youtube.com/watch?v=GsFEymh_Qc0), who then was (and today is!) the any% WR holder.
 
 Higlak brought me to the game's discord and that's when I fell into the rabbit hole. Since I was talentless to run but still wanted to participate, I started glitch hunting. First, using JPC-RR and Cheat Engine to explore and eventually discover new groundbreaking skips. The skips I discovered removed a couple of minutes from the human WR, leading to a flurry of new WRs in the following weeks. At that point I thought I'd take it all the way and produce a proper TAS of the game, exploiting all known tricks in the game, which led me to publish in this site a movie that completed the game in an incredible 12 minutes and 10 seconds.
 
-
 During the making of the published movie, I was constantly in contact with the community, speculating what the final time would be. Indeed, the question of whether a sub-12 minute solution would be feasible. For some reason, I was convinced it was and was therefore somewhat disappointed with the extra 10 seconds. The feeling was bittersweet, but I was overall satisfied with my first work. However, the question of a sub-12 minute run remained...
 
+![](https://i.ibb.co/wwf4V89/pipedream.png)
 
-[https://i.ibb.co/wwf4V89/pipedream.png]
+Although I had used a brute-force exploration bot to refine the run in my submission, I had taken artistic liberties in the spirit of entertainment. However, at this point I knew that, if I wanted to achieve the elusive sub-12 run, I had to take a much more scientific approach to this TAS. To shave 10 seconds (120 frames) was an unthinkable task that would require either (a) a new groundbreaking trick, or (b) an extreme refinement of the current route. This endeavor couldn't be rushed, it had to take as long as needed.
 
-
-Although I had used a brute-force exploration bot to refine the run in my submission, I had taken artistic liberties in the spirit of entertainment. However, at this point I knew that, if I wanted to achieve the elusive sub-12 run, I had to take a much more scientific approach to this TAS. To shave 10 seconds (120 frames) was an unthinkable task that would require either (a) a new groundbreaking trick, or (b) an extreme refinement of the current route. This endeavor couldn't be rushed, it had to take as long as needed. 
-
-The first order of business was to improve the [https://github.com/SergioMartin86/jaffarPlus/|routing bot]. I could never achieve the necessary improvements with the tools I had back then so I went on looking at botting from different perspectives. A part of my work on other games and emulators last year was motivated by the need of finding new challenges and exploring new general techniques for TASing. And ohh boy, did I find them. In particular, the NES, SNES, and Genesis ports helped me figure out how to better solve some of the game's unique challenges:
+The first order of business was to improve the [routing bot](https://github.com/SergioMartin86/jaffarPlus/). I could never achieve the necessary improvements with the tools I had back then so I went on looking at botting from different perspectives. A part of my work on other games and emulators last year was motivated by the need of finding new challenges and exploring new general techniques for TASing. And ohh boy, did I find them. In particular, the NES, SNES, and Genesis ports helped me figure out how to better solve some of the game's unique challenges:
 
 (1) RNG Manipulation. Perhaps the biggest contributor to frustration to this and a myriad other games. A slight change in the game's RNG state will desync any well polished movie. Furthermore, the best possible time for each level in the game was predetermined by the starting RNG. This phenomenon breaks the independence between levels and forces you to think how you solve the entire game as a whole, as opposed to broken parts. Fortunately, as you will read in these notes, I was able to find an effective, albeit complicated, solution to this problem.
 
@@ -51,62 +45,67 @@ The first order of business was to improve the [https://github.com/SergioMartin8
 
 (3) Tolerance to waiting frames. One of the worst nightmares of botting a game are passive ways. The bot is hyperactive by design: you want to get to the end of the level as fast as possible without any waits. Waiting expands the exploration space unnecessarily and most likely makes the movie slower. However, in very precise situations, waiting brings the best solution. Excellent examples of this are opening doors. You don't want to bash against the door as it opens; rather, you need to wait until it's mostly open and then run towards crossing it with momentum. In this movie, I was finally able to figure out how to factor waiting into solutions without punishing performance.
 
-
 Besides learning better techniques for botting, I also had to get really serious understanding the inner mechanics of the game. This involved taking a close look at the game's source code (thanks to the SDLPoP project), and understanding exactly what aspects of the game modify RNG and how some very specific timing events work. This step is what really took longer -- some mechanics required months to digest. Not because they were complicated, but because analyzing a game in such detail requires extreme patience, way beyond the point of having fun (in the moment). I had seen such dedication in some TASers around here, those who know more about the game than the developers themselves. I never thought I'd reach that level of understanding but here I am, 30 years after I first played it.
 
-It pains me to replace the previous movie since it contained many entertainment-only moves. This one is very different in many aspects. First, there are ABSOLUTELY no entertainment-speed tradeoffs. Every single move was coldly calculated for speed and is completely necessary to achieve the end goal. The only entertainment elements are there when waiting is the obligatory thing to do (notably, the copyright level). Second, this movie uses a much better emulator: LibTAS+PCem which does not suffer from lag nor glitches in Sound Blaster emulation like JPC-RR did. Finally, it uses the game's version 1.4, as opposed to 1.0. This only brings a palette change in the levels' coloring. Using v1.4 was not possible before using JPC-RR because of unexpected crashes. 
+It pains me to replace the previous movie since it contained many entertainment-only moves. This one is very different in many aspects. First, there are ABSOLUTELY no entertainment-speed tradeoffs. Every single move was coldly calculated for speed and is completely necessary to achieve the end goal. The only entertainment elements are there when waiting is the obligatory thing to do (notably, the copyright level). Second, this movie uses a much better emulator: LibTAS+PCem which does not suffer from lag nor glitches in Sound Blaster emulation like JPC-RR did. Finally, it uses the game's version 1.4, as opposed to 1.0. This only brings a palette change in the levels' coloring. Using v1.4 was not possible before using JPC-RR because of unexpected crashes.
 
 This is some sort of soft-last hurrah for me. I haven't lost passion for TASing but my life circumstances have taken away from me all the extra time I had for TASing, so my output will be greatly reduced. I hope to keep producing good quality stuff in the future, but it's gonna be a while. In light of this, I decided to make public the new version of my bot, which is now multi-platform (can run NES, SNES, Genesis, etc). I hope someone will use it or base their work on the lessons learned in its development.
 
-Finally, the supplementary [https://tasvideos.org/GameResources/DOS/PrinceOfPersia|game mechanics page] is a recommended read for reproducing the movie or for anybody trying to improve on it in the future. Without further ado, I hope you enjoy both the movie and its explanation. It took some effort :)
+Finally, the supplementary [game mechanics page](https://tasvideos.org/GameResources/DOS/PrinceOfPersia) is a recommended read for reproducing the movie or for anybody trying to improve on it in the future. Without further ado, I hope you enjoy both the movie and its explanation. It took some effort :)
 
-!! Software + Hardware
+### Software + Hardware
 
-! Rom Information
-* Name: [http://redump.org/disc/9664/|Prince of Persia Collection: Limited Edition]
-* MD5: 7f185559f694140312bc84fba0558d9a
+#### Rom Information
 
-! Emulator
-* [https://github.com/clementgallet/libTAS/releases/tag/v1.4.4|LibTAS 1.4.4] + [https://github.com/TASEmulators/pcem/releases/tag/17%2Bst-1|PCem 17+st-1] + [https://tasvideos.org/EmulatorResources/PCem/DOS/Configurations#Late90s|Late 90's PC] configuration.
+- Name: [Prince of Persia Collection: Limited Edition](http://redump.org/disc/9664/)
+- MD5: 7f185559f694140312bc84fba0558d9a
 
-! Additional Tools
-* Routing Bot: [https://github.com/SergioMartin86/jaffarplus|JaffarPlus] Core: SDLPop
-* Game Source Code: [https://github.com/NagyD/SDLPoP/|SDLPop]
-* Level Layout Analysis: [https://www.princed.org/downloads/#RoomShaker|RoomShaker]
-* In-Memory Analysis (Linux): [https://github.com/korcankaraokcu/PINCE|Pince]
-* RNG Tools: [https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/explorer.cpp|Explorer] / [https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/solver.cpp|Solver] / [https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/tester.cpp|Tester] / [https://github.com/SergioMartin86/jaffarPlus/blob/master/examples/sdlpop/runner.py|Sampler]
+#### Emulator
 
-! Hardware: 
-** The 'Jaffanator': AMD Ryzen Threadripper 3990X Processor (64 cores, 128 threads) + 256Gb RAM (Average Exploration Performance: 5.5M States/s)
-** 2 x AMD EPYC 7742 Processor (128 cores, 256 threads) + 1Tb RAM (Average Exploration Performance: 10.0M States/s)
+- [LibTAS 1.4.4](https://github.com/clementgallet/libTAS/releases/tag/v1.4.4) + [PCem 17+st-1](https://github.com/TASEmulators/pcem/releases/tag/17%2Bst-1) + [Late 90's PC](https://tasvideos.org/EmulatorResources/PCem/DOS/Configurations#Late90s) configuration.
 
-!! Explanation Part I: Segment Optimization
+#### Additional Tools
 
-One thing I noticed working on the previous movie is that the bot would find different solutions depending on which SDLPoP state I chose as the initial point of exploration. Especially on Level 2, the level with the most guards in the critical path, the difference between solutions would be around 4 or 5 frames. 
+- Routing Bot: [JaffarPlus](https://github.com/SergioMartin86/jaffarplus) Core: SDLPop
+- Game Source Code: [SDLPop](https://github.com/NagyD/SDLPoP/)
+- Level Layout Analysis: [RoomShaker](https://www.princed.org/downloads/#RoomShaker)
+- In-Memory Analysis (Linux): [Pince](https://github.com/korcankaraokcu/PINCE)
+- RNG Tools: [Explorer](https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/explorer.cpp) / [Solver](https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/solver.cpp) / [Tester](https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/tester.cpp) / [Sampler](https://github.com/SergioMartin86/jaffarPlus/blob/master/examples/sdlpop/runner.py)
 
-Although at first I thought the bot had concurrency problems (it runs in parallel, using all the cores in the computer), these wouldn't manifest in levels where guards were simply skipped. I quickly realized that the common factor in all these observations is RNG. Different save states produced in SDLPoP at different times contained different initial RNG values, which would affect the [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#GuardRngBehavior|behavior of the game's guards]. 
+#### Hardware:
 
-It became apparent that, even with a perfect bot running on the world's biggest supercomputer, it wouldn't be able to find the best possible solution if the initial RNG was unfavorable. To solve this problem, I (1) modified the bot to make it able to modify the starting RNG value to whichever I wanted, and; (2) created a simple [https://github.com/SergioMartin86/jaffarPlus/blob/master/examples/sdlpop/runner.py|sampler script] -- one that would run the bot once and time again, all with [https://en.wikipedia.org/wiki/Monte_Carlo_method|different initial RNG seeds]. (Note: selecting seeds at random is not, in principle, necessary. A sequential selection from 0 to n, where n is the number of samples to run, would be equally effective, assuming the RNG is homogeneous).
+- The 'Jaffanator': AMD Ryzen Threadripper 3990X Processor (64 cores, 128 threads) + 256Gb RAM (Average Exploration Performance: 5.5M States/s)
+  - 2 x AMD EPYC 7742 Processor (128 cores, 256 threads) + 1Tb RAM (Average Exploration Performance: 10.0M States/s)
+
+### Explanation Part I: Segment Optimization
+
+One thing I noticed working on the previous movie is that the bot would find different solutions depending on which SDLPoP state I chose as the initial point of exploration. Especially on Level 2, the level with the most guards in the critical path, the difference between solutions would be around 4 or 5 frames.
+
+Although at first I thought the bot had concurrency problems (it runs in parallel, using all the cores in the computer), these wouldn't manifest in levels where guards were simply skipped. I quickly realized that the common factor in all these observations is RNG. Different save states produced in SDLPoP at different times contained different initial RNG values, which would affect the [behavior of the game's guards](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#GuardRngBehavior).
+
+It became apparent that, even with a perfect bot running on the world's biggest supercomputer, it wouldn't be able to find the best possible solution if the initial RNG was unfavorable. To solve this problem, I (1) modified the bot to make it able to modify the starting RNG value to whichever I wanted, and; (2) created a simple [sampler script](https://github.com/SergioMartin86/jaffarPlus/blob/master/examples/sdlpop/runner.py) -- one that would run the bot once and time again, all with [different initial RNG seeds](https://en.wikipedia.org/wiki/Monte_Carlo_method). (Note: selecting seeds at random is not, in principle, necessary. A sequential selection from 0 to n, where n is the number of samples to run, would be equally effective, assuming the RNG is homogeneous).
 
 For some of the levels, this approach wouldn't be enough. Level 2 contains four guards in a row, all of which need to behave frame-perfectly for the bot to find the best solution. Such luck might require thousands (or many more) bot runs to reach the perfect initial RNG that chained all the guard's actions perfectly. Of course I, nor anybody in this world, had the time or resources to waste on this.
 
 After thinking about this problem for some time, I came up with the solution. There are choke points in this game. These are points where, barring possible new groundbreaking skips, the hero is obliged to go through and always that leaves him in the exact same position, no matter what route was taken before. Excellent examples of these choke points are climbs:
 
-[https://i.ibb.co/b5myfQ3/image1.png]
+![](https://i.ibb.co/b5myfQ3/image1.png)
 
 Climbs always take the same number of frames, leave the hero at the same relative x and y coordinates, and end with the hero in the same animation frame. This means that, in the absence of other concurrent events (a door closing or opening, or having to come back), it is possible to ignore everything that happened before after climbing up. It is as if a new level just started at that point.
 
 The idea is as follows: to split each level, especially those RNG-sensitive, into segments separated by choke points. I would then create different initial states, one per segment, and solve them independently from each other. Finding the best solution for each segment separately would require much fewer samples, than finding the perfect RNG for all of them together. Furthermore, given each segment is shorter than a whole level, each sample would take less time to run. A double win.
 
-Spoiler alert: segmentation worked. The game's 15 levels ended up divided into 30 segments. I put the bot to work for days and days solving each segment once and time again, storing the best solution along with its randomized initial RNG. Although I should have run all 4 billion possible starting RNGs for each segment, I only ran a few hundred samples for each. Even in the worst cases, I stopped observing improvements way before reaching 100 samples. 
+Spoiler alert: segmentation worked. The game's 15 levels ended up divided into 30 segments. I put the bot to work for days and days solving each segment once and time again, storing the best solution along with its randomized initial RNG. Although I should have run all 4 billion possible starting RNGs for each segment, I only ran a few hundred samples for each. Even in the worst cases, I stopped observing improvements way before reaching 100 samples.
 
 The outcome of sampling the segments did not only find the arguably best solution, but also a histogram of alternative solutions and their frequencies. In this section I show a comparison of each segment in the new and old movie and explain the improvements (if any). I named segments with the following nomenclature: LL-SS, where L is the level number and S is the level's segment Id.
 
-! Time Table
-The following time table compares this submission with [4477M] based on the number of frames per level. This category seeks to minimize the internal game timer (IGT), as described [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#GameTimer|here]. The exact values of the IGT remaining minutes and ticks can be found in these [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#RelevantAddresses|addresses]. 
+#### Time Table
 
-The table displays the inverse probability (1/P) of success for each solution. That is, the expected number of attempts needed to find the correct RNG that allows the solution to succeed. This number was obtained by running a [https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/tester.cpp|tester] script that runs the solution millions of time with different RNG seeds and reports back the ratio of good vs total results.
-%%SRC_EMBED
+The following time table compares this submission with [M4477] based on the number of frames per level. This category seeks to minimize the internal game timer (IGT), as described [here](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#GameTimer). The exact values of the IGT remaining minutes and ticks can be found in these [addresses](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#RelevantAddresses).
+
+The table displays the inverse probability (1/P) of success for each solution. That is, the expected number of attempts needed to find the correct RNG that allows the solution to succeed. This number was obtained by running a [tester](https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/tester.cpp) script that runs the solution millions of time with different RNG seeds and reports back the ratio of good vs total results.
+
+```
                                   New Movie                          4477M                   Diff             Ratio
 Level        Segment       Frames           1/P             Frames           1/P             Frames             1/P
 Level 01     00             243             1.00             244             1.00               0             1.000
@@ -154,15 +153,16 @@ Level 13     00             145             1.37             145             1.3
 Level 13     02              75            1.00               98             1.00             -23             1.000
 Level 14     00             126            1.00              129             1.00             -23             1.000
 Level 15     00             108           13.00              108            13.00               0             1.000
-%%END_EMBED
+```
 
-! Individual Segments
+#### Individual Segments
 
-For the viewers convenience, here is a playlist of all the segments put together: [https://www.youtube.com/playlist?list=PLaMh6QdnUGTZajpmJRsdwgmxckQkvOiyX|playlist]
+For the viewers convenience, here is a playlist of all the segments put together: [playlist](https://www.youtube.com/playlist?list=PLaMh6QdnUGTZajpmJRsdwgmxckQkvOiyX)
 
-__Segment 01-00__
+**Segment 01-00**
 
-[module:Youtube|hidelink|h=200|v=jnXzwzhY1jo]
+:::embed{type=youtube v=jnXzwzhY1jo h=200}
+:::
 
 Level 1 has been proven to be optimal by means of brute force. Although we jump over a guard, the solution is completely RNG-free since his reaction is deterministic. Therefore the entire level can be solved in a single segment.
 
@@ -170,368 +170,346 @@ The only difference in the new movie is merely the optional movements done at th
 
 Something that was not mentioned in the previous submission was the reason why players (and the TAS) restart at the beginning of this level. The reason for this is to cancel the fanfare that plays at the beginning. The game will prevent the kid from standing up until the fanfare is over, and thus wasting around 2 seconds in crouching mode. If you restart the level at any point, the fanfare is set as 'already played' and will not play again. The key then is to restart at the very first frame the fanfare starts. The extra frames involved in falling for a second time will be fewer than the original waiting time, therefore saving a bunch of frames.
 
-Although we find a guard in our way, the skip we employ (guard jump skip) is completely safe and always results in the same outcome, if done correctly. Therefore, the solution of this level is completely deterministic, and the probability of finding a good RNG for it is 1.0 (100%), as shown in the table below. 
+Although we find a guard in our way, the skip we employ (guard jump skip) is completely safe and always results in the same outcome, if done correctly. Therefore, the solution of this level is completely deterministic, and the probability of finding a good RNG for it is 1.0 (100%), as shown in the table below.
 
+**Segment 02-00**
 
+:::embed{type=youtube v=hafTq7eQPRE h=200}
+:::
 
-__Segment 02-00__
+The first segment of level 2 spans from the starting point to the last climb before the second guard. There are 2 climbs (choke points) that could have been chosen as the end point for the segment, but I arbitrarily chose the last one to shorten the next segment as much as possible. Not that this made any difference. Another arbitrary decision was to make the choke point to be the frame where the kid reaches Y = 118. This means that the segment will finish while the kid is still climbing, and not when he has finished.
 
+This is one of the prime examples where looking for the ideal RNG was worth the effort. Two additional frames were saved from a better guard skip. In this case, a normal face-off and backwards walk proved to be faster than a jumpskip. The reason why this is possible in the new movie is that due to the better RNG, the guard will take [much longer to attack](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#GuardRngBehavior), allowing us to escape his reach in time.
 
+While the solution in the previous movie was completely deterministic (used guard jumpskip), the outcome of this new solution is of course not. By using the [tester](https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/tester.cpp) tool, it is possible to re-run the solution on millions of different initial RNGs. The ratio between successful and total attempts determines the probability of finding a favorable RNG during casual play. The results are shown in the table below.
 
-[module:Youtube|hidelink|h=200|v=hafTq7eQPRE]
-The first segment of level 2 spans from the starting point to the last climb before the second guard. There are 2 climbs (choke points) that could have been chosen as the end point for the segment, but I arbitrarily chose the last one to shorten the next segment as much as possible. Not that this made any difference. Another arbitrary decision was to make the choke point to be the frame where the kid reaches Y = 118. This means that the segment will finish while the kid is still climbing, and not when he has finished.  
+**Segment 02-01**
 
-This is one of the prime examples where looking for the ideal RNG was worth the effort. Two additional frames were saved from a better guard skip. In this case, a normal face-off and backwards walk proved to be faster than a jumpskip. The reason why this is possible in the new movie is that due to the better RNG, the guard will take [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#GuardRngBehavior|much longer to attack], allowing us to escape his reach in time. 
+:::embed{type=youtube v=LZYtCehQZSE h=200}
+:::
 
-While the solution in the previous movie was completely deterministic (used guard jumpskip), the outcome of this new solution is of course not. By using the [https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/tester.cpp|tester] tool, it is possible to re-run the solution on millions of different initial RNGs. The ratio between successful and total attempts determines the probability of finding a favorable RNG during casual play. The results are shown in the table below.
-
-
-
-__Segment 02-01__
-
-
-[module:Youtube|hidelink|h=200|v=LZYtCehQZSE]
 The second segment of level 2 involves the fight against the second guard and climbing towards the door into the next room. The solution for this level is the same in both the old and new movies. It involves luring the guard into giving us a push by poking us with the sword exactly in the frame where we start walking backwards in guard mode. Sheathing the sword, turning, and hitting Up would then boot-adjust the hero's x position towards the climb, further pushing him away from the guard's reach. The probability of getting a favorable RNG for this strat is rather low (3.4%), so it was pretty lucky to have gotten it in the old submission.
 
-__Segment 02-02__
+**Segment 02-02**
 
+:::embed{type=youtube v=0A1lOY-Y1Xk h=200}
+:::
 
-[module:Youtube|hidelink|h=200|v=0A1lOY-Y1Xk]
-In this segment, two new frames are saved by jumping earlier towards the guard. Funnily enough, the probability of favorable RNG in both approaches is exactly the same. This tells me that the frames were saved from one of the many improvements / fixes I made to the bot, and not because of a better RNG. 
+In this segment, two new frames are saved by jumping earlier towards the guard. Funnily enough, the probability of favorable RNG in both approaches is exactly the same. This tells me that the frames were saved from one of the many improvements / fixes I made to the bot, and not because of a better RNG.
 
+**Segment 02-03**
 
+:::embed{type=youtube v=tBWuNi_u9YI h=200}
+:::
 
-__Segment 02-03__
-
-
-[module:Youtube|hidelink|h=200|v=tBWuNi_u9YI]
 In this segment a single frame is saved from a better RNG, whereby the guard will advance towards you earlier, allowing a faster skip. This has, of course, a much rarer probability of happening, and therefore fewer favorable RNGs.
 
+**Segment 02-04**
 
+:::embed{type=youtube v=W3w0H4ZXYW0 h=200}
+:::
 
-
-__Segment 02-04__
-
-
-[module:Youtube|hidelink|h=200|v=W3w0H4ZXYW0]
 No further optimizations were found in this segment. Since there is no interaction with guards, it is also fully deterministic.
 
+**Segment 03-00**
 
+:::embed{type=youtube v=l6K-wOwjTkQ h=200}
+:::
 
-__Segment 03-00__
+No further optimizations were found in this segment. Since there is no interaction with guards, it is also fully deterministic.
 
+**Segment 03-01**
 
-[module:Youtube|hidelink|h=200|v=l6K-wOwjTkQ]
-No further optimizations were found in this segment. Since there is no interaction with guards, it is also fully deterministic. 
+:::embed{type=youtube v=gv0OmkM2Qm8 h=200}
+:::
 
+In this segment one frame is saved thanks to the RNG triggering the skeleton to attack us one frame earlier and getting a faster push towards the screen below. Curiously, it is more likely to get this RNG than the slower one from the published movie.
 
-__Segment 03-01__
+**Segment 04-00**
 
+:::embed{type=youtube v=tUA8BjY21sY h=200}
+:::
 
-[module:Youtube|hidelink|h=200|v=gv0OmkM2Qm8]
-In this segment one frame is saved thanks to the RNG triggering the skeleton to attack us one frame earlier and getting a faster push towards the screen below. Curiously, it is more likely to get this RNG than the slower one from the published movie. 
-
-
-__Segment 04-00__
-
-
-[module:Youtube|hidelink|h=200|v=tUA8BjY21sY]
 Due to the lack of choke point, I had to bot level 4 in a single segment. This is in spite of the presence of a climb in the critical path. The reason why this climb is not a choke point is that we need to come back to the middle of the level, where we had skipped a guard. The X position of the skipped guard might change depending on how we executed the skip, which affects thes exit of the level later on. Therefore, we should treat this as a lingering variable that should be preserved even through the climb, which prevents us from breaking down the level in two segments at that point.
 
-[https://i.ibb.co/xhY2nNY/image3.png]
+![](https://i.ibb.co/xhY2nNY/image3.png)
 
-A few frames were saved from a better skip on the first guard. However, the major difference occurred afterwards.
-Here is the first big entertainment/speed trade-off between the two movies. The old movie contained an alternative route to the canonical strategy that used the guard to reach the exit without climbing, and causing him to disappear when the shadow appeared (reason: the game does not support two enemies in the same screen). This new movie, however, returns to the canonical strategy, since it's been proven to be faster. 
+A few frames were saved from a better skip on the first guard. However, the major difference occurred afterwards. Here is the first big entertainment/speed trade-off between the two movies. The old movie contained an alternative route to the canonical strategy that used the guard to reach the exit without climbing, and causing him to disappear when the shadow appeared (reason: the game does not support two enemies in the same screen). This new movie, however, returns to the canonical strategy, since it's been proven to be faster.
 
+**Segment 05-00**
 
-__Segment 05-00__
+:::embed{type=youtube v=S3zdB3Z1Im0 h=200}
+:::
 
-
-[module:Youtube|hidelink|h=200|v=S3zdB3Z1Im0]
 Level 5 was split into two clear segments, separated by the climb after the initial door skip. Although this segment is completely deterministic, a single frame is saved by better execution from the bot. This improvement came from allowing the bot to wait action-less for a few frames, whereas before it always had to do something to reduce the exploration space. In this case, this 'patience' allowed the bot to be in a ready-state at the frame in which it needed to press Down to sheath the sword, instead of being 'busy' with an action at that moment as in the previous movie.
 
+**Segment 05-01**
 
-__Segment 05-01__
+:::embed{type=youtube v=frNnjyuEhnM h=200}
+:::
 
-
-[module:Youtube|hidelink|h=200|v=frNnjyuEhnM]
 In this segment 6 frames were saved from taking the normal route towards the exit room instead of the more entertaining one. The old movie contained a glitch whereby, by walking outside the screen while on guard, the exit door opening trigger is activated from afar. This made for a funny, albeit slower solution. This time every frame mattered so I had to pursue the faster canonical route.
 
+**Segment 06-00**
 
-__Segment 06-00__
+:::embed{type=youtube v=uzx0_m0uKks h=200}
+:::
 
+Perhaps one of the most spectacular demonstrations of RNG manipulation, a super-secret solution to this level involves brain-controlling the mid-game boss into dancing with you and then delaying his attack to enable a solution that, although only one frame faster, it's completely different from the canonical one used in the old movie. The probability of getting the correct RNG for the new solution is around 1-in-16. Although it took many attempts, uvq3tsa was able to reproduce this in a [real run](https://www.speedrun.com/pop1/run/z0po9g8y).
 
-[module:Youtube|hidelink|h=200|v=uzx0_m0uKks]
-Perhaps one of the most spectacular demonstrations of RNG manipulation, a super-secret solution to this level involves brain-controlling the mid-game boss into dancing with you and then delaying his attack to enable a solution that, although only one frame faster, it's completely different from the canonical one used in the old movie. The probability of getting the correct RNG for the new solution is around 1-in-16. Although it took many attempts, uvq3tsa was able to reproduce this in a [https://www.speedrun.com/pop1/run/z0po9g8y|real run].
+**Segment 07-00**
 
+:::embed{type=youtube v=CHsnjoUn6ss h=200}
+:::
 
-__Segment 07-00__
-
-
-[module:Youtube|hidelink|h=200|v=CHsnjoUn6ss]
 Given the sheer amount of glitches and tricks employed, this is my favorite level. Unfortunately, there are no trustworthy choke points in the TAS route, so the entire level must be done in one segment. The new movie saves two frames from better RNG manipulation of the guard's reactions.
 
+**Segment 08-00**
 
-__Segment 08-00__
+:::embed{type=youtube v=IyZFtCMrNKw h=200}
+:::
 
+Here the new movie saves 14 frames over the old one thanks to much better execution of the skip by getting hit by the guard and ending up facing the right direction after the fall. It also opens the exit door and gets to the waiting screen much more efficiently than the previous movie. A further optimization was made recently by allowing the bot to remain stationary for a few frames, as mentioned before. After standing up, the new solution waits for one frame before running to allow the internal clock of the chompers to advance. This allows the hero to come back without stopping after opening the exit door, thus keeping its momentum and saving 4 extra frames.
 
-[module:Youtube|hidelink|h=200|v=IyZFtCMrNKw]
-Here the new movie saves 14 frames over the old one thanks to much better execution of the skip by getting hit by the guard and ending up facing the right direction after the fall. It also opens the exit door and gets to the waiting screen much more efficiently than the previous movie. 
-A further optimization was made recently by allowing the bot to remain stationary for a few frames, as mentioned before. After standing up, the new solution waits for one frame before running to allow the internal clock of the chompers to advance. This allows the hero to come back without stopping after opening the exit door, thus keeping its momentum and saving 4 extra frames.
+**Segment 09-00**
 
+:::embed{type=youtube v=fKmaiw7RCdY h=200}
+:::
 
-__Segment 09-00__
-
-
-[module:Youtube|hidelink|h=200|v=fKmaiw7RCdY]
 Not only is Level 9 the lengthiest one in the game, but it also contains a lot of guards and a whole lot of climbing around. Naturally, this motivated splitting it into many segments -- 6, to be exact. This first segment is wholly deterministic and contains no guards. Its only purpose is to reduce the length of the next segment to make RNG sampling much faster.
 
+**Segment 09-01**
 
-__Segment 09-01__
+:::embed{type=youtube v=zK0BL4Thj_I h=200}
+:::
 
-
-[module:Youtube|hidelink|h=200|v=zK0BL4Thj_I]
 Despite containing a guard, the optimal solution for this segment ended up being deterministic. No improvements have nevertheless been found from better botting. This seems to be the best possible solution for the start of the level.
 
+**Segment 09-02**
 
-__Segment 09-02__
+:::embed{type=youtube v=hHh43t5hcG8 h=200}
+:::
 
-
-[module:Youtube|hidelink|h=200|v=hHh43t5hcG8]
 In this segment, a frame is saved thanks to a more favorable RNG, allowing for a faster guard skip.
 
+**Segment 09-03**
 
-__Segment 09-03__
+:::embed{type=youtube v=Rx7MYavQhBE h=200}
+:::
 
-
-[module:Youtube|hidelink|h=200|v=Rx7MYavQhBE]
 Despite containing a guard, the optimal solution for this segment ended up being deterministic. No improvements have nevertheless been found from better botting. This seems to be the best possible solution for the start of the level.
 
+**Segment 09-04**
 
-__Segment 09-04__
+:::embed{type=youtube v=SOcfuKy8_Ds h=200}
+:::
 
-
-[module:Youtube|hidelink|h=200|v=SOcfuKy8_Ds]
 This first segment is wholly deterministic and contains no guards. Its only purpose is to reduce the length of the next segment to make RNG sampling much faster.
 
+**Segment 09-05**
 
-__Segment 09-05__
+:::embed{type=youtube v=EdQOlGPhMvc h=200}
+:::
 
-
-[module:Youtube|hidelink|h=200|v=EdQOlGPhMvc]
 This segment saves 3 frames by performing a better damage-skip through the door. The more favorable RNG brings the guard to attack just as we are walking backwards in guard mode. This combination of movement and boost makes the skip through the door much faster.
 
+**Segment 10-00**
 
-__Segment 10-00__
+:::embed{type=youtube v=e02n7uJ5FVk h=200}
+:::
 
+This level is split into two segments. The first contains the skip and what comes after until the last climb before the upper guard fight. The skip is consistent enough to be used as choke point; it always leaves the player in the same x position and in the fall damage animation. Although there is a guard in this first segment, the skip and later movement is deterministic and therefore no contributions from RNG sampling could be done here. A full 3 frames were nevertheless saved thanks to the bot's new ability to wait patiently and not move around while the various doors open.
 
-[module:Youtube|hidelink|h=200|v=e02n7uJ5FVk]
-This level is split into two segments. The first contains the skip and what comes after until the last climb before the upper guard fight. The skip is consistent enough to be used as choke point; it always leaves the player in the same x position and in the fall damage animation.
-Although there is a guard in this first segment, the skip and later movement is deterministic and therefore no contributions from RNG sampling could be done here. A full 3 frames were nevertheless saved thanks to the bot's new ability to wait patiently and not move around while the various doors open.
+**Segment 10-01**
 
+:::embed{type=youtube v=aETesqhuzGg h=200}
+:::
 
-__Segment 10-01__
+This segment is truly a beast when it comes to RNG. Definitely the one with the most crucial interactions with a guard from all the others (including level 07-00). The viewpoint in PoP is somewhat towards the left. This means we get to see more of the right side of gates than their left side. In terms of game mechanics this means that, when skipping a door, we need more of a 'push' to realize the skip when going from right to left. As a consequence, a so-called YOLO skip is necessary to cross this door. This skip requires more than one consecutive push from a guard. Luring the guard and making him push you multiple times in the shortest span of time requires a very lucky starting RNG, which I surely found. A total of 22 frames were saved by performing the better skip.
 
+**Segment 11-00**
 
-[module:Youtube|hidelink|h=200|v=aETesqhuzGg]
-This segment is truly a beast when it comes to RNG. Definitely the one with the most crucial interactions with a guard from all the others (including level 07-00). The viewpoint in PoP is somewhat towards the left. This means we get to see more of the right side of gates than their left side. In terms of game mechanics this means that, when skipping a door, we need more of a 'push' to realize the skip when going from right to left. As a consequence, a so-called YOLO skip is necessary to cross this door. This skip requires more than one consecutive push from a guard. Luring the guard and making him push you multiple times in the shortest span of time requires a very lucky starting RNG, which I surely found. A total of 22 frames were saved by performing the better skip. 
+:::embed{type=youtube v=rt9nmNYTDpU h=200}
+:::
 
-
-__Segment 11-00__
-
-
-[module:Youtube|hidelink|h=200|v=rt9nmNYTDpU]
 Level 11 is divided into three segments. The first one is purely deterministic, but yet involves a section that is by no means easy to optimize. The falling tiles section has many possible routes. To find the best one I had to run the bot with a very large database using up to 1Tb memory. In spite of that, I couldn't find any improvements in this segment.
 
+**Segment 11-01**
 
-__Segment 11-01__
+:::embed{type=youtube v=t3dp1a4SfKY h=200}
+:::
 
-
-[module:Youtube|hidelink|h=200|v=t3dp1a4SfKY]
 Yet another deterministic segment for which I had already found the best solution in my previous submission. No improvements could be found here from all the bot improvements I made last year. Both movies suffer from an extra net frame here due to crossing a minute boundary.
 
+**Segment 11-02**
 
-__Segment 11-02__
+:::embed{type=youtube v=wVffgsFj2MI h=200}
+:::
 
+In this segment I gained 3 frames by using the canonical solution which is faster than the more entertaining route I took in the previous movie. Curiously, the old route as performed in that movie is possible only in the version 1.0 of the game, where the guard action probabilities were wrongly ported from the Amiga port, due to [an octal notation mistake](https://forum.princed.org/viewtopic.php?p=12193#p12193) of the programmer when using the C language.
 
-[module:Youtube|hidelink|h=200|v=wVffgsFj2MI]
-In this segment I gained 3 frames by using the canonical solution which is faster than the more entertaining route I took in the previous movie. Curiously, the old route as performed in that movie is possible only in the version 1.0 of the game, where the guard action probabilities were wrongly ported from the Amiga port, due to [https://forum.princed.org/viewtopic.php?p=12193#p12193|an octal notation mistake] of the programmer when using the C language.
+**Segment 12-00**
 
+:::embed{type=youtube v=QVUdN1j9ovM h=200}
+:::
 
-__Segment 12-00__
-
-
-[module:Youtube|hidelink|h=200|v=QVUdN1j9ovM]
 Level 12 is a pure parkour level until the end where you have a Jungian fight against your own shadow. The entire level is therefore deterministic and does not need to be cut into segments. Nevertheless I achieved a single frame improvement thanks to the ability of the bot to wait for a frame after fusing with the shadow, and not moving around.
 
+**Segment 13-00**
 
-__Segment 13-00__
+:::embed{type=youtube v=n6N7BHM8PQw h=200}
+:::
 
-
-[module:Youtube|hidelink|h=200|v=n6N7BHM8PQw]
 Level 13 is the last level before the end of the game (where Jaffar is killed and the IGT stops). I decided to split this level into two segments, the first being the run-under-falling-tiles part. Although the order in which tiles fall is dictated by RNG, the best solution is one where you can run uninterruptedly. Therefore, it is provable that the solution in both movies is the optimal one.
 
+**Segment 13-01**
 
-__Segment 13-01__
+:::embed{type=youtube v=jKSmDEWsI8Q h=200}
+:::
 
+Here, the choice of climbing position Y to choose as choke point was intentional. Leaving the chance to choose whether to climb the last ledge from either the right or left side dictates possible solutions for the [one-hit-Jaffar](https://www.youtube.com/watch?v=dZPHwxGJv6Y) solution. Nevertheless, the canonical solution (where Jaffar falls to his death) remains the fastest one, and therefore was the one used in the new movie.
 
-[module:Youtube|hidelink|h=200|v=jKSmDEWsI8Q]
-Here, the choice of climbing position Y to choose as choke point was intentional. Leaving the chance to choose whether to climb the last ledge from either the right or left side dictates possible solutions for the [https://www.youtube.com/watch?v=dZPHwxGJv6Y|one-hit-Jaffar] solution. Nevertheless, the canonical solution (where Jaffar falls to his death) remains the fastest one, and therefore was the one used in the new movie.
+**Segment 13-02**
 
+:::embed{type=youtube v=lA-IWAqMCQM h=200}
+:::
 
-__Segment 13-02__
+The start of the escape route. At this moment, the IGT timer has stopped due to Jaffar's death. However, it is still possible to die at this point (many of us did back in the day), so these inputs are relevant to finishing the game. The bot was used in this segment to find the fastest way out due to the implied secondary goal of minimizing the real-time duration of the movie. Due to their final position, the new movie is 1.9 (23 frames) seconds faster to the exit.
 
+**Segment 14-00**
 
-[module:Youtube|hidelink|h=200|v=lA-IWAqMCQM]
-The start of the escape route. At this moment, the IGT timer has stopped due to Jaffar's death. However, it is still possible to die at this point (many of us did back in the day), so these inputs are relevant to finishing the game.
-The bot was used in this segment to find the fastest way out due to the implied secondary goal of minimizing the real-time duration of the movie. Due to their final position, the new movie is 1.9 (23 frames) seconds faster to the exit.
+:::embed{type=youtube v=GVgQS--f2jI h=200}
+:::
 
+This is the rescue level. At this point there is no way to lose by timeout. However, it is still necessary to complete it to reach the ending scenes and [hall of fame](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#HallOfFame). Here a few tenths of a second (3 frames) were saved thanks to a new mechanism I added to the bot for the sake of TASVideos' criteria of last input timing. Here, I allow the bot to continue exploring even after it found the first (fastest) solution, to keep exploring in case a slower solution appears that contains an earlier input. I used this mechanism in [M4909] to allow the car to slowly reach the ending line without pressing any buttons, just the car's momentum.
 
-__Segment 14-00__
+**Segment 15-00**
 
+:::embed{type=youtube v=638-BuUnL7I h=200}
+:::
 
-[module:Youtube|hidelink|h=200|v=GVgQS--f2jI]
-This is the rescue level. At this point there is no way to lose by timeout. However, it is still necessary to complete it to reach the ending scenes and [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#HallOfFame|hall of fame]. Here a few tenths of a second (3 frames) were saved thanks to a new mechanism I added to the bot for the sake of TASVideos' criteria of last input timing. Here, I allow the bot to continue exploring even after it found the first (fastest) solution, to keep exploring in case a slower solution appears that contains an earlier input. I used this mechanism in [4909M] to allow the car to slowly reach the ending line without pressing any buttons, just the car's momentum.
+Level 15 corresponds to the [copy protection level](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#CopyProtectionLevel). In both movies, the potion #4 was used, which results in the fastest of all possible paths to passing this level. In the old movie, I was lucky enough to get this potion in the first attempt. In the new movie (as explained below) I got lucky again and this potion was, by pure coincidence, the one that resulted in the best overall solution. Note that the IGT timer does not run when you play this level, so having any other potion as the right one would have also been for the primary goal of this category.
 
+### Explanation Part II: The Problems
 
+At this point I had a theoretical solution for the entire game in 8624 frames, 16 frames below the coveted sub 12 mark (8640 frames). However, I found myself even further away from a full game solution. I didn't even have working RNGs for individual levels, after I chopped them into segments! The situation was even worse than expected: The sampler results (see timing table above) showed that the probability of finding the perfect RNG that sewed all segments back together was 1 in 1.11e+13 (that's 1 in 11,100,000,000,000). Given that the [game timer](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#GameTimer) is a 32-bit number, I had in theory only 4,294,967,296 shots at finding a golden ticket. The bottom line: there was a 99.96% chance no perfect RNG seed, one that allowed me to run the perfect segment solutions from start to end, even existed.
 
-__Segment 15-00__
+#### Initial RNG
 
-
-[module:Youtube|hidelink|h=200|v=638-BuUnL7I]
-Level 15 corresponds to the [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#CopyProtectionLevel|copy protection level]. In both movies, the potion #4 was used, which results in the fastest of all possible paths to passing this level. In the old movie, I was lucky enough to get this potion in the first attempt. In the new movie (as explained below) I got lucky again and this potion was, by pure coincidence, the one that resulted in the best overall solution. Note that the IGT timer does not run when you play this level, so having any other potion as the right one would have also been for the primary goal of this category.
-
-!! Explanation Part II: The Problems
-At this point I had a theoretical solution for the entire game in 8624 frames, 16 frames below the coveted sub 12 mark (8640 frames). However, I found myself even further away from a full game solution. I didn't even have working RNGs for individual levels, after I chopped them into segments! The situation was even worse than expected:
-The sampler results (see timing table above) showed that the probability of finding the perfect RNG that sewed all segments back together was 1 in 1.11e+13 (that's 1 in 11,100,000,000,000). Given that the [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#GameTimer|game timer] is a 32-bit number, I had in theory only 4,294,967,296 shots at finding a golden ticket. The bottom line: there was a 99.96% chance no perfect RNG seed, one that allowed me to run the perfect segment solutions from start to end, even existed.
-
-! Initial RNG
-
-Upon examination of SDLPop's source code, one can see that the RNG seed is initialized by the [https://github.com/NagyD/SDLPoP/blob/f8396899596833a28e24ebdb29df26d61c0b7ec0/src/seg009.c#L248|system's clock]. The line of code calls [https://linux.die.net/man/2/time|time()], a system-dependent function that, in POSIX systems, returns the number of seconds since 1970. Therefore, by manipulating the system's clock down to a second, it is possible to try around 3160316014 RNG combinations (up to the year 2070). 
-
+Upon examination of SDLPop's source code, one can see that the RNG seed is initialized by the [system's clock](https://github.com/NagyD/SDLPoP/blob/f8396899596833a28e24ebdb29df26d61c0b7ec0/src/seg009.c#L248). The line of code calls [time()](https://linux.die.net/man/2/time), a system-dependent function that, in POSIX systems, returns the number of seconds since 1970. Therefore, by manipulating the system's clock down to a second, it is possible to try around 3160316014 RNG combinations (up to the year 2070).
 
 In the real MS-DOS binary of the game, however, the initialization works slightly differently. The game uses the number of milliseconds since the start of the day. That is, the date plays no role in the determination of the initial RNG; rather, the time of day at which you play it does. Conveniently, LibTAS provides a way to manipulate the system's timer down to a nanosecond:
 
-
-[https://i.ibb.co/ryd0v44/lib-Tas-Clock.png]
-
+![](https://i.ibb.co/ryd0v44/lib-Tas-Clock.png)
 
 Theoretically, it could be possible to choose from 86,400,000 initial RNGs (the number of milliseconds in a day). However, in practice, this didn't quite work. It seems like the PCem computer or MS-DOS does some time regularization at some point during boot up or while loading the game's binary. This resulted in the game always approximating to the closest quarter of a second or so, which severely limited the number of possibilities to a few thousand.
 
-! Copy Protection level(s)
+#### Copy Protection level(s)
 
-Having found a solution for potion #4 (the fastest to the exit), I depended on the initial RNG to determine the correct [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#CopyProtectionLetters|copy protection letter ordering] that led to this potion being the right one. Knowing that the probability of such occurrence was 1 in 13, this severely reduced the initial good RNG map from the get go. Now I only had a few hundred of them to choose from. Not a good prospect.
+Having found a solution for potion #4 (the fastest to the exit), I depended on the initial RNG to determine the correct [copy protection letter ordering](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#CopyProtectionLetters) that led to this potion being the right one. Knowing that the probability of such occurrence was 1 in 13, this severely reduced the initial good RNG map from the get go. Now I only had a few hundred of them to choose from. Not a good prospect.
 
-! IGT Clock Bug
+#### IGT Clock Bug
 
-The IGT clock suffers from a [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#TimerBug|bug] whereas it substracts an extra frame from the available time for every minute that passes. Since I was aiming to achieve a sub 12 IGT time (i.e., a high score of 48:00), the bug would then necessarily steal 11 frames from the solution. As a consequence, I wouldn't have 16 frames to spare (as shown in the timing table above), but rather 5 frames.
-
+The IGT clock suffers from a [bug](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#TimerBug) whereas it substracts an extra frame from the available time for every minute that passes. Since I was aiming to achieve a sub 12 IGT time (i.e., a high score of 48:00), the bug would then necessarily steal 11 frames from the solution. As a consequence, I wouldn't have 16 frames to spare (as shown in the timing table above), but rather 5 frames.
 
 Having only a handful of spare frames was really bad because I could otherwise always go for alternative (slower) routes in several of the segments to fit the overall solution to a less favorable RNG. With only 5 frames to spare, however the space for maneuvering was severely reduced, and the hope of ever making it was probably still outside my reach.
 
-!! Explanation Part III: The Solutions
+### Explanation Part III: The Solutions
 
-With only 5 frames to fight with and infinitesimal odds of finding the perfect RNG, decided I put the project in hiatus mode until I came up with new ideas to unlock these problems. During this time I kept working on [https://tasvideos.org/Subs-List?Search.StatusFilter=6&Search.Years=2022&Search.User=eien86&Search.System=|other TASes], while hoping inspiration would come to me with time. And come it did...
+With only 5 frames to fight with and infinitesimal odds of finding the perfect RNG, decided I put the project in hiatus mode until I came up with new ideas to unlock these problems. During this time I kept working on [other TASes](https://tasvideos.org/Subs-List?Search.StatusFilter=6&Search.Years=2022&Search.User=eien86&Search.System=), while hoping inspiration would come to me with time. And come it did...
 
+#### Initial RNG
 
-! Initial RNG
+Having discussed with <https://tasvideos.org/Users/Profile/GMP> about his [M4638] movie, he told me he used the "time" command to manipulate the timer post boot and fix the game's RNG. I decided to give this a try and see what granularity could be achieved with this. The answer: this command allowed me to adjust the time at a 0.0549255 second granularity, a much better prospect than before. Every such change in the timer would cause a discrete jump in RNG of 0x343FD, starting from 0x0071BA7E at 12:00:00.00 am.
 
-
-
-Having discussed with [https://tasvideos.org/Users/Profile/GMP] about his [4638M] movie, he told me he used the "time" command to manipulate the timer post boot and fix the game's RNG. I decided to give this a try and see what granularity could be achieved with this. The answer: this command allowed me to adjust the time at a 0.0549255 second granularity, a much better prospect than before. Every such change in the timer would cause a discrete jump in RNG of 0x343FD, starting from 0x0071BA7E at 12:00:00.00 am.
-
-[https://i.ibb.co/B4300CQ/TIME.png]
+![](https://i.ibb.co/B4300CQ/TIME.png)
 
 Dividing the 86400 seconds of the day by 0.0549255, I ended up with ~1.6 million initial combinations. Not perfect, but much better than before. And definitely a more promising prospect.
 
-! Copyright Level(s)
+#### Copyright Level(s)
 
-This problem had an easy solution -- which I was initially too lazy to go for. But hey, I had to go for it.
-So, while it was nice to have the closest potion to be the correct one, it was not entirely necessary since the IGT timer does not run in this level. Therefore, any potion would do just as fine in terms of IGT, as long as the sub 12 goal was achieved. So I did what I had to do and ran the bot on all 13 possible potions and stored the solutions for all of them. Here is a collage of the 12 alternative potion routes:
- 
-[module:Youtube|hidelink|v=fZ6vOw7535w]
+This problem had an easy solution -- which I was initially too lazy to go for. But hey, I had to go for it. So, while it was nice to have the closest potion to be the correct one, it was not entirely necessary since the IGT timer does not run in this level. Therefore, any potion would do just as fine in terms of IGT, as long as the sub 12 goal was achieved. So I did what I had to do and ran the bot on all 13 possible potions and stored the solutions for all of them. Here is a collage of the 12 alternative potion routes:
 
+:::embed{type=youtube v=fZ6vOw7535w}
+:::
 
 From that point on, no matter how I decided to proceed, I could select one of these solutions depending on which potion was selected, regardless of the initial RNG. Therefore, all initial 1.6 million RNGs I was able to generate could be preserved through level 2.
 
-! Expanding the RNG Space
-
+#### Expanding the RNG Space
 
 Still, 1.6 million RNGs was not going to be enough, given the insane luck needed for a perfect RNG that stitched all segments together. Therefore, I still needed new ways to expand the RNG exploration space... but how?
 
+And then, eureka. The solution came to me one day when I was casually fooling around with the game. The idea is: this game has [cutscenes](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#Cutscenes) between several of the levels. During these cutscenes, the IGT clock would not run, but yet some events would trigger [changes in the RNG state](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#PassiveRngElements). In short, I could wait some frames during cutscenes to have the game produce a different RNG heading to the next level as the one I would have obtained if I pressed Enter right away.
 
-And then, eureka. The solution came to me one day when I was casually fooling around with the game. The idea is: this game has [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#Cutscenes|cutscenes] between several of the levels. During these cutscenes, the IGT clock would not run, but yet some events would trigger [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#PassiveRngElements|changes in the RNG state]. In short, I could wait some frames during cutscenes to have the game produce a different RNG heading to the next level as the one I would have obtained if I pressed Enter right away. 
-
-
-In effect, I could use cutscenes to branch out the tree of possible RNG states before starting a level for which a cutscene exists. This would have an inverse effect on the probability of finding the best RNG to that of the 1/P values in the timing table. But wait, there's more: another place in the game where RNG can be advanced without costing IGT ticks is the copyright level. Finally, I could always 'burn' a couple of those remaining 5 frames at the end of a level to multiply the RNG space a bit further. 
+In effect, I could use cutscenes to branch out the tree of possible RNG states before starting a level for which a cutscene exists. This would have an inverse effect on the probability of finding the best RNG to that of the 1/P values in the timing table. But wait, there's more: another place in the game where RNG can be advanced without costing IGT ticks is the copyright level. Finally, I could always 'burn' a couple of those remaining 5 frames at the end of a level to multiply the RNG space a bit further.
 
 Gathering all the :
-* The number and duration of the game's cutscenes and their [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#Cutscenes_2|effect on RNG]
-* A tolerance of 20-second (240 frames) maximum wait  at the end of the copy protection level (more than this would have been too much)
-* 1 possible wait frame at the end of levels 8, 9, and 10 -- the ones which needed the most RNG push.
+
+- The number and duration of the game's cutscenes and their [effect on RNG](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#Cutscenes_2)
+- A tolerance of 20-second (240 frames) maximum wait  at the end of the copy protection level (more than this would have been too much)
+- 1 possible wait frame at the end of levels 8, 9, and 10 -- the ones which needed the most RNG push.
 
 At this point I made some back of the envelope calculations for the lower and upper bound for the expected number of winning RNGs after inserting waits throughout the game. For the lower bound, I made the assumption that the effect of wait frames is merely additive. That is, that each wait frame (no matter when performed) would add a single new branch on the exploration tree. On the other hand, for the upper bound, I made the optimistic assumption that each wait frame had a multiplicative effect. I.e., that every wait frame would duplicate the existing tree at the point in which it is performed. The following table shows my results:
-%%SRC_EMBED
-                |           Additive Wait Effect        |         Multiplicative Wait Effect 
-                |      RNG Count   Multiply    Divide   |     RNG Count   Multiply   Divide   
-Start           |      1573040          1      1        |       1573040     1          1      
-Level 1         |      1573040          1      1        |       1573040     1          1      
-CProt + CScene  |      1573040          549    1        |       1573040     244        1      
+
+```
+                |           Additive Wait Effect        |         Multiplicative Wait Effect
+                |      RNG Count   Multiply    Divide   |     RNG Count   Multiply   Divide
+Start           |      1573040          1      1        |       1573040     1          1
+Level 1         |      1573040          1      1        |       1573040     1          1
+CProt + CScene  |      1573040          549    1        |       1573040     244        1
 Level 2         |    863598875          1      2205.43  |     383821722     1          2205.43
-Level 3         |       391578          1      3.41     |        174035     1          3.41   
-Cutscene        |       114832          1      1        |         51037     44         1      
-Level 4         |       114832          1      1        |       2245611     1          1      
-Level 5         |       114832          1      1        |       2245611     1          1      
-Cutscene        |       114832          1      1        |       2245611     44         1      
-Level 6         |       114832          1      15.55    |      98806894     1          15.55  
-Level 7         |         7385          1      17.49    |       6354141     1          17.49  
-Cutscene        |          422          1      1        |        363301     79         1      
-Level 8         |          422          1      1        |      28700809     2          1      
-Cutscene        |          422          1      1        |      57401617     90         1      
-Level 9         |          422          1      266      |    5166145569     2          266    
-Level 10        |            2          1      512      |      38843200     1          512    
-Level 11        |      0.00310          1      2.25     |         75866     1          2.25   
-Cutscene        |      0.00138          1      1        |         33718     44         1      
-Level 12        |      0.00138          1      1        |       1483594     1          1      
-Level 13        |      0.00138          1      8.86     |       1483594     1          8.86   
+Level 3         |       391578          1      3.41     |        174035     1          3.41
+Cutscene        |       114832          1      1        |         51037     44         1
+Level 4         |       114832          1      1        |       2245611     1          1
+Level 5         |       114832          1      1        |       2245611     1          1
+Cutscene        |       114832          1      1        |       2245611     44         1
+Level 6         |       114832          1      15.55    |      98806894     1          15.55
+Level 7         |         7385          1      17.49    |       6354141     1          17.49
+Cutscene        |          422          1      1        |        363301     79         1
+Level 8         |          422          1      1        |      28700809     2          1
+Cutscene        |          422          1      1        |      57401617     90         1
+Level 9         |          422          1      266      |    5166145569     2          266
+Level 10        |            2          1      512      |      38843200     1          512
+Level 11        |      0.00310          1      2.25     |         75866     1          2.25
+Cutscene        |      0.00138          1      1        |         33718     44         1
+Level 12        |      0.00138          1      1        |       1483594     1          1
+Level 13        |      0.00138          1      8.86     |       1483594     1          8.86
 ----------------------------------------------------------------------------------------------
-Final           |      0.00016                          |        167449    
-%%END_EMBED
+Final           |      0.00016                          |        167449
+```
 
-So yeah, the bounds on the expected number of good RNGs were [0.00016, 167449], with the true number somewhere in between. These results were promising enough to continue with the next stage... 
+So yeah, the bounds on the expected number of good RNGs were [0.00016, 167449], with the true number somewhere in between. These results were promising enough to continue with the next stage...
 
+### Exploration Script
 
-!! Exploration Script
+... and that is: to develop an [exploration script](https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/explorer.cpp).
 
+#### Single Branch
 
-... and that is: to develop an [https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/explorer.cpp|exploration script]. 
+The idea of this script is to, given one of the possible RNG generated by using the time command, explore the tree produced by checking all combinations of waiting times. The process would involve running each level once per potential RNG, keeping at every step only the RNG and waiting times that led to the end of each level, and discarding all others. For example, the plot below shows the exploration tree generated by running all paths enabled by the one relatively successful initial RNG: 0x0AD72CF1 (12:00:44.80 am).
 
-
-! Single Branch
-
-The idea of this script is to, given one of the possible RNG generated by using the time command, explore the tree produced by checking all combinations of waiting times. The process would involve running each level once per potential RNG, keeping at every step only the RNG and waiting times that led to the end of each level, and discarding all others. For example, the plot below shows the exploration tree generated by running all paths enabled by the one relatively successful initial RNG: 0x0AD72CF1 (12:00:44.80 am). 
-
-[https://i.ibb.co/qp0WQ3T/graph.png]
+![](https://i.ibb.co/qp0WQ3T/graph.png)
 
 The plot shows the ebbs and flows in the number of feasible RNGs throughout the exploration tree. At some stages, the copy protection level for example, the number expands thanks to waiting at the end of the level. Further expansion is seen in the cutscene before level 2. However, the number of RNGs contracts again after level 2, a heavily RNG based level. The number stays the same on non-RNG levels like 4 and 5. In the end this particular initial RNG allows reaching level 11. The explorer also returns details about the journey taken by the most successful path:
-%%SRC_EMBED
+
+```
  + Copy Protection Potion: 10
  + Cutscene Delays:  {  0,  0, 40,  0, 37,  0,  4,  0, 71, 30,  0,  0,  0,  0,  0 }
  + End Level Delays: {  0, 226,  0,  0,  0,  0,  0,  0,  1,  0,  0,  0,  0,  0,  0 }
  + Total Delay: 409
  + Costly Delay: 1
-%%END_EMBED
+```
+
 The path included using the copy protection solution for potion 10, waiting for ~19 seconds at the end of that level, ~15 seconds of waits throughout the game's cutscenes, and a single costly (IGT-wise) wait at the end of level 8.
 
+#### All Branches
 
+The script above allowed me to find the best outcome out of individual starting RNGs. But now I needed to adapt it so that it would run the same exploration for all of the 1.6 million possible initial RNGs. Long-story short, after a nightly run of 10 hours on the \*Jaffanator\*, I woke up with the following results:
 
-! All Branches
-
-The script above allowed me to find the best outcome out of individual starting RNGs. But now I needed to adapt it so that it would run the same exploration for all of the 1.6 million possible initial RNGs. Long-story short, after a nightly run of 10 hours on the *Jaffanator*, I woke up with the following results:
-%%SRC_EMBED
-                |           Actual Effect        
-                |      RNG Count   Multiply    Divide   
-Start           |       1570970         
+```
+                |           Actual Effect
+                |      RNG Count   Multiply    Divide
+Start           |       1570970
 Level 1         |       1570970        1        1
 CProt + CScene  |       1570970        1        1
 Level 2         |    1905046459     1212        1
@@ -552,46 +530,49 @@ Cutscene        |             2        1        5
 Level 12        |           160       80        1
 Level 13        |             3        1       53
 --------------------------------------------------------
-Final           |             3                          
-%%END_EMBED
+Final           |             3
+```
 
 A few notable results from running the actual RNG explorations:
-* The effect of waiting on the copy protection and cutscene before level 2 had a much bigger effect on multiplying the possible RNG states than expected. This is because both types of wait do not purely add or multiply on each other. Since the effect on RNG of frames waited on the cutscene is [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#Cutscenes_2|not homogeneous], different combinations of waitings between both might generate different final RNGs. For example, waiting 2 frames in one and 3 in the other might end up in a different RNG than vice versa.
-* The reduction after Level 2 indicates that the probability of finding a perfect RNG for this level is way worse than calculated via sampling. In the same vein, levels 4 and 5 decreased the number of RNG states in spite of being deterministic. I attribute this to RNG collision (I discard repeated RNGs) that comes from the non-deterministic advances in RNG when activating a [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#LooseTiles|loose tile]. 
 
-* I feel somewhat proud that the final number of RNGs fell squarely within the estimated [0.00016, 167449] lower and upper bounds.
+- The effect of waiting on the copy protection and cutscene before level 2 had a much bigger effect on multiplying the possible RNG states than expected. This is because both types of wait do not purely add or multiply on each other. Since the effect on RNG of frames waited on the cutscene is [not homogeneous](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#Cutscenes_2), different combinations of waitings between both might generate different final RNGs. For example, waiting 2 frames in one and 3 in the other might end up in a different RNG than vice versa.
+- The reduction after Level 2 indicates that the probability of finding a perfect RNG for this level is way worse than calculated via sampling. In the same vein, levels 4 and 5 decreased the number of RNG states in spite of being deterministic. I attribute this to RNG collision (I discard repeated RNGs) that comes from the non-deterministic advances in RNG when activating a [loose tile](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#LooseTiles).
+
+- I feel somewhat proud that the final number of RNGs fell squarely within the estimated [0.00016, 167449] lower and upper bounds.
+
 And most importantly... 3 solutions were found! The best of which being...
 
-!! Finale: The Golden RNG
+### Finale: The Golden RNG
 
+The golden RNG: **0x5895B9AF**
 
-The golden RNG: __0x5895B9AF__
+- That shall only be played at 03:06:31.50 pm.
 
-* That shall only be played at 03:06:31.50 pm.
+- Glues it all together with only 2 IGT frames lost.
 
-* Glues it all together with only 2 IGT frames lost.
+- Final IGT value: 49:003
 
-* Final IGT value: 49:003
-
-%%SRC_EMBED
+```
 0x5895B9AF - ClockTick: 990277
  + Cutscene Delays: {  0,  0, 45,  0,  0,  0, 14,  0, 45, 91,  0,  0,  0,  0,  0 }
  + End Delays:      {  0, 172,  0,  0,  0,  0,  0,  1,  0,  1,  0,  0,  0,  0,  0 }
  + Total Delay: 369
  + Costly Delay: 2
  + CopyProtPlace: 4
-%%END_EMBED
+```
 
+#### The Inputs
 
-! The Inputs
+Once I had my hands on the golden RNG, it was only a matter of creating a [solver script](https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/solver.cpp) that would print to screen all the required inputs, frame after frame, that had to transcribe by hand into libTAS. To guide this effort, I used [PINCE](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#MemoryAnalysis) to track two important values:
 
-Once I had my hands on the golden RNG, it was only a matter of creating a [https://github.com/SergioMartin86/jaffarPlus/blob/master/games/sdlpop/solver.cpp|solver script] that would print to screen all the required inputs, frame after frame, that had to transcribe by hand into libTAS. To guide this effort, I used [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#MemoryAnalysis|PINCE] to track two important values:
-* Current RNG: The most trustworthy indication that I could use to know exactly what input to press at any given moment. However, since at some parts of the game, the RNG [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#InvariantRooms|does not change ], I needed to use another type of indication.
-* IGT Ticks: This is the indicator I used when RNG stayed fixed. This is not such a useful indicator since the keyboard inputs for a given time needs to be done a few LibTAS steps before the timer changes in memory, but it really helped in invariant rooms nevertheless. However, there are parts of the game where the IGT does not change, and therefore the RNG value needs to be used. Thankfully, there were no parts of the game where neither indicators stayed fixed.
+- Current RNG: The most trustworthy indication that I could use to know exactly what input to press at any given moment. However, since at some parts of the game, the RNG [does not change](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#InvariantRooms), I needed to use another type of indication.
+- IGT Ticks: This is the indicator I used when RNG stayed fixed. This is not such a useful indicator since the keyboard inputs for a given time needs to be done a few LibTAS steps before the timer changes in memory, but it really helped in invariant rooms nevertheless. However, there are parts of the game where the IGT does not change, and therefore the RNG value needs to be used. Thankfully, there were no parts of the game where neither indicators stayed fixed.
+
 To reproduce this movie exactly as recorded, I attach here the entire list of commands required to input after initializing the game with the golden RNG:
-%%TAB Hide Inputs%%
-%%TAB Show Inputs%%
-%%SRC_EMBED
+
+::::tabs
+:::tab{title="Show Inputs" closed}
+```
 +00d 03:06:31.50 pm - 0x5895B9AF
 PreLevel00: 0x46008c4f <<<--- Press enter here
 PreLevel01: 0xf856f5d6
@@ -9736,33 +9717,40 @@ Level 13, Step 0274/0277: - RNG: 0x86e302a4, IGT: 49:006, Loose: 22, Move: '...R
 Level 13, Step 0275/0277: - RNG: 0xf2a5463e, IGT: 49:005, Loose: 22, Move: '.......', Room: 1 Guard HP: 5
 Level 13, Step 0276/0277: - RNG: 0xdd8836a8, IGT: 49:004, Loose: 22, Move: '.......', Room: 1 Guard HP: 5
 Level 13, Step 0277/0277: - RNG: 0xf385ba62, IGT: 49:003, Loose: 22, Move: '.......', Room: 1 Guard HP: 0
-%%END_EMBED
-%%TAB_END%%
+```
+:::
+::::
 
-!!  Epilogue
+### Epilogue
 
+#### Encoders Info
 
-! Encoders Info
-* Please use the credits movie for encoding: [https://tasvideos.org/UserFiles/Info/638128646014495069]
-* How to [https://tasvideos.org/GameResources/DOS/PrinceOfPersia#TasEmulation|correctly reproduce] the movie.
-* Suggested thumbnail
-[https://i.ibb.co/WBCHv1p/thumb.png]
+- Please use the credits movie for encoding: <https://tasvideos.org/UserFiles/Info/638128646014495069>
+- How to [correctly reproduce](https://tasvideos.org/GameResources/DOS/PrinceOfPersia#TasEmulation) the movie.
+- Suggested thumbnail
 
+![](https://i.ibb.co/WBCHv1p/thumb.png)
 
+#### Trivia
 
-! Trivia
+- This movie brings back the mouse to its full glory. Before 2021, the fastest speedrun involved [skipping the mouse in level 8](https://www.twitch.tv/videos/760336316?t=0h7m57s) and avoiding its cutscenes. Now he is back in its full glory, including cutscenes!
+- During the making of this movie, I discovered the longest survivable fall in the game (level 9):
 
+:::embed{type=youtube v=XSmQzFQ-7e0}
+:::
 
-* This movie brings back the mouse to its full glory. Before 2021, the fastest speedrun involved [https://www.twitch.tv/videos/760336316?t=0h7m57s|skipping the mouse in level 8] and avoiding its cutscenes. Now he is back in its full glory, including cutscenes!
-* During the making of this movie, I discovered the longest survivable fall in the game (level 9):
-[module:Youtube|hidelink|v=XSmQzFQ-7e0]
-* Also how to beat level 4 without casting a shadow!
-[module:Youtube|hidelink|v=LmTdzjXHm0k]
-* If anyone (GMP) wants to do a 100% (all guards killed) pacifist movie, probably the hardest puzzle: level 1 has been solved:
-[module:Youtube|hidelink|v=vdXcv4RVjKo]
+- Also how to beat level 4 without casting a shadow!
 
+:::embed{type=youtube v=LmTdzjXHm0k}
+:::
 
-! Credits
+- If anyone (GMP) wants to do a 100% (all guards killed) pacifist movie, probably the hardest puzzle: level 1 has been solved:
+
+:::embed{type=youtube v=vdXcv4RVjKo}
+:::
+
+#### Credits
+
 Everyone in the PoP and TASVideos community with whom I worked, exchanged ideas, and got inspiration from. You know who you are.
 
 The TASVideos judges and staff for all their hard work.
