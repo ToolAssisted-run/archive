@@ -34,7 +34,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -69,6 +69,16 @@
    "user": "PASRC",
    "date": "2026-11-26",
    "at": "2026-11-26T05:38:42Z"
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "PASRC",
+   "date": "2026-11-26",
+   "at": "2026-11-26T05:59:38Z",
+   "screenshot": "reproductions/1-PASRC.png",
+   "emulator": "Chimera Nightly 2026-11-23 (89ff7b02)/chimera-core-sdlpop Nightly 2026-11-25 (c08994a6)",
+   "notes": "Extracted the file listed in reproduction info with\r\nbchunk \"Prince of Persia Collection - Limited Edition (USA).bin\" \"Prince of Persia Collection - Limited Edition (USA).cue\" bc\r\n7z x -aou -oPoP bc01.iso"
   }
  ]
 }
