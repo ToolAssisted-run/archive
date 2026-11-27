@@ -1,0 +1,51 @@
+{
+ "id": "M100167",
+ "game": "nes/rygar",
+ "category": {
+  "goal": "fastest-completion"
+ },
+ "authors": [
+  {
+   "user": "Arc"
+  }
+ ],
+ "tools": [],
+ "duration": 322.47,
+ "movie": {
+  "file": "M100167.fm2",
+  "format": "fm2",
+  "sha1": "36302e40bdd246a0199b1fe5d8da595645088caa",
+  "frames": 16126,
+  "rerecords": 5050,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "FCEUX 2.7.0",
+  "files": [
+   {
+    "name": "Rygar (E) [!].nes",
+    "sha1": "8cfef634a4402c858d73fc426817386be9be8f65"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/mK2cM7sG-Uc"
+  }
+ ],
+ "attachments": [],
+ "completed": "2026-11-27",
+ "submitted": "2026-11-27T19:42:04Z",
+ "submittedBy": "Arc",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2193,
+  "url": "https://forum.toolassisted.run/t/2193"
+ }
+}
