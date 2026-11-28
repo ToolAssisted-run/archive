@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -61,6 +61,16 @@
    "date": "2026-11-28",
    "at": "2026-11-28T09:20:21Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-28",
+   "at": "2026-11-28T09:20:23Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "BizHawk 2.11.1",
+   "notes": "SHA1 hash of \"Super Street Fighter II - The New Challengers (Japan).sfc\": F68769887C299609A7CB7F43F3273B3E3146F56F"
   }
  ]
 }
