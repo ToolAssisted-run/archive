@@ -1,0 +1,15 @@
+{
+ "dimensions": [
+  {
+   "key": "goal",
+   "name": "Category",
+   "options": [
+    {
+     "key": "2-players-warps",
+     "label": "2 players, warps",
+     "rule": "Use two players and beat the 112 levels and the boss fight as fast as possible (warps allowed)"
+    }
+   ]
+  }
+ ]
+}
