@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "none"
  },
  "encodes": [
@@ -53,5 +53,15 @@
  "forum": {
   "topicId": 2198,
   "url": "https://forum.toolassisted.run/t/2198"
- }
+ },
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-28",
+   "at": "2026-11-28T09:11:41Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "Chimera (Nightly 2026-11-06, 0b091461) + quickerNES (Nightly 2026-11-06, 32b5e4d3)",
+   "notes": "SHA1 hash of \"Bubble Bobble (USA).nes\": 0E40052299ADA46F6C2D1172323366F872F90570"
+  }
+ ]
 }
