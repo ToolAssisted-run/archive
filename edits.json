@@ -12831,6 +12831,17 @@
    "date": "2026-11-28",
    "at": "2026-11-28T09:14:17Z",
    "reason": "Changed from the group form: arcade/street-fighter-ii-turbo-hyper-fighting moved in snes/super-street-fighter-ii-the-new-challengers moved in arcade/super-street-fighter-ii-turbo moved in ps3/super-street-fighter-ii-turbo-hd-remix moved in nintendo-switch/ultra-street-fighter-ii-the-final-challengers moved in ps3/ultra-street-fighter-iv moved in arcade/x-men-vs-street-fighter moved in from capcom-vs-series"
+  },
+  {
+   "kind": "game",
+   "key": "snes/super-street-fighter-ii-the-new-challengers",
+   "field": "title",
+   "from": "Super Street Fighter II : The New Challengers",
+   "to": "Super Street Fighter II: The New Challengers",
+   "by": "toca",
+   "date": "2026-11-28",
+   "at": "2026-11-28T09:15:21Z",
+   "reason": "typo in title"
   }
  ]
 }
