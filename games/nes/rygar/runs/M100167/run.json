@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -66,6 +66,16 @@
    "date": "2026-11-28",
    "at": "2026-11-28T09:06:43Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "toca",
+   "date": "2026-11-28",
+   "at": "2026-11-28T09:07:05Z",
+   "screenshot": "reproductions/1-toca.jpg",
+   "emulator": "FCEUX 2.7.0",
+   "notes": "SHA1 hash of \"Rygar (Europe).nes\": 8CFEF634A4402C858D73FC426817386BE9BE8F65"
   }
  ]
 }
