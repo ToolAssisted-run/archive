@@ -30,7 +30,7 @@
   ]
  },
  "status": {
-  "reproduced": "none",
+  "reproduced": "community",
   "verified": "confirmed"
  },
  "encodes": [
@@ -90,6 +90,15 @@
    "date": "2026-11-28",
    "at": "2026-11-28T12:16:42Z",
    "expert": true
+  }
+ ],
+ "reproductions": [
+  {
+   "user": "Dimon12321",
+   "date": "2026-11-28",
+   "at": "2026-11-28T12:17:37Z",
+   "screenshot": "reproductions/1-Dimon12321.png",
+   "emulator": "Chimera-win-x86_64-78c389b1, freej2me-c725b9c9a137cea0d65dba8e1e20345192dee9d4-x86_64.chimeraCore"
   }
  ]
 }
