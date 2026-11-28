@@ -1,0 +1,57 @@
+{
+ "id": "M100169",
+ "game": "nes/bubble-bobble",
+ "category": {
+  "goal": "2-players-warps"
+ },
+ "authors": [
+  {
+   "user": "eien86"
+  }
+ ],
+ "tools": [],
+ "duration": 1457.783,
+ "movie": {
+  "file": "M100169.chimeraproject",
+  "format": "chimeraproject",
+  "sha1": "cab2c8415002b086f8c8b3ad1d88c9d0f9479e42",
+  "frames": 87611,
+  "rerecords": 0,
+  "start": "power-on"
+ },
+ "thumbnail": "thumb.jpg",
+ "contract": {
+  "emulator": "Chimera (Core: quickerNES 32b5e4d3)",
+  "files": [
+   {
+    "name": "Bubble Bobble (U) [!].nes",
+    "sha1": "0e40052299ada46f6c2d1172323366f872f90570"
+   }
+  ]
+ },
+ "status": {
+  "reproduced": "none",
+  "verified": "none"
+ },
+ "encodes": [
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/lcOcEGmpf40"
+  },
+  {
+   "kind": "youtube",
+   "url": "https://youtu.be/GQdCAXJVqqg",
+   "title": "Comparison Video",
+   "description": "Side by side against https://tasvideos.org/1449M",
+   "thumbnail": "alt-cd06df81652c.jpg"
+  }
+ ],
+ "attachments": [],
+ "submitted": "2026-11-28T07:22:37Z",
+ "submittedBy": "eien86",
+ "notesFormat": "markdown",
+ "forum": {
+  "topicId": 2198,
+  "url": "https://forum.toolassisted.run/t/2198"
+ }
+}
