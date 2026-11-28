@@ -732,6 +732,15 @@
    "createdAt": "2026-09-11"
   },
   {
+   "key": "street-fighter",
+   "title": "Street Fighter",
+   "games": [
+    "arcade/street-fighter-ii-the-world-warrior"
+   ],
+   "createdBy": "toca",
+   "createdAt": "2026-11-28"
+  },
+  {
    "key": "street-rod",
    "title": "Street Rod",
    "games": [
