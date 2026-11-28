@@ -126,6 +126,15 @@
    "date": "2026-10-29",
    "at": "2026-10-29T19:08:57Z",
    "reason": "wrong platform"
+  },
+  {
+   "kind": "game",
+   "key": "3do/super-street-figter-ii",
+   "title": "Super Street Figter II",
+   "by": "toca",
+   "date": "2026-11-28",
+   "at": "2026-11-28T09:12:50Z",
+   "reason": "User created https://toolassisted.run/games/snes/super-street-fighter-ii-the-new-challengers/ afterwards, probably because of typo"
   }
  ]
 }
