@@ -147,7 +147,6 @@
    "key": "capcom-vs-series",
    "title": "Capcom Versus series",
    "games": [
-    "arcade/x-men-vs-street-fighter",
     "psx/marvel-vs-capcom-clash-of-super-heroes",
     "gc/capcom-vs-snk-2-eo"
    ],
@@ -735,7 +734,14 @@
    "key": "street-fighter",
    "title": "Street Fighter",
    "games": [
-    "arcade/street-fighter-ii-the-world-warrior"
+    "arcade/street-fighter-ii-the-world-warrior",
+    "arcade/street-fighter-ii-turbo-hyper-fighting",
+    "arcade/super-street-fighter-ii-turbo",
+    "arcade/x-men-vs-street-fighter",
+    "nintendo-switch/ultra-street-fighter-ii-the-final-challengers",
+    "ps3/super-street-fighter-ii-turbo-hd-remix",
+    "ps3/ultra-street-fighter-iv",
+    "snes/super-street-fighter-ii-the-new-challengers"
    ],
    "createdBy": "toca",
    "createdAt": "2026-11-28"

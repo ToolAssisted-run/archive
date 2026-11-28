@@ -12820,6 +12820,17 @@
    "date": "2026-11-25",
    "at": "2026-11-25T19:28:55Z",
    "reason": "The author's own revision."
+  },
+  {
+   "kind": "group",
+   "key": "street-fighter",
+   "field": "games",
+   "from": "arcade/street-fighter-ii-the-world-warrior",
+   "to": "arcade/street-fighter-ii-the-world-warrior, arcade/street-fighter-ii-turbo-hyper-fighting, arcade/super-street-fighter-ii-turbo, arcade/x-men-vs-street-fighter, nintendo-switch/ultra-street-fighter-ii-the-final-challengers, ps3/super-street-fighter-ii-turbo-hd-remix, ps3/ultra-street-fighter-iv, sne",
+   "by": "toca",
+   "date": "2026-11-28",
+   "at": "2026-11-28T09:14:17Z",
+   "reason": "Changed from the group form: arcade/street-fighter-ii-turbo-hyper-fighting moved in snes/super-street-fighter-ii-the-new-challengers moved in arcade/super-street-fighter-ii-turbo moved in ps3/super-street-fighter-ii-turbo-hd-remix moved in nintendo-switch/ultra-street-fighter-ii-the-final-challengers moved in ps3/ultra-street-fighter-iv moved in arcade/x-men-vs-street-fighter moved in from capcom-vs-series"
   }
  ]
 }
